@@ -1,4 +1,4 @@
-name: Build and Test MkDocs
+name: Build and Deploy MkDocs
 
 on:
   push:
@@ -8,13 +8,14 @@ on:
 
 jobs:
   build:
+    name: Build and Test
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      deployments: write
     
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout code
+      uses: actions/checkout@v4
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -30,8 +31,34 @@ jobs:
       run: |
         mkdocs build --strict
     
-    - name: Deploy to Cloudflare Pages
+    - name: Upload build artifacts
       if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      uses: actions/upload-artifact@v4
+      with:
+        name: site
+        path: site/
+        retention-days: 1
+  
+  deploy:
+    name: Deploy to Cloudflare Pages
+    needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Download build artifacts
+      uses: actions/download-artifact@v4
+      with:
+        name: site
+        path: site/
+    
+    - name: Deploy to Cloudflare Pages
       uses: cloudflare/wrangler-action@v3
       with:
         apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
