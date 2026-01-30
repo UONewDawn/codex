@@ -4,9 +4,9 @@ site_description: The comprehensive wiki and knowledge base for New Dawn, an Ult
 site_author: New Dawn Team
 
 # Repository
-repo_name: markdwags/NewDawn-Codex
-repo_url: https://github.com/markdwags/NewDawn-Codex
-edit_uri: edit/main/docs/
+#repo_name: markdwags/NewDawn-Codex
+#repo_url: https://github.com/markdwags/NewDawn-Codex
+#edit_uri: edit/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2026 New Dawn

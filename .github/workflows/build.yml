@@ -32,3 +32,13 @@ jobs:
         echo "Site built successfully!"
         echo "Total HTML files generated:"
         find site -name "*.html" | wc -l
+    
+    - name: Deploy to Cloudflare Pages
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      uses: cloudflare/pages-action@v1
+      with:
+        apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        projectName: codex-uonewdawn
+        directory: site
+        gitHubToken: ${{ secrets.GITHUB_TOKEN }}
