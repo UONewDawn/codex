@@ -1,3 +1,5 @@
+![Inscription](../../assets/Flag_inscription.gif){ align=right }
+
 # Inscription
 
 Create spell scrolls and enhance spellcasting power.

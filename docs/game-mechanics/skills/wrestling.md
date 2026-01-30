@@ -1,3 +1,5 @@
+![Wrestling](../../assets/Flag_wrestling.gif){ align=right }
+
 # Wrestling
 
 Unarmed combat and defensive capability.

@@ -1,3 +1,5 @@
+![Poisoning](../../assets/Flag_poisoning.gif){ align=right }
+
 # Poisoning
 
 Apply deadly poisons to weapons and enhance poison spells.

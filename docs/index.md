@@ -58,7 +58,7 @@ We've found the sweet spot between tradition and evolution—more authentic than
 Connect with fellow players, get help, and stay updated:
 
 - [:fontawesome-brands-discord: Join our Discord](https://discord.gg/uonewdawn)
-- [:fontawesome-brands-github: GitHub Repository](https://github.com/markdwags/NewDawn-Codex)
+- [:fontawesome-brands-github: GitHub Repository](https://github.com/UONewDawn/Codex)
 
 ---
 

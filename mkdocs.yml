@@ -1,12 +1,12 @@
 site_name: New Dawn Codex
 site_url: https://codex.uonewdawn.com
 site_description: The comprehensive wiki and knowledge base for New Dawn, an Ultima Online server
-site_author: New Dawn Team
+site_author: New Dawn Community
 
 # Repository
-#repo_name: markdwags/NewDawn-Codex
-#repo_url: https://github.com/markdwags/NewDawn-Codex
-#edit_uri: edit/main/docs/
+repo_name: UONewDawn/Codex
+repo_url: https://github.com/UONewDawn/Codex
+edit_uri: edit/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2026 New Dawn
@@ -127,8 +127,46 @@ nav:
         - Meditation: game-mechanics/skills/meditation.md
         - Inscription: game-mechanics/skills/inscription.md
         - Spirit Speak: game-mechanics/skills/spirit-speak.md
+      - Bard Skills:
+        - Musicianship: game-mechanics/skills/musicianship.md
+        - Provocation: game-mechanics/skills/provocation.md
+        - Peacemaking: game-mechanics/skills/peacemaking.md
+        - Enticement: game-mechanics/skills/enticement.md
+      - Taming & Animals:
+        - Animal Taming: game-mechanics/skills/animal-taming.md
+        - Animal Lore: game-mechanics/skills/animal-lore.md
+        - Veterinary: game-mechanics/skills/veterinary.md
+        - Herding: game-mechanics/skills/herding.md
       - Crafting:
         - Overview: game-mechanics/skills/crafting.md
+        - Alchemy: game-mechanics/skills/alchemy.md
+        - Blacksmithy: game-mechanics/skills/blacksmithy.md
+        - Bowcraft/Fletching: game-mechanics/skills/bowcraft-fletching.md
+        - Carpentry: game-mechanics/skills/carpentry.md
+        - Tailoring: game-mechanics/skills/tailoring.md
+        - Tinkering: game-mechanics/skills/tinkering.md
+        - Cooking: game-mechanics/skills/cooking.md
+      - Resource Gathering:
+        - Mining: game-mechanics/skills/mining.md
+        - Lumberjacking: game-mechanics/skills/lumberjacking.md
+        - Fishing: game-mechanics/skills/fishing.md
+      - Stealth & Thievery:
+        - Hiding: game-mechanics/skills/hiding.md
+        - Stealth: game-mechanics/skills/stealth.md
+        - Stealing: game-mechanics/skills/stealing.md
+        - Snooping: game-mechanics/skills/snooping.md
+        - Lockpicking: game-mechanics/skills/lockpicking.md
+        - Detecting Hidden: game-mechanics/skills/detecting-hidden.md
+      - Utility & Support:
+        - Arms Lore: game-mechanics/skills/arms-lore.md
+        - Item Identification: game-mechanics/skills/item-identification.md
+        - Tracking: game-mechanics/skills/tracking.md
+        - Cartography: game-mechanics/skills/cartography.md
+        - Remove Trap: game-mechanics/skills/remove-trap.md
+        - Forensic Evaluation: game-mechanics/skills/forensic-evaluation.md
+        - Taste Identification: game-mechanics/skills/taste-identification.md
+        - Camping: game-mechanics/skills/camping.md
+        - Begging: game-mechanics/skills/begging.md
       - Misc:
         - Overview: game-mechanics/skills/misc.md
     - Stats: game-mechanics/stats.md
@@ -182,7 +220,7 @@ extra:
       link: https://discord.gg/uonewdawn
       name: Join our Discord
     - icon: fontawesome/brands/github
-      link: https://github.com/markdwags/NewDawn-Codex
+      link: https://github.com/UONewDawn/Codex
       name: GitHub Repository
   generator: false
 

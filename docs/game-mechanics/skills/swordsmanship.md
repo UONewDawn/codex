@@ -1,3 +1,5 @@
+![Swordsmanship](../../assets/Flag_swordsmanship.gif){ align=right }
+
 # Swordsmanship
 
 Use bladed weapons effectively in combat.

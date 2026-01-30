@@ -1,3 +1,5 @@
+![Healing](../../assets/Flag_healing.gif){ align=right }
+
 # Healing
 
 Use bandages to heal yourself and others.

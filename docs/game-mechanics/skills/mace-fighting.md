@@ -1,3 +1,5 @@
+![Mace Fighting](../../assets/Flag_mace_fighting.gif){ align=right }
+
 # Mace Fighting
 
 Expertise with blunt weapons and crushing force.

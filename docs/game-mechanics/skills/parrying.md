@@ -1,3 +1,5 @@
+![Parrying](../../assets/Flag_parrying.gif){ align=right }
+
 # Parrying
 
 Shield-based defense and damage reduction.

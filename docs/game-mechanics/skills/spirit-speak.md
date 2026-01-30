@@ -1,3 +1,5 @@
+![Spirit Speak](../../assets/Flag_spirit_speak.gif){ align=right }
+
 # Spirit Speak
 
 Alternative mana regeneration and spiritual communication.

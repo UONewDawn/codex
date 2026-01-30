@@ -1,3 +1,5 @@
+![Fencing](../../assets/Flag_fencing.gif){ align=right }
+
 # Fencing
 
 Mastery of piercing weapons and finesse combat.
@@ -65,6 +67,7 @@ Fencing focuses on speed and precision with piercing weapons. This skill excels 
 ## Poisoning Synergy
 
 Fencing weapons are ideal for poisoning:
+
 1. Apply poison to weapon
 2. Fast attack speed = more poison applications
 3. Wear down enemies quickly
@@ -73,6 +76,7 @@ Fencing weapons are ideal for poisoning:
 ## Weapon Special Moves
 
 Common fencing specials:
+
 - **Armor Ignore** - Bypass defense
 - **Paralyzing Blow** - Freeze opponent
 - **Infectious Strike** - Poison damage boost
@@ -81,6 +85,7 @@ Common fencing specials:
 ## Character Templates
 
 ### Poison Fencer
+
 - Fencing: 100
 - Tactics: 100
 - Anatomy: 100
@@ -90,6 +95,7 @@ Common fencing specials:
 - Magery: 100
 
 ### Stealth Fencer
+
 - Fencing: 100
 - Tactics: 100
 - Anatomy: 100

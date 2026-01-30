@@ -1,3 +1,5 @@
+![Magery](../../assets/Flag_magery.gif){ align=right }
+
 # Magery
 
 The primary spellcasting skill in Ultima Online.

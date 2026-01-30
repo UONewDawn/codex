@@ -1,3 +1,5 @@
+![Tactics](../../assets/Flag_tactics.gif){ align=right }
+
 # Tactics
 
 Increases damage output in all physical combat.

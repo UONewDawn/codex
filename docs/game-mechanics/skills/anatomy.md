@@ -1,3 +1,5 @@
+![Anatomy](../../assets/Flag_anatomy.gif){ align=right }
+
 # Anatomy
 
 Improves critical hit chance, damage, and healing effectiveness.

@@ -1,3 +1,5 @@
+![Meditation](../../assets/Flag_meditation.gif){ align=right }
+
 # Meditation
 
 Regenerate mana faster through active meditation.

@@ -1,3 +1,5 @@
+![Resisting Spells](../../assets/Flag_resisting_spells.gif){ align=right }
+
 # Resisting Spells
 
 Defense against hostile magic and spell effects.

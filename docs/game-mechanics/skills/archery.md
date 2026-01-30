@@ -1,3 +1,5 @@
+![Archery](../../assets/Flag_archery.gif){ align=right }
+
 # Archery
 
 Ranged combat with bows and crossbows.
