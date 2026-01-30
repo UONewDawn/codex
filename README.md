@@ -193,6 +193,15 @@ Your changes will be reviewed and, once approved, automatically deployed to the 
 - **[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)** - Theme
 - **[Python Markdown Extensions](https://facelessuser.github.io/pymdown-extensions/)** - Enhanced Markdown features
 
+## ⚖️ License & Legal
+
+This documentation is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** License. 
+
+- **Attribution:** You must give appropriate credit if you use this content.
+- **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+**Disclaimer:** *Ultima Online™ is a trademark of Electronic Arts Inc. This project is a fan-made resource and is not affiliated with Electronic Arts or Broadsword.*
+
 ---
 
 Built for the New Dawn community
