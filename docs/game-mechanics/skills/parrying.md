@@ -140,16 +140,6 @@ In groups, high Parrying allows you to:
 - Resisting Spells: 100
 - Magery: 100
 
-### Paladin
-
-- Weapon Skill: 100
-- Tactics: 100
-- Anatomy: 100
-- **Parrying: 100** ⭐
-- Chivalry: 100
-- Healing: 100
-- Focus: 100
-
 ## PvP Considerations
 
 In PvP, Parrying:

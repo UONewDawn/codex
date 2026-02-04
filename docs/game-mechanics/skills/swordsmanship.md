@@ -111,16 +111,6 @@ Balance protection with mobility:
 - Resisting Spells: 100
 - Magery: 100
 
-### Swordsman Paladin
-
-- Swordsmanship: 100
-- Tactics: 100
-- Anatomy: 100
-- Healing: 100
-- Chivalry: 100
-- Resisting Spells: 100
-- Focus: 100
-
 ## Importance
 
 ⭐⭐⭐⭐⭐ (Essential for melee warriors)

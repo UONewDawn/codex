@@ -50,12 +50,7 @@ Combat in UO is based on several factors:
 
 ## Magic & Spellcasting
 
-Multiple magic systems exist:
-
 - **Magery** - Traditional spell casting
-- **Necromancy** - Death magic (if enabled)
-- **Chivalry** - Paladin spells (if enabled)
-- **Bushido/Ninjitsu** - Eastern arts (if enabled)
 
 [:octicons-arrow-right-24: Magic Guide](magic.md)
 
