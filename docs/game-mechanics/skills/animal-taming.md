@@ -53,28 +53,6 @@ When attempting to tame, there's a 95% chance the creature will:
 - Attack you (unless you have Honor virtue active)
 - Break any barding pacification (75% chance to re-pacify after 2 seconds)
 
-### Skill Scaling on First Tame
-
-When a creature is tamed for the first time:
-
-**Greater Dragons**:
-
-- Skills scaled to 72% of original
-- Skill caps set to 90% of original
-- Magery set to its cap value
-
-**Creatures Subdued (Paralyzed) During Taming**:
-
-- Skills scaled to 86% of original
-
-**All Other Creatures**:
-
-- Skills scaled to 90% of original
-
-**Stat Scaling**:
-
-- If `StatLossAfterTame` is true: Stats scaled to 50% of original
-
 ### Animal Lore Gains
 
 During the taming process (each 3-second interval), you passively check Animal Lore for skill gain if you don't already own the creature.
@@ -131,6 +109,9 @@ Each creature requires a certain number of control slots. Your maximum follower 
 - Individual pet commands by name
 
 ## Character Templates
+
+!!! warning
+    This section needs work. Please confirm in the Discord community
 
 ### Pure Tamer (PvM)
 

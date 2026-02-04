@@ -17,33 +17,20 @@ Alchemy allows you to craft a variety of potions including healing, poison, expl
 - **Explosion Potions** - Deal damage in combat
 - **Buff Potions** - Enhance stats temporarily
 
-### Poison Enhancement
+### Explosion Enhancement
 
-When combined with [Poisoning](poisoning.md):
-
-- Stronger poison levels
-- Better application rates
-- Enhanced poison damage
+- Your alchemy skill will also give a slight bonus to the min and max damage of an explosion potion.
 
 ## Training
 
-### Early (0-30)
+!!! warning
+    This section needs work. Please confirm in the Discord community.
 
-- Craft lesser healing potions
-- Make nightshade potions
-- Use NPC-bought reagents
+### Early (0-30)
 
 ### Intermediate (30-60)
 
-- Create healing potions
-- Craft poison potions
-- Progress to greater potions
-
 ### Advanced (60-100)
-
-- Deadly poison potions
-- Explosion potions
-- Specialty potions
 
 ## Materials
 
@@ -62,7 +49,6 @@ When combined with [Poisoning](poisoning.md):
 
 **Synergy With:**
 
-- [Poisoning](poisoning.md) - Enhance poison effectiveness
 - [Magery](magery.md) - Share some reagents
 
 ## Uses
@@ -76,12 +62,11 @@ When combined with [Poisoning](poisoning.md):
 ### PvP (Player vs Player)
 
 - Explosion potions for burst damage
-- Poison potions for assassins
 - Cure potions for survival
 
 ## Importance
 
-⭐⭐⭐⭐ (Essential for poison builds, valuable for all)
+⭐⭐⭐⭐ (Valuable for all)
 
 ---
 
