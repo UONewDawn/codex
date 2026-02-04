@@ -32,7 +32,7 @@ Scribe scrolls for all spell circles:
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 
@@ -78,7 +78,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Related Skills
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 **Perfect Pairs:**
 

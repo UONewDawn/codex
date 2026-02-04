@@ -35,7 +35,7 @@ If using poison spells ([Magery](magery.md)):
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 
@@ -98,7 +98,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Poison Fencer
 

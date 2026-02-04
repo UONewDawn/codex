@@ -83,7 +83,7 @@ Fencing weapons are ideal for poisoning:
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Poison Fencer
 

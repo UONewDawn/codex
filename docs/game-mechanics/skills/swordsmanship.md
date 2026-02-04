@@ -27,7 +27,7 @@ Swordsmanship is a primary melee combat skill focused on wielding bladed weapons
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early Training (0-30)
 
@@ -94,12 +94,12 @@ Balance protection with mobility:
 ## Weapon Special Moves
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Swordsman Warrior
 

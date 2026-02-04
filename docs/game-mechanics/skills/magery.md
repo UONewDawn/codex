@@ -77,7 +77,7 @@ Legendary magic:
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early Training (0-30)
 
@@ -174,7 +174,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Pure Mage (PvM)
 

@@ -27,7 +27,7 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 
@@ -113,7 +113,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Failure Consequences
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Failed Disarm
 

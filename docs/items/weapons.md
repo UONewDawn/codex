@@ -102,7 +102,7 @@ Weapons in New Dawn have traditional qualities:
 ## Weapon Materials
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Metals
 

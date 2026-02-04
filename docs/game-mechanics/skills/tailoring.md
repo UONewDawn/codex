@@ -52,7 +52,7 @@ Master tailors can create unique dungeon dyes:
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 

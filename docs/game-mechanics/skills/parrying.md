@@ -25,7 +25,7 @@ Parrying allows you to block incoming attacks with a shield. This defensive skil
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Combat Training
 
@@ -39,7 +39,7 @@ Parrying improves by taking hits:
 ### Training Methods
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 **Early (0-40):**
 
@@ -74,7 +74,7 @@ These need refinement. Confirm your template in the Discord community.
 **Full Tank Build:**
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 - Weapon Skill: 100
 - Tactics: 100
@@ -110,7 +110,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Block Mechanics
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Block Chance
 
@@ -128,7 +128,7 @@ In groups, high Parrying allows you to:
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Sword & Board Tank
 

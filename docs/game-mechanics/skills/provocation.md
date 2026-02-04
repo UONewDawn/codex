@@ -26,7 +26,7 @@ Provocation is a bard skill that causes one creature to attack another. One of t
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 
@@ -99,7 +99,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Mechanics
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Skill Checks
 
