@@ -122,6 +122,9 @@ After a successful snare:
 
 ## Character Templates
 
+!!! warning
+    This section needs work. Please confirm in the Discord community
+
 ### Archer
 
 - Archery: 100
