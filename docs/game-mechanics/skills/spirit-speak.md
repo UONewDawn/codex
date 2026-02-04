@@ -113,7 +113,7 @@ When healing your spirit summons:
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Spirit Summoner
 

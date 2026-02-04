@@ -125,7 +125,7 @@ Stats gain through skill usage:
 ### Stat Gain Rate
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ## Secondary Stats
 
@@ -182,7 +182,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Stat-Based Calculations
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Melee Damage
 

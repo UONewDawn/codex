@@ -28,7 +28,7 @@ When using axe weapons:
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 
@@ -117,7 +117,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Combat Builds
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Lumberjack Warrior
 

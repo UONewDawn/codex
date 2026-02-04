@@ -128,7 +128,7 @@ Modified by: Tactics, Anatomy, Weapon accuracy
 **Damage Formula:**
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+        These need refinement. Confirm your template in the Discord community.
 
 ```text
 Base Weapon Damage
@@ -211,7 +211,7 @@ Base Weapon Damage
 ## Combat Strategies
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Melee Combat
 

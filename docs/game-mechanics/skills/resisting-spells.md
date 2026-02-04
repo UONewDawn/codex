@@ -28,7 +28,7 @@ Resisting Spells is the primary defense against magical attacks. This essential 
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Getting Hit by Spells
 
@@ -75,7 +75,7 @@ The only way to train is being targeted by hostile magic:
 ### Resist Chance
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 Factors determining resist success:
 
@@ -130,7 +130,7 @@ For hunting, provides:
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Every Combat Build Needs It
 

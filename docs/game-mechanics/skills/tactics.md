@@ -62,12 +62,12 @@ Tactics gains passively during any combat:
 ## Damage Calculation
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ## All Combat Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 Every physical combat build needs Tactics at 100:
 

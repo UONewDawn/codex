@@ -28,7 +28,7 @@ Locate nearby:
 ### Range
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 - Radius increases with skill
 - 0-30: Short range
@@ -133,7 +133,7 @@ Use Tracking skill:
 ### Range Limited
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 - Maximum range at 100 skill
 - Some targets may be outside range

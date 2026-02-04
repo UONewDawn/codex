@@ -29,7 +29,7 @@ Success based on:
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 
@@ -134,7 +134,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Server Rules
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Important Notes
 

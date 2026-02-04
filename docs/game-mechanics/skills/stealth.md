@@ -54,7 +54,7 @@ Use Stealth while hidden:
 ### Training Tips
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 - Macro hide and stealth walking
 - Circle in safe areas
@@ -121,7 +121,7 @@ These need refinement. Confirm your template in the Discord community.
 ### Armor Restrictions
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ## Counters
 
@@ -135,7 +135,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Scout
 

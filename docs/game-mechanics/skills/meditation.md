@@ -37,7 +37,7 @@ Mana regeneration speed depends on:
 ### Armor Restrictions
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 - ✅ Leather armor - Meditation works
 - ✅ Studded leather - Meditation works
@@ -107,7 +107,7 @@ Meditation is interrupted by:
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Pure Mage (PvM)
 

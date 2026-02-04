@@ -55,7 +55,7 @@ Use Peacemaking:
 **Bard Template:**
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 - [Musicianship](musicianship.md): 100
 - Peacemaking: 100 ⭐

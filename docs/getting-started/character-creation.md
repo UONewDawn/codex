@@ -18,7 +18,7 @@ You have **700 total skill points** that can be distributed across many skills:
 ## Popular Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 Here are a few popular character templates to get you started:
 

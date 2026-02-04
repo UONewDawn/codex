@@ -31,7 +31,7 @@ Wrestling is the unarmed combat skill. While rarely used for actual fighting, it
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early Training (0-40)
 
@@ -91,7 +91,7 @@ Even without attacking, wrestling provides:
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Pure Mage (PvM)
 

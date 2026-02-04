@@ -20,12 +20,12 @@ Veterinary is the pet equivalent of Healing. It allows you to heal and resurrect
 ### Healing Calculation
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 
@@ -81,7 +81,7 @@ These need refinement. Confirm your template in the Discord community.
 ### With Animal Lore
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 Veterinary + Animal Lore synergy:
 
@@ -99,21 +99,21 @@ Veterinary + Animal Lore synergy:
 ### Poison Curing
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 Requirements for curing pet poison:
 
 ### Pet Resurrection
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 Requirements for pet resurrection:
 
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Tamer (PvM)
 
@@ -128,7 +128,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Pet Bonding
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Bonded Pets
 

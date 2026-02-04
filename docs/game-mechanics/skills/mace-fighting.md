@@ -29,7 +29,7 @@ Mace Fighting is the skill for wielding blunt weapons. Some maces have special b
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early Training (0-30)
 
@@ -73,7 +73,7 @@ These need refinement. Confirm your template in the Discord community.
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Mace Warrior
 

@@ -36,7 +36,7 @@ Mining allows you to extract ore from mountainsides and rocky areas. Essential f
 ## Training
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Early (0-30)
 

@@ -79,7 +79,7 @@ Crafted by [Carpentry](carpentry.md)
 ## Character Templates
 
 !!! warning
-These need refinement. Confirm your template in the Discord community.
+    These need refinement. Confirm your template in the Discord community.
 
 ### Provocation Bard (PvM)
 
