@@ -136,6 +136,8 @@
     color: var(--nd-gold);
 }
 
+
+/* Toc right side panel PR #13 */
 .md-nav--secondary .md-nav__link {
     font-size: 0.7rem;
 }
@@ -167,6 +169,11 @@
 
 .md-typeset table:not([class]) td {
     border-bottom: 1px solid var(--nd-border);
+}
+
+/* Table vertical alignment PR #14 */
+.md-typeset table:not([class]) th[style*="text-align: center"], .md-typeset table:not([class]) td[style*="text-align: center"] { 
+    vertical-align: middle; 
 }
 
 /* Cards and content boxes */
