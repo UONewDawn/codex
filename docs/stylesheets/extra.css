@@ -297,3 +297,13 @@
     font-size: 2rem;
 }
 
+/* Vertical alignment of inline images with text PR #15*/
+
+h1 ~ p img, 
+h2 ~ p img, 
+h3 ~ p img, 
+h4 ~ p img, 
+h5 ~ p img, 
+h6 ~ p img {
+  vertical-align: middle;
+}
