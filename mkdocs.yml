@@ -119,64 +119,64 @@ nav:
     - Skills:
       - game-mechanics/skills/index.md
       - Bard Skills:
-        - Discordance: game-mechanics/skills/discordance.md
-        - Musicianship: game-mechanics/skills/musicianship.md
-        - Peacemaking: game-mechanics/skills/peacemaking.md
-        - Provocation: game-mechanics/skills/provocation.md
+        - Discordance: game-mechanics/skills/bard-skills/discordance.md
+        - Musicianship: game-mechanics/skills/bard-skills/musicianship.md
+        - Peacemaking: game-mechanics/skills/bard-skills/peacemaking.md
+        - Provocation: game-mechanics/skills/bard-skills/provocation.md
       - Combat:
-        - Anatomy: game-mechanics/skills/anatomy.md
-        - Archery: game-mechanics/skills/archery.md
-        - Fencing: game-mechanics/skills/fencing.md
-        - Healing: game-mechanics/skills/healing.md
-        - Mace Fighting: game-mechanics/skills/mace-fighting.md
-        - Overview: game-mechanics/skills/combat.md
-        - Parrying: game-mechanics/skills/parrying.md
-        - Poisoning: game-mechanics/skills/poisoning.md
-        - Resisting Spells: game-mechanics/skills/resisting-spells.md
-        - Swordsmanship: game-mechanics/skills/swordsmanship.md
-        - Tactics: game-mechanics/skills/tactics.md
-        - Wrestling: game-mechanics/skills/wrestling.md
+        - Anatomy: game-mechanics/skills/combat/anatomy.md
+        - Archery: game-mechanics/skills/combat/archery.md
+        - Fencing: game-mechanics/skills/combat/fencing.md
+        - Healing: game-mechanics/skills/combat/healing.md
+        - Mace Fighting: game-mechanics/skills/combat/mace-fighting.md
+        - Overview: game-mechanics/skills/combat/combat.md
+        - Parrying: game-mechanics/skills/combat/parrying.md
+        - Poisoning: game-mechanics/skills/combat/poisoning.md
+        - Resisting Spells: game-mechanics/skills/combat/resisting-spells.md
+        - Swordsmanship: game-mechanics/skills/combat/swordsmanship.md
+        - Tactics: game-mechanics/skills/combat/tactics.md
+        - Wrestling: game-mechanics/skills/combat/wrestling.md
       - Crafting:
-        - Alchemy: game-mechanics/skills/alchemy.md
-        - Blacksmithy: game-mechanics/skills/blacksmithy.md
-        - Bowcraft/Fletching: game-mechanics/skills/bowcraft-fletching.md
-        - Carpentry: game-mechanics/skills/carpentry.md
-        - Cooking: game-mechanics/skills/cooking.md
-        - Overview: game-mechanics/skills/crafting.md
-        - Tailoring: game-mechanics/skills/tailoring.md
-        - Tinkering: game-mechanics/skills/tinkering.md
+        - Alchemy: game-mechanics/skills/crafting/alchemy.md
+        - Blacksmithy: game-mechanics/skills/crafting/blacksmithy.md
+        - Bowcraft/Fletching: game-mechanics/skills/crafting/bowcraft-fletching.md
+        - Carpentry: game-mechanics/skills/crafting/carpentry.md
+        - Cooking: game-mechanics/skills/crafting/cooking.md
+        - Overview: game-mechanics/skills/crafting/crafting.md
+        - Tailoring: game-mechanics/skills/crafting/tailoring.md
+        - Tinkering: game-mechanics/skills/crafting/tinkering.md
       - Magic:
-        - Evaluating Intelligence: game-mechanics/skills/evaluating-intelligence.md
-        - Inscription: game-mechanics/skills/inscription.md
-        - Magery: game-mechanics/skills/magery.md
-        - Meditation: game-mechanics/skills/meditation.md
-        - Spirit Speak: game-mechanics/skills/spirit-speak.md
+        - Evaluating Intelligence: game-mechanics/skills/magic/evaluating-intelligence.md
+        - Inscription: game-mechanics/skills/magic/inscription.md
+        - Magery: game-mechanics/skills/magic/magery.md
+        - Meditation: game-mechanics/skills/magic/meditation.md
+        - Spirit Speak: game-mechanics/skills/magic/spirit-speak.md
       - Resource Gathering:
-        - Fishing: game-mechanics/skills/fishing.md
-        - Lumberjacking: game-mechanics/skills/lumberjacking.md
-        - Mining: game-mechanics/skills/mining.md
+        - Fishing: game-mechanics/skills/resource-gathering/fishing.md
+        - Lumberjacking: game-mechanics/skills/resource-gathering/lumberjacking.md
+        - Mining: game-mechanics/skills/resource-gathering/mining.md
       - Stealth & Thievery:
-        - Detecting Hidden: game-mechanics/skills/detecting-hidden.md
-        - Hiding: game-mechanics/skills/hiding.md
-        - Lockpicking: game-mechanics/skills/lockpicking.md
-        - Snooping: game-mechanics/skills/snooping.md
-        - Stealing: game-mechanics/skills/stealing.md
-        - Stealth: game-mechanics/skills/stealth.md
+        - Detecting Hidden: game-mechanics/skills/stealth-and-thievery/detecting-hidden.md
+        - Hiding: game-mechanics/skills/stealth-and-thievery/hiding.md
+        - Lockpicking: game-mechanics/skills/stealth-and-thievery/lockpicking.md
+        - Snooping: game-mechanics/skills/stealth-and-thievery/snooping.md
+        - Stealing: game-mechanics/skills/stealth-and-thievery/stealing.md
+        - Stealth: game-mechanics/skills/stealth-and-thievery/stealth.md
       - Taming & Animals:
-        - Animal Lore: game-mechanics/skills/animal-lore.md
-        - Animal Taming: game-mechanics/skills/animal-taming.md
-        - Herding: game-mechanics/skills/herding.md
-        - Veterinary: game-mechanics/skills/veterinary.md
+        - Animal Lore: game-mechanics/skills/taming-and-animals/animal-lore.md
+        - Animal Taming: game-mechanics/skills/taming-and-animals/animal-taming.md
+        - Herding: game-mechanics/skills/taming-and-animals/herding.md
+        - Veterinary: game-mechanics/skills/taming-and-animals/veterinary.md
       - Utility & Support:
-        - Arms Lore: game-mechanics/skills/arms-lore.md
-        - Begging: game-mechanics/skills/begging.md
-        - Camping: game-mechanics/skills/camping.md
-        - Cartography: game-mechanics/skills/cartography.md
-        - Forensic Evaluation: game-mechanics/skills/forensic-evaluation.md
-        - Item Identification: game-mechanics/skills/item-identification.md
-        - Remove Trap: game-mechanics/skills/remove-trap.md
-        - Taste Identification: game-mechanics/skills/taste-identification.md
-        - Tracking: game-mechanics/skills/tracking.md
+        - Arms Lore: game-mechanics/skills/utility-and-support/arms-lore.md
+        - Begging: game-mechanics/skills/utility-and-support/begging.md
+        - Camping: game-mechanics/skills/utility-and-support/camping.md
+        - Cartography: game-mechanics/skills/utility-and-support/cartography.md
+        - Forensic Evaluation: game-mechanics/skills/utility-and-support/forensic-evaluation.md
+        - Item Identification: game-mechanics/skills/utility-and-support/item-identification.md
+        - Remove Trap: game-mechanics/skills/utility-and-support/remove-trap.md
+        - Taste Identification: game-mechanics/skills/utility-and-support/taste-identification.md
+        - Tracking: game-mechanics/skills/utility-and-support/tracking.md
     - Stats: game-mechanics/stats.md
   - Items & Equipment:
     - items/index.md

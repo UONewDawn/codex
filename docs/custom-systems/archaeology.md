@@ -203,11 +203,11 @@ While artifacts are the primary reward, archaeology also offers:
 
 ## Related Skills
 
-- [Mining](../game-mechanics/skills/mining.md) - Core skill for excavation
-- [Cartography](../game-mechanics/skills/cartography.md) - Map creation and reading
-- [Item Identification](../game-mechanics/skills/item-identification.md) - Identifying finds
-- [Inscription](../game-mechanics/skills/inscription.md) - Text deciphering
-- [Fishing](../game-mechanics/skills/fishing.md) - Finding map fragments
+- [Mining](../game-mechanics/skills/resource-gathering/mining.md) - Core skill for excavation
+- [Cartography](../game-mechanics/skills/utility-and-support/cartography.md) - Map creation and reading
+- [Item Identification](../game-mechanics/skills/utility-and-support/item-identification.md) - Identifying finds
+- [Inscription](../game-mechanics/skills/magic/inscription.md) - Text deciphering
+- [Fishing](../game-mechanics/skills/resource-gathering/fishing.md) - Finding map fragments
 
 ## Patch History
 
@@ -222,6 +222,6 @@ For detailed changes, see the [patch notes](../patchnotes.md).
 
 ## Related Systems
 
-- [Fishing](../game-mechanics/skills/fishing.md) - Source of map fragments
+- [Fishing](../game-mechanics/skills/resource-gathering/fishing.md) - Source of map fragments
 - [Achievements](achievements.md) - Track your archaeological discoveries
 - [Currencies](../game-mechanics/currencies.md) - Potential future archaeology currency

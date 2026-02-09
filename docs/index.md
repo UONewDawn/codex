@@ -4,7 +4,7 @@ Welcome to the **New Dawn Codex**, your comprehensive guide to the world of New 
 
 ## What is New Dawn?
 
-![NewDawnLogo](./assets/logo.png){ align=right }
+![NewDawnLogo](assets/logo.png){ align=right }
 
 New Dawn is a passion project that captures the spirit of Ultima Online's golden T2A/UOR era. We're not chasing perfect historical accuracy—instead, we've preserved what made those days unforgettable while adding in thoughtful improvements drawn from years of UO expertise and modern gaming insights.
 
