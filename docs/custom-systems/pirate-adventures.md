@@ -253,7 +253,7 @@ Pirate Adventures were introduced in **Patch 0.16** and have received extensive 
 - **0.30:** Boss timer fixes
 - **0.43:** Smuggler merchants added
 
-For detailed changes, see the [patch notes](../patchnotes.md).
+For detailed changes, see the [patch notes](../patches/index.md).
 
 ## Related Systems
 

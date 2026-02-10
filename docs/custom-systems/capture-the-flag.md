@@ -227,7 +227,7 @@ Capture the Flag was introduced in **Patch 0.26** with extensive refinements:
 - **0.30:** Auto-hide with flag fixed, summoning actually blocked
 - **0.31:** Player signup cap at 10, no skill gains
 
-For detailed changes, see the [patch notes](../patchnotes.md).
+For detailed changes, see the [patch notes](../patches/index.md).
 
 ## Related Systems
 

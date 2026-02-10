@@ -276,7 +276,7 @@ Spirit Summoner mechanics have evolved significantly:
 - **0.48:** Additional stat boosts to 8th circle summons
 - **1.0:** Animal Lore synergy added, Spirit Speak affects healing/dispel/duration
 
-For complete history, see the [patch notes](../patchnotes.md).
+For complete history, see the [patch notes](../patches/index.md).
 
 ## Related Systems
 

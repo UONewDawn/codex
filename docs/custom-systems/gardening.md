@@ -239,7 +239,7 @@ The Gardening system was introduced in **Patch 0.44**:
 - **0.45:** Farmer NPC banter added
 - **0.45:** Young player cotton fields
 
-For detailed changes, see the [patch notes](../patchnotes.md).
+For detailed changes, see the [patch notes](../patches/index.md).
 
 ## Related Systems
 

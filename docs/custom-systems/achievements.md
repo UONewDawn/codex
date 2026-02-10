@@ -192,7 +192,7 @@ The Achievement system underwent major changes:
 
 The system continues to evolve with new achievements added regularly.
 
-For detailed changes, see the [patch notes](../patchnotes.md).
+For detailed changes, see the [patch notes](../patches/index.md).
 
 ## Future Development
 
@@ -205,4 +205,4 @@ Planned achievement expansions:
 - Time-limited achievements
 - Achievement showcases in housing
 
-Check [patch notes](../patchnotes.md) for the latest additions and updates.
+Check [patch notes](../patches/index.md) for the latest additions and updates.

@@ -327,7 +327,7 @@ New Dawn is actively developed:
 - Regular balance updates
 - Community feedback incorporated
 - New systems added over time
-- Check [patch notes](../patchnotes.md) for latest
+- Check [patch notes](../patches/index.md) for latest
 
 ## Getting Started Tips
 
@@ -341,7 +341,7 @@ New Dawn is actively developed:
 
 ## Where to Learn More
 
-- **[Patch Notes](../patchnotes.md)** - Complete change history
+- **[Patch Notes](../patches/index.md)** - Complete change history
 - **[Custom Systems](../custom-systems/index.md)** - Unique features
 - **[Combat System](../game-mechanics/combat.md)** - Detailed mechanics
 - **[Magic System](../game-mechanics/magic.md)** - Including Spirit Speak

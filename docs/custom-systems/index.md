@@ -109,4 +109,4 @@ These custom systems are designed to complement, not replace, the classic Ultima
 
 ## Continuous Development
 
-New Dawn's custom systems are regularly updated and refined based on player feedback and testing. Check the [patch notes](../patchnotes.md) for the latest changes and improvements to these systems.
+New Dawn's custom systems are regularly updated and refined based on player feedback and testing. Check the [patch notes](../patches/index.md) for the latest changes and improvements to these systems.

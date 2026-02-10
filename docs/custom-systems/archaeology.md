@@ -218,7 +218,7 @@ The Archaeology system was introduced in **Patch 0.43**:
 - **0.43:** Four-tier rarity system
 - **0.43:** Tool requirement system
 
-For detailed changes, see the [patch notes](../patchnotes.md).
+For detailed changes, see the [patch notes](../patches/index.md).
 
 ## Related Systems
 

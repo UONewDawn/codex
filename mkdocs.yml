@@ -184,7 +184,7 @@ nav:
     - Resources: items/resources.md
     - Special Items: items/special-items.md
     - Weapons: items/weapons.md
-  - Patch Notes: patchnotes.md
+  - Patch Notes: patches/index.md
   - World:
     - world/index.md
     - Dungeons:

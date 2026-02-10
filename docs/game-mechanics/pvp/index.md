@@ -211,4 +211,4 @@ PvP mechanics have evolved throughout New Dawn:
 - Guild war improvements
 - Continuous balance adjustments
 
-For complete history, see the [patch notes](../../patchnotes.md).
+For complete history, see the [patch notes](../../patches/index.md).

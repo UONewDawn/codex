@@ -195,7 +195,7 @@ Conquest of the Virtues was introduced in **Patch 0.42**:
 - **0.46:** Unguilded player restrictions for inactive regions
 - **Future:** Continued expansion and refinement
 
-For detailed changes, see the [patch notes](../patchnotes.md).
+For detailed changes, see the [patch notes](../patches/index.md).
 
 ## Future Development
 
@@ -207,4 +207,4 @@ The Conquest of the Virtues system will continue to evolve:
 - Seasonal conquest competitions
 - Leaderboards and tracking
 
-Check [patch notes](../patchnotes.md) for updates as the system develops.
+Check [patch notes](../patches/index.md) for updates as the system develops.

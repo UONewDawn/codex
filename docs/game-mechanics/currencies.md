@@ -316,7 +316,7 @@ The currency and reward system continues to expand:
 - Additional currency types may be introduced
 - More vendor variety
 
-Check [patch notes](../patchnotes.md) for new additions.
+Check [patch notes](../patches/index.md) for new additions.
 
 ## Related Systems
 
@@ -339,4 +339,4 @@ Currency systems introduced and expanded:
 - **0.40:** BOD point system with reward overlap
 - **0.40:** Comprehensive BOD tailoring rewards
 
-For complete history, see the [patch notes](../patchnotes.md).
+For complete history, see the [patch notes](../patches/index.md).

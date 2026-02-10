@@ -140,4 +140,4 @@ The Codex Rift system was introduced in **Patch 0.27** and has received numerous
 - **0.30:** Rift master timer fixes
 - **Various patches:** Balance adjustments to champions and spawn rates
 
-For detailed patch history, see the [patch notes](../patchnotes.md).
+For detailed patch history, see the [patch notes](../patches/index.md).
