@@ -2,236 +2,208 @@
 
 # Magery
 
-The primary spellcasting skill in Ultima Online.
-
 ## Overview
 
-Magery allows you to cast powerful spells from eight circles of magic. This versatile skill provides damage, healing, utility, and transportation, making it one of the most flexible skills in the game.
+Magery grants you ease of transportation and healing.
 
-## Spell Circles
+Combining Evaluating Intelligence with Magery will boost the damage of your spells.
 
-### First Circle (10-20 skill)
+Casting spells consumes mana, is a good idea to combine Magery with Meditation.
 
-Basic utility spells:
+## Spells
 
-- Clumsy, Create Food, Feeblemind
-- Heal, Magic Arrow, Night Sight
-- Reactive Armor, Weaken
+Each Spell Circle adds 0.5 seconds of casting time. For example, a spell from Circle 1 takes 0.5 second to cast, while a spell from Circle 2 takes 1 second to cast, and so on.
 
-### Second Circle (20-30 skill)
+If you fail to cast a spell from a spellbook, the reagents will still be consumed, but the mana won't.
 
-More utility, minor combat:
+=== "1st Circle"
 
-- Agility, Cunning, Cure
-- Harm, Magic Trap, Magic Untrap
-- Protection, Strength
+    |                          Icon                           |     Spell      | Words of Power |               Reagents used               |
+    |:-------------------------------------------------------:|:--------------:|:--------------:|:-----------------------------------------:|
+    |     ![item-icon](../../../assets/spells/clumsy.png)     |     Clumsy     |    Uus Jux     |         Blood Moss<br>Nightshade          |
+    |  ![item-icon](../../../assets/spells/create-food.png)   |  Create Food   |  In Mani Ylem  |    Garlic<br>Ginseng<br>Mandrake Root     |
+    |   ![item-icon](../../../assets/spells/feeblemind.png)   |   Feeblemind   |    Rel Wis     |           Nightshade<br>Ginseng           |
+    |      ![item-icon](../../../assets/spells/heal.png)      |      Heal      |    In Mani     |    Garlic<br>Ginseng<br>Spider's Silk     |
+    |  ![item-icon](../../../assets/spells/magic-arrow.png)   |  Magic Arrow   |  In Por Ylem   |         Black Pearl<br>Nightshade         |
+    |  ![item-icon](../../../assets/spells/night-sight.png)   |  Night Sight   |     In Lor     |      Spider's Silk<br>Sulphurous Ash      |
+    | ![item-icon](../../../assets/spells/reactive-armor.png) | Reactive Armor |   Flam Sanct   | Garlic<br>Spider's Silk<br>Sulphurous Ash |
+    |     ![item-icon](../../../assets/spells/weaken.png)     |     Weaken     |    Des Mani    |           Garlic<br>Nightshade            |
 
-### Third Circle (30-40 skill)
+=== "2nd"
 
-Teleport and combat spells:
+    |                         Icon                         |    Spell    | Words of Power |               Reagents used               |
+    |:----------------------------------------------------:|:-----------:|:--------------:|:-----------------------------------------:|
+    |   ![item-icon](../../../assets/spells/agility.png)   |   Agility   |     Ex Uus     |        Blood Moss<br>Mandrake Root        |
+    |   ![item-icon](../../../assets/spells/cunning.png)   |   Cunning   |    Uus Wis     |        Nightshade<br>Mandrake Root        |
+    |    ![item-icon](../../../assets/spells/cure.png)     |    Cure     |     An Nox     |             Garlic<br>Ginseng             |
+    |    ![item-icon](../../../assets/spells/harm.png)     |    Harm     |    An Mani     |        Nightshade<br>Spider's Silk        |
+    | ![item-icon](../../../assets/spells/magic-trap.png)  | Magic Trap  |     In Jux     | Garlic<br>Spider's Silk<br>Sulphurous Ash |
+    | ![item-icon](../../../assets/spells/remove-trap.png) | Remove Trap |     An Jux     |       Blood Moss<br>Sulphurous Ash        |
+    | ![item-icon](../../../assets/spells/protection.png)  | Protection  |   Uus Sanct    |    Garlic<br>Ginseng<br>Sulphurous Ash    |
+    |  ![item-icon](../../../assets/spells/strength.png)   |  Strength   |    Uus Mani    |        Mandrake Root<br>Nightshade        |
 
-- Bless, Fireball, Magic Lock
-- Poison, Teleport, Unlock
-- Wall of Stone
+=== "3rd"
 
-### Fourth Circle (40-50 skill)
+    |                          Icon                          |     Spell     | Words of Power |             Reagents used             |
+    |:------------------------------------------------------:|:-------------:|:--------------:|:-------------------------------------:|
+    |     ![item-icon](../../../assets/spells/bless.png)     |     Bless     |   Rel Sanct    |        Garlic<br>Mandrake Root        |
+    |   ![item-icon](../../../assets/spells/fireball.png)    |   Fireball    |    Vas Flam    |              Black Pearl              |
+    |  ![item-icon](../../../assets/spells/magic-lock.png)   |  Magic Lock   |     An Por     | Bloodmoss<br>Garlic<br>Sulphurous Ash |
+    |    ![item-icon](../../../assets/spells/poison.png)     |    Poison     |     In Nox     |              Nightshade               |
+    |  ![item-icon](../../../assets/spells/telekinesis.png)  |  Telekinesis  |  Ort Por Ylem  |      Blood Moss<br>Mandrake Root      |
+    |   ![item-icon](../../../assets/spells/teleport.png)    |   Teleport    |    Rel Por     |      Blood Moss<br>Mandrake Root      |
+    |    ![item-icon](../../../assets/spells/unlock.png)     |    Unlock     |     Ex Por     |     Blood Moss<br>Sulphurous Ash      |
+    | ![item-icon](../../../assets/spells/wall-of-stone.png) | Wall of Stone | In Sanct Ylem  |         Blood Moss<br>Garlic          |
 
-Greater healing, travel:
+=== "4th"
 
-- Arch Cure, Arch Protection, Curse
-- Fire Field, Greater Heal, Lightning
-- Mana Drain, Recall
+    |                          Icon                           |     Spell      | Words of Power |                    Reagents used                     |
+    |:-------------------------------------------------------:|:--------------:|:--------------:|:----------------------------------------------------:|
+    |    ![item-icon](../../../assets/spells/archcure.png)    |    Archcure    |   Vas An Nox   |          Garlic<br>Ginseng<br>Mandrake Root          |
+    | ![item-icon](../../../assets/spells/archprotection.png) | Archprotection | Vas Uus Sanct  | Garlic<br>Ginseng<br>Mandrake Root<br>Sulphurous Ash |
+    |     ![item-icon](../../../assets/spells/curse.png)      |     Curse      |   Des Sanct    |        Garlic<br>Nightshade<br>Sulphurous Ash        |
+    |   ![item-icon](../../../assets/spells/fire-field.png)   |   Fire Field   |  In Flam Grav  |    Black Pearl<br>Spider's Silk<br>Sulphurous Ash    |
+    |  ![item-icon](../../../assets/spells/greater-heal.png)  |  Greater Heal  |  In Vas Mani   | Garlic<br>Ginseng<br>Mandrake Root<br>Spider's Silk  |
+    |   ![item-icon](../../../assets/spells/lightning.png)    |   Lightning    |  Por Ort Grav  |    Black Pearl<br>Mandrake Root<br>Sulphurous Ash    |
+    |   ![item-icon](../../../assets/spells/mana-drain.png)   |   Mana Drain   |    Ort Rel     |    Black Pearl<br>Mandrake Root<br>Spider's Silk     |
+    |     ![item-icon](../../../assets/spells/recall.png)     |     Recall     |  Kal Ort Por   |      Black Pearl<br>Blood Moss<br>Mandrake Root      |
 
-### Fifth Circle (50-60 skill)
+=== "5th"
 
-Powerful combat and summons:
+    |                           Icon                            |      Spell       | Words of Power  |                        Reagents used                         |
+    |:---------------------------------------------------------:|:----------------:|:---------------:|:------------------------------------------------------------:|
+    |  ![item-icon](../../../assets/spells/blade-spirits.png)   |  Blade Spirits   | In Jux Hur Ylem |          Black Pearl<br>Mandrake Root<br>Nightshade          |
+    |   ![item-icon](../../../assets/spells/dispel-field.png)   |   Dispel Field   |     An Grav     |   Black Pearl<br>Garlic<br>Spider's Silk<br>Sulphurous Ash   |
+    |    ![item-icon](../../../assets/spells/incognito.png)     |    Incognito     |    Kal In Ex    |              Blood Moss<br>Garlic<br>Nightshade              |
+    | ![item-icon](../../../assets/spells/magic-reflection.png) | Magic Reflection |  In Jux Sanct   |           Garlic<br>Mandrake Root<br>Spider's Silk           |
+    |    ![item-icon](../../../assets/spells/mind-blast.png)    |    Mind Blast    |  Por Corp Wis   | Black Pearl<br>Mandrake Root<br>Nightshade<br>Sulphurous Ash |
+    |     ![item-icon](../../../assets/spells/paralyze.png)     |     Paralyze     |    An Ex Por    |           Garlic<br>Mandrake Root<br>Spider's Silk           |
+    |   ![item-icon](../../../assets/spells/poison-field.png)   |   Poison Field   |   In Nox Grav   |          Black Pearl<br>Nightshade<br>Spider's Silk          |
+    | ![item-icon](../../../assets/spells/summon-creature.png)  | Summon Creature  |     Kal Xen     |         Blood Moss<br>Mandrake Root<br>Spider's Silk         |
 
-- Blade Spirits, Dispel Field, Incognito
-- Magic Reflection, Mind Blast, Paralyze
-- Poison Field, Summon Creature
+=== "6th"
 
-### Sixth Circle (60-70 skill)
+    |                          Icon                           |     Spell      | Words of Power |                      Reagents used                      |
+    |:-------------------------------------------------------:|:--------------:|:--------------:|:-------------------------------------------------------:|
+    |     ![item-icon](../../../assets/spells/dispel.png)     |     Dispel     |     An Ort     |        Garlic<br>Mandrake Root<br>Sulphurous Ash        |
+    |  ![item-icon](../../../assets/spells/energy-bolt.png)   |  Energy Bolt   |    Corp Por    |                Black Pearl<br>Nightshade                |
+    |   ![item-icon](../../../assets/spells/explosion.png)    |   Explosion    |  Vas Ort Flam  |             Mandrake Root<br>Sulphurous Ash             |
+    |  ![item-icon](../../../assets/spells/invisibility.png)  |  Invisibility  |   An Lor Xen   |                Blood Moss<br>Nightshade                 |
+    |      ![item-icon](../../../assets/spells/mark.png)      |      Mark      |  Kal Por Ylem  |       Black Pearl<br>Blood Moss<br>Mandrake Root        |
+    |   ![item-icon](../../../assets/spells/mass-curse.png)   |   Mass Curse   | Vas Des Sanct  | Garlic<br>Mandrake Root<br>Nightshade<br>Sulphurous Ash |
+    | ![item-icon](../../../assets/spells/paralyze-field.png) | Paralyze Field |   In Ex Grav   |         Black Pearl<br>Ginseng<br>Spider's Silk         |
+    |     ![item-icon](../../../assets/spells/reveal.png)     |     Reveal     |    Wis Quas    |              Blood Moss<br>Sulphurous Ash               |
 
-Advanced magic:
+=== "7th"
 
-- Dispel, Energy Bolt, Explosion
-- Invisibility, Mark, Mass Curse
-- Paralyze Field, Reveal
+    |                           Icon                           |      Spell      |  Words of Power   |                          Reagents used                          |
+    |:--------------------------------------------------------:|:---------------:|:-----------------:|:---------------------------------------------------------------:|
+    | ![item-icon](../../../assets/spells/chain-lightning.png) | Chain Lightning |   Vas Ort Grav    |  Black Pearl<br>Blood Moss<br>Mandrake Root<br>Sulphurous Ash   |
+    |  ![item-icon](../../../assets/spells/energy-field.png)   |  Energy Field   |   In Sanct Grav   | Black Pearl<br>Mandrake Root<br>Spider's Silk<br>Sulphurous Ash |
+    |   ![item-icon](../../../assets/spells/flamestrike.png)   |   Flamestrike   |   Kal Vas Flam    |                 Spider's Silk<br>Sulphurous Ash                 |
+    |   ![item-icon](../../../assets/spells/gate-travel.png)   |   Gate Travel   |    Vas Rel Por    |         Black Pearl<br>Mandrake Root<br>Sulphurous Ash          |
+    |  ![item-icon](../../../assets/spells/mana-vampire.png)   |  Mana Vampire   |     Ort Sanct     |     Black Pearl<br>Blood Moss<br>Mandrake<br>Spider's Silk      |
+    |   ![item-icon](../../../assets/spells/mass-dispel.png)   |   Mass Dispel   |    Vas An Ort     |    Black Pearl<br>Garlic<br>Mandrake Root<br>Sulphurous Ash     |
+    |  ![item-icon](../../../assets/spells/meteor-swarm.png)   |  Meteor Swarm   | Kal Des Flam Ylem | Blood Moss<br>Mandrake Root<br>Spider's Silk<br>Sulphurous Ash  |
+    |    ![item-icon](../../../assets/spells/polymorph.png)    |    Polymorph    |   Vas Ylem Rel    |          Blood Moss<br>Mandrake Root<br>Spider's Silk           |
 
-### Seventh Circle (70-80 skill)
+=== "8th"
 
-Master spells:
+    |                                     Icon                                     |       Spell        |   Words of Power    |                         Reagents used                          |
+    |:----------------------------------------------------------------------------:|:------------------:|:-------------------:|:--------------------------------------------------------------:|
+    |             ![earthquake](../../../assets/spells/earthquake.png)             |     Earthquake     |     In Vas Por      |    Blood Moss<br>Ginseng<br>Mandrake Root<br>Sulphurous Ash    |
+    |          ![energy-vortex](../../../assets/spells/energy-vortex.png)          |   Energy Vortex    |    Vas Corp Por     |    Black Pearl<br>Blood Moss<br>Mandrake Root<br>Nightshade    |
+    |           ![resurrection](../../../assets/spells/resurrection.png)           |    Resurrection    |       An Corp       |                Blood Moss<br>Garlic<br>Ginseng                 |
+    |   ![summon-air-elemental](../../../assets/spells/summon-air-elemental.png)   |  Summon Air Elem.  |   Kal Vas Xen Hur   |          Blood Moss<br>Mandrake Root<br>Spider's Silk          |
+    |          ![summon-daemon](../../../assets/spells/summon-daemon.png)          |   Summon Daemon    |  Kal Vas Xen Corp   | Blood Moss<br>Mandrake Root<br>Spider's Silk<br>Sulphurous Ash |
+    | ![summon-earth-elemental](../../../assets/spells/summon-earth-elemental.png) | Summon Earth Elem. |  Kal Vas Xen Ylem   |          Blood Moss<br>Mandrake Root<br>Spider's Silk          |
+    |  ![summon-fire-elemental](../../../assets/spells/summon-fire-elemental.png)  | Summon Fire Elem.  |  Kal Vas Xen Flam   | Blood Moss<br>Mandrake Root<br>Spider's Silk<br>Sulphurous Ash |
+    | ![summon-water-elemental](../../../assets/spells/summon-water-elemental.png) | Summon Water Elem. | Kal Vas Xen An Flam |          Blood Moss<br>Mandrake Root<br>Spider's Silk          |
 
-- Chain Lightning, Energy Field, Flamestrike
-- Gate Travel, Mana Vampire, Mass Dispel
-- Meteor Swarm, Polymorph
+### Casting requirements
 
-### Eighth Circle (80-100 skill)
+This table shows the minimum Skill required to attempt casting a Spell of a specific Circle (2% success rate), the number next to it shows the amount of skill needed to have achieve 99%.
 
-Legendary magic:
+|                          icon                           | Spell Circle | INT |    Skill    |
+|:-------------------------------------------------------:|:------------:|:---:|:-----------:|
+|  ![item-icon](../../../assets/spells/first-circle.png)  |    First     |  4  | 1.1 / 40.1  |
+| ![item-icon](../../../assets/spells/second-circle.png)  |    Second    |  6  | 6.1 / 50.1  |
+|  ![item-icon](../../../assets/spells/third-circle.png)  |    Third     |  9  | 16.1 / 60.1 |
+| ![item-icon](../../../assets/spells/fourth-circle.png)  |    Fourth    | 11  | 26.1 / 70.1 |
+|  ![item-icon](../../../assets/spells/fifth-circle.png)  |    Fifth     | 14  | 36.1 / 80.1 |
+|  ![item-icon](../../../assets/spells/sixth-circle.png)  |    Sixth     | 20  | 51.8 / 90.1 |
+| ![item-icon](../../../assets/spells/seventh-circle.png) |   Seventh    | 40  | 66.1 / ---- |
+|  ![item-icon](../../../assets/spells/eight-circle.png)  |    Eight     | 50  | 80.1 / ---- |
 
-- Earthquake, Energy Vortex, Resurrection
-- Air Elemental, Summon Daemon, Earth Elemental
-- Fire Elemental, Water Elemental
+For every Skill point over the minimum, you get roughly a 2-3% chance increase to cast spells from that Circle, until you hit the 99% cap. Except for the First, Seventh and Eight circles.
 
-## Training
+### Spell scrolls
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+Success rate of scrolls works differently, they count as two Circles lower than normal. Casting an 8th Circle Earthquake scroll, for instance, depends on your 6th Circle spell skill.
 
-### Early Training (0-30)
-
-### Intermediate (30-50)
-
-### Advanced (50-70)
-
-### Master Level (70-100)
+Casting from scrolls does not require reagents. If successful, the mana consumed will be the same as for normal spells, and the scroll will disappear.
 
 ## Reagents
 
-### Required Reagents
+You can find Reagents from the ground, from looting monsters or from NPC vendors at mage shops. They are essential for casting and crafting spells, or for crafting potions.
 
-- **Black Pearl** - Summoning, travel spells
-- **Blood Moss** - Teleportation spells
-- **Garlic** - Protection, cure spells
-- **Ginseng** - Healing spells
-- **Mandrake Root** - Powerful spells
-- **Nightshade** - Poison spells
-- **Spider's Silk** - Energy spells
-- **Sulfurous Ash** - Fire spells
+This table show how much each reagent type is used when casting spells, for example Mandrake Root is used in 56% of all spells, with higher usage in Circles 5 trough 8.
 
-### Reagent Management
+|                                 Reagent                                  | All Circles | Circles 1 - 4 | Circles 5 - 8 |
+|:------------------------------------------------------------------------:|:-----------:|:-------------:|:-------------:|
+|  ![item-icon](../../../assets/items/mandrake-root.png)<br>Mandrake Root  |     56%     |      41%      |      72%      |
+| ![item-icon](../../../assets/items/sulphurous-ash.png)<br>Sulphurous Ash |     41%     |      34%      |      47%      |
+|     ![item-icon](../../../assets/items/blood-moss.png)<br>Blood Moss     |     41%     |      28%      |      53%      |
+|  ![item-icon](../../../assets/items/spiders-silk.png)<br>Spider's Silk   |     39%     |      25%      |      53%      |
+|         ![item-icon](../../../assets/items/garlic.png)<br>Garlic         |     34%     |      44%      |      25%      |
+|    ![item-icon](../../../assets/items/black-pearl.png)<br>Black Pearl    |     30%     |      19%      |      41%      |
+|     ![item-icon](../../../assets/items/nightshade.png)<br>Nightshade     |     27%     |      28%      |      25%      |
+|        ![item-icon](../../../assets/items/ginseng.png)<br>Ginseng        |     17%     |      25%      |      9%       |
 
-- Keep well stocked
-- Buy in bulk for discounts
-- Use reagent bag (blessed if possible)
-- Failed casts still consume reagents
+### Guild discount
 
-## Related Skills
+Once you reach 100 Magery and become a Grand Master, you can join the Sorcerer's Guild by using the command `[vendor name] join` followed by a 5.000 gold fee. This grants you a 10% discount from mage vendors, which is helpful for stocking up on reagents.
 
-**Essential Pairs:**
+### Wind access
 
-- [Evaluating Intelligence](evaluating-intelligence.md) - Magic damage
-- [Meditation](meditation.md) - Mana regeneration
-- [Wrestling](../combat/wrestling.md) - Defense without weapon
-- [Resisting Spells](../combat/resisting-spells.md) - Magic defense
+Reaching 72 Magery skill grants access to Wind, the city of mages.
 
-**Advanced Combinations:**
+## Training
 
-- [Inscription](inscription.md) - Increased spell damage
-- [Poisoning](../combat/poisoning.md) - Enhanced poison spells
+Training Magery can burn a hole in your pockets, so be sure to stockpile plenty of gold for those pricey reagents.
 
-## Spell Categories
+=== "Magery Only"
 
-### Direct Damage
+    | Skill    | Cast            |
+    |----------|-----------------|
+    | 0 - 30   | Train from NPCs |
+    | 30 - 40  | Third Circle    |
+    | 40 - 55  | Fourth Circle   |
+    | 55 - 66  | Fifth Circle    |
+    | 65 - 80  | Sixth Circle    |
+    | 80 - 95  | Seventh Circle  |
+    | 95 - 100 | Eighth Circle   |
 
-- **Lightning** - Fast, moderate damage
-- **Energy Bolt** - Slower, high damage
-- **Flamestrike** - Fire damage, high damage
-- **Meteor Swarm** - Area damage
-- **Chain Lightning** - Multi-target
-- **Earthquake** - Massive AoE
+=== "Magery and Resisting Spells"
 
-### Healing
+    | Skill    | Cast :material-information-outline:{ title="Cast on yourself" }                       |
+    |----------|---------------------------------------------------------------------------------------|
+    | 0 - 30   | Train from NPCs                                                                       |
+    | 30 - 55  | Fire Field :material-information-outline:{ title="Cast it and run across the field" } |
+    | 55 - 60  | Lighting                                                                              |
+    | 60 - 82  | Energy Bolt                                                                           |
+    | 82 - 100 | Flamestrike                                                                           |
 
-- **Heal** - Restore HP quickly
-- **Greater Heal** - Restore more HP
-- **Cure** - Remove poison
-- **Arch Cure** - Cure multiple targets
-- **Resurrection** - Revive the dead
+=== "Magery Only alternative"
 
-### Utility
+    | Skill       | Cast            |
+    |-------------|-----------------|
+    | 0 - 30      | Train from NPCs |
+    | 30 - 50.1   | Fourth Circle   |
+    | 50.1 - 80.1 | Invisibility    |
+    | 80.1 - 100  | Earthquake      |
 
-- **Recall** - Teleport to rune
-- **Gate Travel** - Open portal
-- **Mark** - Mark rune location
-- **Teleport** - Short-range movement
-- **Invisibility** - Become hidden
+## Related skills
 
-### Debuffs
-
-- **Curse** - Lower all stats
-- **Weaken** - Reduce strength
-- **Clumsy** - Reduce dexterity
-- **Feeblemind** - Reduce intelligence
-- **Paralyze** - Freeze target
-- **Poison** - Damage over time
-
-### Summoning
-
-- **Blade Spirits** - Attacking spirits
-- **Energy Vortex** - Powerful summon
-- **Elementals** - Various elemental summons
-- **Summon Daemon** - Powerful demon ally
-
-### Fields
-
-- **Fire Field** - Damage barrier
-- **Poison Field** - Poison damage
-- **Paralyze Field** - Freeze barrier
-- **Energy Field** - Impassable wall
-
-## Character Templates
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Pure Mage (PvM)
-
-- **Magery: 100** ⭐
-- Evaluating Intelligence: 100
-- Meditation: 100
-- Resisting Spells: 100
-- Wrestling: 80
-- Inscription: 80
-- Poisoning: 40
-
-### PvP Mage
-
-- **Magery: 100** ⭐
-- Evaluating Intelligence: 100
-- Meditation: 100
-- Resisting Spells: 100
-- Wrestling: 100
-- Inscription: 100
-- Alchemy: 100
-
-### Battle Mage
-
-- **Magery: 100** ⭐
-- Evaluating Intelligence: 100
-- Weapon Skill: 100
-- Tactics: 100
-- Anatomy: 100
-- Resisting Spells: 100
-- Meditation: 100
-
-## Equipment
-
-### Spellbooks
-
-- **Standard Spellbook** - All 64 spells
-
-### Armor
-
-- Leather armor (allows meditation)
-- Studded leather (check meditation)
-- Mage armor property items
-- Robes for aesthetics
-
-### Jewelry & Accessories
-
-## Importance
-
-⭐⭐⭐⭐⭐ (One of the best skills in the game)
-
-Magery is incredibly versatile and useful for almost every template!
-
----
-
-**Related Pages:**
-
-- [Magic Skills Overview](../index.md#magic-skills)
 - [Evaluating Intelligence](evaluating-intelligence.md)
 - [Meditation](meditation.md)
-- [Magic System](../../magic.md)
