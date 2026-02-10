@@ -2,166 +2,40 @@
 
 # Evaluating Intelligence
 
-Increases magic damage and spell effectiveness.
-
 ## Overview
 
-Evaluating Intelligence (commonly called "Eval Int") is the magic equivalent of Tactics. It significantly boosts spell damage and improves spell success rates, making it essential for all combat mages.
+Evaluating Intelligence can be used on a 10 seconds cooldown, it doesn't have difficulty checks.
 
-## Effects
+It passively boosts the damage of your offensive Magery spells. When combined with Anatomy, they function as a passive Wrestling further enhancing your combat effectiveness.
 
-### Magic Damage Boost
+## Skill Use
 
-- Directly increases spell damage
-- Scales with skill level
-- Applies to all offensive spells
-- Major impact on magic DPS
+| Skill Response                                                     | Target's INT |
+|--------------------------------------------------------------------|--------------|
+| "It looks smarter than a rock, but dumber than a piece of wood"    | 0            |
+| "Slightly less intelligent than a rock."                           | 1 - 9        |
+| "Fairly Stupid."                                                   | 10 - 19      |
+| "Not the brightest."                                               | 20 - 29      |
+| "About Average."                                                   | 30 - 39      |
+| "Moderately intelligent."                                          | 40 - 49      |
+| "Very intelligent."                                                | 50 - 59      |
+| "Extremely intelligent."                                           | 60 - 69      |
+| "Extraordinarily intelligent."                                     | 70 - 79      |
+| "Like a formidable intellect, well beyond even the extraordinary." | 80 - 89      |
+| "Like a definite genius."                                          | 90 - 99      |
+| "Superhumanly intelligent in a manner you cannot comprehend."      | 100 +        |
 
-### Spell Effectiveness
-
-- Better spell success rate
-- More consistent damage
-- Improved spell interactions
-
-### Defensive Benefit
-
-- Minor defensive bonus against spells
-- Helps resist some magical effects
+Once your Evaluating Intelligence reaches 76, you'll see the target's Mana as a percentage of its maximum, like "This being is at 100% mental strength."
 
 ## Training
 
-### Active Training
+Train from Mage NPCs to reach around 30.
 
-Use the Evaluating Intelligence skill:
+You can train by using it on players, monsters, and animals until you reach 100. It also increases when casting offensive spells and provides INT gains.
 
-- Target creatures and monsters
-- Examine their intelligence
-- Gains from successful evaluations
-- Can macro on training dummies
+## Related skills
 
-### Passive Training
-
-Gains during spell combat:
-
-- Cast offensive spells at enemies
-- Fight with magic
-- PvP mage combat
-- Passive improvement over time
-
-!!! tip "Easy Training"
-    Create a macro to use Eval Int on training dummies or creatures repeatedly. Combine with Magery training for efficiency!
-
-## Related Skills
-
-**Always Paired With:**
-
-- [Magery](magery.md) - Primary spellcasting
-- [Meditation](meditation.md) - Mana regeneration
-- [Resisting Spells](../combat/resisting-spells.md) - Magic defense
-
-**Full Mage Package:**
-
-- Magery: 100
-- **Evaluating Intelligence: 100** ⭐
-- Meditation: 100
-- Resisting Spells: 100
-
-## Damage Calculation
-
-## Impact on Spells
-
-### All Offensive Spells Boosted
-
-- Magic Arrow
-- Fireball
-- Lightning
-- Energy Bolt
-- Flamestrike
-- Meteor Swarm
-- Chain Lightning
-- Earthquake
-
-## Character Templates
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Pure Mage (PvM)
-
-- Magery: 100
-- **Evaluating Intelligence: 100** ⭐
-- Meditation: 100
-- Resisting Spells: 100
-- Wrestling: 80
-- Inscription: 80
-- Poisoning: 40
-
-### PvP Mage
-
-- Magery: 100
-- **Evaluating Intelligence: 100** ⭐
-- Meditation: 100
-- Resisting Spells: 100
-- Wrestling: 100
-- Inscription: 100
-- Alchemy: 100
-
-### Bard Mage
-
-- Magery: 100
-- **Evaluating Intelligence: 100** ⭐
-- Musicianship: 100
-- Provocation: 100
-- Meditation: 100
-- Resisting Spells: 100
-- Wrestling: 100
-
-## PvP Importance
-
-In PvP combat, Eval Int is CRITICAL:
-
-- Maximum burst damage
-- Kill enemies before they escape
-- Competitive damage output
-- Essential for mage duels
-
-## PvM Importance
-
-For monster hunting:
-
-- Faster kills = more loot
-- Better resource efficiency
-- Solo dangerous monsters
-- Valuable in groups
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Absolutely Essential for combat mages)
-
-Never skip Evaluating Intelligence on a mage build!
-
-## Training Priority
-
-For mage characters:
-
-1. Train Magery first (need spells)
-2. **Train Eval Int early** (for damage)
-3. Add Meditation (for mana)
-4. Add Resisting Spells (for defense)
-
-## Alternative Uses
-
-Some niche uses:
-
-- Identify creature intelligence
-- Examine magical beings
-- Lore knowledge (roleplay)
-
----
-
-**Related Pages:**
-
-- [Magic Skills Overview](../index.md#magic-skills)
+- [Anatomy](../combat/anatomy.md)
+- [Wrestling](../combat/wrestling.md)
 - [Magery](magery.md)
 - [Meditation](meditation.md)
-- [Magic System](../../magic.md)

@@ -146,11 +146,11 @@ nav:
         - Tailoring: game-mechanics/skills/crafting/tailoring.md
         - Tinkering: game-mechanics/skills/crafting/tinkering.md
       - Magic:
-        - Evaluating Intelligence: game-mechanics/skills/magic/evaluating-intelligence.md
-        - Inscription: game-mechanics/skills/magic/inscription.md
         - Magery: game-mechanics/skills/magic/magery.md
         - Meditation: game-mechanics/skills/magic/meditation.md
+        - Evaluating Intelligence: game-mechanics/skills/magic/evaluating-intelligence.md
         - Spirit Speak: game-mechanics/skills/magic/spirit-speak.md
+        - Inscription: game-mechanics/skills/magic/inscription.md
       - Resource Gathering:
         - Fishing: game-mechanics/skills/resource-gathering/fishing.md
         - Lumberjacking: game-mechanics/skills/resource-gathering/lumberjacking.md
