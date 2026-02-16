@@ -119,10 +119,10 @@ nav:
     - Skills:
       - game-mechanics/skills/index.md
       - Bard Skills:
-        - Discordance: game-mechanics/skills/bard-skills/discordance.md
         - Musicianship: game-mechanics/skills/bard-skills/musicianship.md
-        - Peacemaking: game-mechanics/skills/bard-skills/peacemaking.md
         - Provocation: game-mechanics/skills/bard-skills/provocation.md
+        - Discordance: game-mechanics/skills/bard-skills/discordance.md
+        - Peacemaking: game-mechanics/skills/bard-skills/peacemaking.md
       - Combat:
         - Anatomy: game-mechanics/skills/combat/anatomy.md
         - Archery: game-mechanics/skills/combat/archery.md
