@@ -123,16 +123,16 @@ Grand Master spells:
 
 ### The Eight Reagents
 
-| Reagent | Common Spells |
-|---------|---------------|
-| Black Pearl | Teleport, Recall, Gate |
-| Blood Moss | Most offensive spells |
-| Garlic | Healing, Cure, protection |
-| Ginseng | Healing, stat buffs |
-| Mandrake Root | Summons, powerful spells |
-| Nightshade | Poison, curses |
-| Spider's Silk | Field spells |
-| Sulfurous Ash | Damage spells |
+| Reagent       | Common Spells             |
+| ------------- | ------------------------- |
+| Black Pearl   | Teleport, Recall, Gate    |
+| Blood Moss    | Most offensive spells     |
+| Garlic        | Healing, Cure, protection |
+| Ginseng       | Healing, stat buffs       |
+| Mandrake Root | Summons, powerful spells  |
+| Nightshade    | Poison, curses            |
+| Spider's Silk | Field spells              |
+| Sulfurous Ash | Damage spells             |
 
 **Purchase:** Mage shops in towns
 
@@ -160,6 +160,7 @@ Spells can be interrupted by:
 ### Cast Success Rate
 
 Factors:
+
 - Magery skill level
 - Spell circle difficulty
 - Evaluating Intelligence
@@ -190,7 +191,7 @@ Factors:
 ### Spirit Summoner (New Dawn Custom)
 
 !!! note "Custom System"
-    The Spirit Summoner is a unique New Dawn build. See [Spirit Summoner](../custom-systems/spirit-summoner.md) for complete details.
+The Spirit Summoner is a unique New Dawn build. See [Spirit Summoner](../custom-systems/spirit-summoner.md) for complete details.
 
 **Core Template:**
 
@@ -395,17 +396,17 @@ Summon spells have reduced casting times:
 
 ### Spirit Summoner vs Standard Mage
 
-| Feature | Standard Mage | Spirit Summoner |
-|---------|---------------|-----------------|
+| Feature            | Standard Mage     | Spirit Summoner         |
+| ------------------ | ----------------- | ----------------------- |
 | 5th Circle Summons | Regular creatures | Custom spirit creatures |
-| 8th Circle Summons | Standard stats | Greatly enhanced |
-| BS/EV Behavior | Attack you | Ignore you at 50+ SS |
-| BS/EV Control | None | Full control at GM |
-| BS/EV Poison | No | 10-40% chance |
-| Dispel Resistance | Standard | 50-80% resist |
-| Follow Speed | Standard | Significantly faster |
-| Summon Healing | Standard | Enhanced |
-| Skill Investment | Magery only | Magery + Spirit Speak |
+| 8th Circle Summons | Standard stats    | Greatly enhanced        |
+| BS/EV Behavior     | Attack you        | Ignore you at 50+ SS    |
+| BS/EV Control      | None              | Full control at GM      |
+| BS/EV Poison       | No                | 10-40% chance           |
+| Dispel Resistance  | Standard          | 50-80% resist           |
+| Follow Speed       | Standard          | Significantly faster    |
+| Summon Healing     | Standard          | Enhanced                |
+| Skill Investment   | Magery only       | Magery + Spirit Speak   |
 
 ### Patch History
 

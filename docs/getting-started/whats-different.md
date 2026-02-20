@@ -236,10 +236,6 @@ Excavate artifacts from ruins
 
 Guild-based territory control
 
-### [Gardening](../custom-systems/gardening.md)
-
-Plant cultivation and sheep farming
-
 ### [Achievements](../custom-systems/achievements.md)
 
 Point-based progression with rewards

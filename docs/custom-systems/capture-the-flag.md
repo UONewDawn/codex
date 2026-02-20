@@ -1,6 +1,11 @@
 # Capture the Flag
 
-Experience intense team-based PvP in New Dawn's classic Capture the Flag system. Coordinate with your team in 10v10 battles to capture the enemy flag while defending your own in fast-paced 20-minute matches.
+![CTF](../assets/ctf.png)
+
+Experience team-based PvP in New Dawn's classic Capture the Flag system. Coordinate with your team in 10v10 battles to capture the enemy flag while defending your own in fast-paced 20-minute matches.
+
+!!! info
+    This mode is heavily influenced by WoW's Warsong Gulch.
 
 ## Overview
 
@@ -101,13 +106,6 @@ Capture the enemy's flag and return it to your base **3 times** to win, or have 
 - No skill gains during matches
 - Killing yourself awards no points
 
-### Team Communication
-
-- Team chat available (specific commands TBD)
-- Coordinate flag captures
-- Call for defense
-- Strategize with teammates
-
 ## Scoring System
 
 ### Team Points
@@ -176,14 +174,6 @@ All stats are displayed on the scoreboard and recorded at match end.
 - **Timing:** Wait for your team before major pushes
 - **Awareness:** Watch the scoreboard and time remaining
 - **Adapt:** Adjust strategy based on score and time
-
-### Effective Builds
-
-- **Mounted Dexxer:** Fast flag carrier, mobile DPS
-- **Mage:** Healing, area control, burst damage
-- **Archer:** Ranged pressure, kiting
-- **Disrupt Bard:** Control enemy movements
-- **Tank:** Flag carrier or base defender
 
 ## Rewards
 

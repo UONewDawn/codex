@@ -1,193 +1,246 @@
 # Pirate Adventures
 
-Venture into dangerous pirate-controlled waters through special treasure maps that transport you to instanced encounters filled with ruthless pirates, treacherous bosses, and valuable plunder. These high-seas adventures offer challenging PvM content with unique rewards.
+Venture into four distinct instanced pirate encounters — a hidden cove hideaway, a crumbling lighthouse, a sunken treasure cave, and an ancient pirate tomb. Each instance is unlocked by activating a **deteriorating pirate map**. Clear the pirates, defeat the boss, and claim the locked reward chest.
 
 ## How to Start
 
 ### Obtaining Pirate Maps
 
-Pirate maps are special treasure maps that randomly drop from monsters throughout Britannia:
+**Deteriorating pirate maps** drop from **Ship's Strongboxes** or **ancient kraken**. When first obtained, the map is unreadable — its instance type is scrambled and it cannot be activated until restored.
 
-- Drop similar to regular treasure maps
-- Come in different tiers (colors) indicating difficulty
-- Single-use items consumed when activating
-- Can be traded or sold to other players
+### Restoring the Map
 
-### Activating a Map
+To reveal the map's destination:
 
-To begin a pirate adventure:
+1. Have a **Bottle of Vinegar** in your backpack.
+2. Double-click the Bottle of Vinegar.
+3. Target the deteriorating pirate map in your backpack.
+4. You must have **90 Cartography skill** to restore it.
 
-1. Double-click the pirate map in your inventory
-2. A gate will appear leading to the pirate instance
-3. Enter the gate to begin your adventure
-4. The instance is created for your group
+Once restored, the map is renamed (e.g., _"a restored map to a pirate's hideaway"_) and colored to match its instance. It is now ready to activate.
 
-!!! warning "Entry Restrictions"
-    - You cannot open another pirate map while inside a pirate map instance
-    - Cannot open pirate maps in certain areas (CTF, Codex Rifts, etc.)
-    - One account per player in the instance
-    - Ethereal mounts cannot be used inside the instance
+### Activating the Map
 
-## Map Tiers
+1. Double-click the restored map in your backpack.
+2. A colored gate appears at your location leading to the instance, and an exit gate appears inside the instance.
+3. Both gates close after **1 minute** — enter promptly, and invite any group members quickly.
+4. The map is **consumed** on use.
 
-Pirate maps come in different tiers, each with increasing difficulty and better rewards:
+!!! warning "Activation Restrictions"
+    You cannot activate a map while:
 
-### Red Tier
+    - Flagged criminal
+    - In active combat
+    - Already inside a pirate instance, CTF region, or Codex Rift
 
-- Entry-level pirate encounters
-- Basic pirate crews
-- Good for solo players or small groups
-- Moderate rewards
+### Group Entry
 
-### Blue Tier
+Any player who steps through the entrance gate before it closes (within 1 minute of activation) is added to the instance. The gate color matches the instance type. There is no hard player cap in code, but only one instance of each type runs at a time — if the instance is already active or closing, the map will fail to start.
 
-- Intermediate difficulty
-- Features the **Ancient Drowner** boss
-- Requires coordination
-- Better loot and pirate currency
+## The Four Instances
 
-### Purple Tier
+There are four distinct pirate instances. Each has its own environment, enemy roster, boss, duration, and rare items. All run on **Felucca**.
 
-- High difficulty
-- Features **Captain Grimjaw** as the boss
-- Requires well-equipped groups
-- Best loot and highest pirate currency rewards
-- Additional pirate abilities and mechanics
+### Pirate Hideaway
 
-## The Pirate Instance
+**Gate color:** Red/orange · **Duration:** 60 minutes
 
-### Environment
+A secluded cove filled with a full pirate crew — bards, bartenders, cooks, deckhands, navigators, quartermasters, lookouts, captains, bodyguards, and cannoneers operating ship cannons.
 
-Once inside a pirate instance:
+**Boss: Captain Dreadstorm** (the Relentless)
 
-- You're transported to a pirate haven or ship
-- The area is filled with hostile pirates
-- Must defeat all enemies to complete the instance
-- Bosses spawn after clearing normal pirates
+- Melee fighter with a Vanquishing Cutlass
+- Whirlwind and Shadow Strike special abilities
+- When first damaged, immediately summons **4 Pirate Bodyguards**
+- High Strength, solid armor rating
 
-### Pirate Enemies
+---
 
-**Regular Pirates:**
+### Pirate Lighthouse
 
-- Various pirate types with different abilities
-- Can use weapons, shields, and some have magic
-- Skills and stats randomized for variety
-- May have special abilities depending on type
+**Gate color:** Blue · **Duration:** 60 minutes
 
-**Pirate Scouts:**
+A decrepit, crumbling lighthouse overrun by pirates and strange sea creatures.
 
-- Special scout AI - will flee at low health
-- Can hide when fleeing
-- Re-engage when health returns
-- More tactical and challenging
+**Boss: Ancient Drowner**
 
-**Pirate Cannoneers:**
+- Mage-type boss
+- Periodic **AoE water attack** that requires line of sight
+- Periodically **summons Drowners** from fixed spawn points
 
-- Operate ship cannons
-- Long-range attacks
-- Require line-of-sight to fire
-- Won't shoot at dead players
+---
 
-**Pirate Lookouts:**
+### Pirate Treasure Cave
 
-- Scout-type enemies
-- Alert others to your presence
-- Can hide and stealth
-- Require careful approach
+**Gate color:** Green · **Duration:** 90 minutes
 
-### Boss Encounters
+A wrecked ship leading into a hidden cave guarded by the spirit of a shipwrecked captain.
 
-#### Ancient Drowner (Blue Maps)
+**Boss: Captain Grimjaw** (the Eternally Greedy)
 
-The Ancient Drowner is a powerful undead pirate captain:
+- Melee fighter with a Vanquishing Cutlass and mana pool
+- **Poison Gas** special ability on cooldown
+- When first damaged, immediately summons **4 Pirate Bodyguards**
+- Heaviest HP pool of all bosses (900–1,100 hits)
 
-- Significantly buffed stats and skills
-- Large hit point pool
-- Enhanced armor rating
-- Area-of-effect water attack (requires line of sight)
-- Drops valuable loot and pirate currency
+---
 
-#### Captain Grimjaw (Purple Maps)
+### Pirate Tomb
 
-The most feared pirate boss:
+**Gate color:** Purple · **Duration:** 90 minutes
 
-- Massive hit point pool
-- Very high armor rating
-- Multiple special abilities
-- Can summon additional pirates
-- Best drops in pirate instances
+An ancient tomb where cursed undead pirates guard plundered riches. Features a unique roster of undead enemies:
 
-## Instance Mechanics
+- **Arcane Corsair** – spellcasting undead pirate
+- **Bonebound Brigand** – heavy undead melee fighter
+- **Phantom Raider** – ghostly attacker
+- **Pirate Mummy** – wrapped undead fighter
+- **Pirate Wraith** – wraith variant
 
-### Healers and Vendors
+**Boss: Ancient Pirate Mummy**
 
-After entering the instance, friendly NPCs appear:
+- Periodically launches a **sand area attack** that paralyzes nearby players
+- Periodically **spawns additional undead pirates** from fixed spawn points
+- Transforms during combat
 
-- Healers to resurrect fallen players
-- Vendors selling basic supplies
-- Available until the instance ends
-- Disappear when instance resets
+---
 
-### Ship Cannons
+## Instance Flow
 
-Some pirate instances feature ship combat:
+### Progression
 
-- Cannons deal significant damage
-- Require line of sight to hit
-- Can't shoot through ship floors
-- Destroy cannons or avoid their fire arcs
+```
+Enter through gate (1-minute window)
+  ↓
+Clear all pirates in the instance
+  ↓
+Boss spawns + announcement sent to all players
+  ↓
+Defeat the boss
+  ↓
+Reward chest spawns at fixed location inside instance
+Gold key appears in the map activator's backpack
+Doubloons awarded to all players who dealt damage
+  ↓
+5-minute grace period to loot
+  ↓
+All players, pets, and player corpses teleported to the exit point
+```
 
 ### Instance Timer
 
-- Complete the instance by defeating all pirates and the boss
-- **Completion:** 5-minute grace period before ejection
-- **Abandonment:** If all players leave, instance resets in 15 seconds
-- **Failure conditions:** None - take your time
+Each instance runs for its full duration (60 or 90 minutes). If the boss is not killed before time runs out, the instance ends without a reward chest or doubloons.
+
+If all players leave the instance before completing it, it resets automatically after **15 seconds**.
 
 ### Pirate Instance Clock
 
-A special clock item displays:
+A physical clock item is placed inside each instance at a fixed location. **Single-click it** to see:
 
-- Remaining enemies in the instance
-- Click to see current count
-- Helps track progress
-- Updates in real-time
+- The instance name
+- Time remaining (or current status)
+- Number of remaining pirates (or `(Boss)` if the boss is currently alive)
+
+### Spell Restrictions
+
+Inside any active pirate instance, the following spells are blocked:
+
+- Recall, Mark, Gate Travel, Teleport
+
+All other spells function normally.
 
 ## Rewards
 
-### Pirate Currency
+### Reward Chest
 
-Complete pirate instances to earn pirate-specific currency:
+On successful completion (boss killed), a **Pirate's Chest** spawns at a fixed location inside the instance, colored to match the instance type. It is:
 
-- Amount scales with map tier
-- Awarded upon defeating the boss
-- Can be spent at reward vendors in Dawn
-- Saved across all characters on your account
+- **Locked** (requires 100 Lockpicking skill — lock level ~95–101)
+- **Trapped** with an Explosion Trap
 
-### Loot
+The map activator automatically receives a **gold key** in their backpack to open the chest.
 
-Pirates and bosses drop valuable items:
+### Doubloons
 
-- Weapons and armor
-- Gold
-- Magic items
-- Special shipwrecked items with unique labels
-- Rare decorative items
+Doubloons can be spent at the Buccaneer's Bazaar.
 
-### Unique Items
+### Instance Rares
 
-Special items only found in pirate instances:
+Each instance has a **chance** for one of two rare decorative items to spawn somewhere in the environment at the start. These are free-standing items in the world — find them and pick them up during the instance.
 
-- Shipwrecked goods (decorative)
-- Special fish (if fishing allowed)
-- Pirate-themed equipment
-- Boss-specific drops
+## Enemy Types
+
+### Hideaway Pirates
+
+| Mob                  | Role                                              |
+| -------------------- | ------------------------------------------------- |
+| Pirate Bard          | Support/distraction                               |
+| Pirate Bartender     | Melee                                             |
+| Pirate Bodyguard     | Heavy melee (also summoned by Captain Dreadstorm) |
+| Pirate Cannon        | Environmental hazard                              |
+| Pirate Cannoneer     | Operates cannons, ranged attacks                  |
+| Pirate Captain       | Elite melee commander                             |
+| Pirate Cook          | Melee                                             |
+| Pirate Deckhand      | Light melee                                       |
+| Pirate Lookout       | Scout type, can hide and stealth                  |
+| Pirate Navigator     | Melee                                             |
+| Pirate Quartermaster | Melee                                             |
+
+### General Pirate Types (across instances)
+
+| Mob                 | Notes                |
+| ------------------- | -------------------- |
+| Pirate              | Standard melee       |
+| Pirate Sailor       | Standard melee       |
+| Pirate Skeleton     | Undead melee         |
+| Pirate Zombie       | Undead melee         |
+| Scurvy Surgeon      | Utility/healer type  |
+| Venomweb Privateer  | Ranged/poison        |
+| Nightmare Arachnid  | Large spider variant |
+| Ancient Sea Serpent | Sea creature         |
+| Ancient Kraken      | Large sea creature   |
+
+### Skill Scaling
+
+Pirate stats are rolled on a **rank 1–9 scale** per enemy type, covering:
+
+- **Combat skills** (Swords, Fencing, Macing, Archery, Wrestling)
+- **Support skills** (Tactics, Anatomy, Parry)
+- **Magic skills** (Magery, Eval Int, Meditation)
+- **Defense skills** (Magic Resist)
+
+## Buccaneer's Bazaar
+
+The **Buccaneer's Bazaar** is run by **Captain Marrow** (the trader), a vendor you can double-click to open the store. The store can be disabled by staff; if so, Captain Marrow will not accept customers.
+
+**Items for sale (default prices):**
+
+| Item                                    | Cost              |
+| --------------------------------------- | ----------------- |
+| Pirate Painting (Sunken Sun)            | 20 doubloons      |
+| Pirate Painting (2 additional variants) | 20 doubloons each |
+| Pet Parrot                              | 50 doubloons      |
+| Parrot Perch                            | 25 doubloons      |
+| Pirate Cargo (decorative crate)         | 35 doubloons      |
+| Pirate Cannon (housing deco)            | 50 doubloons      |
+| Pirate Sea Chart                        | 40 doubloons      |
+| Bucket of Ship Stain – Base             | 75 doubloons      |
+| Bucket of Ship Stain – Dark Blue        | 75 doubloons      |
+| Bucket of Ship Stain – Dark Red         | 75 doubloons      |
+| Bucket of Ship Stain – Dark Green       | 75 doubloons      |
+| Bucket of Ship Stain – Dark Purple      | 75 doubloons      |
+| Bucket of Ship Stain – Dark Gray        | 75 doubloons      |
+
+Buckets of Ship Stain are used to recolor your ship.
+
+!!! note "Prices"
+    Default prices are listed above. Actual in-game prices may differ if adjusted by staff.
 
 ## The Smuggler's Market
 
 ### What is it?
 
-Shady merchants have set up trading posts throughout the world, selling resources and supplies at premium prices. These "seafaring entrepreneurs" only conduct business at night.
+Shady merchants have set up trading posts throughout the world, selling resources and supplies at premium prices. These merchants only conduct business at night.
 
 **Features:**
 
@@ -195,7 +248,6 @@ Shady merchants have set up trading posts throughout the world, selling resource
 - Sell resources at premium prices
 - Multiple locations across Britannia
 - Accept gold only
-- Useful when resources are scarce
 
 **What They Sell:**
 
@@ -205,51 +257,44 @@ Shady merchants have set up trading posts throughout the world, selling resource
 - Other supplies
 
 !!! tip "Night Trading"
-    If you're desperate for supplies and can't wait for shops to restock, smugglers offer a convenient (if expensive) alternative during night hours.
+    If you're desperate for supplies, smugglers offer a convenient (if expensive) alternative during night hours.
 
 ## Strategy & Tips
 
+### Map Restoration
+
+- Stock up on Bottles of Vinegar before you start hunting for maps.
+- The 90 Cartography requirement means you'll need a dedicated cartographer or a character with that skill trained.
+
 ### Group Composition
 
-- **Tank:** Warrior or tamer with dragon for boss aggro
-- **Healer:** Mage or bard to keep the group alive
-- **DPS:** Dexxers or mages for damage output
-- **Support:** Bard for provocation and discord
+- **Tank or Tamer:** Boss fights are sustained — having something to absorb aggro matters.
+- **Healer/Support:** Especially important in the Tomb where the Ancient Pirate Mummy paralyzes.
+- **Damage dealers:** More damage means a faster clear before the timer pressure matters.
 
 ### Tactics
 
-- Clear regular pirates systematically
-- Watch for scout-type enemies that flee
-- Position carefully around cannons
-- Save resources for boss fights
-- Communicate boss ability timing
+- Eliminate **Lookouts and Scouts** early — they hide and re-engage, making it hard to determine if the area is truly clear.
+- **Cannoneers** deal significant ranged damage; take them out before they fire repeatedly or position out of their arc.
+- The boss spawns only after **all regular pirates** are dead — clear methodically to avoid missing strays that stall the boss trigger.
+- The **Treasure Cave** and **Tomb** have 90-minute timers rather than 60 — use that extra time on larger groups or harder clearing.
 
-### Optimal Builds
+### Chest Key
 
-- **Tamer:** Excellent for all tiers, pets tank boss damage
-- **Mage:** Area damage for pirate groups, healing support
-- **Dexxer:** High damage on bosses, especially purple tier
-- **Bard:** Provocation invaluable for managing multiple pirates
-
-### Common Mistakes
-
-- Rushing into cannon fire
-- Ignoring scouts that alert reinforcements
-- Not saving heals/resources for bosses
-- Entering without a group on higher tiers
+The chest key goes to the **map activator** only. Make sure the activator has backpack space when completing the instance.
 
 ## Patch History
 
 Pirate Adventures were introduced in **Patch 0.16** and have received extensive updates:
 
-- **0.16:** Initial pirate instance system (Red tier testing)
+- **0.16:** Initial pirate instance system
 - **0.17:** Pirate restrictions added
 - **0.18:** Instance counter and improvements
 - **0.19:** LOS blocking for cannons, label fixes
 - **0.20:** Barding difficulty adjustments
-- **0.23:** Ancient Drowner buffs, ethy restrictions
+- **0.23:** Ancient Drowner buffs, ethereal mount restrictions
 - **0.24:** Extensive pirate AI and stat improvements, Captain Grimjaw buffs
-- **0.25:** Instance timer adjustments (completion 10min → 5min)
+- **0.25:** Instance timer adjustments (completion 10min → 5min grace period)
 - **0.30:** Boss timer fixes
 - **0.43:** Smuggler merchants added
 
@@ -257,5 +302,5 @@ For detailed changes, see the [patch notes](../patches/index.md).
 
 ## Related Systems
 
-- [Currencies](../game-mechanics/currencies.md) - Pirate currency and rewards
+- [Currencies](../game-mechanics/currencies.md) - Pirate doubloons and rewards
 - [Achievements](achievements.md) - Pirate-related achievements

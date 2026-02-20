@@ -1,290 +1,238 @@
 # Spirit Summoner
 
-The Spirit Summoner is a unique mage build that combines Magery with Spirit Speak to create powerful necromantic summons unavailable to traditional mages. This build offers a completely different summoning experience with enhanced creatures, unique abilities, and tactical options.
+The Spirit Summoner is a unique mage archetype that fuses Magery with Spirit Speak, allowing you to channel spirits from beyond the veil to summon fundamentally different — and more powerful — creatures than any ordinary mage can achieve. This is one of New Dawn's most significant custom systems.
 
-## Overview
+## What Is a Spirit Summoner?
 
-While standard mages summon creatures through pure magical force, Spirit Summoners tap into necromantic arts to call forth spirits from beyond. By developing Spirit Speak alongside Magery, you gain access to special summons, enhanced traditional summons, and the ability to command Blade Spirits and Energy Vortexes.
+A Spirit Summoner is any character who meets two simultaneous conditions:
 
-This is one of New Dawn's most significant custom systems, fundamentally changing how summoning works for dedicated practitioners.
+- **Spirit Speak ≥ 50**
+- **Spirit Speak ≥ Magery** (equal counts — you simply cannot have Magery exceed Spirit Speak)
 
-## What is a Spirit Summoner?
+Once both conditions are met, every summoning spell you cast is enhanced through the spirit summoner path. If your Magery ever exceeds your Spirit Speak, or Spirit Speak drops below 50, you lose spirit summoner status and revert to normal mage summoning.
 
-A Spirit Summoner is defined as:
+### Proximity Hints
 
-- A character with **50+ Spirit Speak**
-- Spirit Speak skill **higher than Magery**
-- Access to unique summoning benefits
+As you approach the requirements, the system provides feedback:
 
-Once you meet these requirements, you're considered a Spirit Summoner and gain access to all the system's benefits.
+| Closeness to Qualifying          | Message                                   |
+| -------------------------------- | ----------------------------------------- |
+| Spirit Speak within 10 of Magery | _"You sense restless spirits nearby..."_  |
+| Spirit Speak within 6 of Magery  | _"Ghostly whispers swirl around you..."_  |
+| Spirit Speak within 3 of Magery  | _"The veil between worlds grows thin..."_ |
 
-## Spirit Speak Benefits
+---
 
-### 5th Circle Summons (Custom Creatures)
+## Summon Duration
 
-When a Spirit Summoner casts 5th circle summoning spells, they summon entirely different creatures:
+Spirit Summoner summons use a Spirit Speak-based duration formula instead of the fixed durations normal mages receive:
 
-**Standard Mage:** Summons regular creatures (Earth Elemental, Water Elemental, etc.)
+| Spirit Speak | Duration    |
+| ------------ | ----------- |
+| 50           | 6 minutes   |
+| 60           | 6.8 minutes |
+| 70           | 7.6 minutes |
+| 80           | 8.4 minutes |
+| 90           | 9.2 minutes |
+| 100          | 10 minutes  |
 
-**Spirit Summoner:** Summons special spirit creatures with unique appearances and abilities
+This applies to 5th circle spirit creatures **and** all 8th circle summons (elementals and daemon).
 
-These spirit creatures are:
+---
 
-- Visually distinct from normal summons
-- More powerful than standard 5th circle summons
-- Have unique abilities appropriate to their spirit nature
-- Scale with your Spirit Speak skill
+## Stat Scaling
 
-### 8th Circle Summons (Enhanced)
+The strength of your spirit summons scales with two skills working together: **Spirit Speak** and **Animal Lore**.
 
-Spirit Summoners' 8th circle summons (Air Elemental, Earth Elemental, Fire Elemental, Water Elemental, Daemon) are significantly enhanced:
+### The Stat Scaler Formula
 
-**Base Stats Increased:**
+This scaler is applied as a percentage increase to **all base stats, all skills, and armor** on the creature at the moment of summoning:
 
-- All 8th circle summons have greatly increased base stats and skills
-- This boost applies before Spirit Speak scaling
-- Makes them much stronger than standard mage summons
+- Strength, Dexterity, Intelligence (and their derived pools)
+- All skill values
+- Armor (additional scaling: `statScaler × AL/100`)
 
-**Spirit Speak Scaling:**
+Both 5th circle and 8th circle summons use the same scaler value. The only difference is that 5th circle summons are also forced to 1 control slot.
 
-- Stats and skills further boosted by your Spirit Speak level
-- The higher your Spirit Speak, the stronger the summon
-- Caps at GM (100) Spirit Speak
+!!! tip "Animal Lore is Core"
 
-**Enhanced Follow Speed:**
+    At GM Animal Lore (100), you receive the full 35% stat boost. Without Animal Lore, the scaler is zero and your summons receive no stat enhancement at all. **Animal Lore is not optional — it is the primary stat multiplier for the entire system.**
 
-- Spirit summons follow significantly faster
-- Increased distance before they stop following
-- More responsive in combat situations
+### Stat Scaler by Animal Lore
 
-**Appearance:**
+| Animal Lore | Stat Scaler | Result (% boost to all stats/skills) |
+| ----------- | ----------- | ------------------------------------ |
+| 0           | 0.00        | +0%                                  |
+| 25          | 0.0875      | +8.75%                               |
+| 50          | 0.175       | +17.5%                               |
+| 75          | 0.2625      | +26.25%                              |
+| 100         | 0.35        | +35%                                 |
 
-- Spirit summons have a distinct "spirit" hue
-- Easily identifiable as spirit-enhanced creatures
-- Shows your dedication to the necromantic arts
+---
 
-### Blade Spirits and Energy Vortex
+## 5th Circle: Spirit Creature Pool
 
-Spirit Speak dramatically changes how BS and EV work:
+When a Spirit Summoner casts the 5th circle Summon Creature spell, the game picks randomly from a special pool of spirit creatures instead of the standard summons. All spirit creatures are summoned with 1 control slot and use the Spirit Speak duration formula.
 
-#### Without Spirit Speak (Standard Mage)
+| Creature       | Notable Ability                                                               |
+| -------------- | ----------------------------------------------------------------------------- |
+| Polar Bear     | —                                                                             |
+| Panther        | —                                                                             |
+| Giant Serpent  | 80% chance to inflict Greater or Deadly poison on hit                         |
+| Imp            | —                                                                             |
+| Spiritual Soul | —                                                                             |
+| Scorpion       | 80% chance to inflict Greater or Deadly poison on hit; Poisoning skill 80–100 |
+| Dire Wolf      | —                                                                             |
+| Giant Spider   | Inflicts regular poison on hit                                                |
 
-- BS and EV will attack you
-- Cannot be controlled
-- No special abilities
-- Standard summoning time
-- Normal stats
+---
 
-#### With Spirit Speak (Spirit Summoner)
+## 8th Circle: Enhanced Summons
 
-Spirit Speak provides escalating benefits:
+Spirit Summoners' 8th circle summons (Air Elemental, Earth Elemental, Fire Elemental, Water Elemental, Daemon) receive the full stat scaling treatment and appear with a distinctive spirit hue.
 
-**At 50+ Spirit Speak:**
+### Spirit Hues
 
-- BS and EV ignore you (won't attack their summoner)
-- Slight stat increase
+| Creature        | Hue  |
+| --------------- | ---- |
+| Daemon          | 2152 |
+| Earth Elemental | 2191 |
+| Fire Elemental  | 2191 |
+| Water Elemental | 2177 |
+| Air Elemental   | 2177 |
+| Other           | 2178 |
 
-**At GM (100) Spirit Speak:**
+### Daemon: Reduced Control Slots
 
-- **Full command control:** Use "all follow me", "all attack", "all guard me"
-- **Poison attacks:** 40% chance to poison targets on hit
-- **Significantly increased stats and hit points**
-- Visual distinction (spirit hue)
-- Don't attack the summoner
+A spirit-summoned Daemon costs only **3 follower slots** (vs. 4 for a standard Daemon) and is named _"Spirit of [name]"_.
 
-**Note on Duration:**
+### No Scrolls for 8th Circle
 
-- BS and EV summon duration is NOT affected by Spirit Speak
-- They have a set duration regardless of skill level
-- Spirit Speak affects their power, not their time
+Spirit Summoners **cannot cast 8th circle summon spells from scrolls**. The system returns the message:
 
-### Spirit Speak and Animal Lore Synergy (Patch 1.0)
+> _"A spirit summoner must channel their will directly through the arcane words."_
 
-Recent updates have made Animal Lore a crucial part of the Spirit Summoner build:
+You must cast from your own skill. Scrolls work normally for non-spirit-summoner characters.
 
-**Animal Lore Benefits:**
+---
 
-- **Directly affects the base strength of your summons** - This is a major boost!
-- Works in conjunction with Spirit Speak for multiplicative benefits
-- Creates significantly more powerful summons at high levels
-- **Essential for maximizing your Spirit Summoner's potential**
+## Summon Healing Bonus
 
-**Spirit Speak Focus:**
+When you heal a summoned creature and you have the ability to hear ghosts, your heal receives a bonus:
 
-- Affects summon healing
-- Affects dispel resistance  
-- Affects summon duration (except BS/EV)
+At GM Spirit Speak (100), you heal your spirit summons for up to **50% more** than the base heal amount.
 
-!!! warning "Don't Skip Animal Lore"
-    While you can technically be a Spirit Summoner without Animal Lore, you'll be operating at significantly reduced effectiveness. The base strength bonus from Animal Lore is substantial and should be considered a core skill for any serious Spirit Summoner build.
-
-This creates powerful synergy - Spirit Speak affects how your summons perform in combat (healing, dispel resistance, duration), while Animal Lore makes them fundamentally stronger from the moment they're summoned.
-
-## Summon Healing
-
-Spirit Summoners' pets and summons receive healing bonuses:
-
-- Summoned creatures heal faster
-- Controlled pets benefit as well
-- Scales with Spirit Speak skill
-- Does NOT allow summons/pets to self-heal
+---
 
 ## Dispel Resistance
 
-Your summons are harder to dispel:
+Spirit Summoned creatures are harder to dispel. Resistance is governed by your Spirit Speak at the time of the dispel attempt.
 
-**Player Dispel:**
+### Player-Cast Dispel / Mass Dispel
 
-- 50% base chance to resist at GM Spirit Speak
-- Applies to both Dispel and Mass Dispel spells
-- When cast by players
+At GM Spirit Speak: **50% chance** to resist a player's Dispel or Mass Dispel.
 
-**Monster Auto-Dispel:**
+### NPC/Monster Auto-Dispel
 
-- Some monsters (like Dragons) have auto-dispel on melee
-- Spirit Speak reduces this chance
-- Previously 100% chance, now reduced based on SS skill
-- Protection against instant-dispel mechanics
+At GM Spirit Speak: **80% chance** to resist auto-dispel triggered by a monster's melee attack.
 
-**GM Spirit Speak vs NPC Dispel:**
+### NPC-Cast Dispel (e.g. a monster casting the spell)
 
-- 80% chance to resist NPC-cast Dispel/Mass Dispel
-- Makes your summons much more durable in PvM
+At GM Spirit Speak: **99% chance** to resist a dispel spell cast by an NPC creature.
+
+!!! note "Dispel Resistance Applies to Spirit Summons Only"
+    Resist chances only apply to creatures that were enhanced through the spirit summoner path. Standard summons cast while you happen to have Spirit Speak do not receive resistance.
+
+---
+
+## Blade Spirits and Energy Vortex
+
+Blade Spirits and Energy Vortex are **not** affected by Spirit Summoner status. Both spells summon their creatures through a different code path that bypasses the spirit summoner system entirely:
+
+- They do **not** receive the stat scaler
+- They do **not** attack a spirit summoner
+- Their duration (random 40–120 seconds) is **not** affected by Spirit Speak
+- They cannot be commanded (`all follow`, `all attack`, etc.)
+
+This is working as designed. If you want controllable summons, use 5th or 8th circle spirit summons instead.
+
+---
+
+## Comparison: Spirit Summoner vs. Standard Mage
+
+| Aspect                   | Standard Mage             | Spirit Summoner                |
+| ------------------------ | ------------------------- | ------------------------------ |
+| 5th Circle Summons       | Random standard creatures | Unique spirit creature pool    |
+| 8th Circle Stats         | Base stats                | +35% at GM Animal Lore         |
+| 8th Circle Duration      | Fixed                     | 6–10 min (Spirit Speak scaled) |
+| Daemon Control Slots     | 4                         | 3                              |
+| 8th Circle Scrolls       | Yes                       | No                             |
+| Dispel Resist (player)   | None                      | Up to 50% (GM SS)              |
+| Dispel Resist (NPC auto) | None                      | Up to 80% (GM SS)              |
+| Dispel Resist (NPC cast) | None                      | Up to 99% (GM SS)              |
+| Summon Heal Bonus        | Standard                  | Up to +50% (GM SS)             |
+| Spirit Hue               | No                        | Yes                            |
+| Blade Spirits/EV         | They attack you           | They ignore you                |
+
+---
 
 ## Building a Spirit Summoner
 
 ### Core Skills
 
-- **Magery:** 100 - Essential for casting summon spells
-- **Spirit Speak:** 100 - Maximum summoning benefits
-- **Evaluating Intelligence:** 100 - Spell damage
-- **Meditation:** 100 - Mana regeneration
-- **Animal Lore:** 100 - **Highly Recommended** - Significantly boosts summon base strength
+| Skill                   | Level | Notes                                                                 |
+| ----------------------- | ----- | --------------------------------------------------------------------- |
+| Magery                  | 100   | Required for all summon spells                                        |
+| Spirit Speak            | 100   | Must be ≥ Magery; controls duration, healing bonus, and dispel resist |
+| Animal Lore             | 100   | Required for full stat scaling — do not skip this                     |
+| Evaluating Intelligence | 100   | Spell power                                                           |
+| Meditation              | 100   | Mana regeneration                                                     |
 
-!!! tip "Animal Lore is Critical"
-    While not technically required, **Animal Lore is extremely important** for Spirit Summoners. It directly affects the base strength of all your summons, making them substantially more powerful. Without it, you're missing a major component of the build's potential.
+### Optional Supporting Skills
 
-### Additional Recommended Skills
+- **Resisting Spells** — PvP survivability
+- **Wrestling** — Defensive skill, avoids spell disruption
+- **Inscription** — Spell damage bonus
 
-- **Resisting Spells:** PvP survival and spell defense
-- **Wrestling:** Defensive capability and avoiding disruption
-- **Inscription:** Spell damage boost
+### Stats
 
-### Stat Distribution
+- **Intelligence:** 100+ (primary mana pool)
+- **Dexterity:** 25–50 (casting speed)
+- **Strength:** 25–75 (reagent carrying and equipment requirements)
 
-- **Intelligence:** 100+ (primary)
-- **Dexterity:** 25-50 (casting speed)
-- **Strength:** 25-75 (as needed for equipment/reagents)
+---
 
-## Combat Strategy
+## Combat Tips
 
-### PvM (Player vs Monster)
+### PvM
 
-**Summon Rotation:**
+1. Open with a 8th circle summon (Daemon for damage, or Elemental preference)
+2. Use 5th circle spirit creatures as additional meatshields / poison deliverers
+3. Keep Spirit Speak ≥ Magery so your summons remain spirit-enhanced
+4. Heal spirit summons — your bonus heal makes this efficient at GM Spirit Speak
 
-1. Cast 8th circle summon (Daemon preferred)
-2. Cast Blade Spirits in front line
-3. Cast Energy Vortex for additional DPS
-4. Support with direct damage spells
-5. Heal summons as needed
+### PvP
 
-**Advantages:**
+- Dispatch 8th circle summons early; they're durable and dispel-resistant
+- Giant Serpent and Scorpion spirit creatures are useful for persistent poison pressure
+- Blade Spirits and Energy Vortex still provide raw pressure but cannot be directed
 
-- Multiple creatures tanking damage
-- High total DPS output
-- BS/EV poison chance wears down tough enemies
-- Dispel resistance keeps summons alive
-
-### PvP (Player vs Player)
-
-**Tactics:**
-
-- EV and BS apply pressure while you cast
-- Poison chance disrupts enemy healing
-- Command control allows tactical positioning
-- Summons can body block escape routes
-
-**Weaknesses:**
-
-- Vulnerable while casting summons
-- Can be interrupted during long cast times
-- Summons can be avoided by skilled players
-- Energy Vortex and Blade Spirits target priority not always ideal
-
-## Comparison: Spirit Summoner vs Standard Mage
-
-| Aspect             | Standard Mage          | Spirit Summoner             |
-| ------------------ | ---------------------- | --------------------------- |
-| 5th Circle Summons | Regular creatures      | Unique spirit creatures     |
-| 8th Circle Summons | Standard stats         | Greatly enhanced stats      |
-| BS/EV Control      | None (they attack you) | Full command control at GM  |
-| BS/EV Poison       | No                     | 10-40% chance based on SS   |
-| Dispel Resistance  | Standard               | 50-80% vs player/NPC dispel |
-| Follow Speed       | Standard               | Significantly enhanced      |
-| Summon Healing     | Standard               | Enhanced with SS            |
-| Build Requirement  | Magery only            | Magery + Spirit Speak       |
-
-## Advanced Tips
-
-### Maximizing Damage
-
-- Keep all summons active (1x 8th, 2x BS, 2x EV if possible)
-- Position BS/EV between you and enemy
-- Use direct damage spells while summons engage
-- Let poison chance stack on tough targets
-
-### Summon Management
-
-- Use "all follow" to regroup summons
-- Use "all guard me" for defense
-- Use "all attack" to focus fire
-- Monitor summon timers (single-click to see remaining time on 8th circle)
-
-### Resource Management
-
-- Spirit Speak doesn't extend BS/EV duration - manage timing
-- 8th circle summons last longer - prioritize these
-- Carry plenty of reagents for sustained summoning
-- Consider Inscription for additional spell power
-
-### PvP Considerations
-
-- Pre-summon before engagement if possible
-- BS/EV cast times are shorter - use for quick pressure
-- Be ready to recast if dispelled
-- Your dispel resistance helps but isn't guaranteed
-
-## Common Mistakes
-
-- **Not taking Animal Lore (biggest mistake!)** - Missing substantial base summon strength
-- Not keeping Spirit Speak higher than Magery (loses Spirit Summoner status)
-- Forgetting to command BS/EV (they're controllable!)
-- Oversummoning without managing reagent costs
-- Standing still while casting (easy PvP target)
+---
 
 ## Patch History
 
-Spirit Summoner mechanics have evolved significantly:
+- **0.15:** Initial Spirit Speak summon enhancements introduced
+- **0.16:** Custom 5th circle spirit creature pool added
+- **0.18:** 8th circle enhancements; dispel resistance system added
+- **0.29:** Spirit Summoner requirements formalized (SS ≥ 50, SS ≥ Magery)
+- **0.48:** Follow speed and distance increases for spirit summons; additional 8th circle stat boosts
+- **1.0:** Animal Lore synergy added; Spirit Speak now governs healing bonus and summon duration
 
-- **0.15:** Initial Spirit Speak summon enhancements
-- **0.16:** Custom 5th circle spirit creatures added
-- **0.18:** BS/EV enhancements, dispel resistance added
-- **0.18:** Casting delay adjustments for summon spells
-- **0.29:** BS/EV control and poison mechanics refined
-- **0.29:** Spirit summoners (SS > 50, SS > Magery) defined
-- **0.48:** Spirit summon follow speed and distance increased
-- **0.48:** Additional stat boosts to 8th circle summons
-- **1.0:** Animal Lore synergy added, Spirit Speak affects healing/dispel/duration
+For the full change history, see the [patch notes](../patches/index.md).
 
-For complete history, see the [patch notes](../patches/index.md).
+---
 
 ## Related Systems
 
-- [Magic System](../game-mechanics/magic.md) - Core magic mechanics
-- [Magery](../game-mechanics/skills/magic/magery.md) - Magery skill details
-- [Spirit Speak](../game-mechanics/skills/magic/spirit-speak.md) - Spirit Speak skill details
-- [Combat System](../game-mechanics/combat.md) - Combat mechanics with summons
-
-## Conclusion
-
-The Spirit Summoner build offers a unique playstyle unavailable in classic UO or most other servers. It rewards investment in Spirit Speak with powerful, versatile summons that can tackle both PvM and PvP content. Whether you want to command an undead army or have truly powerful demonic allies, the Spirit Summoner build delivers a fresh take on the classic UO mage.
+- [Magic System](../game-mechanics/magic.md)
+- [Combat System](../game-mechanics/combat.md)

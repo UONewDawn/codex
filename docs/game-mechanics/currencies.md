@@ -81,36 +81,15 @@ Rift Shards are earned by defeating powerful rift masters.
 **How to Earn:**
 
 - Deal damage to rift masters in Codex Rifts
-- Top damager gets 5 shards
+- Top damager gets the most shards
 - Scaling down based on damage contribution
 - Minimum 1 shard for significant contribution
 
 **Uses:**
 
 - Codex Rift-themed rewards
-- Time-displaced artifacts
 - Historical recreations
 - Special decoratives
-
-### Codex Shards
-
-**Source:** Codex Rifts
-
-Codex Shards are a rarer currency from Codex Rift content.
-
-**How to Earn:**
-
-- Low chance drop from any mob killed inside a rift
-- Much rarer than Rift Shards
-- Pure RNG-based
-- Chance can be adjusted by staff for events
-
-**Uses:**
-
-- Premium Codex Rift rewards
-- Rarest rift-related items
-- Exclusive decorations
-- Prestigious items
 
 ## Reward Vendors
 
@@ -152,105 +131,6 @@ All currency-based reward vendors are located in **Dawn**, the Event Center:
 - Historical artifacts
 - Rift-themed decorations
 
-## Rewards Available
-
-### Dye Types
-
-**Mask Dyes:**
-
-- Color masks and certain equipment
-- Various hues available
-- Champion/Harrower rewards
-
-**Dragon Dyes:**
-
-- Rare and prestigious
-- Special hues
-- High-end rewards
-
-**Runebook Dyes:**
-
-- Customize runebook colors
-- Organizational benefits
-- Various tier rewards
-
-**Ore Mask Dyes:**
-
-- Tier 1: Shadow Iron, Gold, Valorite (700 points)
-- Tier 2: Agapite, Verite (600 points)
-- Tier 3: Dull, Copper, Bronze (350 points)
-- BOD reward integration
-
-**Special Mask Dyes:**
-
-- Tier 1 and Tier 2 variants
-- Alternative to ore dyes
-- BOD reward options
-
-### Equipment & Wearables
-
-**Hoods:**
-
-- Wearable hood (as reward)
-- Various hues available
-- Craftable at 115 Tailoring (Patch 0.40)
-
-**Shrouds:**
-
-- Generic wearable shroud
-- Rare reward item
-- Customizable
-
-**Bone Masks:**
-
-- Decorative face wear
-- Reward vendor item
-
-### Decorative Items
-
-**From Champions/Harrower:**
-
-- Tapestries
-- Stretched hides
-- Statues
-- Tailoring shelves
-- Bear/polar bear rugs
-
-**From Rifts:**
-
-- Monster statues with rift hues
-- Historical recreations
-- Time-displaced items
-
-**From Pirates:**
-
-- Naval decorations
-- Shipwrecked items
-- Pirate-themed decor
-
-### Power Items
-
-**Clothing Bless Deed:**
-
-- BOD reward (550 points)
-- Blesses one clothing item
-- Protects from loss on death
-
-## BOD (Bulk Order Deed) Integration
-
-Tailoring BODs award points that can be spent on rewards overlapping with currency vendors:
-
-**BOD Point Rewards:**
-
-- Ore mask dyes (tiers 1-3)
-- Special mask dyes (tiers 1-2)
-- Clothing bless deed
-- Various decoratives
-
-See [Crafting](crafting.md) for complete BOD details.
-
-## Currency Display
-
 ### Checking Your Balance
 
 **In [Profile]:**
@@ -260,61 +140,9 @@ See [Crafting](crafting.md) for complete BOD details.
 - Account-wide tracking
 - Quick reference
 
-**Coin Sounds:**
+**Game Portal:**
 
-- Hear coin sound when awarded pirate currency
-- Hear coin sound for champion tokens
-- Audio feedback for rewards
-
-## Account-Wide Currency
-
-All currencies are account-wide:
-
-- Earn on one character
-- Spend on any character
-- Shared pool across account
-- Encourages character diversity
-
-## Strategy & Tips
-
-### Earning Efficiently
-
-**Champion Tokens:**
-
-- Run multiple champions per session
-- Group up for faster clears
-- Learn champion mechanics
-- Optimize damage output
-
-**Harrower Shards:**
-
-- Requires coordination (6 skulls)
-- Guild effort recommended
-- Highest value rewards
-- Worth the effort
-
-**Pirate Currency:**
-
-- Run maps regularly
-- Progress through tiers
-- Group for higher tiers
-- Consistent income
-
-**Rift Shards:**
-
-- Hunt rift spawns actively
-- Enter gates when available
-- Maximize damage on rift masters
-- Group recommended
-
-## Future Additions
-
-The currency and reward system continues to expand:
-
-- New reward items added regularly
-- Seasonal exclusive rewards possible
-- Additional currency types may be introduced
-- More vendor variety
+- You can also view your balances on the portal
 
 Check [patch notes](../patches/index.md) for new additions.
 

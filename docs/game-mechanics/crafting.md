@@ -284,16 +284,6 @@ Get leather from creatures:
 
 ### Farming & Gardening
 
-New Dawn features an extensive farming system (see [Gardening](../custom-systems/gardening.md) for complete details):
-
-**Plant Cultivation:**
-
-- Seeds drop from animals that eat seed-bearing plants
-- Fertile dirt from animals that spend time in dirt (boars, etc.)
-- Plant seeds in fertile dirt
-- Wait for growth
-- Harvest when mature
-
 **Cotton & Flax Farming:**
 
 - Wild cotton/flax fields across Britannia

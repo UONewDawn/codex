@@ -10,27 +10,27 @@ While New Dawn preserves the core UO experience players know and love, it introd
 
 ### [Codex Rifts](codex-rifts.md)
 
-Step through portals in time to experience pivotal moments from Britannia's history during the Codex War. Defeat rift spawns that appear throughout the world to create gates leading to instanced battles with unique champions and valuable rewards.
+Hunt colored, buffed rift spawns across Britannia — kill one and a gate may tear open at its corpse. Players within 16 tiles step through into an instanced Felucca battlefield where 4 waves of creatures stand between them and a powerful Rift Master boss.
 
 **Key Features:**
 
-- Rift spawns appear randomly across the world
-- Instanced content with Felucca ruleset
-- 8 unique rift champions (3 active at a time)
-- Earn Rift Shards and Codex Shards as currency
-- Rare statue drops from rift masters
+- Rift spawn gate chance: 1%–50% based on creature fame; gate closes after 45 seconds
+- 8 rift locations (Yew, Moonglow, Britain, Jhelom, Vesper, Minoc, Trinsic, Skara Brae), 3 active at a time
+- Four waves per rift culminating in a unique Rift Master boss
+- 60-minute player time limit; Recall, Mark, Gate, and Teleport blocked inside
+- Rift Shards from boss (up to 5, scaled by damage) and random mob drops
 
 ### [Pirate Adventures](pirate-adventures.md)
 
-Discover hidden pirate havens through special treasure maps that lead to instanced encounters filled with dangerous pirates, cunning bosses, and valuable loot. Different map tiers offer progressively challenging content.
+Restore deteriorating pirate maps found in Ship's Strongboxes, then activate them to open a gate to one of four instanced pirate encounters. Clear the pirates, defeat the boss, and claim the locked reward chest for gold, magic items, and doubloons.
 
 **Key Features:**
 
-- Multiple map tiers (Red, Blue, Purple, etc.)
-- Instanced pirate encounters
-- Unique bosses like Ancient Drowner and Captain Grimjaw
-- Pirate cannons and ship combat
-- Smuggler merchants with rare goods
+- Four distinct instances: Hideaway, Lighthouse, Treasure Cave, and Tomb
+- Unique bosses: Captain Dreadstorm, Ancient Drowner, Captain Grimjaw, Ancient Pirate Mummy
+- Maps must be restored with a Bottle of Vinegar (90 Cartography required)
+- Locked reward chest with key awarded to the map activator
+- Spend doubloons at the Buccaneer's Bazaar (Captain Marrow)
 
 ### [Capture the Flag](capture-the-flag.md)
 
@@ -46,50 +46,52 @@ Engage in classic team-based PvP battles in this 10v10 structured combat system.
 
 ### [Archaeology System](archaeology.md)
 
-Uncover artifacts and treasures from Britannia's past by following clues found throughout the world. Use specialized tools and skills to excavate dig sites and discover rare items.
+Decode clues dropped by monsters to reveal dig site coordinates, then excavate in three tool stages across active ruins in Britain and Moonglow. Higher skills improve both success rates and your chance of finding something valuable.
 
 **Key Features:**
 
-- Map fragments from fishing
-- Journal and book page clues from monsters
-- Three-stage excavation process
-- Artifact rarity tiers
-- Requires Mining, Cartography, Inscription, and Item Identification
+- Five clue types: map fragments, expedition notes, journal pages, book pages, digging permits
+- Decoded using Cartography (map fragments) or Inscription (all others) — requires 70+ skill
+- Three-stage excavation: Shovel (Mining 80+) → Pick Hammer (Mining 90+) → Brush (Item ID 80+)
+- Find chance scales with Mining, Cartography, Item ID, and hidden clue quality (max 75%)
+- Active dig regions: Britain and Moonglow (Minoc, Trinsic, Yew planned)
 
 ### [Conquest of the Virtues](conquest-of-virtues.md)
 
-Claim territory in four ruined locations across Britannia through guild-based warfare. Control these strategic points to gain benefits for your guild and establish dominance.
+Order and Chaos guilds battle over four ruined locations across Britannia in automated 60-minute ticket-based PvP matches. Control more capture points than the enemy to drain their tickets — first faction to zero loses.
 
 **Key Features:**
 
-- Four ruined locations to control
-- Guild-based territory system
-- Strategic warfare and territory defense
-- Guild progression and benefits
+- Four ruins, each with 3–5 capture points and independent 4-hour rotation timers
+- 400 tickets per faction; deaths and capture point pressure drain tickets
+- Physical flags that rise as capture progresses
+- Auto-respawn system with full heal and debuff clear
+- Live scoreboard with per-player Kill/Death/Capture stats
+
+### [Dungeon Dyes](dungeon-dyes.md)
+
+Kill monsters deep inside Britannia's dungeons to collect rare materials, each unique to its dungeon. Load 250 materials into a Tailor's Dye Kit, add an empty bottle, and craft a permanent clothing dye in that dungeon's signature color.
+
+**Key Features:**
+
+- Nine dungeons, nine unique dyes: Covetous to Ice
+- Materials drop from any non-controlled creature killed in the matching dungeon
+- 250 materials + 1 empty bottle per dye crafted from the kit's context menu
+- Dye applies permanently to clothing in your backpack; bottle is consumed
+- Tailor's Dye Kit is blessed and tracks all nine material types independently
 
 ### [Spirit Summoner](spirit-summoner.md)
 
-Master the art of necromantic summoning by developing Spirit Speak alongside Magery. This powerful build creates unique summons and enhances traditional summoning spells in ways unavailable to standard mages.
+Combine Magery and Spirit Speak to unlock a fundamentally different summoning experience. Spirit Summoners draw from a unique pool of 5th circle spirit creatures, receive dramatically enhanced 8th circle summons, and gain dispel resistance and bonus healing that scale with Spirit Speak — while Animal Lore multiplies the raw power of every summon.
 
 **Key Features:**
 
-- Custom 5th circle spirit creatures
-- Enhanced 8th circle summons with boosted stats
-- Blade Spirits and Energy Vortex enhancements
-- Poison capabilities on summons
-- Command control at GM Spirit Speak
-
-### [Gardening System](gardening.md)
-
-Cultivate plants and manage livestock through a comprehensive farming system. Grow crops, maintain sheep for wool production, and harvest special resources.
-
-**Key Features:**
-
-- Seed collection from animals
-- Fertile dirt system
-- Cotton and flax farming
-- Sheep hunger management for wool production
-- Resource cultivation
+- Qualification: Spirit Speak ≥ 50 and Spirit Speak ≥ Magery
+- 5th circle spirit creature pool: Polar Bear, Panther, Giant Serpent, Imp, Spiritual Soul, Scorpion, Dire Wolf, Giant Spider
+- 8th circle summons boosted by +35% stats/skills at GM Animal Lore (scaler: `0.35 × AL/100`)
+- Summon duration scales with Spirit Speak: 6–10 minutes (50–100 SS)
+- Dispel resistance: up to 50% vs players, 80% vs NPC auto-dispel, 99% vs NPC-cast dispel
+- Bonus healing on spirit summons: up to +50% at GM Spirit Speak
 
 ### [Achievement System](achievements.md)
 

@@ -8,7 +8,7 @@ The murder system tracks player kills and applies consequences for those who eng
 
 ## How Murder Counts Work
 
-### Important: Reporting is Required!
+### Important: Reporting is Required
 
 **Murder counts are NOT automatic.** When you kill another player, the victim receives a gump (dialog box) asking if they want to report you as a murderer. **Only if they choose to report you** will you receive murder counts.
 
@@ -23,26 +23,26 @@ When you ARE reported, you receive **two types** of murder counts:
 ### 1. Short-Term Murders
 
 - **Duration**: Decays over time based on your total count
-  - **Less than 5 murders**: Each count decays after **24 hours** of in-game play time
-  - **5 or more murders**: Each count decays after **48 hours** of in-game play time
-- **Purpose**: Tracks recent PK activity and determines eligibility for pardons
+  - **Under 5 murders**: Each count decays after **16 hours** of in-game play time
+  - **5 or more murders**: Each count decays after **24 hours** of in-game play time
+- **Purpose**: Tracks recent PK activity and determines eligibility for stat loss
 - **Decay**: Only decays while you're **logged in** (based on game time, not real time)
 
 ### 2. Long-Term Murders (Kills)
 
-- **Duration**: **60 hours** of in-game play time
+- **Duration**: Decays over time based on your total count
+  - **Under 5 long-term kills**: Each count decays after **48 hours** of in-game play time
+  - **5 or more long-term kills**: **Does not decay** — requires a Forged Pardon to clear
 - **Purpose**: Your permanent murder record
-- **Note**: Currently, long-term murders **do not automatically decay** (this may change)
-- **Visibility**: This is your "Kills" count that other players can see
+- **Visibility**: This is your "Kills" count that determined if you're red
 
 ---
 
 ## Murder Count Decay System
 
-### Key Points:
+### Key Points
 
 - Murder counts **only decay while you are online**
-- The system checks for decay every **5 minutes**
 - Counts decay **one at a time** as their timers expire
 - When you log out, your decay progress is saved
 - When you log back in, the system resumes tracking from where it left off
@@ -51,20 +51,20 @@ When you ARE reported, you receive **two types** of murder counts:
 
 **Example 1: Player with 3 short-term murders**
 
-- Each murder will decay after 24 hours of play time
-- Total time to clear all 3: **72 hours** of being logged in
+- Each murder will decay after 16 hours (under 5)
+- Total time to clear all 3: **48 hours** of being logged in
 
 **Example 2: Player with 6 short-term murders**
 
-- First 2 murders decay at 48 hours each (while at 6→5, then 5→4)
-- Remaining 4 murders decay at 24 hours each (while below 5)
-- Total time to clear all 6: **(2 × 48) + (4 × 24) = 192 hours** of being logged in
+- First 2 murders decay at 24 hours each (while at 6 and 5)
+- Remaining 4 murders decay at 16 hours each (while below 5)
+- Total time to clear all 6: **(2 × 24) + (4 × 16) = 112 hours** of being logged in
 
 **Example 3: Player with 10 short-term murders**
 
-- First 6 murders decay at 48 hours each (from 10 down to 4)
-- Remaining 4 murders decay at 24 hours each (below 5)
-- Total time to clear all 10: **(6 × 48) + (4 × 24) = 384 hours** of being logged in
+- First 6 murders decay at 24 hours each (from 10 down to 4)
+- Remaining 4 murders decay at 16 hours each (below 5)
+- Total time to clear all 10: **(6 × 24) + (4 × 16) = 208 hours** of being logged in
 
 ---
 
@@ -88,18 +88,18 @@ When you resurrect with 5+ short-term murders:
 The percentage of stat/skill loss is calculated as follows:
 
 | Short-Term Murders | Loss Percentage | You Keep |
-|-------------------|----------------|----------|
-| **5** | 20.0% | 80% |
-| **6** | 21.0% | 79% |
-| **7** | 22.0% | 78% |
-| **8** | 23.0% | 77% |
-| **9** | 24.0% | 76% |
-| **10** | 25.0% | 75% |
-| **15** | 30.0% | 70% |
-| **20** | 35.0% | 65% |
-| **25+** | 40.0% (max) | 60% |
+| ------------------ | --------------- | -------- |
+| **5**              | 15.0%           | 85%      |
+| **6**              | 15.5%           | 84.5%    |
+| **7**              | 16.0%           | 84%      |
+| **8**              | 16.5%           | 83.5%    |
+| **9**              | 17.0%           | 83%      |
+| **10**             | 17.5%           | 82.5%    |
+| **15**             | 20.0%           | 80%      |
+| **20**             | 22.5%           | 77.5%    |
+| **25+**            | 25.0% (max)     | 75%      |
 
-**Formula**: Base 20% + 1% per murder above 5 (capped at 40% loss)
+**Formula**: Base 15% + 0.5% per murder above 5 (capped at 25% loss)
 
 ### What Gets Reduced
 
@@ -107,21 +107,21 @@ The percentage of stat/skill loss is calculated as follows:
 
 - Each stat is multiplied by the retention percentage (what you keep)
 - **Minimum floor**: Stats won't drop below 10
-- Example: With 100 STR and 10 murders (25% loss), you'd have 75 STR after resurrection
+- Example: With 100 STR and 10 murders (17.5% loss), you'd have ~83 STR after resurrection
 
 #### Skills
 
 - Each skill is multiplied by the retention percentage
 - **Minimum floor**: Skills won't drop below 35.0
-- Example: With 100.0 Swordsmanship and 10 murders (25% loss), you'd have 75.0 Swordsmanship
+- Example: With 100.0 Swordsmanship and 10 murders (17.5% loss), you'd have ~82.5 Swordsmanship
 
 ### Important Notes
 
 ⚠️ **This penalty is severe!**
 
-- At 5 murders, you lose **20% of all stats and skills**
-- At 10 murders, you lose **25% of all stats and skills**
-- At 25+ murders, you lose **40% of all stats and skills** (maximum penalty)
+- At 5 murders, you lose **15% of all stats and skills**
+- At 10 murders, you lose **17.5% of all stats and skills**
+- At 25+ murders, you lose **25% of all stats and skills** (maximum penalty)
 
 💡 **The penalty clears your short-term murders**
 
@@ -140,8 +140,8 @@ The percentage of stat/skill loss is calculated as follows:
 
 **When to Take the Penalty:**
 
-- If you have 5-9 murders and can't afford a pardon
-- If you need to clear murders quickly to avoid the 10+ lockout for pardons
+- If you have 5-20 murders and can't afford a pardon
+- If you need to clear murders quickly to avoid the 20+ lockout for pardons
 - If you're confident you can regain stats/skills through training
 
 **When to Avoid the Penalty:**
@@ -152,15 +152,24 @@ The percentage of stat/skill loss is calculated as follows:
 
 ---
 
+## Dungeon Death Penalty
+
+If you have **5 or more short-term murders** and die inside a dungeon, you are subject to a **dungeon re-entry lockout**:
+
+- **Lockout duration:** 5 minutes before you can re-enter the dungeon
+- This applies only to dungeon deaths — dying in the overworld is unaffected
+
+---
+
 ## The Corrupt Judge & Pardons
 
 ### Finding the Judge
 
-Dryden the Judge can be found in the world and offers a **discreet service** for those seeking to clear their names... for a price.
+**Dryden the Judge** has long since abandoned any pretense of impartiality. Rumor places him at **The Pirate's Blunder** in **Buc's Den** — a man who asks no questions, provided the coin is right. The nobles of Magincia have been pushing the courts to root out this corruption, and Dryden's prices have risen accordingly.
 
 ### How to Request a Pardon
 
-1. Approach Dryden the Judge
+1. Find Dryden the Judge at The Pirate's Blunder in Buc's Den
 2. Say: **"I request a pardon"**
 3. If eligible, the Judge will provide you with a **Forged Pardon**
 
@@ -168,33 +177,24 @@ Dryden the Judge can be found in the world and offers a **discreet service** for
 
 You can request a pardon if you meet **ALL** of the following criteria:
 
-| Requirement | Details |
-|------------|---------|
-| **Minimum Murders** | Must have at least **5** short-term murders |
-| **Maximum Murders** | Must have **less than 10** short-term murders |
+| Requirement          | Details                                               |
+| -------------------- | ----------------------------------------------------- |
+| **Minimum Murders**  | Must have at least **1** long-term murder (kill)      |
+| **Maximum Murders**  | Must have **20 or fewer** short-term murders          |
 | **Previous Pardons** | Can only receive **3 pardons maximum** from the Judge |
-| **Sufficient Gold** | Must have enough gold in your bank |
+| **Sufficient Gold**  | Must have enough gold in your bank                    |
 
 ### Pardon Pricing
 
-The cost increases with each pardon you purchase:
+The cost doubles with each pardon you purchase:
 
-| Pardon Number | Cost |
-|---------------|------|
-| **1st Pardon** | 50,000 gold |
-| **2nd Pardon** | 150,000 gold |
-| **3rd Pardon** | 300,000 gold |
+| Pardon Number  | Cost         |
+| -------------- | ------------ |
+| **1st Pardon** | 150,000 gold |
+| **2nd Pardon** | 300,000 gold |
+| **3rd Pardon** | 600,000 gold |
 
 **Note**: Gold is automatically withdrawn from your bank account.
-
-### Judge's Responses
-
-The Judge has different responses based on your situation:
-
-- **Too few murders (less than 5)**: The Judge will be outraged that you'd suggest he'd engage in corruption
-- **Too many murders (10+)**: "Even with the gold you offer, I cannot forge a Pardon for one so drenched in blood..."
-- **Too many pardons (3+)**: "Thou hast stretched my generosity thin. Another Pardon would raise suspicions..."
-- **Successful pardon**: "Our business is concluded. Let no soul know of this pardon..."
 
 ---
 
@@ -202,15 +202,17 @@ The Judge has different responses based on your situation:
 
 Once you receive a **Forged Pardon**:
 
-1. The pardon is **blessed** (won't be lost on death)
-2. It is **bound to you** - only you can use it
+1. The pardon is **blessed** — it will not be lost on death
+2. It is **bound to you** — only you can use it
 3. Keep it in your **backpack**
-4. **Double-click** the pardon to use it
-5. Upon use:
-   - Your **short-term murders** are reset to **0**
-   - Your **long-term murders (kills)** are reset to **0**
-   - The pardon is consumed
-   - You receive a message: *"Redemption is granted. Your sins are now but shadows of the past."*
+
+**There are two ways the pardon is consumed:**
+
+**On death (automatic):** If you die and resurrect with the pardon in your backpack, it is consumed automatically. Stat and skill loss is avoided, and both your short-term and long-term murder counts are reset to 0.
+
+**While alive (manual):** Double-click the pardon at any time to consume it and receive the same benefit — counts cleared, no penalty.
+
+Upon use you receive a message: _"Redemption is granted. Your sins are now but shadows of the past."_
 
 ---
 
@@ -220,16 +222,17 @@ Once you receive a **Forged Pardon**:
 
 - **Murder counts only decay while online** - Logging out pauses all decay timers
 - **You can only get 3 pardons total** - Choose when to use the Judge's services wisely
-- **Pardons get more expensive** - The first is relatively affordable, but the third is very costly
-- **10+ murders locks you out** - If you accumulate 10 or more short-term murders, the Judge will not help you
+- **Pardons get expensive fast** - 150k, 300k, then 600k; plan accordingly
+- **21+ murders locks you out** - If you accumulate more than 20 short-term murders, the Judge will not help you
+- **Pardons auto-trigger on resurrection** - A pardon in your backpack is consumed automatically if you would suffer stat loss
 - **Pardons are character-bound** - You cannot trade or give them to other players
 - **The Judge keeps records** - He tracks how many pardons you've purchased
 
 ### 💡 Strategy Tips:
 
 1. **Not all kills become counts** - Remember, victims must report you, so diplomacy matters
-2. **Monitor your murder count** - Don't let it reach 10 if you want the option to buy a pardon
-3. **First pardon is cheap** - Consider it an investment if you're at 5-9 murders
+2. **Monitor your murder count** - Don't let it exceed 20 if you want the option to buy a pardon
+3. **Carry the pardon** - Once purchased, keep it in your pack so it auto-triggers if you die
 4. **Let murders decay naturally if possible** - Save gold by waiting, but this requires long play sessions
 5. **Plan your PvP carefully** - Each kill has consequences that last many hours
 6. **Thieves Guild members can't report** - They're criminals themselves, so guards won't take their reports
@@ -248,4 +251,4 @@ The murder system is designed to:
 
 Whether you're a noble hero or a notorious villain, understanding this system will help you navigate the consequences of your actions in the world.
 
-*Remember: With great power comes great responsibility... or at least, great expense and stat loss.*
+_Remember: With great power comes great responsibility... or at least, great expense and stat loss._

@@ -87,6 +87,7 @@ As a new player, here are ways to earn gold:
 ### Early Game
 
 - **Hunt animals** - Sell hides and meat
+- **Escorts** - Guide NPCs needing an escort to safety
 - **Collect resources** - Mining, lumberjacking
 - **Kill monsters** - Collect gold, sell off items to NPC vendors
 

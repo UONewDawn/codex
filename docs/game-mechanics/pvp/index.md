@@ -62,11 +62,12 @@ The murder system creates meaningful consequences for player killing:
 ### Key Features
 
 - Short-term and long-term murder counts
-- Stat loss scaling (20-40%)
-- Permanent murderer status possible
-- Dungeon bans for reds
-- Forged pardon system
-- Decay over logged hours
+- Short-term decay: 16h (under 5 murders) / 24h (5+ murders) of logged play time
+- Long-term decay: 48h (under 5 kills); 5+ long-term kills require a Forged Pardon to clear
+- Stat/skill loss on resurrection scales with murders: 15%–25%
+- Dungeon re-entry lockout (5 min) on death with 5+ murders
+- Forged pardon system (up to 3 per character, increasing cost)
+- Decay only accumulates while logged in
 
 For complete details, see the [Murder System](murder-system.md) page.
 
