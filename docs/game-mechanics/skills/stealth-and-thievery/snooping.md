@@ -26,6 +26,9 @@ Snooping allows you to look inside another player's backpack without their permi
 
 ## Training
 
+!!! warning
+    These need refinement. Confirm your template in the Discord community.
+
 ### Active Training
 
 Use Snooping on:
@@ -41,26 +44,10 @@ Use Snooping on:
 - Train in non-guard zones
 - Careful in town
 
-!!! warning "Criminal Activity"
-    Snooping in guarded areas can result in criminal flags if caught.
-
 ## Related Skills
 
-**Thief Skills:**
-
-- [Stealing](stealing.md) - Take items after snooping ⭐⭐⭐⭐⭐
-- [Hiding](hiding.md) - Escape after theft
-- [Stealth](stealth.md) - Approach undetected
-
-**Thief Template:**
-
-- [Stealing](stealing.md): 100
-- Snooping: 100 ⭐
-- [Hiding](hiding.md): 100
-- [Stealth](stealth.md): 100
-- [Wrestling](../combat/wrestling.md): 100
-- [Magery](../magic/magery.md): 80
-- [Resisting Spells](../combat/resisting-spells.md): 100
+!!! warning
+    These need refinement. Confirm your template in the Discord community.
 
 ## Uses
 
@@ -82,29 +69,6 @@ Use Snooping on:
 ### Guard Zones
 
 - Guards will attack if caught stealing, not snooping
-
-## Strategy
-
-### Effective Snooping
-
-1. Hide/stealth to target
-2. Snoop their pack
-3. Identify valuables
-4. Steal selected items
-5. Hide immediately
-6. Escape
-
-### Risk Management
-
-- Don't snoop in guard zones
-- Have escape plan ready
-- Know when to run
-- Use hiding/stealth
-
-## Importance
-
-⭐⭐⭐⭐ (Essential for thieves)
-⭐ (Niche use otherwise)
 
 ---
 

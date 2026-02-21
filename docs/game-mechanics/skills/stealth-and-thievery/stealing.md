@@ -66,16 +66,6 @@ Success based on:
 - [Hiding](hiding.md) - Escape after theft ⭐⭐⭐⭐⭐
 - [Stealth](stealth.md) - Approach undetected ⭐⭐⭐⭐⭐
 
-**Thief Template:**
-
-- Stealing: 100 ⭐
-- [Snooping](snooping.md): 100
-- [Hiding](hiding.md): 100
-- [Stealth](stealth.md): 100
-- [Wrestling](../combat/wrestling.md): 100
-- [Magery](../magic/magery.md): 80
-- [Resisting Spells](../combat/resisting-spells.md): 100
-
 ## Uses
 
 ### Player Theft
@@ -106,58 +96,6 @@ Success based on:
 - Stealing doesn't give murder counts
 - But being killed as a thief has no penalty reduction
 - Still considered criminal activity
-
-## Strategy
-
-### Successful Theft
-
-1. Scout target ([Snooping](snooping.md))
-2. Approach hidden ([Hiding](hiding.md) + [Stealth](stealth.md))
-3. Steal valuable item
-4. Hide immediately
-5. Stealth away
-6. Leave area
-
-### Target Selection
-
-- Look for valuable items
-- Assess risk level
-- Plan escape route
-- Know when to abort
-
-### Escape Tactics
-
-- Know hiding spots
-- Use stealth effectively
-- Multiple escape plans
-
-## Server Rules
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Important Notes
-
-### Typical Rules
-
-- Guard zones kill thieves instantly
-- Criminal timer duration varies
-- Some items may be unstealable
-- Special thief guilds may exist
-
-## Economic Value
-
-### High Risk, High Reward
-
-- Can steal extremely valuable items
-- Significant profit potential
-- Requires skill and planning
-- Many failures and deaths
-
-## Importance
-
-⭐⭐⭐⭐⭐ (If thief gameplay is allowed)
-⭐ (If severely restricted)
 
 ---
 

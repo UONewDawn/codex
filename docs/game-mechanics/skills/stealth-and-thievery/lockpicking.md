@@ -17,43 +17,10 @@ Lockpicking allows you to open locked chests, doors, and containers without keys
 - Pick treasure chest locks
 - Access locked containers
 
-### Difficulty Levels
-
-Different locks require different skill:
-
-- Simple locks (0-30 skill)
-- Average locks (30-60 skill)
-- Complex locks (60-85 skill)
-- Master locks (85-100 skill)
-
 ## Training
 
 !!! warning
     These need refinement. Confirm your template in the Discord community.
-
-### Early (0-30)
-
-- Buy practice locks from NPC tinker
-- Pick simple locked boxes
-- Macro on training boxes
-
-### Intermediate (30-60)
-
-- Pick dungeon chests
-- Practice on treasure chests
-- Increase difficulty gradually
-
-### Advanced (60-85)
-
-- Pick treasure map chests
-- Master level locks
-- High-level content
-
-### Master (85-100)
-
-- Pick any lock
-- High success rate
-- Expert lockpick
 
 ## Materials
 
@@ -62,30 +29,6 @@ Different locks require different skill:
 - **Lockpicks** - Required for picking locks
 - Created by [Tinkering](../crafting/tinkering.md)
 - Consumed on failure
-
-## Related Skills
-
-**Essential For:**
-
-- [Cartography](../utility-and-support/cartography.md) - Treasure hunting ⭐⭐⭐⭐⭐
-- [Remove Trap](../utility-and-support/remove-trap.md) - Disarm before opening
-
-**Treasure Hunter Template:**
-
-- [Cartography](../utility-and-support/cartography.md): 100
-- Lockpicking: 100
-- [Mining](../resource-gathering/mining.md): 100
-- [Remove Trap](../utility-and-support/remove-trap.md): 80
-- [Magery](../magic/magery.md): 100
-- Combat skills
-
-**Thief Template:**
-
-- Lockpicking: 100
-- [Stealing](stealing.md): 100
-- [Hiding](hiding.md): 100
-- [Stealth](stealth.md): 100
-- [Snooping](snooping.md): 100
 
 ## Uses
 
@@ -98,8 +41,6 @@ Different locks require different skill:
 ### Dungeon Exploration
 
 - Open locked dungeon chests
-
-### Thievery
 
 ## Lockpick Consumption
 
@@ -115,12 +56,6 @@ Different locks require different skill:
 - Requires [Tinkering](../crafting/tinkering.md) skill
 - Made from iron ingots
 - Cheap to produce
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential for treasure hunters)
-⭐⭐ (Useful for thieves)
-⭐⭐ (Useful for others)
 
 ---
 

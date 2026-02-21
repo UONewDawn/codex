@@ -72,6 +72,5 @@ Alchemy allows you to craft a variety of potions including healing, poison, expl
 
 **Related Pages:**
 
-- [Crafting Skills Overview](../../crafting.md)
 - [Poisoning](../combat/poisoning.md)
 - [Resources](../../../items/resources.md)

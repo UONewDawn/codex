@@ -98,18 +98,6 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 - Avoid poison application
 - Protect yourself and party
 
-## Treasure Hunting Process
-
-### Complete Process
-
-1. Decode treasure map ([Cartography](cartography.md))
-2. Travel to location
-3. Dig up chest ([Mining](../resource-gathering/mining.md))
-4. Kill guardian monsters
-5. **Disarm trap (Remove Trap)** ⭐
-6. Pick lock ([Lockpicking](../stealth-and-thievery/lockpicking.md))
-7. Claim treasure
-
 ## Failure Consequences
 
 !!! warning
@@ -122,11 +110,6 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 - No damage taken
 - Safe opening
 - Proceed to lockpicking
-
-## Importance
-
-⭐⭐⭐⭐ (Essential for treasure hunting)
-⭐⭐ (Useful for dungeon exploration)
 
 ---
 

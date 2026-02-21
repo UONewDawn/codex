@@ -35,29 +35,8 @@ Make musical instruments:
 
 ## Training
 
-### Early (0-30)
-
-- Buy boards from NPC
-- Craft small items
-- Make wooden boxes
-
-### Intermediate (30-60)
-
-- Create furniture
-- Make instruments
-- Craft decorations
-
-### Advanced (60-85)
-
-- Craft house addons
-- Make exceptional furniture
-- Use special wood types
-
-### Master (85-100)
-
-- Master craftsman
-- Exceptional items regularly
-- Rare wood specializations
+!!! warning
+    These need refinement. Confirm in the Discord community.
 
 ## Materials
 
@@ -90,45 +69,10 @@ Make musical instruments:
 - Magery: 100
 - Other utility skills
 
-## Crafting Quality
-
-### Normal Items
-
-- Standard quality
-- Basic appearance
-
-### Exceptional Items
-
-- Higher quality
-- Better appearance
-- Increased value
-- Enhanced durability
-
-## Economic Value
-
-### High Demand Items
-
-- Musical instruments for bards
-- House furniture and decorations
-- Storage containers
-- House addons
-
-### Profit Sources
-
-- Custom furniture orders
-- Instrument sales to bards
-- Decoration services
-- House addon crafting
-
-## Importance
-
-⭐⭐⭐⭐ (Essential for bards and decorators)
-
 ---
 
 **Related Pages:**
 
 - [Lumberjacking](../resource-gathering/lumberjacking.md)
 - [Musicianship](../bard-skills/musicianship.md)
-- [Crafting Skills](../../crafting.md)
 - [Items](../../../items/index.md)

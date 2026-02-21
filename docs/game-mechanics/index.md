@@ -10,9 +10,6 @@ This section covers the fundamental mechanics of Ultima Online as implemented on
 
 - **[Skills](skills/index.md)** - The backbone of character development
 - **[Stats](stats.md)** - Strength, Dexterity, and Intelligence
-- **[Combat System](combat.md)** - How fighting works
-- **[Magic System](magic.md)** - Spellcasting and magic schools
-- **[Crafting](crafting.md)** - Creating items and equipment
 
 ## The Skill System
 
@@ -46,13 +43,9 @@ Combat in UO is based on several factors:
 - Anatomy for critical hits
 - Equipment quality and properties
 
-[:octicons-arrow-right-24: Combat Details](combat.md)
-
 ## Magic & Spellcasting
 
 - **Magery** - Traditional spell casting
-
-[:octicons-arrow-right-24: Magic Guide](magic.md)
 
 ## Crafting & Economy
 
@@ -63,8 +56,6 @@ Create your own equipment and sell to others:
 - Carpentry for furniture and tools
 - Alchemy for potions
 - And many more!
-
-[:octicons-arrow-right-24: Crafting Guide](crafting.md)
 
 ## Resource Gathering
 

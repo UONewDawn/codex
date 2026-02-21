@@ -67,31 +67,9 @@ Mace Fighting is the skill for wielding blunt weapons. Some maces have special b
 
 - [Resisting Spells](resisting-spells.md) - Magic protection
 
-## Special Advantages
-
-## Character Templates
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Mace Warrior
-
-- Mace Fighting: 100
-- Tactics: 100
-- Anatomy: 100
-- Healing: 100
-- Parrying: 100
-- Resisting Spells: 100
-- Magery: 100
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential for mace warriors)
-
 ---
 
 **Related Pages:**
 
 - [Combat Skills Overview](../index.md#combat-skills)
-- [Combat System](../../combat.md)
 - [World Dungeons](../../../world/dungeons/index.md)

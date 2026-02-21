@@ -8,22 +8,12 @@ Locate creatures and players in the area.
 
 Tracking allows you to detect and locate creatures, NPCs, and players within a radius around you. Essential for hunters, scouts, and PvP awareness.
 
+!!! warning
+    These need refinement. Confirm in the Discord community.
+
 ## Effects
 
 ### Target Detection
-
-Locate nearby:
-
-- Players
-- Monsters and creatures
-- NPCs
-- All living beings in range
-
-### Tracking Information
-
-- Shows direction to target
-- Distance indication
-- Target type identification
 
 ### Range
 
@@ -56,93 +46,6 @@ Use Tracking skill:
 
 !!! tip "Easy GM"
     Tracking is one of the easier skills to GM. Just macro it repeatedly.
-
-## Related Skills
-
-**Synergy With:**
-
-- [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md) - Find then reveal ⭐⭐⭐⭐
-- [Archery](../combat/archery.md) - Find and shoot
-- Combat skills - Locate targets
-
-**Hunter Template:**
-
-- Tracking: 100 ⭐
-- [Archery](../combat/archery.md): 100
-- [Tactics](../combat/tactics.md): 100
-- [Anatomy](../combat/anatomy.md): 100
-- [Healing](../combat/healing.md): 100
-- [Hiding](../stealth-and-thievery/hiding.md): 100
-- [Resisting Spells](../combat/resisting-spells.md): 100
-
-**Scout Template:**
-
-- Tracking: 100
-- [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md): 100
-- [Hiding](../stealth-and-thievery/hiding.md): 100
-- [Stealth](../stealth-and-thievery/stealth.md): 100
-- Awareness focus
-
-## Uses
-
-### PvM (Player vs Monster)
-
-- Find specific monster spawns
-- Locate rare creatures
-- Hunt efficiently
-- Find dungeon bosses
-
-### PvP (Player vs Player)
-
-- Detect enemy players
-- Avoid ambushes
-- Find hidden enemies (general location)
-- Situational awareness
-
-### Exploration
-
-- Find NPCs in towns
-- Locate quest objectives
-- Navigate safely
-- Area reconnaissance
-
-## PvP Applications
-
-### Defensive Use
-
-- Detect incoming players
-- Avoid PKs (player killers)
-- Early warning system
-- Escape opportunity
-
-### Offensive Use
-
-- Find PvP targets
-- Locate enemy positions
-- Plan ambushes
-- Group coordination
-
-## Limitations
-
-### Cannot Reveal
-
-- Tracking finds general location
-- Doesn't reveal hidden players
-- Need [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md) to reveal
-
-### Range Limited
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-- Maximum range at 100 skill
-- Some targets may be outside range
-- Must re-track as targets move
-
-## Importance
-
-⭐⭐⭐⭐ (Essential for PvP awareness and hunting)
-⭐⭐⭐ (Very useful for all characters)
 
 ---
 

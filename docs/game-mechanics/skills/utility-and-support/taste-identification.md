@@ -8,14 +8,15 @@ Identify poisoned food and detect poison.
 
 Taste Identification allows you to detect poison in food and beverages before consuming them. Also provides some resistance to poison attempts. Situational skill with limited applications.
 
+!!! warning
+    These need refinement. Confirm in the Discord community.
+
 ## Effects
 
 ### Poison Detection
 
 - Detect poisoned food
 - Identify poison in drinks
-- Check food safety
-- Prevent poisoning
 
 ## Training
 
@@ -41,29 +42,6 @@ Use Taste Identification on:
 - [Poisoning](../combat/poisoning.md) - Create poisons
 - [Resisting Spells](../combat/resisting-spells.md) - Resist effects
 - [Alchemy](../crafting/alchemy.md) - Make potions
-
-## Uses
-
-### Poison Protection
-
-- Detect poisoned food
-- Avoid assassination attempts
-- Check suspicious items
-- Safety precaution
-
-### Limited Applications
-
-- Very niche skill
-- Rarely essential
-- Situational use only
-- Better skills available
-
-## Importance
-
-⭐ (Very niche, rarely used)
-
-!!! note "Limited Usefulness"
-    This skill has very limited practical applications. Most players skip it entirely in favor of more useful skills.
 
 ---
 

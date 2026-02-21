@@ -31,8 +31,6 @@ Use Item Identification on:
 
 - Unidentified magic items
 - Loot from monsters
-- Purchased unidentified items
-- Any magical equipment
 
 ### Passive Training
 
@@ -48,34 +46,6 @@ Use Item Identification on:
 
 - Combat skills - Generate loot to identify
 - [Arms Lore](arms-lore.md) - Additional item information
-- [Magery](../magic/magery.md) - Alternative identification method
-
-## Uses
-
-### Loot Management
-
-- Identify all magic drops
-- Determine keeper vs vendor items
-- Assess equipment upgrades
-- Evaluate treasure
-
-### Trading
-
-- Verify item properties before buying
-- Assess item value for sales
-- Avoid buying identified trash
-
-### Equipment Selection
-
-- Choose best items for your build
-- Compare magic properties
-- Optimize gear selection
-
-## Alternative Methods
-
-## Importance
-
-⭐⭐⭐ (Very useful for all adventurers)
 
 ---
 

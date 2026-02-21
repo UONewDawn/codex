@@ -33,14 +33,11 @@ Essential materials and resources for crafting and survival.
 - All basic carpentry
 - Found at any tree
 
-**Colored Woods** (if available)
+**Colored Woods**
 
 - Oak
 - Ash
 - Yew
-- Heartwood
-- Bloodwood
-- Frostwood
 
 **Gathering:** Lumberjacking + axe
 
@@ -118,15 +115,6 @@ Essential materials and resources for crafting and survival.
 
 ## Consumable Resources
 
-### Food
-
-Keep fed for stat regeneration:
-
-- Bread, cheese, meat
-- Fish
-- Cooked meals
-- Beverages
-
 ### Potions
 
 **Healing Potions:**
@@ -141,6 +129,7 @@ Keep fed for stat regeneration:
 - Refresh (restore stamina)
 - Explosion (damage)
 - Various stat potions
+- Night sight potion
 
 ### Bandages
 
@@ -172,25 +161,21 @@ Essential healing supply:
 **Mining:**
 
 - Minoc mountains
-- Vesper mountains
 - Mountain caves
 
 **Lumberjacking:**
 
 - Yew forest
 - Any dense forest
-- Spiritwood areas
 
 **Hunting (leather):**
 
 - Forest animals
-- Swamp creatures
-- Special spawns for rare hides
 
 ### Gathering Tips
 
 !!! success "Efficient Gathering"
-    - Bring pack animal (beetle, llama)
+    - Bring pack animal
     - Mark runes to good spots
     - Gather in bulk
     - Watch for resource respawns

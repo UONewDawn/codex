@@ -10,47 +10,11 @@ New Dawn uses three primary statistics that define your character's capabilities
 
 **Primary Effect:** Hit Points and Physical Damage
 
-**Formula:**
-
-- Hit Points = Strength
-
-**Additional Effects:**
-
-- Carrying capacity (weight limit)
-- Melee weapon damage bonus
-- Required for certain equipment
-
-**Recommended for:**
-
-- Warriors (80-100)
-- Archers (80-100)
-- Tanks (100)
-- Mages (45-60)
-- Crafters (70-100)
-
 ---
 
 ### Dexterity (DEX)
 
 **Primary Effect:** Stamina and Swing Speed
-
-**Formula:**
-
-- Stamina = Dexterity
-
-**Additional Effects:**
-
-- Weapon swing speed
-- Faster attacks with higher dex
-- Defense chance (minor)
-- Affects archery significantly
-
-**Recommended for:**
-
-- Archers (100)
-- Fencers (80-100)
-- Swordsmen (80-100)
-- Mages (50-80)
 
 ---
 
@@ -58,45 +22,15 @@ New Dawn uses three primary statistics that define your character's capabilities
 
 **Primary Effect:** Mana Pool
 
-**Formula:**
-
-- Mana = Intelligence
-
-**Additional Effects:**
-
-- Magic spell effectiveness
-- Mana regeneration rate
-- Required for spellcasting
-
-**Recommended for:**
-
-- Mages (100-130 with items)
-- Tamers (100-130)
-- Warriors (45-60 for utility)
-
 ## Stat Distribution
 
-### Starting Stats
-
-You begin with **80 stat points** to distribute:
-
-**Common Starting Distributions:**
-
-| Build Type | STR | DEX | INT |
-| ---------- | --- | --- | --- |
-| Warrior    | 50  | 20  | 10  |
-| Archer     | 45  | 25  | 10  |
-| Mage       | 10  | 10  | 60  |
-| Tamer      | 10  | 10  | 60  |
-| Crafter    | 50  | 20  | 10  |
-
-### Stat Caps
+## Stat Caps
 
 **Individual Stat Cap:** 100 (base)
 **Total Stat Cap:** 225
 
 !!! info "Stat Growth"
-As you play, your stats will naturally increase toward the 225 cap. You can influence which stats grow by "locking" stats.
+    As you play, your stats will naturally increase toward the 225 cap. You can influence which stats grow by "locking" stats.
 
 ## Stat Locks
 
@@ -114,6 +48,9 @@ Control which stats can increase or decrease:
 
 ## Stat Gain
 
+!!! warning
+    These need refinement. Confirm in the Discord community.
+
 ### How Stats Increase
 
 Stats gain through skill usage:
@@ -127,130 +64,3 @@ Stats gain through skill usage:
 !!! warning
     These need refinement. Confirm your template in the Discord community.
 
-## Secondary Stats
-
-### Hit Points (HP)
-
-**Formula:** HP = Strength
-
-**Effects:**
-
-- Your health pool
-- When it reaches 0, you die
-- Can be healed by bandages, spells, potions
-
-**Maximum:** Base 100 (can be increased with items)
-
----
-
-### Stamina
-
-**Formula:** Stamina = Dexterity
-
-**Effects:**
-
-- Required for running
-- Special move costs
-- Regenerates over time
-- Lowered by armor weight
-
-**Recovery:**
-
-- Passive regeneration (standing/walking)
-- Affected by armor weight
-- Total refresh potions restore instantly
-
----
-
-### Mana
-
-**Formula:** Mana = Intelligence
-
-**Effects:**
-
-- Required for spellcasting
-- Special abilities cost
-- Regenerates slowly (faster with meditation)
-
-**Recovery:**
-
-- Meditation skill (active)
-- Passive regeneration (slow)
-- Total mana refresh potions
-- Spirit speak (if available)
-
-## Stat-Based Calculations
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Melee Damage
-
-### Swing Speed
-
-### Spell Damage
-
-## Temporary Stat Modifications
-
-### Buffs (Positive)
-
-**Bless Spell:**
-
-- +10 to all stats temporarily
-- Duration: 2 minutes
-
-**Strength Potion:**
-
-- +10-25 Strength
-- Duration: 2 minutes
-
-**Agility Potion:**
-
-- +10 Dexterity
-- Duration: 2 minutes
-
-### Debuffs (Negative)
-
-**Curse Spell:**
-
-- -10 to all stats
-- Can be removed with Remove Curse
-
-**Weaken Spell:**
-
-- Reduces Strength
-- Duration: varies
-
-**Clumsy Spell:**
-
-- Reduces Dexterity
-- Duration: varies
-
-**Feeblemind Spell:**
-
-- Reduces Intelligence
-- Duration: varies
-
-## Equipment Effects
-
-### Stat Requirements
-
-Many items require minimum stats:
-
-**Heavy Weapons:**
-
-- **Heavy Weapons:** 50-80 STR
-- **Plate Armor:** 40-60 STR
-- **Spellcasting:** Minimum INT for circles
-
-### Stat Bonuses
-
-Equipment can provide:
-
-- +STR items
-- +DEX items
-- +INT items
-- Maximum: Varies by item/server
-
-!!! warning "Stat Requirements"
-    If you don't meet stat requirements, you can't use the item effectively or at all.

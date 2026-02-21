@@ -58,6 +58,5 @@ Use Arms Lore on:
 **Related Pages:**
 
 - [Blacksmithy](../crafting/blacksmithy.md)
-- [Crafting Skills](../../crafting.md)
 - [Weapons](../../../items/weapons.md)
 - [Armor](../../../items/armor.md)

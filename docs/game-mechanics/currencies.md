@@ -151,7 +151,6 @@ Check [patch notes](../patches/index.md) for new additions.
 - **[Champion Spawns](../world/dungeons/index.md)** - Earning Champion Tokens
 - **[Codex Rifts](../custom-systems/codex-rifts.md)** - Rift and Codex Shards
 - **[Pirate Adventures](../custom-systems/pirate-adventures.md)** - Pirate currency
-- **[Crafting](crafting.md)** - BOD rewards overlap with currencies
 - **[Achievements](../custom-systems/achievements.md)** - Another reward system
 
 ## Patch History

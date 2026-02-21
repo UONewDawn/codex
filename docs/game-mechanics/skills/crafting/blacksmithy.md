@@ -35,29 +35,8 @@ Forge metal armor:
 
 ## Training
 
-### Early (0-30)
-
-- Buy iron ingots from NPC
-- Craft daggers and ringmail gloves
-- Smith near anvil and forge
-
-### Intermediate (30-60)
-
-- Mine your own iron
-- Craft chainmail and weapons
-- Smelt ingots from ore
-
-### Advanced (60-85)
-
-- Craft plate armor
-- Make high-quality weapons
-- Use colored ingots for better items
-
-### Master (85-100)
-
-- Craft exceptional items regularly
-- Use valorite and verite ingots
-- Create top-tier equipment
+!!! warning
+    These need refinement. Confirm in the Discord community.
 
 ## Materials
 
@@ -90,61 +69,11 @@ Forge metal armor:
 - Magery: 70
 - Other utility skills
 
-## Crafting Quality
-
-### Normal Items
-
-- Basic stats
-- Standard durability
-
-### Exceptional Items
-
-- Bonus to damage/defense
-- Higher durability
-- Better resale value
-
-## Metal Types
-
-### Common Metals
-
-- **Iron** - Most common, basic quality
-- **Shadow** - Slightly better
-- **Copper** - Moderate enhancement
-
-### Rare Metals
-
-- **Bronze** - Good quality
-- **Gold** - High quality
-- **Agapite** - Excellent
-- **Verite** - Superior
-- **Valorite** - Best possible
-
-## Economic Value
-
-### High Demand Items
-
-- Plate armor sets
-- Quality weapons
-- Shields
-- Repair services
-
-### Profit Potential
-
-- Sell exceptional items
-- Repair services for players
-- Bulk orders from NPCs
-- Custom orders
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential crafting skill, high economic value)
-
 ---
 
 **Related Pages:**
 
 - [Mining](../resource-gathering/mining.md)
 - [Arms Lore](../utility-and-support/arms-lore.md)
-- [Crafting Skills](../../crafting.md)
 - [Weapons](../../../items/weapons.md)
 - [Armor](../../../items/armor.md)

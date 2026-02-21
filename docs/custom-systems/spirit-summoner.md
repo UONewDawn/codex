@@ -233,6 +233,3 @@ For the full change history, see the [patch notes](../patches/index.md).
 ---
 
 ## Related Systems
-
-- [Magic System](../game-mechanics/magic.md)
-- [Combat System](../game-mechanics/combat.md)

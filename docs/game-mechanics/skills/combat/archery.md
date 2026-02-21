@@ -8,12 +8,14 @@ Ranged combat with bows and crossbows.
 
 Archery allows you to fight from a distance using bows and crossbows. This skill excels at kiting enemies and provides a significant safety advantage.
 
+!!! warning
+    This section needs work. Please confirm in the Discord community
+
 ## Weapons
 
 ### Bows
 
 - Bow (standard)
-- Composite Bow (if available)
 - Longbow
 
 ### Crossbows
@@ -30,35 +32,6 @@ Archery allows you to fight from a distance using bows and crossbows. This skill
 ### For Crossbows
 
 - Bolts (standard)
-
-!!! warning "Ammunition Management"
-    Always carry plenty of ammunition. Running out mid-combat can be fatal!
-
-## Training
-
-### Early Training (0-30)
-
-- Training dummy practice
-- Learn accuracy basics
-- Minimal cost
-
-### Intermediate (30-50)
-
-- Hunt animals (bears, great harts)
-- Practice moving while shooting
-- Work on kiting
-
-### Advanced (50-70)
-
-- Mid monsters at range
-- Perfect kiting technique
-- Join ranged hunting groups
-
-### Master Level (70-100)
-
-- Difficult monsters
-- PvP archery
-- Champion spawns
 
 ## Related Skills
 
@@ -82,28 +55,6 @@ Archery allows you to fight from a distance using bows and crossbows. This skill
 - Avoid melee damage
 - Control engagement distance
 - Kite dangerous enemies
-
-### Kiting Strategy
-
-1. Shoot target
-2. Run away while they approach
-3. Shoot again when in range
-4. Repeat until enemy dies
-
-!!! success "Kiting Tips"
-    - Keep moving
-    - Use terrain to your advantage
-    - Watch stamina carefully
-    - Pre-poison arrows for extra damage
-
-## Poisoning Synergy
-
-Archery pairs excellently with poisoning:
-
-- Apply poison to ammunition
-- Poison from safe distance
-- No need for melee contact
-- Very effective in PvP
 
 ## Weapon Special Moves
 
@@ -145,33 +96,10 @@ After a successful snare:
 - Tracking: 100
 - Healing: 100
 
-## Equipment Considerations
-
-### Weapon Choice
-
-- **Speed** - Faster = more shots
-- **Damage** - Damage per shot
-- **Range** - Maximum distance
-- **Requirements** - STR/DEX needed
-
-### Armor
-
-Light armor recommended:
-
-- Maintains mobility
-- Less dexterity penalty
-- Better for kiting
-- Leather or studded ideal
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Excellent PvM skill)
-
 ---
 
 **Related Pages:**
 
 - [Combat Skills Overview](../index.md#combat-skills)
-- [Combat System](../../combat.md)
 - [Hiding](../stealth-and-thievery/hiding.md)
 - [Tracking](../utility-and-support/tracking.md)

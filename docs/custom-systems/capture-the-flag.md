@@ -222,5 +222,4 @@ For detailed changes, see the [patch notes](../patches/index.md).
 ## Related Systems
 
 - [PvP & Murder System](../game-mechanics/pvp/index.md) - Learn about New Dawn's PvP mechanics
-- [Combat System](../game-mechanics/combat.md) - Combat mechanics that apply in CTF
 - [Achievements](achievements.md) - CTF-related achievements

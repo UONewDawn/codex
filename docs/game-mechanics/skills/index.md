@@ -10,9 +10,7 @@ In Ultima Online, your character is defined by skills rather than classes. You h
 
 Skills are organized into several categories:
 
-- **[Combat Skills](../combat.md)** - Weapon proficiencies and fighting
 - **Magic Skills** - Spellcasting and magical abilities
-- **[Crafting Skills](../crafting.md)** - Creating items and equipment
 - **Miscellaneous Skills** - Utility, social, and other skills
 
 ## How Skills Work
@@ -98,13 +96,11 @@ Weapon skills and combat support abilities for warriors and fighters.
 
 #### Support Skills
 
-- **[Tactics](combat/tactics.md)** ⭐ - Essential damage multiplier
-- **[Anatomy](combat/anatomy.md)** ⭐ - Critical hits and healing bonus
-- **[Healing](combat/healing.md)** ⭐ - Bandage yourself and others
+- **[Tactics](combat/tactics.md)** - Essential damage multiplier
+- **[Anatomy](combat/anatomy.md)** - Critical hits and healing bonus
+- **[Healing](combat/healing.md)** - Bandage yourself and others
 - **[Parrying](combat/parrying.md)** - Shield-based defense
-- **[Resisting Spells](combat/resisting-spells.md)** ⭐ - Defense against magic
-
-[:octicons-arrow-right-24: View All Combat Skills](../combat.md)
+- **[Resisting Spells](combat/resisting-spells.md)** - Defense against magic
 
 ### Magic Skills
 
@@ -112,10 +108,10 @@ Spellcasting and magical abilities for mages and spellcasters.
 
 #### Core Mage Skills
 
-- **[Magery](magic/magery.md)** ⭐ - Primary spellcasting skill
-- **[Evaluating Intelligence](magic/evaluating-intelligence.md)** ⭐ - Magic damage boost
-- **[Meditation](magic/meditation.md)** ⭐ - Mana regeneration
-- **[Resisting Spells](combat/resisting-spells.md)** ⭐ - Magic resistance (universal)
+- **[Magery](magic/magery.md)** - Primary spellcasting skill
+- **[Evaluating Intelligence](magic/evaluating-intelligence.md)** - Magic damage boost
+- **[Meditation](magic/meditation.md)** - Mana regeneration
+- **[Resisting Spells](combat/resisting-spells.md)** - Magic resistance (universal)
 
 #### Support & Alternative
 
@@ -142,8 +138,6 @@ Create items, gather resources, and build equipment.
 - **Item Identification** - Reveal magical properties
 - **Mining** - Gather ore and gems
 - **Lumberjacking** - Harvest wood from trees
-
-[:octicons-arrow-right-24: View All Crafting Skills](../crafting.md)
 
 ### Miscellaneous Skills
 
@@ -194,7 +188,6 @@ Utility, stealth, animals, bard skills, and specialized abilities.
 
 - [Character Creation](../../getting-started/character-creation.md) - Build your character
 - [Stats](../stats.md) - Understanding attributes
-- [Combat System](../combat.md) - How fighting works
 
 ---
 

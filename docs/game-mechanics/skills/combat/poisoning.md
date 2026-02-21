@@ -37,32 +37,11 @@ If using poison spells ([Magery](../magic/magery.md)):
 !!! warning
     These need refinement. Confirm your template in the Discord community.
 
-### Early (0-30)
-
-- Apply lesser poison to weapons
-- Practice on your own weapons
-- Low-cost training
-
-### Intermediate (30-60)
-
-- Apply stronger poisons
-- Practice with regular poison
-- More expensive
-
-### Advanced (60-100)
-
-- Greater and deadly poison
-- Expensive reagents
-- Macro training recommended
-
-!!! tip "Training Method"
-    Create poisoned weapons repeatedly. Have a clean weapon and poison potions ready. Apply → Remove → Repeat.
-
 ## Requirements
 
 ### Materials
 
-- **Poison Potions** - From [Alchemy](../../crafting.md#alchemy) or vendors
+- **Poison Potions** - From Alchemy or vendors
 - **Weapons** - To apply poison to
 - **Empty Bottles** - For creating poisons (if crafting)
 
@@ -76,81 +55,14 @@ If using poison spells ([Magery](../magic/magery.md)):
 
 **Support Skills:**
 
-- [Alchemy](../../crafting.md#alchemy) - Create poison potions
+- Alchemy - Create poison potions
 - [Tactics](tactics.md) - Damage
 - [Anatomy](anatomy.md) - Critical hits
-
-## Combat Strategy
-
-### Melee Poisoning
-
-1. Apply poison to weapon before combat
-2. Hit enemy to apply poison
-3. Fast weapons apply poison more reliably
-4. Poison wears down enemy HP over time
-
-### Poison Stacking
-
-- Poison doesn't stack
-- Higher level poison overwrites lower
-- Time poison applications strategically
 
 ## Character Templates
 
 !!! warning
     These need refinement. Confirm your template in the Discord community.
-
-### Poison Fencer
-
-- [Fencing](fencing.md): 100
-- **Poisoning: 100** ⭐
-- [Tactics](tactics.md): 100
-- [Anatomy](anatomy.md): 100
-- [Healing](healing.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Magery](../magic/magery.md): 100
-
-### Poison Mage
-
-- [Magery](../magic/magery.md): 100
-- [Evaluating Intelligence](../magic/evaluating-intelligence.md): 100
-- **Poisoning: 100** ⭐
-- [Meditation](../magic/meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Wrestling](wrestling.md): 100
-- [Inscription](../magic/inscription.md): 100
-
-## PvP Effectiveness
-
-In PvP, poisoning is powerful:
-
-- Continuous damage over time
-- Forces enemy to cure or take damage
-- Disrupts healing timing
-- Psychological pressure
-
-## PvM Usage
-
-For monster hunting:
-
-- Additional DPS source
-- Wear down tough monsters
-- Works while kiting
-- Stack with physical damage
-
-## Economic Aspect
-
-### Poison Potions
-
-- Buy from [Alchemy](../../crafting.md#alchemy) vendors
-- Create with Alchemy skill
-- Stock up for adventures
-- Costs add up at high levels
-
-## Importance
-
-⭐⭐⭐⭐ (Excellent for fencers and archers)
-⭐⭐⭐ (Good for poison mages)
 
 ---
 
@@ -159,4 +71,4 @@ For monster hunting:
 - [Combat Skills](../index.md#combat-skills)
 - [Fencing](fencing.md)
 - [Archery](archery.md)
-- [Alchemy](../../crafting.md#alchemy)
+- Alchemy
