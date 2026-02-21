@@ -24,6 +24,9 @@ Cartography allows you to draw maps of various regions and decode treasure maps.
 
 ## Training
 
+!!! warning
+    These need refinement. Confirm in the Discord community.
+
 ### Early (0-30)
 
 - Buy blank maps from NPC
@@ -52,8 +55,6 @@ Cartography allows you to draw maps of various regions and decode treasure maps.
 
 ### Tools
 
-- **Mapmaker's Pen** - Required for map creation
-
 ### Resources
 
 - Blank maps
@@ -77,37 +78,8 @@ Cartography allows you to draw maps of various regions and decode treasure maps.
 
 ## Treasure Hunting
 
-### Treasure Map Levels
-
-- **Level 1** - Easy, minor treasure
-- **Level 2** - Moderate difficulty
-- **Level 3** - Challenging
-- **Level 4** - Difficult
-- **Level 5** - Expert level
-- **Level 6** - Master level
-
-### Treasure Hunting Process
-
-1. Decode treasure map
-2. Travel to location
-3. Dig up treasure chest
-4. Kill guardians
-5. Disarm traps
-6. Pick lock
-7. Claim treasure
-
-## Economic Value
-
-### Income Sources
-
-- Sell treasure map decoding services
-- Keep treasure loot
-- Sell found items
-- Map-making for players
-
-## Importance
-
-⭐⭐⭐⭐ (Essential for treasure hunting)
+!!! warning
+    These need refinement. Confirm in the Discord community.
 
 ---
 

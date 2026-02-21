@@ -28,13 +28,6 @@ Make leather armor:
 - All leather armor pieces
 - Good for meditation users
 
-### Bandage Creation
-
-- **Bandages** - Essential healing supply
-- Made from cloth
-- Used with [Healing](../combat/healing.md) skill
-- Always in demand
-
 ### Special Dye Crafting
 
 Master tailors can create unique dungeon dyes:
@@ -47,7 +40,7 @@ Master tailors can create unique dungeon dyes:
 - **Any Cloth Item** - Can dye any cloth item in the game
 
 !!! tip "Dungeon Dye Materials"
-    Explore different dungeons to collect rare materials that can be crushed and combined with your dye kit to create exclusive hues!
+    Explore different dungeons to collect rare materials that can be crushed and combined with your dye kit to create exclusive hues! [Learn More](../../../custom-systems/dungeon-dyes.md)
 
 ## Training
 
@@ -77,104 +70,15 @@ Master tailors can create unique dungeon dyes:
 
 ## Related Skills
 
-**Resource Gathering:**
-
-- Combat skills - Kill animals for hides
-- [Animal Taming](../taming-and-animals/animal-taming.md) - Source of leather
-
-**Related Crafts:**
-
-- [Blacksmithy](blacksmithy.md) - Metal armor complement
-
-**Tailor Template:**
-
-- Tailoring: 100
-- [Magery](../magic/magery.md): 100
-- Other utility skills
+!!! warning
+    These need refinement. Confirm in the Discord community.
 
 ## Crafting Quality
-
-### Normal Items
-
-- Standard quality
-- Basic stats
-
-### Exceptional Items
-
-- Better quality
-- Enhanced stats (for armor)
-- Higher durability
-- Better resale value
-
-## Economic Value
-
-### High Demand Items
-
-- **Bandages** - Constant demand ⭐⭐⭐⭐⭐
-- **Special Dungeon Dyes** - Rare and exclusive ⭐⭐⭐⭐⭐
-- Leather armor for mages
-- Clothing and robes
-- Colored clothing
-
-### Profit Sources
-
-- Bulk bandage sales
-- **Dungeon dye sales** (rare colors)
-- Exceptional leather armor
-- Custom clothing orders
-- Steady income
-
-## Bandages
-
-### Most Important Product
-
-- Every character needs bandages
-- Made from cloth
-- Essential for [Healing](../combat/healing.md)
-- Constant market demand
-
-### Bandage Crafting
-
-- 1 cloth = 1 bandage
-- Quick to produce
-- Easy skill gains early
-- Best-selling product
-
-## Tailoring Guild
-
-### Joining Requirements
-
-- **Minimum Skill:** 85.1 Tailoring
-- Join at any Tailoring Guild location
-- Unlocks special dye crafting abilities
-
-### Tailor's Dye Kit
-
-- **Cost:** 10,000 gold
-- **Requirement:** 100.0 Tailoring skill
-- Purchase from Tailoring Guildmaster
-- Required tool for creating dungeon dyes
-
-### Creating Dungeon Dyes
-
-1. Collect dungeon-specific materials while adventuring
-2. Crush materials into dye ingredients
-3. Use Tailor's Dye Kit to combine materials into dye bottles
-4. Each dungeon material creates a unique hue
-5. Apply dye bottle to any cloth item
-
-!!! info "Investment Returns"
-    The 10,000 gold investment for the dye kit can be quickly recovered by selling rare dungeon dyes to collectors and fashion-conscious players!
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential for bandages, very valuable)
 
 ---
 
 **Related Pages:**
 
 - [Healing](../combat/healing.md)
-- [Crafting Skills](../../crafting.md)
 - [Armor](../../../items/armor.md)
 - [Resources](../../../items/resources.md)

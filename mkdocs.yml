@@ -108,11 +108,8 @@ nav:
     - Spirit Summoner: custom-systems/spirit-summoner.md
   - Game Mechanics:
     - game-mechanics/index.md
-    - Combat System: game-mechanics/combat.md
-    - Crafting: game-mechanics/crafting.md
     - Currencies: game-mechanics/currencies.md
     - Housing: game-mechanics/housing.md
-    - Magic System: game-mechanics/magic.md
     - PvP & Murder:
       - game-mechanics/pvp/index.md
       - Murder System: game-mechanics/pvp/murder-system.md
@@ -129,7 +126,6 @@ nav:
         - Fencing: game-mechanics/skills/combat/fencing.md
         - Healing: game-mechanics/skills/combat/healing.md
         - Mace Fighting: game-mechanics/skills/combat/mace-fighting.md
-        - Overview: game-mechanics/skills/combat/combat.md
         - Parrying: game-mechanics/skills/combat/parrying.md
         - Poisoning: game-mechanics/skills/combat/poisoning.md
         - Resisting Spells: game-mechanics/skills/combat/resisting-spells.md
@@ -142,7 +138,6 @@ nav:
         - Bowcraft/Fletching: game-mechanics/skills/crafting/bowcraft-fletching.md
         - Carpentry: game-mechanics/skills/crafting/carpentry.md
         - Cooking: game-mechanics/skills/crafting/cooking.md
-        - Overview: game-mechanics/skills/crafting/crafting.md
         - Tailoring: game-mechanics/skills/crafting/tailoring.md
         - Tinkering: game-mechanics/skills/crafting/tinkering.md
       - Magic:

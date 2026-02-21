@@ -15,7 +15,6 @@ Tinkering allows you to create various tools and mechanical items including lock
 Create tools for other skills:
 
 - Lockpicks (for [Lockpicking](../stealth-and-thievery/lockpicking.md))
-- Sewing kits (for [Tailoring](tailoring.md))
 - Tinker tools (self-replicating)
 - Various specialty tools
 
@@ -38,30 +37,6 @@ Create mechanical traps:
 
 !!! warning
     These need refinement. Confirm your template in the Discord community.
-
-### Early (0-30)
-
-- Buy ingots from NPC
-- Craft tinker tools
-- Make simple items
-
-### Intermediate (30-60)
-
-- Create lockpicks
-- Make sewing kits
-- Craft various tools
-
-### Advanced (60-85)
-
-- Create all tools
-- Make specialty items
-- Exceptional quality
-
-### Master (85-100)
-
-- Expert tinkerer
-- All recipes mastered
-- Exceptional items regularly
 
 ## Materials
 
@@ -92,48 +67,6 @@ Create mechanical traps:
 - Resource gathering: 100
 - [Magery](../magic/magery.md): 100
 
-## Economic Value
-
-### Essential Services
-
-- Lockpicks always in demand
-- Tools for other crafters
-- Constant need
-- Steady income
-
-### Profit Sources
-
-- Sell lockpicks to thieves and treasure hunters
-- Tool sales to crafters
-- Specialty item orders
-
-## Tool Requirements
-
-### Lockpicks
-
-- Essential for [Lockpicking](../stealth-and-thievery/lockpicking.md)
-- Consumed on failure
-- High demand item
-- Easy to craft in bulk
-
-### Sewing Kits
-
-- Required for [Tailoring](tailoring.md)
-- Last many uses
-- Moderate demand
-- Good profit margins
-
-### Other Tools
-
-- Various crafting tools
-- Specialty items
-- Custom orders
-
-## Importance
-
-⭐⭐⭐⭐ (Essential support skill for crafters)
-⭐⭐⭐ (Very useful for treasure hunters)
-
 ---
 
 **Related Pages:**
@@ -141,4 +74,3 @@ Create mechanical traps:
 - [Lockpicking](../stealth-and-thievery/lockpicking.md)
 - [Tailoring](tailoring.md)
 - [Blacksmithy](blacksmithy.md)
-- [Crafting Skills](../../crafting.md)

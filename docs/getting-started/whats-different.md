@@ -339,8 +339,6 @@ New Dawn is actively developed:
 
 - **[Patch Notes](../patches/index.md)** - Complete change history
 - **[Custom Systems](../custom-systems/index.md)** - Unique features
-- **[Combat System](../game-mechanics/combat.md)** - Detailed mechanics
-- **[Magic System](../game-mechanics/magic.md)** - Including Spirit Speak
 - **[Discord](../community/discord.md)** - Community and support
 
 Welcome to New Dawn!

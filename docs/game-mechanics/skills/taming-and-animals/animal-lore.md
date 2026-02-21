@@ -27,51 +27,10 @@ When you actively use the Animal Lore skill on a creature:
 
 The Animal Lore gump shows comprehensive creature details across multiple pages:
 
-### Page 1: Attributes
-
-- Hits / Max Hits
-- Stamina / Max Stamina
-- Mana / Max Mana
-- Strength
-- Dexterity
-- Intelligence
-- Barding Difficulty
-- Loyalty Rating (for controlled pets)
-
-### Page 2: Combat Ratings
-
-- Wrestling skill
-- Tactics skill
-- Magic Resistance skill
-- Anatomy skill
-- Poisoning skill
-
-### Page 3: Lore & Knowledge
-
-- Magery skill
-- Evaluating Intelligence skill
-- Meditation skill
-
-### Page 4: Misc Information
-
-- Preferred Foods (Meat, Fruits/Vegetables, Grains/Hay, Fish, Metal, Eggs)
-- Pack Instincts (Canine, Ostard, Feline, Arachnid, Daemon, Bear, Equine, Bull)
-
-!!! note "Skill Display"
-    Skills below 10.0 are displayed as "---"
-
-## Healing Synergy
-
-Animal Lore is used as the secondary skill when healing animals and monsters with bandages:
-
-- Functions like Anatomy does for healing players
-- Used in healing amount calculation
-- Used in resurrection success chance
-- Used in poison curing success chance
-
-See [Veterinary](veterinary.md) for detailed healing formulas.
-
 ## Training
+
+!!! warning
+    These need refinement. Confirm your template in the Discord community.
 
 ### Active Training
 
@@ -97,40 +56,6 @@ Use Animal Lore skill on:
 
 - [Animal Taming](animal-taming.md) - Control creatures
 - [Veterinary](veterinary.md) - Heal pets
-
-**Tamer Template:**
-
-- Animal Taming: 100
-- **Animal Lore: 100** ⭐
-- Veterinary: 100
-- Magery: 100
-- Meditation: 100
-- Resisting Spells: 100
-- Wrestling: 100
-
-## Uses
-
-### Information Gathering
-
-- Assess threat level before combat
-- Identify creature resistances
-- Plan attack strategies
-
-### Pet Management
-
-- Monitor pet stats
-- Track loyalty changes
-- Evaluate taming candidates
-
-### Trading
-
-- Appraise pet value
-- Verify pet quality for buyers
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential for tamers)
-⭐⭐ (Useful for non-tamers)
 
 ---
 

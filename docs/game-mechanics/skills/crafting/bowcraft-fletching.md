@@ -28,29 +28,8 @@ Produce arrows and bolts:
 
 ## Training
 
-### Early (0-30)
-
-- Buy logs from NPC lumberjack
-- Craft arrows and kindling
-- Make simple bows
-
-### Intermediate (30-60)
-
-- Craft crossbows
-- Make better bows
-- Use normal wood
-
-### Advanced (60-85)
-
-- Craft composite bows
-- Make heavy crossbows
-- Use special wood types
-
-### Master (85-100)
-
-- Craft exceptional weapons
-- Use rare wood types
-- Maximum arrow production
+!!! warning
+    These need refinement. Confirm in the Discord community.
 
 ## Materials
 
@@ -82,59 +61,10 @@ Produce arrows and bolts:
 - Magery: 100
 - Other utility skills
 
-## Crafting Quality
-
-### Normal Quality
-
-- Standard damage
-- Basic durability
-
-### Exceptional Quality
-
-- Bonus damage
-- Better durability
-- Higher value
-- Requires high skill
-
-## Wood Types
-
-### Common Wood
-
-- **Normal Logs** - Standard quality
-- Most abundant
-
-### Special Wood
-
-- **Oak** - Enhanced properties
-- **Ash** - Better quality
-- **Yew** - Superior
-- **Heartwood**
-
-## Economic Value
-
-### High Demand Items
-
-- Bows and crossbows
-- Arrow/bolt bulk sales
-- Exceptional weapons
-- Special wood items
-
-### Profit Sources
-
-- Sell to archer players
-- Supply ammunition in bulk
-- Craft special orders
-- Exceptional weapons for resale
-
-## Importance
-
-⭐⭐⭐⭐ (Essential for archers, good income)
-
 ---
 
 **Related Pages:**
 
 - [Lumberjacking](../resource-gathering/lumberjacking.md)
 - [Archery](../combat/archery.md)
-- [Crafting Skills](../../crafting.md)
 - [Weapons](../../../items/weapons.md)

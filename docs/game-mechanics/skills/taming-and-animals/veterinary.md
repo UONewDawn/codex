@@ -66,16 +66,6 @@ Veterinary is the pet equivalent of Healing. It allows you to heal and resurrect
 - [Animal Taming](animal-taming.md) - Control pets ⭐⭐⭐⭐⭐
 - [Animal Lore](animal-lore.md) - Boost healing ⭐⭐⭐⭐⭐
 
-**Tamer Template:**
-
-- [Animal Taming](animal-taming.md): 100
-- [Animal Lore](animal-lore.md): 100
-- Veterinary: 100 ⭐
-- [Magery](../magic/magery.md): 100
-- [Meditation](../magic/meditation.md): 100
-- [Resisting Spells](../combat/resisting-spells.md): 100
-- [Wrestling](../combat/wrestling.md): 100
-
 ## Healing Synergy
 
 ### With Animal Lore
@@ -133,7 +123,7 @@ Requirements for pet resurrection:
 ### Bonded Pets
 
 - Bonded pets can be resurrected
-- Veterinary enables rez at high skill
+- Veterinary enables res at high skill
 - Save expensive pets
 - Essential for valuable pets
 
@@ -143,11 +133,6 @@ Requirements for pet resurrection:
 - Pet dies permanently
 - Keep pets bonded
 - Veterinary still crucial for healing
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Absolutely essential for tamers)
-⭐⭐ (Useful for any pet owner)
 
 ---
 

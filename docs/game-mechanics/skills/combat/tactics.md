@@ -10,19 +10,8 @@ Tactics is a crucial support skill that directly increases the damage you deal i
 
 ## Effects
 
-### Damage Bonus
-
-- Scales with skill level
-- Applies to all physical attacks
-- Works with all weapon skills
-- Significant impact on DPS
-
-### Combat Effectiveness
-
-- Higher damage per hit
-- Faster monster kills
-- Better PvP performance
-- Essential for all warriors
+!!! warning
+    These need refinement. Confirm your template in the Discord community.
 
 ## Training
 
@@ -40,9 +29,6 @@ Tactics gains passively during any combat:
 - No specific actions needed
 - Progress tracked alongside weapon skills
 - Reaches 100 naturally through combat
-
-!!! success "Easy Training"
-    You'll train Tactics naturally while training your weapon skill.
 
 ## Related Skills
 
@@ -69,53 +55,10 @@ Tactics gains passively during any combat:
 !!! warning
     These need refinement. Confirm your template in the Discord community.
 
-Every physical combat build needs Tactics at 100:
-
-### Warrior
-
-- Weapon Skill: 100
-- **Tactics: 100** ⭐
-- Anatomy: 100
-
-### Archer
-
-- Archery: 100
-- **Tactics: 100** ⭐
-- Anatomy: 100
-
-### Bard Warrior
-
-- Weapon Skill: 100
-- **Tactics: 100** ⭐
-- Musicianship: 100
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Absolutely Essential)
-
-No physical combat build should skip Tactics!
-
-## Why It Matters
-
-Without Tactics:
-
-- ❌ Significantly reduced damage
-- ❌ Slower hunting
-- ❌ Weak in PvP
-- ❌ Ineffective in groups
-
-With 100 Tactics:
-
-- ✅ Maximum damage output
-- ✅ Efficient hunting
-- ✅ Competitive in PvP
-- ✅ Valuable team member
-
 ---
 
 **Related Pages:**
 
 - [Combat Skills Overview](../index.md#combat-skills)
 - [Anatomy](anatomy.md)
-- [Combat System](../../combat.md)
 - [Stats](../../stats.md)

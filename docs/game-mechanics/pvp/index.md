@@ -25,8 +25,6 @@ New Dawn's combat includes numerous custom modifications:
 - Archery snare ability
 - Parrying shield bash
 
-For complete combat details, see the [Combat System](../combat.md) page.
-
 ### Flagging System
 
 **Blue (Innocent):**
@@ -189,7 +187,6 @@ A: Yes, except blessed/newbie items. This is risk vs reward.
 ## Related Pages
 
 - **[Murder System](murder-system.md)** - Detailed murder mechanics
-- **[Combat System](../combat.md)** - Combat mechanics and formulas
 - **[Capture the Flag](../../custom-systems/capture-the-flag.md)** - Structured team PvP
 - **[Conquest of Virtues](../../custom-systems/conquest-of-virtues.md)** - Guild warfare
 - **[Guilds](../../community/index.md)** - Finding and joining guilds

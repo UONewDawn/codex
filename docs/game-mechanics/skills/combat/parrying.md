@@ -8,20 +8,6 @@ Shield-based defense and damage reduction.
 
 Parrying allows you to block incoming attacks with a shield. This defensive skill significantly reduces damage taken and is essential for tank builds.
 
-## Effects
-
-### Active Defense
-
-- **Block Attacks** - Chance to completely block incoming hits
-- **Reduce Damage** - Even partial blocks reduce damage
-- **Stagger Enemies** - Blocked attacks can interrupt opponents
-
-### Requirements
-
-- Shield equipped
-- Combat skill (weapon skill or wrestling)
-- Active engagement in combat
-
 ## Training
 
 !!! warning
@@ -71,19 +57,6 @@ Parrying improves by taking hits:
 - [Anatomy](anatomy.md) - Critical hits
 - Weapon skill - Combat effectiveness
 
-**Full Tank Build:**
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-- Weapon Skill: 100
-- Tactics: 100
-- Anatomy: 100
-- Healing: 100
-- **Parrying: 100** ⭐
-- Resisting Spells: 100
-- Magery: 100
-
 ## Shield Types
 
 ### Light Shields
@@ -114,57 +87,15 @@ Parrying improves by taking hits:
 
 ### Block Chance
 
-## Combat Strategy
-
-### Tank Role
-
-In groups, high Parrying allows you to:
-
-- Take damage for the team
-- Protect weaker members
-- Control enemy aggression
-- Survive longer in tough fights
-
 ## Character Templates
 
 !!! warning
     These need refinement. Confirm your template in the Discord community.
-
-### Sword & Board Tank
-
-- Swordsmanship: 100
-- Tactics: 100
-- Anatomy: 100
-- Healing: 100
-- **Parrying: 100** ⭐
-- Resisting Spells: 100
-- Magery: 100
-
-## PvP Considerations
-
-In PvP, Parrying:
-
-- Reduces burst damage
-- Protects against weapon specials
-- Increases survival time
-- Forces enemy to adjust tactics
-
-### Trade-offs
-
-- Takes 100 skill points
-- Requires shield (no 2H weapons)
-- Must balance offense and defense
-
-## Importance
-
-⭐⭐⭐⭐ (Very Important for tanks)
-⭐⭐⭐ (Useful for all melee)
 
 ---
 
 **Related Pages:**
 
 - [Combat Skills Overview](../index.md#combat-skills)
-- [Combat System](../../combat.md)
 - [Healing](healing.md)
 - [Equipment Guide](../../../items/armor.md)

@@ -30,30 +30,6 @@ When using axe weapons:
 !!! warning
     These need refinement. Confirm your template in the Discord community.
 
-### Early (0-30)
-
-- Buy an axe from NPC
-- Chop any trees
-- Practice near towns
-
-### Intermediate (30-60)
-
-- Chop in forests
-- Gather while training
-- Build log stockpile
-
-### Advanced (60-85)
-
-- Chop special trees (if available)
-- Master lumberjacking
-- Efficient gathering
-
-### Master (85-100)
-
-- Expert woodsman
-- Maximum resource yield
-- Best combat bonus
-
 ## Materials
 
 ### Tools
@@ -69,23 +45,8 @@ When using axe weapons:
 
 ## Related Skills
 
-**Essential For:**
-
-- [Bowcraft/Fletching](../crafting/bowcraft-fletching.md) - Needs logs ⭐⭐⭐⭐⭐
-- [Carpentry](../crafting/carpentry.md) - Needs boards ⭐⭐⭐⭐⭐
-
-**Combat Synergy:**
-
-- [Swordsmanship](../combat/swordsmanship.md) - If using axes
-- [Tactics](../combat/tactics.md) - Damage multiplier
-- [Anatomy](../combat/anatomy.md) - More damage
-
-**Lumberjack Crafter:**
-
-- Lumberjacking: 100
-- [Carpentry](../crafting/carpentry.md): 100 or [Bowcraft/Fletching](../crafting/bowcraft-fletching.md): 100
-- [Magery](../magic/magery.md): 100
-- Other utility skills
+!!! warning
+    These need refinement. Confirm your template in the Discord community.
 
 ## Wood Types
 
@@ -128,11 +89,6 @@ When using axe weapons:
 - [Healing](../combat/healing.md): 100
 - [Resisting Spells](../combat/resisting-spells.md): 100
 - [Parrying](../combat/parrying.md): 100
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential for wood crafters)
-⭐⭐⭐ (Good for axe warriors)
 
 ---
 

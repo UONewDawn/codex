@@ -13,7 +13,6 @@ Animal Taming allows you to befriend wild creatures and command them in combat. 
 When you actively use the Animal Taming skill:
 
 - **Target Range**: 6 tiles
-- **Targeting Timeout**: 30 seconds (if you don't select a target)
 - **Actual Cooldown**: None - you can attempt again immediately after success or failure
 - **Process**: Reveals you and starts a taming attempt with 3-4 attempts (random) at 3-second intervals
 - **Initial Message**: "Tame which animal?" when initiating
@@ -31,31 +30,6 @@ Before you can attempt to tame a creature:
 - **Line of Sight**: Must maintain clear path and vision during taming
 - **Range**: Must stay within 6 tiles during the entire taming process
 - **Damage**: If the creature takes damage during taming, the attempt fails
-
-### Taming Success Formula
-
-Success is determined by checking Animal Taming skill against:
-
-```text
-minSkill = creature.MinTameSkill + (creature.Owners.Count * 6.0) + 24.9
-Skill check: minSkill - 25.0 to minSkill + 25.0
-```
-
-- **First Time Taming**: Base difficulty from creature's MinTameSkill
-- **Retaming**: Difficulty increases by 6.0 per previous owner
-- **Already Owned**: If you previously owned the creature, taming automatically succeeds
-
-### Anger Chance
-
-When attempting to tame, there's a 95% chance the creature will:
-
-- Display: "You seem to anger the beast!"
-- Attack you (unless you have Honor virtue active)
-- Break any barding pacification (75% chance to re-pacify after 2 seconds)
-
-### Animal Lore Gains
-
-During the taming process (each 3-second interval), you passively check Animal Lore for skill gain if you don't already own the creature.
 
 ## Effects
 
@@ -113,31 +87,18 @@ Each creature requires a certain number of control slots. Your maximum follower 
 !!! warning
     This section needs work. Please confirm in the Discord community
 
-### Pure Tamer (PvM)
-
-- Animal Taming: 100
-- **Animal Lore: 100**
-- Veterinary: 100
-- Magery: 100
-- Meditation: 100
-- Resisting Spells: 100
-- Wrestling: 100
-
 ## Pet Loyalty
 
 ### Loyalty System
 
 Pets have loyalty levels that must be maintained:
 
-- Feed pets regularly
-- Keep pets alive
-- Don't overwork pets
-
 ### Bonding
 
 - Pets can be bonded after time
 - Bonded pets resurrect instead of dying permanently
 - Essential for valuable pets
+- Bonded pets can also recall with you
 
 ## Importance
 

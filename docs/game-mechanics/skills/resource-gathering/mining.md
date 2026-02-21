@@ -88,15 +88,6 @@ Mining allows you to extract ore from mountainsides and rocky areas. Essential f
 - [Cartography](../utility-and-support/cartography.md) - Treasure hunting (dig up chests)
 - [Magery](../magic/magery.md) - Travel to mining spots
 
-**Miner Smith Template:**
-
-- Mining: 100
-- [Blacksmithy](../crafting/blacksmithy.md): 100
-- [Arms Lore](../utility-and-support/arms-lore.md): 100
-- [Tinkering](../crafting/tinkering.md): 50
-- [Magery](../magic/magery.md): 100
-- Other utility
-
 ## Ore Quality
 
 ### Common Ores
@@ -121,41 +112,6 @@ Mining allows you to extract ore from mountainsides and rocky areas. Essential f
 - Ingots used in smithing
 - Lighter than ore for transport
 
-## Economic Value
-
-### High Demand
-
-- Ingots always needed
-- Smiths buy constantly
-- Colored ingots worth premium
-- Consistent income source
-
-### Income Potential
-
-- Sell iron ingots in bulk
-- Premium for colored ingots
-- Supply smiths
-- Very profitable at high skill
-
-## Mining Routes
-
-### Efficient Mining
-
-- Learn spawn locations
-- Create mining routes
-- Mark runes to good spots
-- Rotate locations
-
-### Ore Respawn
-
-- Veins respawn over time
-- Rotate between locations
-- Don't over-mine one area
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential for smiths, excellent income)
-
 ---
 
 **Related Pages:**
@@ -163,4 +119,3 @@ Mining allows you to extract ore from mountainsides and rocky areas. Essential f
 - [Blacksmithy](../crafting/blacksmithy.md)
 - [Cartography](../utility-and-support/cartography.md)
 - [Resources](../../../items/resources.md)
-- [Crafting Skills](../../crafting.md)
