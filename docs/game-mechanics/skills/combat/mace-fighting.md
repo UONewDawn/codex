@@ -18,26 +18,26 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-    |                                 Weapon                                 | STR Required |    Damage roll     | Speed |
-    |:----------------------------------------------------------------------:|:------------:|:------------------:|:-----:|
-    |    ![item-icon](../../../assets/items/magic-wand.png)<br>Magic Wand    |      0       |   2d3<br>(2 - 6)   |  35   |
-    | ![item-icon](../../../assets/items/smith-hammer.png)<br>Smith's Hammer |      30      |  6d3<br>(6 - 18)   |  30   |
-    |          ![item-icon](../../../assets/items/club.png)<br>Club          |      10      | 4d5+4<br>(8 - 24)  |  40   |
-    |       ![item-icon](../../../assets/items/war-axe.png)<br>War Axe       |      35      | 6d4+3<br>(9 - 27)  |  40   |
-    |          ![item-icon](../../../assets/items/maul.png)<br>Maul          |      20      | 5d5+5<br>(10 - 30) |  30   |
-    |      ![item-icon](../../../assets/items/war-mace.png)<br>War Mace      |      30      | 5d5+5<br>(10 - 30) |  32   |
-    |          ![item-icon](../../../assets/items/mace.png)<br>Mace          |      20      | 6d5+2<br>(8 - 32)  |  30   |
-    |   ![item-icon](../../../assets/items/hammer-pick.png)<br>Hammer Pick   |      35      | 3d10+3<br>(6 - 33) |  30   |
+    |                                 Weapon                                 | STR Required |    Damage roll     | Speed | Item HP  |
+    |:----------------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
+    |    ![item-icon](../../../assets/items/magic-wand.png)<br>Magic Wand    |      0       |   2d3<br>(2 - 6)   |  35   | 31 - 70  |
+    | ![item-icon](../../../assets/items/smith-hammer.png)<br>Smith's Hammer |      30      |  6d3<br>(6 - 18)   |  30   | 31 - 60  |
+    |          ![item-icon](../../../assets/items/club.png)<br>Club          |      10      | 4d5+4<br>(8 - 24)  |  40   | 31 - 40  |
+    |       ![item-icon](../../../assets/items/war-axe.png)<br>War Axe       |      35      | 6d4+3<br>(9 - 27)  |  40   | 31 - 80  |
+    |          ![item-icon](../../../assets/items/maul.png)<br>Maul          |      20      | 5d5+5<br>(10 - 30) |  30   | 31 - 70  |
+    |      ![item-icon](../../../assets/items/war-mace.png)<br>War Mace      |      30      | 5d5+5<br>(10 - 30) |  32   | 31 - 110 |
+    |          ![item-icon](../../../assets/items/mace.png)<br>Mace          |      20      | 6d5+2<br>(8 - 32)  |  30   | 31 - 70  |
+    |   ![item-icon](../../../assets/items/hammer-pick.png)<br>Hammer Pick   |      35      | 3d10+3<br>(6 - 33) |  30   | 31 - 70  |
 
 === "Two Handed"
 
-    |                                  Weapon                                   | STR Required |    Damage roll     | Speed |
-    |:-------------------------------------------------------------------------:|:------------:|:------------------:|:-----:|
-    | ![item-icon](../../../assets/items/shepard-crook.png)<br>Shepherd's Crook |      10      |  3d4<br>(3 - 12)   |  30   |
-    |   ![item-icon](../../../assets/items/quarterstaff.png)<br>Quarterstaff    |      30      | 5d5+3<br>(8 - 28)  |  48   |
-    |  ![item-icon](../../../assets/items/gnarled-staff.png)<br>Gnarled Staff   |      20      | 5d5+5<br>(10 - 30) |  33   |
-    |    ![item-icon](../../../assets/items/black-staff.png)<br>Black Staff     |      35      | 5d6+3<br>(8 - 33)  |  35   |
-    |     ![item-icon](../../../assets/items/war-hammer.png)<br>War Hammer      |      40      | 7d5+1<br>(8 - 36)  |  31   |
+|                                  Weapon                                   | STR Required |    Damage roll     | Speed | Item HP  |
+|:-------------------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
+| ![item-icon](../../../assets/items/shepard-crook.png)<br>Shepherd's Crook |      10      |  3d4<br>(3 - 12)   |  30   | 31 - 50  |
+|   ![item-icon](../../../assets/items/quarterstaff.png)<br>Quarterstaff    |      30      | 5d5+3<br>(8 - 28)  |  48   | 31 - 60  |
+|  ![item-icon](../../../assets/items/gnarled-staff.png)<br>Gnarled Staff   |      20      | 5d5+5<br>(10 - 30) |  33   | 31 - 50  |
+|    ![item-icon](../../../assets/items/black-staff.png)<br>Black Staff     |      35      | 5d6+3<br>(8 - 33)  |  35   | 31 - 70  |
+|     ![item-icon](../../../assets/items/war-hammer.png)<br>War Hammer      |      40      | 7d5+1<br>(8 - 36)  |  31   | 31 - 110 |
 
 Maces and War Maces can deplete between 3 to 5 points of stamina from the target on successful hits.
 

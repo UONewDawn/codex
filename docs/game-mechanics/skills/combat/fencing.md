@@ -18,19 +18,19 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-    |                           Weapon                            | STR Required |    Damage roll     | Speed |
-    |:-----------------------------------------------------------:|:------------:|:------------------:|:-----:|
-    |  ![item-icon](../../../assets/items/dagger.png)<br>Dagger   |      1       |  3d5<br>(3 - 15)   |  55   |
-    |   ![item-icon](../../../assets/items/kryss.png)<br>Kryss    |      10      | 1d26+2<br>(3 - 28) |  53   |
-    | ![item-icon](../../../assets/items/warfork.png)<br>War Fork |      35      | 1d29+3<br>(4 - 32) |  45   |
+    |                           Weapon                            | STR Required |    Damage roll     | Speed | Item HP  |
+    |:-----------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
+    |  ![item-icon](../../../assets/items/dagger.png)<br>Dagger   |      1       |  3d5<br>(3 - 15)   |  55   | 31 - 50  |
+    |   ![item-icon](../../../assets/items/kryss.png)<br>Kryss    |      10      | 1d26+2<br>(3 - 28) |  53   | 31 - 90  |
+    | ![item-icon](../../../assets/items/warfork.png)<br>War Fork |      35      | 1d29+3<br>(4 - 32) |  45   | 31 - 110 |
 
 === "Two Handed"
 
-    |                               Weapon                               | STR Required |    Damage roll     | Speed |
-    |:------------------------------------------------------------------:|:------------:|:------------------:|:-----:|
-    |   ![item-icon](../../../assets/items/pitchfork.png)<br>Pitchfork   |      15      |  4d4<br>(4 - 16)   |  45   |
-    | ![item-icon](../../../assets/items/short-spear.png)<br>Short Spear |      15      | 2d15+2<br>(4 - 32) |  50   |
-    |       ![item-icon](../../../assets/items/spear.png)<br>Spear       |      30      |  2d18<br>(2 - 36)  |  46   |
+    |                               Weapon                               | STR Required |    Damage roll     | Speed | Item HP |
+    |:------------------------------------------------------------------:|:------------:|:------------------:|:-----:|:-------:|
+    |   ![item-icon](../../../assets/items/pitchfork.png)<br>Pitchfork   |      15      |  4d4<br>(4 - 16)   |  45   | 31 - 60 |
+    | ![item-icon](../../../assets/items/short-spear.png)<br>Short Spear |      15      | 2d15+2<br>(4 - 32) |  50   | 31 - 70 |
+    |       ![item-icon](../../../assets/items/spear.png)<br>Spear       |      30      |  2d18<br>(2 - 36)  |  46   | 31 - 80 |
 
 ## Paralyzing Blow
 

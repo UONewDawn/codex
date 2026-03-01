@@ -26,33 +26,33 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-    |                                  Weapon                                  | STR Required |   Damage roll    | Speed |
-    |:------------------------------------------------------------------------:|:------------:|:----------------:|:-----:|
-    | ![item-icon](../../../assets/items/skinning-knife.png)<br>Skinning Knife |      5       |  1d10<br>(1-10)  |  40   |
-    |        ![item-icon](../../../assets/items/cleaver.png)<br>Cleaver        |      10      | 1d12+1<br>(2-13) |  40   |
-    |  ![item-icon](../../../assets/items/butcher-knife.png)<br>Butcher Knife  |      5       |  2d7<br>(2-14)   |  40   |
-    |        ![item-icon](../../../assets/items/pickaxe.png)<br>Pickaxe        |      25      |  1d15<br>(1-15)  |  35   |
-    |         ![item-icon](../../../assets/items/katana.png)<br>Katana         |      10      | 3d8+2<br>(5-26)  |  58   |
-    |        ![item-icon](../../../assets/items/cutlass.png)<br>Cutlass        |      10      | 2d12+4<br>(6-28) |  45   |
-    |    ![item-icon](../../../assets/items/broad-sword.png)<br>Broad Sword    |      25      | 2d13+3<br>(5-29) |  45   |
-    |       ![item-icon](../../../assets/items/scimitar.png)<br>Scimitar       |      10      | 2d14+2<br>(4-30) |  43   |
-    |     ![item-icon](../../../assets/items/long-sword.png)<br>Long Sword     |      25      | 2d15+3<br>(5-33) |  35   |
-    |      ![item-icon](../../../assets/items/longsword.png)<br>Longsword      |      25      | 2d15+3<br>(5-33) |  35   |
-    |   ![item-icon](../../../assets/items/viking-sword.png)<br>Viking Sword   |      40      | 4d8+2<br>(6-34)  |  30   |
+|                                  Weapon                                  | STR Required |   Damage roll    | Speed | Item HP  |
+|:------------------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
+| ![item-icon](../../../assets/items/skinning-knife.png)<br>Skinning Knife |      5       |  1d10<br>(1-10)  |  40   | 31 - 40  |
+|        ![item-icon](../../../assets/items/cleaver.png)<br>Cleaver        |      10      | 1d12+1<br>(2-13) |  40   | 31 - 50  |
+|  ![item-icon](../../../assets/items/butcher-knife.png)<br>Butcher Knife  |      5       |  2d7<br>(2-14)   |  40   | 31 - 40  |
+|        ![item-icon](../../../assets/items/pickaxe.png)<br>Pickaxe        |      25      |  1d15<br>(1-15)  |  35   | 31 - 60  |
+|         ![item-icon](../../../assets/items/katana.png)<br>Katana         |      10      | 3d8+2<br>(5-26)  |  58   | 31 - 90  |
+|        ![item-icon](../../../assets/items/cutlass.png)<br>Cutlass        |      10      | 2d12+4<br>(6-28) |  45   | 31 - 70  |
+|    ![item-icon](../../../assets/items/broad-sword.png)<br>Broad Sword    |      25      | 2d13+3<br>(5-29) |  45   | 31 - 100 |
+|       ![item-icon](../../../assets/items/scimitar.png)<br>Scimitar       |      10      | 2d14+2<br>(4-30) |  43   | 31 - 90  |
+|     ![item-icon](../../../assets/items/long-sword.png)<br>Long Sword     |      25      | 2d15+3<br>(5-33) |  35   | 31 - 90  |
+|      ![item-icon](../../../assets/items/longsword.png)<br>Longsword      |      25      | 2d15+3<br>(5-33) |  35   | 31 - 90  |
+|   ![item-icon](../../../assets/items/viking-sword.png)<br>Viking Sword   |      40      | 4d8+2<br>(6-34)  |  30   | 31 - 90  |
 
 === "Two Handed"
 
-    |                                    Weapon                                    | STR Required |   Damage roll    | Speed |
-    |:----------------------------------------------------------------------------:|:------------:|:----------------:|:-----:|
-    |          ![item-icon](../../../assets/items/hatchet.png)<br>Hatchet          |      15      | 1d16+1<br>(2-17) |  40   |
-    | ![item-icon](../../../assets/items/executioner-axe.png)<br>Executioner's Axe |      35      | 3d10+3<br>(6-33) |  37   |
-    |              ![item-icon](../../../assets/items/axe.png)<br>Axe              |      35      | 3d10+3<br>(6-33) |  37   |
-    |       ![item-icon](../../../assets/items/double-axe.png)<br>Double Axe       |      45      | 1d31+4<br>(5-35) |  37   |
-    | ![item-icon](../../../assets/items/large-battle-axe.png)<br>Large Battle Axe |      40      | 2d17+4<br>(6-38) |  30   |
-    |       ![item-icon](../../../assets/items/battle-axe.png)<br>Battle Axe       |      40      | 2d17+4<br>(6-38) |  30   |
-    |   ![item-icon](../../../assets/items/two-handed-axe.png)<br>Two-handed Axe   |      35      | 2d18+3<br>(5-39) |  30   |
-    |         ![item-icon](../../../assets/items/bardiche.png)<br>Bardiche         |      40      | 2d20+3<br>(5-43) |  26   |
-    |          ![item-icon](../../../assets/items/halberd.png)<br>Halberd          |      45      | 2d23+3<br>(5-49) |  25   |
+    |                                    Weapon                                    | STR Required |   Damage roll    | Speed | Item HP  |
+    |:----------------------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
+    |          ![item-icon](../../../assets/items/hatchet.png)<br>Hatchet          |      15      | 1d16+1<br>(2-17) |  40   | 31 - 80  |
+    | ![item-icon](../../../assets/items/executioner-axe.png)<br>Executioner's Axe |      35      | 3d10+3<br>(6-33) |  37   | 31 - 90  |
+    |              ![item-icon](../../../assets/items/axe.png)<br>Axe              |      35      | 3d10+3<br>(6-33) |  37   | 31 - 100 |
+    |       ![item-icon](../../../assets/items/double-axe.png)<br>Double Axe       |      45      | 1d31+4<br>(5-35) |  37   | 31 - 110 |
+    | ![item-icon](../../../assets/items/large-battle-axe.png)<br>Large Battle Axe |      40      | 2d17+4<br>(6-38) |  30   | 31 - 110 |
+    |       ![item-icon](../../../assets/items/battle-axe.png)<br>Battle Axe       |      40      | 2d17+4<br>(6-38) |  30   | 31 - 80  |
+    |   ![item-icon](../../../assets/items/two-handed-axe.png)<br>Two-handed Axe   |      35      | 2d18+3<br>(5-39) |  30   | 31 - 70  |
+    |         ![item-icon](../../../assets/items/bardiche.png)<br>Bardiche         |      40      | 2d20+3<br>(5-43) |  26   | 31 - 100 |
+    |          ![item-icon](../../../assets/items/halberd.png)<br>Halberd          |      45      | 2d23+3<br>(5-49) |  25   | 31 - 80  |
 
 ## Concussion Blow
 
