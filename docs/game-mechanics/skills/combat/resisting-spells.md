@@ -38,7 +38,7 @@ The damage calculation is:
 
 - First, the resist chance is applied, if you resist the spell, the base damage is reduced by 50%.
 
-- Next, the Eval Int modifier is applied, if the attacker has no Eval Int, it reduces the damage by an additional 50%.
+- Next, the Eval Int modifier is applied, if the attacker has no Evaluating Intelligence, it reduces the damage by an additional 50%.
 
 This means Resisting Spells also provides a passive damage reduction against attackers with no Eval Int, even if the spell is not resisted.
 
@@ -58,8 +58,6 @@ If you have 100 Resist and the attacker has 100 Eval Int, they will have no bene
 
 You can train Resisting Spells, Magery, Meditation and Healing at the same time.
 
-It's recommended to keep low Evaluating Intelligence as it will increase your spell damage and make training more difficult.
-
 | Skill    | Cast on yourself |
 |----------|------------------|
 | 0 - 30   | Train from NPCs  |
@@ -71,3 +69,4 @@ It's recommended to keep low Evaluating Intelligence as it will increase your sp
 ## Related skills
 
 - [Magery](../magic/magery.md)
+- [Evaluating Intelligence](../magic/evaluating-intelligence.md)
