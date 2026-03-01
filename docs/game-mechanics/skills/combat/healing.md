@@ -30,30 +30,30 @@ This table shows the time in seconds that it takes for a bandage to be applied d
 
     | Dexterity | Delay |
     |-----------|-------|
-    | 30        | 12.5s |
-    | 50        | 11.5s |
-    | 80        | 10s   |
-    | 100       | 9s    |
+    | 30        | 12.5  |
+    | 50        | 11.5  |
+    | 80        | 10    |
+    | 100       | 9     |
 
 === "Others"
 
     | Dexterity   | Delay |
     |-------------|-------|
-    | 25 or less  | 5s    |
+    | 25 or less  | 5     |
     | 26 - 50     | 4.5   |
-    | 51 - 79     | 4s    |
-    | 81 - 99     | 3.5s  |
-    | 100 or more | 3s    |
+    | 51 - 79     | 4     |
+    | 81 - 99     | 3.5   |
+    | 100 or more | 3     |
 
 === "Resurrect"
 
     | Dexterity   | Delay |
     |-------------|-------|
-    | 25 or less  | 10s   |
+    | 25 or less  | 10    |
     | 26 - 50     | 9.5   |
-    | 51 - 79     | 9s    |
-    | 81 - 99     | 8.5s  |
-    | 100 or more | 8s    |
+    | 51 - 79     | 9     |
+    | 81 - 99     | 8.5   |
+    | 100 or more | 8     |
 
 ## Training
 
