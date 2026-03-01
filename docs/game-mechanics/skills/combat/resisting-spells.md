@@ -2,25 +2,26 @@
 
 # Resisting Spells
 
-Defense against hostile magic and spell effects.
-
 ## Overview
 
-Resisting Spells is the primary defense against magical attacks. This essential skill reduces spell damage, prevents debuffs, and shortens the duration of negative effects.
+Resisting Spells reduces the damage taken from harmful spells and shortens the duration of debuffs.
+
+<!-- Not sure if Mana Drain and Mana Vampire have a chance of not having affect at all -->
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+You can train Resisting Spells, Magery, Meditation and Healing at the same time.
 
-## Character Templates
+It's recommended to keep low Evaluating Intelligence as it will increase your spell damage and make training more difficult.
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+| Skill    | Cast on yourself |
+|----------|------------------|
+| 0 - 30   | Train from NPCs  |
+| 30 - 55  | Fireball         |
+| 55 - 60  | Lighting         |
+| 60 - 82  | Energy Bolt      |
+| 82 - 100 | Flamestrike      |
 
----
+## Related skills
 
-**Related Pages:**
-
-- [Combat Skills Overview](../index.md#combat-skills)
-- [Magic Skills](../index.md#magic-skills)
+- [Magery](../magic/magery.md)

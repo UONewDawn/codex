@@ -2,63 +2,37 @@
 
 # Tactics
 
-Increases damage output in all physical combat.
-
 ## Overview
 
-Tactics is a crucial support skill that directly increases the damage you deal in physical combat. This skill is essential for all melee and ranged combat builds.
+Tactics determines how much of your weapon base damage goes through on a successful hit.
 
-## Effects
+## Damage calculation
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+If a weapon has a base damage of 40, and you have 80 Tactics, you will deal 52 damage.
+
+| Tactics | % of Base Damage Dealt |
+|---------|------------------------|
+| 10      | 60%                    |
+| 20      | 70%                    |
+| 30      | 80%                    |
+| 40      | 90%                    |
+| 50      | 100%                   |
+| 60      | 110%                   |
+| 70      | 120%                   |
+| 80      | 130%                   |
+| 90      | 140%                   |
+| 100     | 150%                   |
+
+To calculate, multiple your weapon base damage by the % converted into decimals (60% is 0.60 and 150% is 1.50).
 
 ## Training
 
-### Passive Skill
+Train from Weaponsmith NPCs to reach around 30.
 
-Tactics gains passively during any combat:
+To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time.
 
-- Fight monsters
-- PvP combat
-- Any physical attack
+Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
 
-### Training Tips
+## Related skills
 
-- Gains automatically during weapon training
-- No specific actions needed
-- Progress tracked alongside weapon skills
-- Reaches 100 naturally through combat
-
-## Related Skills
-
-**Always Paired With:**
-
-- [Swordsmanship](swordsmanship.md)
-- [Fencing](fencing.md)
-- [Mace Fighting](mace-fighting.md)
-- [Archery](archery.md)
-- [Wrestling](wrestling.md)
-
-**Combat Package:**
-
-- [Anatomy](anatomy.md) - Critical hits
-- [Healing](healing.md) - Survivability
-
-## Damage Calculation
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-## All Combat Templates
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
----
-
-**Related Pages:**
-
-- [Combat Skills Overview](../index.md#combat-skills)
 - [Anatomy](anatomy.md)
-- [Stats](../../stats.md)

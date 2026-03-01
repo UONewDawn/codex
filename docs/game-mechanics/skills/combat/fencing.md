@@ -2,53 +2,58 @@
 
 # Fencing
 
-Mastery of piercing weapons and finesse combat.
-
 ## Overview
 
-Fencing focuses on speed and precision with piercing weapons. This skill excels at fast attacks and often pairs well with poisoning for deadly combinations.
+Fencing is the mastery of piercing weapons.
 
-!!! warning
-    This section needs work. Please confirm in the Discord community
+It focuses on speed rather than damage, it's often paired with Poisoning to increase effectiveness.
+
+Higher combat skill makes you less likely to be hit.
 
 ## Weapons
 
-### Light Weapons
+This table doesn't take into account the Strength, Dexterity and Tactics of the attacker or the Armor Rating of the defender.
 
-- Kryss
-- Dagger
-- War Fork
+Weapons are considered being at full durability.
 
-### Reach Weapons
+=== "One Handed"
 
-- Spear
-- Pitchfork
-- Short Spear
+    |                           Weapon                            | STR Required |    Damage roll     | Speed |
+    |:-----------------------------------------------------------:|:------------:|:------------------:|:-----:|
+    |  ![item-icon](../../../assets/items/dagger.png)<br>Dagger   |      1       |  3d5<br>(3 - 15)   |  55   |
+    |   ![item-icon](../../../assets/items/kryss.png)<br>Kryss    |      10      | 1d26+2<br>(3 - 28) |  53   |
+    | ![item-icon](../../../assets/items/warfork.png)<br>War Fork |      35      | 1d29+3<br>(4 - 32) |  45   |
+
+=== "Two Handed"
+
+    |                               Weapon                               | STR Required |    Damage roll     | Speed |
+    |:------------------------------------------------------------------:|:------------:|:------------------:|:-----:|
+    |   ![item-icon](../../../assets/items/pitchfork.png)<br>Pitchfork   |      15      |  4d4<br>(4 - 16)   |  45   |
+    | ![item-icon](../../../assets/items/short-spear.png)<br>Short Spear |      15      | 2d15+2<br>(4 - 32) |  50   |
+    |       ![item-icon](../../../assets/items/spear.png)<br>Spear       |      30      |  2d18<br>(2 - 36)  |  46   |
+
+## Paralyzing Blow
+
+Combining Fencing with Anatomy allows you to use the Paralyzing Blow special ability with Spears, Short Spears and Pitchforks.
+
+The success rate is calculated by dividing your Anatomy skill by 4, GM Anatomy equals to 25% success rate.
+
+On a successful hit the target will be paralyzed for 4 seconds, unable to move but still able to use potions, bandages and wands. 
+
+During the effect the target can't be paralyzed again.
 
 ## Training
 
-!!! warning
-    This section needs work. Please confirm in the Discord community
+Train from Weaponsmith or Thief NPCs to reach around 30.
 
-## Related Skills
+To gain you will need to repeatedly attack a target.
 
-**Essential Pairs:**
+To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time.
 
-- [Tactics](tactics.md) - Damage multiplier
-- [Anatomy](anatomy.md) - Critical hits
-- [Healing](healing.md) - Survivability
+Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
 
-## Combat Advantages
+## Related skills
 
-!!! success "Fencing Strengths"
-    - Fast attack speed with light weapons
-    - Excellent with poisoning
-    - Good DPS potential
-    - Mobile combat style
-
----
-
-**Related Pages:**
-
-- [Combat Skills Overview](../index.md#combat-skills)
+- [Anatomy](anatomy.md)
 - [Poisoning](poisoning.md)
+- [Tactics](tactics.md)

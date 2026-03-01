@@ -2,67 +2,33 @@
 
 # Archery
 
-Ranged combat with bows and crossbows.
-
 ## Overview
 
-Archery allows you to fight from a distance using bows and crossbows. This skill excels at kiting enemies and provides a significant safety advantage.
+Archery allows you to fight from a distance using bows and crossbows, this skill excels at kiting enemies and provides a significant safety advantage.
 
-!!! warning
-    This section needs work. Please confirm in the Discord community
+To help make Archers more viable, the shooting delay was reduced to 500ms and the Snare ability was added.
 
-## Weapons
+<!-- Not clear if all weapons have the same delay between shots -->
 
-### Bows
+## Weapons and ammo
 
-- Bow (standard)
-- Longbow
+This table doesn't take into account the Strength, Dexterity and Tactics of the attacker or the Armor Rating of the defender.
 
-### Crossbows
+Weapons are considered being at full durability.
 
-- Crossbow
-- Heavy Crossbow
+|                                  Weapon                                  |                          Ammo                           | STR Required |     Damage roll     |
+|:------------------------------------------------------------------------:|:-------------------------------------------------------:|:------------:|:-------------------:|
+|            ![item-icon](../../../assets/items/bow.png)<br>Bow            | ![item-icon](../../../assets/items/arrow.png)<br>Arrows |      20      |  4d9+5<br>(9 - 41)  |
+|       ![item-icon](../../../assets/items/crossbow.png)<br>Crossbow       |  ![item-icon](../../../assets/items/bolt.png)<br>Bolts  |      30      |  5d8+3<br>(8 - 43)  |
+| ![item-icon](../../../assets/items/heavy-crossbow.png)<br>Heavy Crossbow |  ![item-icon](../../../assets/items/bolt.png)<br>Bolts  |      40      | 5d10+6<br>(11 - 56) |
 
-## Ammunition
+## Snare
 
-### For Bows
+The new snare ability lets you immobilize a target for 3 seconds, but it can still attack or cast spells.
 
-- Arrows
-
-### For Crossbows
-
-- Bolts (standard)
-
-## Related Skills
-
-**Essential Pairs:**
-
-- [Tactics](tactics.md) - Damage boost
-- [Anatomy](anatomy.md) - Critical hits
-- [Hiding](../stealth-and-thievery/hiding.md) - Hit and hide tactics
-- [Tracking](../utility-and-support/tracking.md) - Find targets
-
-**Recommended:**
-
-- [Healing](healing.md) - Emergency recovery
-- [Magery](../magic/magery.md) - Utility spells
-
-## Combat Advantages
-
-### Range Benefits
-
-- Fight from safe distance
-- Avoid melee damage
-- Control engagement distance
-- Kite dangerous enemies
-
-## Weapon Special Moves
-
-To help make archers more viable, the shooting delay was reduced to 500ms. However, they remained underpowered due to lack of a special ability. Archers now have the snare ability.
-
-- Requires at least 80 anatomy and 80 archery
+- Requires at least 80 Archery and 80 Anatomy
 - Double-click your equipped bow to toggle snare
-- 25% chance to ensnare at 100 anatomy and 100 archery
+- 25% chance to ensnare at 100 Archery and 100 Anatomy
 - Each attempt (failed or successful) uses 15 stamina when active
 
 After a successful snare:
@@ -71,35 +37,12 @@ After a successful snare:
 - The snared target will have any spell they were casting disrupted
 - The archer cannot snare another target for 20 seconds
 
-## Character Templates
+## Training
 
-!!! warning
-    This section needs work. Please confirm in the Discord community
+Train from Bowyer NPCs to reach around 30.
 
-### Archer
+To gain you will need to repeatedly attack a target, use the razor scavenger to pick up the used arrows from the ground.
 
-- Archery: 100
-- Tactics: 100
-- Anatomy: 100
-- Healing: 100
-- [Hiding](../stealth-and-thievery/hiding.md): 100
-- [Tracking](../utility-and-support/tracking.md): 100
-- Resisting Spells: 100
+## Related skills
 
-### Stealth Archer
-
-- Archery: 100
-- Tactics: 100
-- Anatomy: 100
-- Hiding: 100
-- Stealth: 100
-- Tracking: 100
-- Healing: 100
-
----
-
-**Related Pages:**
-
-- [Combat Skills Overview](../index.md#combat-skills)
-- [Hiding](../stealth-and-thievery/hiding.md)
-- [Tracking](../utility-and-support/tracking.md)
+- [Anatomy](anatomy.md)

@@ -2,32 +2,29 @@
 
 # Anatomy
 
-Increases melee damage and improves bandage healing effectiveness.
-
 ## Overview
 
-Anatomy is a versatile support skill that enhances both offensive combat and healing. It's essential for all physical combat builds and significantly improves bandage healing.
+Anatomy passively boosts the damage of your physical attacks.
 
-!!! warning
-    This section needs work. Please confirm in the Discord community
+When combined with Healing, it increases how much you heal with bandages.
 
-## Active Use
+When combined with Evaluating Intelligence, they function as a passive Wrestling further enhancing your combat effectiveness.
 
-When you actively use the Anatomy skill on a target:
+## Damage bonus
 
-- **Target Range**: 8 tiles
-- **Success**: Reveals the target's approximate Strength, Dexterity, and Stamina percentage
-  - At 65.0+ skill: Also shows stamina percentage
-  - Accuracy improves with higher skill (margin of error decreases from ±25 at 0 skill to ±0 at 100 skill)
-- **Failure**: "You can not quite get a sense of their physical characteristics."
-- **Cooldown**: 10 seconds
+Every 10 points of Anatomy add a 2% increase to all physical damage, up to a maximum of 20% at GM.
 
-## Effects
+## Training
 
----
+Train from Healer NPCs to reach around 30.
 
-**Related Pages:**
+Anatomy can be used on a 1 second cooldown, it doesn't have any difficulty checks.
 
-- [Combat Skills Overview](../index.md#combat-skills)
-- [Tactics](tactics.md)
+You can train by using it on players, monsters, and animals until you reach 100.
+
+## Related skills
+
 - [Healing](healing.md)
+- [Evaluating Intelligence](../magic/evaluating-intelligence.md)
+- [Wrestling](wrestling.md)
+- [Tactics](tactics.md)
