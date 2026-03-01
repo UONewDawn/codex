@@ -6,13 +6,13 @@
 
 Resisting Spells gives you a chance to reduce the damage taken from harmful spells and shortens the duration of debuffs.
 
-<!-- Not sure if Mana Drain and Mana Vampire have a chance of not having affect at all -->
+If resisted, Mana Drain and Mana Vampire will have no affect.
 
 ## Resisting chance
 
 Debuff spells are always shortened in duration and do not check the chance to resist.
 
-The chance of resisting a harmful spell depends on your Resisting Spells skill, the attacker Magery skill, and the Spell Circle they cast.
+The chance of resisting a harmful spell depends on your Resist skill, the attacker Magery skill, and the Spell Circle they cast.
 
 This is the formula used in the calculation, both formulas are checked and the higher result is used:
 
@@ -22,13 +22,37 @@ This ensures there is always a minimum chance to resist.
 
 For example, with 30 Resisting Spells you will always have at least a 6% chance to resist any spell.
 
-`Resisting Spells − [ (Attacker Magery − 20) / 5 + (Spell Circle * 5) ]`
+`Resisting Spells − (Attacker Magery − 20) / 5 + (Spell Circle * 5)`
 
 This ensures that a Magic arrow is easier to resist than a Flamestrike.
 
-For example, if you have 100 Resisting Spells and the attacker has 100 Magery and hes casting a 8 circle spell, you will have a 44% chance so resist.
+For example, if you have 100 Resist and the attacker has 100 Magery and hes casting a 8th circle spell, you will have a 44% chance to resist.
 
-If you successfully resist a spell, the damage is cut in half.
+If you successfully resist a spell, the damage is reduced by 50%.
+
+## Damage calculation
+
+The damage calculation is:
+
+`(Base Spell Damage - 50% [if Resisted]) + Eval Intelligence Damage Modifier`
+
+- First, the resist chance is applied, if you resist the spell, the base damage is reduced by 50%.
+
+- Next, the Eval Int modifier is applied, if the attacker has no Eval Int, it reduces the damage by an additional 50%.
+
+This means Resisting Spells also provides a passive damage reduction against attackers with no Eval Int, even if the spell is not resisted.
+
+## Eval Int Damage Modifier
+
+If your Resist is higher than your attacker Eval Int, then the calculation is:
+
+`(1 + (Attacker Eval Int - Your Resist) / 200 )`
+
+If your Resist is lower than your attacker Eval Int, then the calculation is:
+
+`(1 + (Attacker Eval Int - Your Resist) / 500 )`
+
+If you have 100 Resist and the attacker has 100 Eval Int, they will have no benefits from Eval Int.
 
 ## Training
 
