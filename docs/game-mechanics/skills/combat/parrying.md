@@ -40,13 +40,10 @@ This table shows the Armor Rating for each shield type.
     |                               Shield Type                               | AR  |
     |:-----------------------------------------------------------------------:|:---:|
     |    ![item-icon](../../../assets/items/buckler-shield.png)<br>Buckler    |  8  |
-    |     ![item-icon](../../../assets/items/wooden-shield.png)<br>Wooden     |  -  |
     |     ![item-icon](../../../assets/items/bronze-shield.png)<br>Bronze     | 12  |
     |      ![item-icon](../../../assets/items/metal-shield.png)<br>Metal      | 13  |
     | ![item-icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 19  |
     |     ![item-icon](../../../assets/items/heater-shield.png)<br>Heater     | 27  |
-    |      ![item-icon](../../../assets/items/order-shield.png)<br>Order      |  -  |
-    |      ![item-icon](../../../assets/items/chaos-shield.png)<br>Chaos      |  -  |
 
 === "Defense"
 
@@ -54,12 +51,7 @@ This table shows the Armor Rating for each shield type.
     |:-----------------------------------------------------------------------:|:---:|
     |    ![item-icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 12  |
     |     ![item-icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 13  |
-    |     ![item-icon](../../../assets/items/bronze-shield.png)<br>Bronze     |  -  |
-    |      ![item-icon](../../../assets/items/metal-shield.png)<br>Metal      |  -  |
     | ![item-icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 21  |
-    |     ![item-icon](../../../assets/items/heater-shield.png)<br>Heater     |  -  |
-    |      ![item-icon](../../../assets/items/order-shield.png)<br>Order      |  -  |
-    |      ![item-icon](../../../assets/items/chaos-shield.png)<br>Chaos      |  -  |
 
 === "Guarding"
 
@@ -67,12 +59,7 @@ This table shows the Armor Rating for each shield type.
     |:-----------------------------------------------------------------------:|:---:|
     |    ![item-icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 17  |
     |     ![item-icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 18  |
-    |     ![item-icon](../../../assets/items/bronze-shield.png)<br>Bronze     |  -  |
-    |      ![item-icon](../../../assets/items/metal-shield.png)<br>Metal      |  -  |
     | ![item-icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 26  |
-    |     ![item-icon](../../../assets/items/heater-shield.png)<br>Heater     |  -  |
-    |      ![item-icon](../../../assets/items/order-shield.png)<br>Order      |  -  |
-    |      ![item-icon](../../../assets/items/chaos-shield.png)<br>Chaos      |  -  |
 
 === "Hardening"
 
@@ -80,12 +67,7 @@ This table shows the Armor Rating for each shield type.
     |:-----------------------------------------------------------------------:|:---:|
     |    ![item-icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 22  |
     |     ![item-icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 23  |
-    |     ![item-icon](../../../assets/items/bronze-shield.png)<br>Bronze     |  -  |
-    |      ![item-icon](../../../assets/items/metal-shield.png)<br>Metal      |  -  |
     | ![item-icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 31  |
-    |     ![item-icon](../../../assets/items/heater-shield.png)<br>Heater     |  -  |
-    |      ![item-icon](../../../assets/items/order-shield.png)<br>Order      |  -  |
-    |      ![item-icon](../../../assets/items/chaos-shield.png)<br>Chaos      |  -  |
 
 === "Fortification"
 
@@ -93,12 +75,7 @@ This table shows the Armor Rating for each shield type.
     |:-----------------------------------------------------------------------:|:---:|
     |    ![item-icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 27  |
     |     ![item-icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 28  |
-    |     ![item-icon](../../../assets/items/bronze-shield.png)<br>Bronze     |  -  |
-    |      ![item-icon](../../../assets/items/metal-shield.png)<br>Metal      |  -  |
     | ![item-icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 36  |
-    |     ![item-icon](../../../assets/items/heater-shield.png)<br>Heater     |  -  |
-    |      ![item-icon](../../../assets/items/order-shield.png)<br>Order      |  -  |
-    |      ![item-icon](../../../assets/items/chaos-shield.png)<br>Chaos      |  -  |
 
 === "Invulnerability"
 
@@ -106,12 +83,7 @@ This table shows the Armor Rating for each shield type.
     |:-----------------------------------------------------------------------:|:---:|
     |    ![item-icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 32  |
     |     ![item-icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 33  |
-    |     ![item-icon](../../../assets/items/bronze-shield.png)<br>Bronze     |  -  |
-    |      ![item-icon](../../../assets/items/metal-shield.png)<br>Metal      |  -  |
     | ![item-icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 41  |
-    |     ![item-icon](../../../assets/items/heater-shield.png)<br>Heater     |  -  |
-    |      ![item-icon](../../../assets/items/order-shield.png)<br>Order      |  -  |
-    |      ![item-icon](../../../assets/items/chaos-shield.png)<br>Chaos      |  -  |
 
 ## Shield Bash
 
