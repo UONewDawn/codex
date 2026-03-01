@@ -16,6 +16,8 @@ The amount of damage reduction depends on the Armor Rating of the shield used.
 
 Melee attacks are reduced by half of the shield Armor Rating, while projectile attacks use the shield full AR.
 
+Keep in mind that as your shield becomes damaged overtime, its AR will gradually decrease as well.
+
 This table shows the Armor Rating for each shield type.
 
 <!-- Tear kite shield needs to be added -->
