@@ -2,76 +2,34 @@
 
 # Wrestling
 
-Unarmed combat and defensive capability.
-
 ## Overview
 
-Wrestling is the unarmed combat skill. While rarely used for actual fighting, it's essential for mages as a defensive skill when not wielding weapons.
+Wrestling lowers the chances of being physically hit, is most used by mages as a defensive skill to avoid the disruption of spells.
 
-## Primary Uses
+It's also used to calculate the chance of hitting with your bare hands.
 
-### Mage Defense
+## Stun Punch
 
-- Provides defensive capability without weapon
-- Better than having no combat skill
-- Essential for pure mages
+Combining at least 80 Wrestling with 80 Anatomy allows you to use the Stun Punch special ability.
 
-### Unarmed Combat
+On a successful hit the target will be paralyzed for 5 seconds.
 
-- Fist fighting
-- Disarm opponents
-- Stun punch ability
+## Disarm
 
-### Special Moves
+Combining at least 80 Wrestling with 80 Arms Lore allows you to use the Disarm special ability.
 
-- **Disarm** - Remove opponent's weapon
-- **Stun Punch** - Temporarily disable enemy
+On a successful hit, the target weapon or spellbook will be removed from their hands and placed in their backpack.
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+Train from Mage NPCs to reach around 30.
 
-## Related Skills
+To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time.
 
-**For Mages:**
+Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
 
-- [Magery](../magic/magery.md) - Primary combat method
-- [Evaluating Intelligence](../magic/evaluating-intelligence.md) - Magic damage
-- [Meditation](../magic/meditation.md) - Mana regeneration
-- [Resisting Spells](resisting-spells.md) - Defense
+## Related skills
 
-**For Wrestlers:**
-
-- [Tactics](tactics.md) - Damage boost
-- [Anatomy](anatomy.md) - Critical hits
-- [Healing](healing.md) - Sustainability
-
-## Character Templates
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Pure Mage (PvM)
-
-- Magery: 100
-- Evaluating Intelligence: 100
-- Meditation: 100
-- Wrestling: 100
-- Resisting Spells: 100
-- Inscription: 80
-- Poisoning: 40
-
-### Monk (Unarmed Fighter)
-
-- Wrestling: 100
-- Tactics: 100
-- Anatomy: 100
-- Healing: 100
-- Resisting Spells: 100
-- Parrying: 100
-
-**Related Pages:**
-
-- [Combat Skills Overview](../index.md#combat-skills)
 - [Magery](../magic/magery.md)
+- [Anatomy](anatomy.md)
+- [Arms Lore](../utility-and-support/arms-lore.md)

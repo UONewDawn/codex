@@ -2,72 +2,49 @@
 
 # Poisoning
 
-Apply deadly poisons to weapons and enhance poison spells.
-
 ## Overview
 
-Poisoning allows you to apply various levels of poison to weapons or enhance the potency of poison spells. This skill pairs excellently with fast weapons like fencing weapons for deadly combos.
+Poisoning allows you to apply various levels of poison to weapons or enhance the potency of poison spells.
 
-## Effects
+It's often paired with Fencing, since all weapons used with that skill are fast and benefit from quick, repeated strikes.
 
-### Weapon Poisoning
+## How to apply
 
-- Apply poison to melee weapons
-- Poison level depends on skill
-- Poison charges consume on hit
+Use the Poisoning skill, target the poison potion and then target the desired weapon.
 
-### Spell Enhancement
+Be aware that failing to apply poison to a weapon has a chance to poison the user instead.
 
-If using poison spells ([Magery](../magic/magery.md)):
+## Chance of poisoning
 
-- Increased poison level
-- Longer poison duration
-- Better success rate
+The chance to poison a target on each successful hit is calculated by dividing the Poisoning skill by 4.
 
-## Poison Levels
+A weapon poisoned by someone with 100 Poisoning has a 25% chance to apply poison on each successful hit.
 
-- **Lesser Poison** - Low damage over time
-- **Poison** - Moderate damage
-- **Greater Poison** - Strong damage
-- **Deadly Poison** - Severe damage (high skill)
-- **Lethal Poison** - Extreme damage (GM skill)
+## Uses
+
+This table shows how many successful hits your weapon has before the poison wears off.
+
+Every hits consumes one use, no matter if the poison is applied or not.
+
+| Poison level   | Uses |
+|----------------|------|
+| Lesser Poison  | 18   |
+| Poison         | 16   |
+| Greater Poison | 14   |
+| Deadly Poison  | 12   |
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+Poisoning can be trained from Thief NPCs.
 
-## Requirements
+| Skill    | Apply poison    |
+|----------|-----------------|
+| 0 - 30   | Train from NPCs |
+| 30 - 60  | Poison          |
+| 60 - 97  | Greater poison  |
+| 97 - 100 | Deadly poison   |
 
-### Materials
+## Related skills
 
-- **Poison Potions** - From Alchemy or vendors
-- **Weapons** - To apply poison to
-- **Empty Bottles** - For creating poisons (if crafting)
-
-## Related Skills
-
-**Perfect Pairs:**
-
-- [Fencing](fencing.md) - Fast weapons = more poison applications
-- [Magery](../magic/magery.md) - Poison spell enhancement
-
-**Support Skills:**
-
-- Alchemy - Create poison potions
-- [Tactics](tactics.md) - Damage
-- [Anatomy](anatomy.md) - Critical hits
-
-## Character Templates
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
----
-
-**Related Pages:**
-
-- [Combat Skills](../index.md#combat-skills)
 - [Fencing](fencing.md)
-- [Archery](archery.md)
-- Alchemy
+- [Magery](../magic/magery.md)

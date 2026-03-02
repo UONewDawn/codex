@@ -122,16 +122,16 @@ nav:
         - Peacemaking: game-mechanics/skills/bard-skills/peacemaking.md
       - Combat:
         - Anatomy: game-mechanics/skills/combat/anatomy.md
-        - Archery: game-mechanics/skills/combat/archery.md
-        - Fencing: game-mechanics/skills/combat/fencing.md
-        - Healing: game-mechanics/skills/combat/healing.md
-        - Mace Fighting: game-mechanics/skills/combat/mace-fighting.md
-        - Parrying: game-mechanics/skills/combat/parrying.md
-        - Poisoning: game-mechanics/skills/combat/poisoning.md
-        - Resisting Spells: game-mechanics/skills/combat/resisting-spells.md
-        - Swordsmanship: game-mechanics/skills/combat/swordsmanship.md
         - Tactics: game-mechanics/skills/combat/tactics.md
+        - Swordsmanship: game-mechanics/skills/combat/swordsmanship.md
+        - Mace Fighting: game-mechanics/skills/combat/mace-fighting.md
+        - Fencing: game-mechanics/skills/combat/fencing.md
         - Wrestling: game-mechanics/skills/combat/wrestling.md
+        - Archery: game-mechanics/skills/combat/archery.md
+        - Healing: game-mechanics/skills/combat/healing.md
+        - Resisting Spells: game-mechanics/skills/combat/resisting-spells.md
+        - Poisoning: game-mechanics/skills/combat/poisoning.md
+        - Parrying: game-mechanics/skills/combat/parrying.md
       - Crafting:
         - Alchemy: game-mechanics/skills/crafting/alchemy.md
         - Blacksmithy: game-mechanics/skills/crafting/blacksmithy.md
