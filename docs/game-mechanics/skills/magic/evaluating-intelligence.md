@@ -33,6 +33,8 @@ Train from Mage NPCs to reach around 30.
 
 You can train by using it on players, monsters, and animals until you reach 100. It also increases when casting offensive spells and provides INT gains.
 
+You also gain by casting any spell.
+
 ## Related skills
 
 - [Anatomy](../combat/anatomy.md)
