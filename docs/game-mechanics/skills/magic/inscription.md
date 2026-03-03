@@ -96,11 +96,9 @@ Inscription i'snt just for scrolls, you can copy books too. Just target the comp
 | Skill    | Scroll          |
 |----------|-----------------|
 | 0 - 30   | Train from NPCs |
-| 30 - 45  | Copy books      |
-| 45 - 50  | Recall          |
-| 50 - 85  | Energy Bolt     |
-| 85 - 90  | FlameStrike     |
-| 90 - 100 | Resurrection    |
+| 30 - 50  | Copy books      |
+| 50 - 75  | Invisibility    |
+| 75 - 100 | Gate Travel     |
 
 ## Related skills
 
