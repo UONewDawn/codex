@@ -1,7 +1,17 @@
 /* Custom CSS for New Dawn Codex - Medieval Fantasy Theme */
 
 /* Import Cinzel font for headings */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Noto+Sans:wght@400;600;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Noto+Sans:wght@400;600;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+
+/* UO pixel font — only renders correctly at 15pt (20px) */
+@font-face {
+    font-family: 'UOFont';
+    src: url('../assets/UOFont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
 /* Color Scheme - Matching main site */
 :root {
@@ -9,7 +19,7 @@
     --nd-secondary-bg: #132b43;
     --nd-gold: #d69200;
     --nd-gold-hover: #ffb732;
-    --nd-text: #e0e0e0;
+    --nd-text: #c9d4c5;
     --nd-text-muted: #b8b8b8;
     --nd-border: rgba(212, 175, 55, 0.3);
     --nd-card-bg: rgba(19, 44, 67, 0.5);
@@ -313,4 +323,88 @@ h4 ~ p img,
 h5 ~ p img, 
 h6 ~ p img {
   vertical-align: middle;
+}
+
+/* ─────────────────────────────────────────────────────
+   RPG Scroll block  —  use in markdown as:
+   <div class="rpg-scroll" markdown="1">
+   Your lore text here.
+   </div>
+   ───────────────────────────────────────────────────── */
+
+.rpg-scroll {
+    position: relative;
+    /* Aged parchment centre that deepens toward the rolled edges */
+    background: linear-gradient(
+        180deg,
+        #1a0f04 0%,
+        #2a1a08 8%,
+        #211508 92%,
+        #1a0f04 100%
+    );
+    border-left:  2px solid #6b4f18;
+    border-right: 2px solid #6b4f18;
+    /* Thick borders simulate the rolled ends of a scroll */
+    border-top:    12px solid #2e1e06;
+    border-bottom: 12px solid #2e1e06;
+    border-radius: 3px;
+    padding: 1.1rem 2rem 1rem;
+    margin: 1rem 0;
+    font-family: 'UOFont', serif;
+    font-size: 24px; /* UOFont is designed for 15pt = 20px only */
+    line-height: 1.0;
+    color: #d8d8d8;
+    text-shadow:
+        0px -1px black,
+        0px  1px black,
+       -1px  0px black,
+        1px  0px black,
+       -1px  1px black,
+        1px -1px black,
+       -1px -1px black,
+        1px  1px black;
+    box-shadow:
+        0 6px 28px rgba(0, 0, 0, 0.75),
+        inset 0 3px 10px rgba(0, 0, 0, 0.45),
+        inset 0 -3px 10px rgba(0, 0, 0, 0.45);
+}
+
+/* Ornate rule drawn above and below the body text */
+.rpg-scroll::before,
+.rpg-scroll::after {
+    content: '✦  ─────────────────────────────  ✦';
+    display: block;
+    text-align: center;
+    color: #7a5a1a;
+    font-family: serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 1;
+}
+
+.rpg-scroll::before {
+    margin-bottom: 0.85rem;
+}
+
+.rpg-scroll::after {
+    margin-top: 0.85rem;
+}
+
+/* Paragraph spacing inside scroll */
+.rpg-scroll p {
+    font-size: 24px; /* keep locked to UOFont's supported size */
+    margin-bottom: 0.8rem;
+}
+
+.rpg-scroll p:last-child {
+    margin-bottom: 0;
+}
+
+/* Signed-off / attribution line */
+.rpg-scroll .rpg-signature {
+    display: block;
+    text-align: right;
+    margin-top: 0.75rem;
+    color: #b08840;
+    font-style: italic;
 }

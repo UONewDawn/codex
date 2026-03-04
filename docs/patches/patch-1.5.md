@@ -4,7 +4,7 @@
 
 This patch continues to address bugs and behaviors reported by the community.
 
-### 🛠️ Bug Fixes & Adjustments
+## 🛠️ Bug Fixes & Adjustments
 
 - The welcome gump will no longer pop up for accounts older than 7 days
 - Veterinarians will resurrect your bonded pets if you say "help my pets"
@@ -20,22 +20,30 @@ This patch continues to address bugs and behaviors reported by the community.
 - Artifact hunting now has achievements tied to them
 - When you're in town or a house, tracking will work but reduced range. Previously, you couldn't track at all outside of the house or town region. For the full range based on your skill, move outside of those areas.
 
-    > NOTE: Dungeon tracking is still dungeon region based (ie: you can't be in DungeonA, and pickup someone in DungeonB, or in DungeonA level 1 and pickup something in Dungeon level 2) with reduced range. However, if someone is standing on a Moongate or another POI region, and you are tracking from outside that region, you will have a normal chance to track them.
+!!! tip "Dev Note"
+    Dungeon tracking is still dungeon region based (ie: you can't be in DungeonA, and pickup someone in DungeonB, or in DungeonA level 1 and pickup something in Dungeon level 2) with reduced range. However, if someone is standing on a Moongate or another POI region, and you are tracking from outside that region, you will have a normal chance to track them.
 
 - Weapon accuracy now effects your chance to hit. Right now this only applies in PvM.
 
-    > NOTE: These values can also now be adjusted in game to allow for refinement without needing additional patches, and/or can be enabled/disabled completely. The goal is to address the "whiff" warriors/dexxers are feeling swinging a weapon with GM skill. I'll continue to make tweaks and changes as feedback comes in.
+!!! tip "Dev Note"
+    These values can also now be adjusted in game to allow for refinement without needing additional patches, and/or can be enabled/disabled completely. The goal is to address the "whiff" warriors/dexxers are feeling swinging a weapon with GM skill. I'll continue to make tweaks and changes as feedback comes in.
 
 ## 🌀 Codex Bindings
 
 The following notice has been posted outside the Illusion's Guild room in Moonglow:
 
-> Travelers. You carry runebooks worn thin by the roads, and you have long sought a means to safeguard them against the misfortunes of this age. I have spent considerable time in study of the old bindings, those used by the war-scribes of a past era, and I believe I have found a way to replicate them. 
-> Seek out the creatures that spill from the rifts. Hunt them, and follow the gates they leave behind into the wartime past. Within, you will find Codex Fragments, remnants of that era's knowledge, still potent. Gather enough of them, then come find me.
-> I sell Arcane Ink for those with the coin to afford it. It is not cheap. The ingredients are not cheap. Do not haggle with me.
-> With your gathered fragments and the Arcane Ink, seek a Grandmaster Alchemist. If you are not one yourself, find one you trust. They will know how to combine these materials into a Codex Binding. Apply it to your runebook, and it will be blessed.
-> None of this will be easy. It is not meant to be.
-> Signed, The Codex Scholar
+<div class="rpg-scroll" markdown="1">
+Travelers. You carry runebooks worn thin by the roads, and you have long sought a means to safeguard them against the misfortunes of this age. I have spent considerable time in study of the old bindings, those used by the war-scribes of a past era, and I believe I have found a way to replicate them.
+
+Seek out the creatures that spill from the rifts. Hunt them, and follow the gates they leave behind into the wartime past. Within, you will find Codex Fragments, remnants of that era's knowledge, still potent. Gather enough of them, then come find me.
+
+I sell Arcane Ink for those with the coin to afford it. It is not cheap. The ingredients are not cheap. Do not haggle with me.
+
+With your gathered fragments and the Arcane Ink, seek a Grandmaster Alchemist. If you are not one yourself, find one you trust. They will know how to combine these materials into a Codex Binding. Apply it to your runebook, and it will be blessed.
+
+None of this will be easy. It is not meant to be.
+<span class="rpg-signature">Signed, The Codex Scholar</span>
+</div>
 
 Runebooks can now be permanently blessed by completing this process:
 
@@ -48,4 +56,6 @@ The entire process touches combat content through the rifts, the player economy 
 
 ## Healer Outposts
 
- > Commerce has consequences. The merchant guilds, pleased with the realm's growing prosperity, have lobbied successfully for healer outposts near the dungeon gates. The cynical will note that a dead adventurer spends no gold. The charitable will call it civic progress. Either way, you'll bleed out slightly less often.
+<div class="rpg-scroll" markdown="1">
+Commerce has consequences. The merchant guilds, pleased with the realm's growing prosperity, have lobbied successfully for healer outposts near the dungeon gates. The cynical will note that a dead adventurer spends no gold. The charitable will call it civic progress. Either way, you'll bleed out slightly less often.
+</div>

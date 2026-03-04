@@ -1,12 +1,12 @@
 # New Dawn Codex
 
-Welcome to the **New Dawn Codex**, your comprehensive guide to the world of New Dawn - an Ultima Online free shard experience!
+Welcome to the **New Dawn Codex**, your comprehensive guide to the world of New Dawn.
 
 ## What is New Dawn?
 
 ![NewDawnLogo](assets/logo.png){ align=right }
 
-New Dawn is a passion project that captures the spirit of Ultima Online's golden T2A/UOR era. We're not chasing perfect historical accuracy—instead, we've preserved what made those days unforgettable while adding in thoughtful improvements drawn from years of UO expertise and modern gaming insights.
+New Dawn is a passion project that captures the spirit of Ultima Online's golden T2A/UOR era. We're not chasing perfect historical accuracy, instead, we've preserved what made those days unforgettable while adding in thoughtful improvements drawn from years of UO expertise and modern gaming insights.
 
 Veterans will recognize the familiar rhythms of classic UO, but with enough fresh ideas to reignite that sense of discovery. If you're new to this era, you're in for something special: a living, breathing world where you forge your own path, not just chase quest markers and level caps.
 

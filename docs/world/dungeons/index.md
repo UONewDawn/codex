@@ -6,6 +6,9 @@ Explore the dangerous dungeons filled with monsters, treasure, and adventure.
 
 Dungeons are dangerous areas filled with hostile creatures, valuable loot, and challenging content. They're essential for leveling skills and finding rare items.
 
+!!! tip
+    You can only have 1 account (out of your 3) in a dungeon at one time. You also cannot recall or gate in or out of dungeons. Use Exit Gates to get out quickly.
+
 ## Major Dungeons
 
 ### Shame
@@ -43,7 +46,7 @@ Harpy and elemental dungeon near Vesper.
 
 !!! warning "Danger Ahead"
     - Always bring healing supplies
-    - Mark a rune outside for escape
+    - Know where you exit gates are
     - Don't carry unnecessary valuables
     - Know your limits
     - Group up for difficult dungeons
@@ -51,19 +54,8 @@ Harpy and elemental dungeon near Vesper.
 ## Loot & Rewards
 
 Dungeons contain:
+
 - Gold and gems
 - Magic items
 - Rare resources
 - Special artifacts
-- Skill scrolls (if available)
-
-## Dungeon Etiquette
-
-- Don't steal other players' loot
-- Help fellow adventurers when safe
-- Call out spawn changes
-- Share boss spawns when appropriate
-
----
-
-**Brave the depths and claim your rewards!**

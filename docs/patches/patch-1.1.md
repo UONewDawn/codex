@@ -84,9 +84,11 @@ If you don't see a bug you reported on this list, I have been trying to prioriti
 
 ## Rangers Guild Announcement 🏹
 
+<div class="rpg-scroll" markdown="1">
 *Hear ye! The Scout Division has established outposts across New Dawn!*
 
 These master trackers have pledged their services to aid adventurers who have lost their beloved companions in the wilds. For a modest fee, their elite agents will scour the realm and safely return your lost pets to your side.
+</div>
 
 **Services Offered:**
 
@@ -98,17 +100,21 @@ These master trackers have pledged their services to aid adventurers who have lo
 
 ## Ocllo Music Academy 🎵
 
+<div class="rpg-scroll" markdown="1">
 *The halls of the Ocllo Music Academy now welcome all aspiring bards and musicians!*
 
 The esteemed maestros of Ocllo invite you to hone your craft within their hallowed practice chambers. Those who dedicate themselves to training within the Academy's walls will find their musical talents flourishing more readily under the guidance of the masters.
+</div>
 
 ## Guild Alignment ⚔️
 
 *A new alliance stirs in the realm...*
 
+<div class="rpg-scroll" markdown="1">
 Guild leaders may now seek audience with the realm's magistrates to forge a pact with the Orcs. Those guilds who swear allegiance to the Orcs will be recognized as allies and orcish warriors and their kin will no longer view you as enemies.
 
 Furthermore, as decreed by the peace treaties signed at the end of the Codex War, the territories surrounding Orcish strongholds have been granted to the clans as sovereign land. Only those guilds bound by the Orcish Pact may establish holdings within these protected borders. All others who attempt to claim these hallowed grounds will find their deeds... null and void.
+</div>
 
 ## New Dawn Portal 🌐
 

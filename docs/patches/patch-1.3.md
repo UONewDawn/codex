@@ -34,17 +34,17 @@ This patch continues to address bugs and behaviors reported by the community.
 
 ### 🪡 The Tailors Guild Proclamation
 
-*By Order of the Grand Weaver's Council*
+By Order of the Grand Weaver's Council:
 
-#### Decree of the Dye Masters
-
+<div class="rpg-scroll" markdown="1">
 The esteemed Tailors Guild, heeding the complaints of craftsmen across Britannia regarding the inferior pigments of recent years, hereby announces the restoration of proper dye standard:
 
 The Purging of Unsightly Hues - The much-maligned dyes previously granted through Bulk Order Deeds have been banished from our realm. New cloth rewards, enchanted sandals, and masks shall now bear colors worthy of true artisans. Those unfortunate souls possessing garments in the old, disagreeable hues may keep them as a reminder of darker times -- or perhaps as kindling.
 
 Let it be known throughout Britannia that the Guild has heard thy grievances and acted swiftly.
 
-So witnessed this day by the Council of Master Tailors
+<span class="rpg-signature">So witnessed this day by the Council of Master Tailors</span>
+</div>
 
 ---
 
@@ -61,7 +61,9 @@ I'm continuing to tune champion spawns so they strike a balance between challeng
 
 ### 📜Name Changes
 
+<div class="rpg-scroll" markdown="1">
 The Court of Truth in Yew has opened its ledgers to those seeking a fresh start. The court clerk -- a fastidious woman with ink-stained fingers and little patience for indecision -- will hear your request, provided your coin purse is heavy enough and your record is clean... enough.
+</div>
 
 - Approach the clerk and say **"I request a name change"**
 - If you have not changed your name within the last 14 days and carry sufficient funds, **200,000 gold** will be deducted from your bank box **right away** and you will be presented with the name change gump
@@ -71,9 +73,11 @@ The Court of Truth in Yew has opened its ledgers to those seeking a fresh start.
 
 ### 🪙The Scales Tip in Magincia
 
+<div class="rpg-scroll" markdown="1">
 Whispers have spread through every dockside tavern from Ocllo to Paws that there's judge from Yew who hangs out in Bucs Den whose sense of justice bends with the weight of coin. You'll usually find him at The Pirate's Blunder, if you can stomach the company he keeps. He asks no questions. He never has.
 
 But take heed. The nobles of Magincia have grown tired of watching murderers walk free. Gold has been flowing into the courts to see this corruption unraveled, and the judge, ever aware of the noose tightening around his neck, has raised his prices accordingly. Redemption, it seems, does not come cheap.
+</div>
 
 - **Pardons now start at 150,000 gold**. Each subsequent pardon doubles in cost -- 300k for a second, 600k for a third. After that, the judge won't help you. You're on your own.
 - The judge will now entertain requests from those with up to 20 murders on their record (up from 10). Beyond that, even he won't go near you
@@ -88,8 +92,10 @@ But take heed. The nobles of Magincia have grown tired of watching murderers wal
 
 ### 🧌Trolls Reemerge
 
+<div class="rpg-scroll" markdown="1">
 For years the deep caves and mountain passes of Britannia sat quiet -- unsettlingly so. Travelers moved freely through highland roads that their grandfathers would never have dared walk unarmed before the Codex war. The old-timers muttered that it wouldn't last, that the trolls hadn't gone, only retreated. They were right.
 
 As the citizens of New Dawn have begun building homesteads and laying roots across the land, the disturbance has drawn ancient attention. Cave trolls have been spotted lurking in the deeper reaches of Britannia's caverns, and mountain trolls have returned to the high passes and rocky ridgelines in force. Whether they've been driven out by something deeper underground or simply drawn to the scent of civilization is anyone's guess.
 
 The local town councils have issued warnings: avoid dark caves and mountain passes when possible, and never travel alone.
+</div>

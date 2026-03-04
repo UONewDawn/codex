@@ -3,6 +3,7 @@
 **August 22, 2023**
 
 ❗This patch contains client patches. Be sure to close out of the client, restart the launcher and let it update. Thanks to @flyer for your time remapping all the different vendor/shop locations for the world map❗
+
 - Champion leash has been lowered to 60 (this needs more work to ensure it works for all champs)
 - Fixed issue with pirate map bosses disappearing
 - Fixed the AI of scouts (orc scout, pirate lookout, etc), will only flee at low health, will hide when fleeing, and reengage when health returns 🕵️

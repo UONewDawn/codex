@@ -19,7 +19,7 @@ theme:
     primary: custom
     accent: custom
   font:
-    text: Noto Sans
+    text: DM Sans
     code: Roboto Mono
   logo: assets/logo.png
   favicon: assets/favicon-32x32.png
