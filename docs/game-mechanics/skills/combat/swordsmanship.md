@@ -26,19 +26,19 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-|                                  Weapon                                  | STR Required |   Damage roll    | Speed | Item HP  |
-|:------------------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
-| ![item-icon](../../../assets/items/skinning-knife.png)<br>Skinning Knife |      5       |  1d10<br>(1-10)  |  40   | 31 - 40  |
-|        ![item-icon](../../../assets/items/cleaver.png)<br>Cleaver        |      10      | 1d12+1<br>(2-13) |  40   | 31 - 50  |
-|  ![item-icon](../../../assets/items/butcher-knife.png)<br>Butcher Knife  |      5       |  2d7<br>(2-14)   |  40   | 31 - 40  |
-|        ![item-icon](../../../assets/items/pickaxe.png)<br>Pickaxe        |      25      |  1d15<br>(1-15)  |  35   | 31 - 60  |
-|         ![item-icon](../../../assets/items/katana.png)<br>Katana         |      10      | 3d8+2<br>(5-26)  |  58   | 31 - 90  |
-|        ![item-icon](../../../assets/items/cutlass.png)<br>Cutlass        |      10      | 2d12+4<br>(6-28) |  45   | 31 - 70  |
-|    ![item-icon](../../../assets/items/broad-sword.png)<br>Broad Sword    |      25      | 2d13+3<br>(5-29) |  45   | 31 - 100 |
-|       ![item-icon](../../../assets/items/scimitar.png)<br>Scimitar       |      10      | 2d14+2<br>(4-30) |  43   | 31 - 90  |
-|     ![item-icon](../../../assets/items/long-sword.png)<br>Long Sword     |      25      | 2d15+3<br>(5-33) |  35   | 31 - 90  |
-|      ![item-icon](../../../assets/items/longsword.png)<br>Longsword      |      25      | 2d15+3<br>(5-33) |  35   | 31 - 90  |
-|   ![item-icon](../../../assets/items/viking-sword.png)<br>Viking Sword   |      40      | 4d8+2<br>(6-34)  |  30   | 31 - 90  |
+    |                                  Weapon                                  | STR Required |   Damage roll    | Speed | Item HP  |
+    |:------------------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
+    | ![item-icon](../../../assets/items/skinning-knife.png)<br>Skinning Knife |      5       |  1d10<br>(1-10)  |  40   | 31 - 40  |
+    |        ![item-icon](../../../assets/items/cleaver.png)<br>Cleaver        |      10      | 1d12+1<br>(2-13) |  40   | 31 - 50  |
+    |  ![item-icon](../../../assets/items/butcher-knife.png)<br>Butcher Knife  |      5       |  2d7<br>(2-14)   |  40   | 31 - 40  |
+    |        ![item-icon](../../../assets/items/pickaxe.png)<br>Pickaxe        |      25      |  1d15<br>(1-15)  |  35   | 31 - 60  |
+    |         ![item-icon](../../../assets/items/katana.png)<br>Katana         |      10      | 3d8+2<br>(5-26)  |  58   | 31 - 90  |
+    |        ![item-icon](../../../assets/items/cutlass.png)<br>Cutlass        |      10      | 2d12+4<br>(6-28) |  45   | 31 - 70  |
+    |    ![item-icon](../../../assets/items/broad-sword.png)<br>Broad Sword    |      25      | 2d13+3<br>(5-29) |  45   | 31 - 100 |
+    |       ![item-icon](../../../assets/items/scimitar.png)<br>Scimitar       |      10      | 2d14+2<br>(4-30) |  43   | 31 - 90  |
+    |     ![item-icon](../../../assets/items/long-sword.png)<br>Long Sword     |      25      | 2d15+3<br>(5-33) |  35   | 31 - 90  |
+    |      ![item-icon](../../../assets/items/longsword.png)<br>Longsword      |      25      | 2d15+3<br>(5-33) |  35   | 31 - 90  |
+    |   ![item-icon](../../../assets/items/viking-sword.png)<br>Viking Sword   |      40      | 4d8+2<br>(6-34)  |  30   | 31 - 90  |
 
 === "Two Handed"
 

@@ -168,40 +168,33 @@ Once you reach 100 Magery and become a Grand Master, you can join the Sorcerer's
 
 Reaching 72 Magery skill grants access to Wind, the city of mages.
 
+!!! warning
+    Wind is not currently available.
+
 ## Training
 
 Training Magery can burn a hole in your pockets, so be sure to stockpile plenty of gold for those pricey reagents.
 
 === "Magery Only"
 
-    | Skill    | Cast            |
-    |----------|-----------------|
-    | 0 - 30   | Train from NPCs |
-    | 30 - 40  | Third Circle    |
-    | 40 - 55  | Fourth Circle   |
-    | 55 - 66  | Fifth Circle    |
-    | 65 - 80  | Sixth Circle    |
-    | 80 - 95  | Seventh Circle  |
-    | 95 - 100 | Eighth Circle   |
+    | Skill    | Cast                                                                        |
+    |----------|-----------------------------------------------------------------------------|
+    | 0 - 30   | Train from NPCs                                                             |
+    | 30 - 50  | Fourth Circle                                                               |
+    | 50 - 84  | Invisibility                                                                |
+    | 84 - 100 | Resurrection                                                                |
+    | or       |                                                                             |
+    | 84 - 100 | Air Elemental :material-information-outline:{ title="Summon then release" } |
 
 === "Magery and Resisting Spells"
 
-    | Skill    | Cast :material-information-outline:{ title="Cast on yourself" }                       |
-    |----------|---------------------------------------------------------------------------------------|
-    | 0 - 30   | Train from NPCs                                                                       |
-    | 30 - 55  | Fire Field :material-information-outline:{ title="Cast it and run across the field" } |
-    | 55 - 60  | Lighting                                                                              |
-    | 60 - 82  | Energy Bolt                                                                           |
-    | 82 - 100 | Flamestrike                                                                           |
-
-=== "Magery Only alternative"
-
-    | Skill       | Cast            |
-    |-------------|-----------------|
-    | 0 - 30      | Train from NPCs |
-    | 30 - 50.1   | Fourth Circle   |
-    | 50.1 - 80.1 | Invisibility    |
-    | 80.1 - 100  | Earthquake      |
+    | Skill    | Cast :material-information-outline:{ title="Cast on yourself" } |
+    |----------|-----------------------------------------------------------------|
+    | 0 - 30   | Train from NPCs                                                 |
+    | 30 - 55  | Fireball                                                        |
+    | 55 - 60  | Lighting                                                        |
+    | 60 - 82  | Energy Bolt                                                     |
+    | 82 - 100 | Flamestrike                                                     |
 
 ## Related skills
 
