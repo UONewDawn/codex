@@ -2,69 +2,56 @@
 
 # Bowcraft/Fletching
 
-Craft bows, crossbows, and ammunition.
-
 ## Overview
 
-Bowcraft/Fletching allows you to create ranged weapons and ammunition. Essential for archers and a profitable crafting profession.
+Bowcraft/Fletching allows you to create ranged weapons and ammunition, essential for archers.
 
-## Effects
+## Tools
 
-### Weapon Crafting
+In order to start crafting, you will need an Arrow Fletching tool, you can purchase one from bowyers vendors.
 
-Create ranged weapons:
+## Crafting list
 
-- Bows (regular, composite)
-- Crossbows (light, heavy)
-- Exceptional quality possible
+These are all the ammunition and weapons you can craft.
 
-### Ammunition Crafting
+=== "Materials"
 
-Produce arrows and bolts:
+    |                             Item                             |    Resources     | Skill |
+    |:------------------------------------------------------------:|:----------------:|:-----:|
+    | ![item-icon](../../../assets/items/kindling.png)<br>Kindling | 1 Boards or Logs |   0   |
+    |    ![item-icon](../../../assets/items/shaft.png)<br>Shaft    | 1 Boards or Logs |   0   |
 
-- Arrows for bows
-- Bolts for crossbows
-- Bulk crafting for efficient production
+=== "Ammunition"
+
+    |                              Item                              |          Resources           | Skill |
+    |:--------------------------------------------------------------:|:----------------------------:|:-----:|
+    |     ![item-icon](../../../assets/items/arrow.png)<br>Arrow     | 1 Arrow Shafts<br>1 Feathers |   0   |
+    | ![item-icon](../../../assets/items/bolt.png)<br>Crossbow Arrow | 1 Arrow Shafts<br>1 Feathers |   0   |
+        
+=== "Weapons"
+
+    |                                   Item                                   |     Resources     | Skill |
+    |:------------------------------------------------------------------------:|:-----------------:|:-----:|
+    |            ![item-icon](../../../assets/items/bow.png)<br>Bow            | 7 Boards or Logs  |  30   |
+    |       ![item-icon](../../../assets/items/crossbow.png)<br>Crossbow       | 7 Boards or Logs  |  60   |
+    | ![item-icon](../../../assets/items/heavy-crossbow.png)<br>Heavy Crossbow | 10 Boards or Logs |  80   |
+
+## Repair deed
+
+To craft a repair deed you will need a blank scroll, use your tool, click repair and target the scroll.
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm in the Discord community.
+Consider Lumberjacking to fund the training.
 
-## Materials
+| Skill    | Item            |
+|----------|-----------------|
+| 0 - 30   | Train from NPCs |
+| 30 - 70  | Bows            |
+| 70 - 90  | Crossbows       |
+| 90 - 100 | Heavy Crossbow  |
 
-### Tools
+## Related skills
 
-- **Fletcher's Tools** - Required for bowcraft
-
-### Resources
-
-- Logs and boards (normal wood)
-- Feathers (for arrows/bolts)
-- Shafts
-
-## Related Skills
-
-**Essential:**
-
-- [Lumberjacking](../resource-gathering/lumberjacking.md) - Gather wood ⭐⭐⭐⭐
-
-**Recommended:**
-
-- [Archery](../combat/archery.md) - Test your creations
-- [Tinkering](tinkering.md) - Make fletcher's tools
-
-**Fletcher Template:**
-
-- Bowcraft/Fletching: 100
-- Lumberjacking: 100
-- Magery: 100
-- Other utility skills
-
----
-
-**Related Pages:**
-
-- [Lumberjacking](../resource-gathering/lumberjacking.md)
 - [Archery](../combat/archery.md)
-- [Weapons](../../../items/weapons.md)
+- [Lumberjacking](../resource-gathering/lumberjacking.md)
