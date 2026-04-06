@@ -4,7 +4,7 @@
 
 ## Overview
 
-Bowcraft/Fletching allows you to create ranged weapons and ammunition, essential for archers.
+Bowcraft/Fletching allows you to craft ranged weapons and ammunition, essential for archers.
 
 ## Tools
 
