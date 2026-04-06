@@ -133,13 +133,13 @@ nav:
         - Poisoning: game-mechanics/skills/combat/poisoning.md
         - Parrying: game-mechanics/skills/combat/parrying.md
       - Crafting:
+        - Tailoring: game-mechanics/skills/crafting/tailoring.md
         - Alchemy: game-mechanics/skills/crafting/alchemy.md
+        - Carpentry: game-mechanics/skills/crafting/carpentry.md
         - Blacksmithy: game-mechanics/skills/crafting/blacksmithy.md
         - Bowcraft/Fletching: game-mechanics/skills/crafting/bowcraft-fletching.md
-        - Carpentry: game-mechanics/skills/crafting/carpentry.md
-        - Cooking: game-mechanics/skills/crafting/cooking.md
-        - Tailoring: game-mechanics/skills/crafting/tailoring.md
         - Tinkering: game-mechanics/skills/crafting/tinkering.md
+        - Cooking: game-mechanics/skills/crafting/cooking.md
       - Magic:
         - Magery: game-mechanics/skills/magic/magery.md
         - Meditation: game-mechanics/skills/magic/meditation.md
