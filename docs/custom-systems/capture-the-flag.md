@@ -2,224 +2,236 @@
 
 ![CTF](../assets/ctf.png)
 
-Experience team-based PvP in New Dawn's classic Capture the Flag system. Coordinate with your team in 10v10 battles to capture the enemy flag while defending your own in fast-paced 20-minute matches.
-
-!!! info
-    This mode is heavily influenced by WoW's Warsong Gulch.
+Capture the Flag (CTF) is New Dawn's team-based PvP mode. Two teams of pirates race to steal the enemy flag and bring it back to their base, while defending their own flag from being taken.
 
 ## Overview
 
-Capture the Flag (CTF) brings structured, team-based PvP to New Dawn with rules inspired by classic games like World of Warcraft's Warsong Gulch. Players compete in organized matches with clear objectives, earning points for their performance and contributing to their team's victory.
+The CTF system is inspired by classic team-based flag games like Warsong Gulch. Matches are held on dedicated pirate-themed arenas, with two rival crews — the **Scallywags** and the **Scoundrels** — fighting it out for glory and War Tokens.
 
 ## How to Join
 
-### Sign-Up Process
+Head to **Dawn (Event Center)** and find the CTF signup book. Use it to register your interest for an available arena. You'll be assigned to a team automatically when you sign up.
 
-1. When a CTF match is starting, type `[ctf` to join
-2. **Sign-up period:** 5 minutes before the match begins
-3. You'll be assigned to a team (Red or Blue)
-4. Can join team-specific or random team matches
+### Queue System
 
-### Schedule
+CTF runs on a demand-driven queue rather than a fixed schedule:
 
-- CTF runs on an automated schedule
-- Currently starts 5 minutes after the previous match ends (testing schedule)
-- System announces when sign-ups are open
-- Regular messages during sign-up period show time remaining
+1. The automated queue timer **opens signups** for an arena.
+2. Once the **minimum number of players per team** have signed up, a **1-minute fill window** opens — extra players can still join.
+3. After the fill window, all queued players receive a **confirmation gump** to accept entry and teleport into the arena.
+4. Players who don't confirm in time are removed. If either team is left empty after confirmations, the match is cancelled.
+5. The game then has a **1-minute prep period** before combat begins and players are unlocked.
 
-### Requirements
+!!! note
+    You cannot join CTF while queued for a duel. Multi-accounting is blocked — if another character tied to your Discord account is already in a match, you will be denied entry.
 
-- No minimum skill requirements
-- Cannot be carrying a pirate map
-- Cannot use `[stuck` with the CTF flag
-- Summoning spells are blocked during matches
+## The Arenas
 
-!!! warning "Match Start Requirements"
-    A game will only start if both teams have at least 1 player. Empty team = no match.
+Both arenas are pirate-themed and located in Felucca. **Mounts are not allowed** in either arena. After each flag capture, **all living players are returned to their team's starting location**.
 
-## Game Rules
+### Pirate Treasure Island
 
-### Objective
+> _The Battle for Treasure Island_
 
-Capture the enemy's flag and return it to your base **3 times** to win, or have the most captures after 20 minutes.
+- Minimum **3 players per team** to start
+- Maximum **10 players per team**
+- Island-themed battleground with multiple pathways between bases
 
-### Win Conditions
+### Pirate Shipwreck Arena
 
-1. **First team to 3 captures** wins immediately
-2. **After 20 minutes:** Team with most captures wins
-3. **If tied on captures:** Team with most points wins
-4. **If tied on points:** Draw (rare)
+> _The Battle for Survival_
 
-### Flag Mechanics
+- Minimum **5 players per team** to start
+- Maximum **10 players per team**
+- Shipwreck-themed map with long bridge battles
 
-**Picking Up the Flag:**
+## Teams
 
-- Touch the enemy flag at their base to pick it up
-- Cannot hide while carrying the flag
-- Cannot use stealth while carrying the flag
-- Flag carrier has **120 seconds** to capture before they're killed
+Both arenas use the same two teams:
 
-**Dropping the Flag:**
+| Team           | Colo r |
+| -------------- | ------ |
+| **Scallywags** | Blue   |
+| **Scoundrels** | Red    |
 
-- Flag drops when carrier is killed
-- Flag carrier can manually drop by using flag on themselves (5-second pickup penalty)
-- Dropped flags return automatically after **5 seconds** unless picked up
+Your character will be tinted with your team's color for the duration of the match, so you can always tell friend from foe at a glance. Flag carriers are highlighted in a distinct gold hue while they carry the flag.
 
-**Capturing the Flag:**
+## Objective & Win Conditions
 
-- Must bring enemy flag to your base
-- **Your flag must be at your base** to score
-- If both flags are being carried, neither team can score
-- After capture: **20-second delay** before flags can be grabbed again
+The first team to **capture the enemy flag 3 times** wins immediately. If neither team hits 3 captures before the **20-minute time limit**, the match ends and the following tiebreakers apply in order:
 
-## The Maps
+1. **Most flag captures** — team with more wins
+2. **Most total points** — if captures are tied, points decide
+3. **Draw** — if both captures and points are equal (extremely rare)
 
-### Map 1: Pirate Treasure Island
+## Flag Mechanics
 
-- Island-themed battleground
-- Multiple pathways between bases
-- Environmental obstacles
-- Water hazards
+### Picking Up the Flag
 
-### Map 2: Old Trinsic
+Double-click the enemy flag at their base to steal it. The flag will be placed in your backpack.
 
-- Ruined town setting
-- Urban combat environment
-- Buildings and structures for cover
-- Multiple routes and flanking opportunities
+- You **cannot hide or stealth** while carrying the flag
+- You have a **carry-time countdown** before being forced to capture or be killed:
+  - **First pickup:** 120 seconds
+  - Each subsequent relay pickup (picking up a flag that was already stolen and dropped) reduces the timer by 30 seconds, down to a minimum of 15 seconds
+- Countdown warnings are sent at 60, 30, 15, 10, 5, 4, 3, 2, and 1 seconds remaining
+- If the timer hits zero, you are **killed** and the flag is returned home automatically
 
-## Match Mechanics
+### Dropping the Flag
 
-### Respawning
+You can manually drop the flag by using it on yourself. After dropping:
 
-- Die and resurrect automatically at your team's spawn point
-- **10-second respawn timer**
-- All equipment returns to your backpack
-- Death robe is automatically removed
-- No resource loss (potions, reagents, etc. are restored)
+- You cannot pick it back up for **5 seconds**
+- Your remaining carry time is clamped to at most 5 seconds — you can't drop-and-pickup to reset the clock
 
-### Combat Rules
+If you are **killed** while carrying the flag, it drops at your location. Any player (enemy or ally) can pick it up from the ground.
 
-- Full PvP enabled between teams
+### Capturing the Flag
+
+To score a capture:
+
+1. Steal the enemy flag and bring it to **your own flag base**
+2. Double-click the flag from your backpack and target your **own flag base**
+3. Your flag **must be resting at your home base** to score — if your flag has been stolen, you cannot capture
+
+After a successful capture:
+
+- Both flags are reset to their home bases
+- A **20-second lock** prevents either flag from being picked up (with countdown announcements)
+- All living players are **returned to their team's starting positions**
+
+### Returning Your Flag
+
+If the enemy has stolen your flag, walk up to it (wherever it has been dropped or left on the ground) and double-click it to return it home. You earn **4 points** for a return, subject to a 60-second cooldown to prevent farming.
+
+---
+
+## Combat Rules
+
+- Full PvP is enabled between opposing teams — friendly fire is not
+- No mounts allowed
+- No pets or followers may enter the arena
 - Stealing skill is disabled
 - Summoning spells are blocked
-- No skill gains during matches
+- Skill and stat gains do not occur during matches
+- Potions, reagents, and other consumables are **free** — nothing is consumed inside the arena
 - Killing yourself awards no points
+
+---
 
 ## Scoring System
 
-### Team Points
+Points are awarded to individual players throughout the match. Team victory is determined by captures, but individual points feed into War Token rewards and tiebreakers.
 
-Teams earn points for objectives and kills:
+| Action                                                                 | Points                  |
+| ---------------------------------------------------------------------- | ----------------------- |
+| Capturing the enemy flag                                               | **+5**                  |
+| Returning your flag to base                                            | **+4** _(60s cooldown)_ |
+| Killing the enemy flag carrier                                         | **+4**                  |
+| Base Raid — killing an enemy inside their own base                     | **+3**                  |
+| Defending — dying while actively fighting to protect your flag carrier | **+2**                  |
+| Defending (proximity) — dying near your flag carrier                   | **+1**                  |
+| Elimination — killing any enemy player                                 | **+1**                  |
 
-- **5 points:** Capturing the flag
-- **4 points:** Returning your flag to base
-- **3 points:** Stealing the enemy flag
-- **2 points:** Killing the enemy flag carrier
-- **1 point:** Killing a player
+!!! note
+    Flag **steals** are tracked as a stat but award no direct points on their own — the points come when you successfully capture.
 
-### Individual Stats
+### Anti-Exploit Protections
 
-Your performance is tracked throughout the match:
+Several measures are in place to prevent point farming:
 
-- **Total Points:** Individual contribution
-- **Total Damage:** Damage dealt to enemies
-- **Flags Captured:** Number of successful captures
-- **Flags Returned:** Times you returned your flag
-- **Flags Stolen:** Times you grabbed the enemy flag
-- **Flag Carriers Killed:** Enemy carriers defeated
-- **Players Killed:** Total kills
-- **Deaths:** Times you died
-- **Base Defense Deaths:** Deaths near your base
+- **Death-point cooldown:** Defend/proximity death points have a 30-second cooldown per death to prevent death-farming loops
+- **Return cooldown:** Flag return points have a 60-second cooldown per player
+- **Drop clamping:** Dropping and re-picking the flag cannot reset your carry-time upward
+- **Base Raid guard:** The guarding bonus goes to the killer, not the victim, so deliberately dying near the base earns nothing
 
-All stats are displayed on the scoreboard and recorded at match end.
+---
+
+## Death & Respawning
+
+When you die in CTF:
+
+1. Your corpse is looted back into your backpack automatically — **you never lose items**
+2. You are shown the scoreboard
+3. After a **10-second delay**, you are resurrected and teleported back to your team's starting location fully healed
+4. All buffs, debuffs, and active spells are cleared on respawn
+5. The death robe is automatically removed
+
+---
+
+## War Tokens
+
+War Tokens are the currency earned through CTF matches. At the end of a game, tokens are awarded based on your **individual points** for that match:
+
+- **Winners** receive their total points plus a **+5 win bonus**
+- **Losers** receive their total points only
+- There is a **daily cap of 150 War Tokens** per player — once hit, stats still record but no further tokens are awarded until the next day (Central Time)
+
+Check your balance at any time with the `[CTFWarTokens` command.
+
+### Reward Store
+
+Spend War Tokens at the **Commander's War Chest** vendor in Dawn.
+
+## Individual Stats Tracked
+
+Your performance is recorded every match and visible on the scoreboard:
+
+- Total Points
+- Flags Captured
+- Flags Returned
+- Flags Stolen
+- Flag Carriers Killed
+- Base Raids
+- Players Killed (Eliminations)
+- Deaths
+- Total Damage Dealt
 
 ## Strategy & Tips
 
-### Roles
+### Role Suggestions
 
-**Flag Carrier:**
-
-- High mobility builds (mounted if allowed)
-- Defensive skills and gear
-- Communication - call for escorts
-- Know when to drop flag tactically
-
-**Escort:**
-
-- Protect your flag carrier
-- Clear path ahead
-- Heal and support
-- Intercept pursuers
-
-**Defender:**
-
-- Guard your base
-- Intercept enemy carriers
-- Return dropped flags quickly
-- Communication crucial
-
-**Attacker:**
-
-- Pressure enemy base
-- Kill enemy carrier
-- Steal their flag
-- Work with your carrier
+| Role            | Focus                                                                        |
+| --------------- | ---------------------------------------------------------------------------- |
+| **Flag Runner** | Grab the flag and move fast — call for escorts, know when to drop tactically |
+| **Escort**      | Protect your carrier, intercept pursuers, stay close                         |
+| **Defender**    | Guard your base and return your flag quickly when stolen                     |
+| **Raider**      | Pressure the enemy base, kill their carrier, earn Base Raid bonuses          |
 
 ### General Tips
 
-- **Coordinate:** Success requires teamwork
-- **Communicate:** Call out enemy positions and flag status
-- **Balance:** Don't everyone go offense or defense
-- **Timing:** Wait for your team before major pushes
-- **Awareness:** Watch the scoreboard and time remaining
-- **Adapt:** Adjust strategy based on score and time
-
-## Rewards
-
-Currently, CTF is primarily for competitive PvP enjoyment and stat tracking. Future updates may include:
-
-- Leaderboards
-- Seasonal rewards
-- Special titles
-- Unique items
+- **Balance your team** — don't send everyone on offense at once
+- **Carry time is limited** — coordinate handoffs, but remember each relay cuts the timer
+- **Your flag must be home to score** — prioritize returning your flag when it's stolen before pushing for a capture
+- **Base Raids are worth 3 points** — killing enemies inside their own base is often more rewarding than a mid-field fight
+- **Watch the scoreboard** — it tells you captures, points, and time remaining
 
 ## Common Questions
 
 **Q: Do I lose items if I die?**
-A: No. All your equipment returns to your backpack when you respawn.
 
-**Q: Are resources consumed?**
-A: No. Potions, reagents, and other consumables are restored.
+A: No. All equipment is returned to your backpack when you respawn.
 
-**Q: Can I use summons?**
-A: No. Summoning spells are blocked in CTF.
+**Q: Are consumables used up?**
 
-**Q: Can I hide with the flag?**
-A: No. Carrying the flag prevents hiding and stealth.
+A: No. Potions, reagents, and other consumables are free inside the arena.
 
-**Q: What if I get disconnected?**
-A: You'll be removed from the match. Your team continues with fewer players.
+**Q: Can I use summons or pets?**
 
-**Q: Can I join multiple accounts?**
-A: No. Multi-client restrictions apply to CTF.
+A: No. Summoning spells are blocked and pets cannot enter the arena.
 
-## Patch History
+**Q: Can I hide or stealth with the flag?**
 
-Capture the Flag was introduced in **Patch 0.26** with extensive refinements:
+A: No. Carrying the flag prevents all forms of hiding and stealth.
 
-- **0.26:** Initial CTF system with two maps and automated scheduling
-- **0.27:** Scoreboard updates, signup messages, wait time reduced to 5 minutes
-- **0.27:** Hide restrictions with flag, flag return fixes, boat placement blocked
-- **0.27:** Suicide points removed
-- **0.29:** Item consumption bugs fixed
-- **0.29:** Summoning spells blocked
-- **0.30:** Auto-hide with flag fixed, summoning actually blocked
-- **0.31:** Player signup cap at 10, no skill gains
+**Q: What happens if I get disconnected?**
 
-For detailed changes, see the [patch notes](../patches/index.md).
+A: You are removed from the match. Any flag you were carrying is dropped and the team continues without you.
 
-## Related Systems
+**Q: Can I join with multiple accounts?**
 
-- [PvP & Murder System](../game-mechanics/pvp/index.md) - Learn about New Dawn's PvP mechanics
-- [Achievements](achievements.md) - CTF-related achievements
+A: No. The system checks your linked Discord account and will block entry if another character is already queued or active in a match.
+
+**Q: What's the daily War Token cap?**
+
+A: 150 tokens per day (Central Time). Your stats are still recorded after the cap, but no additional tokens are awarded until the next day.
