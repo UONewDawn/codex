@@ -4,7 +4,7 @@
 
 ## Overview
 
-Craft and repair metal weapons and armor.
+Blacksmithy allows you to craft and repair metal weapons and armors.
 
 ## Tools
 
@@ -122,7 +122,7 @@ You must have 85.1 (real) or higher for a chance to get a large BOD.
 
 The BOD 6-hour time limit applies to your whole account.
 
-### Rewards
+### BOD Rewards
 
 !!! info "Rewards list"
     You can get rewards from BODs but they are not listed here yet.
