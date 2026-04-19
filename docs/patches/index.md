@@ -6,7 +6,8 @@ Welcome to the New Dawn patch notes archive. All server patches and updates are 
 
 | Patch Version                                 | Release Date       |
 | --------------------------------------------- | ------------------ |
-| [SERVER PATCH 1.8](patch-1.9.md)              | April 6th, 2026   |
+| [SERVER PATCH 1.10](patch-1.10.md)            | April 19th, 2026   |
+| [SERVER PATCH 1.9](patch-1.9.md)              | April 6th, 2026    |
 | [SERVER PATCH 1.8](patch-1.8.md)              | March 23rd, 2026   |
 | [SERVER PATCH 1.7](patch-1.7.md)              | March 12th, 2026   |
 | [SERVER PATCH 1.6](patch-1.6.md)              | March 3rd, 2026    |
@@ -17,7 +18,6 @@ Welcome to the New Dawn patch notes archive. All server patches and updates are 
 | [SERVER PATCH 1.1](patch-1.1.md)              | February 9, 2026   |
 | [SERVER PATCH 1.0](patch-1.0.md)              | January 23, 2026   |
 | [SERVER PATCH 0.51](patch-0.51.md)            | June 7, 2025       |
-| [LOGIN SERVICE PATCH 1.2](login-patch-1.2.md) | June 8, 2025       |
 | [SERVER PATCH 0.50](patch-0.50.md)            | April 25, 2025     |
 | [SERVER PATCH 0.49](patch-0.49.md)            | April 14, 2025     |
 | [SERVER PATCH 0.48](patch-0.48.md)            | April 7, 2025      |

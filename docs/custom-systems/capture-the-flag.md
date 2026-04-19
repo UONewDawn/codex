@@ -1,4 +1,4 @@
-# Capture the Flag
+# Battleground: Capture the Flag
 
 ![CTF](../assets/ctf.png)
 
