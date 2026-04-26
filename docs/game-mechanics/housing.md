@@ -1,12 +1,44 @@
 # Housing
 
-General information about houses.
-
 You can have 1 house per account (total 3 houses).
 
-## Placement tool
+Some houses are tied to a specific biome, for example a sandstone house can only be placed on sand.
 
-## Index
+Houses will collapse after 2 weeks of being "unused" if the owner, co-owner or a friend use a door or double click the sign the timer will reset.
+
+## Tools
+
+You can buy the House Placement Tool and the Interior Decorator both for 10,000 gp from the architect vendor in Occlo.
+
+## Commands
+
+* I wish to lock this down
+
+Locks an item down.
+
+* I wish to release this
+
+Unlocks a previously secured or locked item.
+
+* I wish to secure this
+
+Locks down a container and makes it secure, you can also choose the level of security.
+
+* I ban thee
+
+The target will be added in the ban list and won't be able to access the house.
+
+* Remove thyself
+
+The target will be ejected outside the house.
+
+* I wish to place a trash barrel
+
+It places a trash barrels at your current position, after 3 minutes the content of the barrel will be deleted.
+
+You can use the context menu on the barrel to remove it without the need of an axe.
+
+## Houses index
 
 You can click the house for a detailed view.
 
