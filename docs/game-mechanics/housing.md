@@ -8,7 +8,7 @@ You can have 1 house per account (total 3 houses).
 
 ## Index
 
-=== "Classic houses"
+=== "Classic Houses"
 
     |                                                       House                                                        | Size | Secures | Lockdowns |   Cost    |
     |:------------------------------------------------------------------------------------------------------------------:|:----:|:-------:|:---------:|:---------:|
@@ -32,7 +32,7 @@ You can have 1 house per account (total 3 houses).
     |                  ![icon](../assets/housing/classic/small-stone-keep-icon.png)<br>Small stone keep                  |      |   21    |    500    |  798,000  |
     |                            ![icon](../assets/housing/classic/castle-icon.png)<br>Castle                            |      |   30    |    800    | 1,022,800 |
 
-=== "Updated classic"
+=== "Updated Classic"
 
     |                                                                House                                                                 | Size | Secures | Lockdowns |  Cost   |
     |:------------------------------------------------------------------------------------------------------------------------------------:|:----:|:-------:|:---------:|:-------:|
@@ -51,39 +51,38 @@ You can have 1 house per account (total 3 houses).
     |    ![icon](../assets/housing/updated-classic/large-gray-keep-with-rear-courtyard-icon.png)<br>Large gray keep with rear courtyard    |      |   21    |    500    | 798,000 |
     |            ![icon](../assets/housing/updated-classic/large-gray-keep-with-corner-icon.png)<br>Large gray keep with corner            |      |   21    |    500    | 798,000 |
 
-
 === "Custom Houses"
 
-    |              House               | Size | Secures | Lockdowns |   Cost    |
-    |:--------------------------------:|:----:|:-------:|:---------:|:---------:|
-    |      Small Rough Sandstone       |      |    1    |    30     |  52,000   |
-    |   Small Wood and Plaster Villa   |      |    3    |    110    |  90,000   |
-    |     Small Field Brick Villa      |      |    2    |    62     |  90,000   |
-    |     Small Field Stone Villa      |      |    2    |    62     |  90,000   |
-    |         Small Wood Villa         |      |    2    |    62     |  90,000   |
-    | Medium T‑Shaped Wood and Plaster |      |    2    |    62     |  110,000  |
-    |     Two Story Wooden (East)      |      |    4    |    135    |  165,000  |
-    |      Two Story Stone Vendor      |      |    4    |    135    |  195,000  |
-    |         Yew Crypt Tower          |      |    5    |    195    |  233,000  |
-    |  Medium Fieldstone Patio House   |      |    4    |    135    |  280,000  |
-    |         Field Stone Shop         |      |    4    |    135    |  300,000  |
-    |        Brick Porch House         |      |    4    |    135    |  300,000  |
-    |          Merchant Villa          |      |    9    |    285    |  322,500  |
-    |     Medium Brick Patio House     |      |    4    |    135    |  330,000  |
-    |       Square Steeple House       |      |    4    |    135    |  370,000  |
-    |     Sandstone Plaster Patio      |      |    8    |    225    |  360,000  |
-    |      Two Story Square Brick      |      |    4    |    135    |  360,000  |
-    |      Large Sandstone Patio       |      |    9    |    250    |  385,000  |
-    |   Two Story Wood Balcony House   |      |    6    |    195    |  420,000  |
-    |             Mansion              |      |    9    |    285    |  510,000  |
-    |     Two Story T‑Shaped Brick     |      |    6    |    195    |  520,000  |
-    |     Wood Framed Stone Manor      |      |   15    |    390    |  650,000  |
-    |       Large Stone Compound       |      |    9    |    285    |  680,000  |
-    |   Wood Frame Manor with Tower    |      |   17    |    400    |  690,000  |
-    | Two Story Fieldstone Patio House |      |    4    |    135    |  320,000  |
-    | Sandstone Two Story with Balcony |      |    6    |    195    |  270,000  |
-    |     Large Castle with Fence      |      |   29    |    775    | 1,150,000 |
-    |         Sandstone Temple         |      |   29    |    775    | 1,150,000 |
+    |                                                      House                                                      | Size | Secures | Lockdowns |   Cost    |
+    |:---------------------------------------------------------------------------------------------------------------:|:----:|:-------:|:---------:|:---------:|
+    |            ![icon](../assets/housing/custom/small-rough-sandstone-icon.png)<br>Small Rough Sandstone            |      |    1    |    30     |  52,000   |
+    |     ![icon](../assets/housing/custom/small-wood-and-plaster-villa-icon.png)<br>Small Wood and Plaster Villa     |      |    3    |    110    |  90,000   |
+    |          ![icon](../assets/housing/custom/small-field-brick-villa-icon.png)<br>Small Field Brick Villa          |      |    2    |    62     |  90,000   |
+    |          ![icon](../assets/housing/custom/small-field-stone-villa-icon.png)<br>Small Field Stone Villa          |      |    2    |    62     |  90,000   |
+    |                 ![icon](../assets/housing/custom/small-wood-villa-icon.png)<br>Small Wood Villa                 |      |    2    |    62     |  90,000   |
+    | ![icon](../assets/housing/custom/medium-t‑shaped-wood-and-plaster-icon.png)<br>Medium T‑Shaped Wood and Plaster |      |    2    |    62     |  110,000  |
+    |           ![icon](../assets/housing/custom/two-story-wooden-east-icon.png)<br>Two Story Wooden (East)           |      |    4    |    135    |  165,000  |
+    |           ![icon](../assets/housing/custom/two-story-stone-vendor-icon.png)<br>Two Story Stone Vendor           |      |    4    |    135    |  195,000  |
+    |                  ![icon](../assets/housing/custom/yew-crypt-tower-icon.png)<br>Yew Crypt Tower                  |      |    5    |    195    |  233,000  |
+    |    ![icon](../assets/housing/custom/medium-fieldstone-patio-house-icon.png)<br>Medium Fieldstone Patio House    |      |    4    |    135    |  280,000  |
+    |                 ![icon](../assets/housing/custom/field-stone-shop-icon.png)<br>Field Stone Shop                 |      |    4    |    135    |  300,000  |
+    |                ![icon](../assets/housing/custom/brick-porch-house-icon.png)<br>Brick Porch House                |      |    4    |    135    |  300,000  |
+    |                   ![icon](../assets/housing/custom/merchant-villa-icon.png)<br>Merchant Villa                   |      |    9    |    285    |  322,500  |
+    |         ![icon](../assets/housing/custom/medium-brick-patio-house-icon.png)<br>Medium Brick Patio House         |      |    4    |    135    |  330,000  |
+    |             ![icon](../assets/housing/custom/square-steeple-house-icon.png)<br>Square Steeple House             |      |    4    |    135    |  370,000  |
+    |          ![icon](../assets/housing/custom/sandstone-plaster-patio-icon.png)<br>Sandstone Plaster Patio          |      |    8    |    225    |  360,000  |
+    |           ![icon](../assets/housing/custom/two-story-square-brick-icon.png)<br>Two Story Square Brick           |      |    4    |    135    |  360,000  |
+    |            ![icon](../assets/housing/custom/large-sandstone-patio-icon.png)<br>Large Sandstone Patio            |      |    9    |    250    |  385,000  |
+    |     ![icon](../assets/housing/custom/two-story-wood-balcony-house-icon.png)<br>Two Story Wood Balcony House     |      |    6    |    195    |  420,000  |
+    |                          ![icon](../assets/housing/custom/mansion-icon.png)<br>Mansion                          |      |    9    |    285    |  510,000  |
+    |         ![icon](../assets/housing/custom/two-story-t‑shaped-brick-icon.png)<br>Two Story T‑Shaped Brick         |      |    6    |    195    |  520,000  |
+    |          ![icon](../assets/housing/custom/wood-framed-stone-manor-icon.png)<br>Wood Framed Stone Manor          |      |   15    |    390    |  650,000  |
+    |             ![icon](../assets/housing/custom/large-stone-compound-icon.png)<br>Large Stone Compound             |      |    9    |    285    |  680,000  |
+    |      ![icon](../assets/housing/custom/wood-frame-manor-with-tower-icon.png)<br>Wood Frame Manor with Tower      |      |   17    |    400    |  690,000  |
+    | ![icon](../assets/housing/custom/two-story-fieldstone-patio-house-icon.png)<br>Two Story Fieldstone Patio House |      |    4    |    135    |  320,000  |
+    | ![icon](../assets/housing/custom/sandstone-two-story-with-balcony-icon.png)<br>Sandstone Two Story with Balcony |      |    6    |    195    |  270,000  |
+    |          ![icon](../assets/housing/custom/large-castle-with-fence-icon.png)<br>Large Castle with Fence          |      |   29    |    775    | 1,150,000 |
+    |                 ![icon](../assets/housing/custom/sandstone-temple-icon.png)<br>Sandstone Temple                 |      |   29    |    775    | 1,150,000 |
 
 === "Orc Houses"
 
