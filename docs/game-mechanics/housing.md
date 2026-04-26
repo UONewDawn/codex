@@ -97,153 +97,235 @@ You can have 1 house per account (total 3 houses).
 
 === "Outside"
 
+    ![image](../assets/housing/classic/stone-and-plaster-house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/stone-and-plaster-house-1.png){ .on-glb }
 
 ### Field stone house
 
 === "Outside"
 
+    ![image](../assets/housing/classic/field-stone house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/field-stone house-1.png){ .on-glb }
 
 ### Small brick house
 
 === "Outside"
 
+    ![image](../assets/housing/classic/small-brick house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/small-brick house-1.png){ .on-glb }
 
 ### Wooden house
 
 === "Outside"
 
+    ![image](../assets/housing/classic/wooden-house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/wooden-house-1.png){ .on-glb }
 
 ### Wood and plaster house
 
 === "Outside"
 
+    ![image](../assets/housing/classic/wood-and plaster-house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/wood-and plaster-house-1.png){ .on-glb }
 
 ### Thatched-roof cottage
 
 === "Outside"
 
+    ![image](../assets/housing/classic/thatched-roof cottage.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/thatched-roof cottage-1.png){ .on-glb }
 
 ### Small stone workshop
 
 === "Outside"
 
+    ![image](../assets/housing/classic/small-stone-workshop.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/small-stone-workshop-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/small-stone-workshop-2.png){ .on-glb }
 
 ### Small marble workshop
 
 === "Outside"
 
+    ![image](../assets/housing/classic/small-marble-workshop.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/small-marble-workshop-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/small-marble-workshop-2.png){ .on-glb }
 
 ### Small stone tower
 
 === "Outside"
 
+    ![image](../assets/housing/classic/small-stone tower.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/small-stone tower-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/small-stone tower-2.png){ .on-glb }
 
 ### Two-story villa
 
 === "Outside"
 
+    ![image](../assets/housing/classic/two-story-villa.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/two-story-villa-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/two-story-villa-2.png){ .on-glb }
 
 ### Sandstone house with patio
 
 === "Outside"
 
+    ![image](../assets/housing/classic/sandstone-house with-patio.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/sandstone-house with-patio-1.png){ .on-glb }
 
 ### Two-story log cabin
 
 === "Outside"
 
+    ![image](../assets/housing/classic/two-story log-cabin.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/two-story log-cabin-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/two-story log-cabin-2.png){ .on-glb }
 
 ### Brick house
 
 === "Outside"
 
+    ![image](../assets/housing/classic/brick-house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/brick-house-1.png){ .on-glb }
 
 ### Two-story wood and plaster house
 
 === "Outside"
 
+    ![image](../assets/housing/classic/two-story-wood-and-plaster-house.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/two-story-wood-and-plaster-house-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/two-story-wood-and-plaster-house-2.png){ .on-glb }
 
 ### Two-story stone and plaster house
 
 === "Outside"
 
+    ![image](../assets/housing/classic/two-story-stone-and-plaster-house.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/two-story-stone-and-plaster-house-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/two-story-stone-and-plaster-house-2.png){ .on-glb }
 
 ### Large house with patio
 
 === "Outside"
 
+    ![image](../assets/housing/classic/large-house-with-patio.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/classic/large-house-with-patio-1.png){ .on-glb }
 
 ### Tower
 
 === "Outside"
 
+    ![image](../assets/housing/classic/tower.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/tower-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/tower-2.png){ .on-glb }
+
+=== "3rd floor"
+
+    ![image](../assets/housing/classic/tower-3.png){ .on-glb }
 
 ### Small stone keep
 
 === "Outside"
 
+    ![image](../assets/housing/classic/small-stone-keep.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/small-stone-keep-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/small-stone-keep-2.png){ .on-glb }
 
 ### Castle
 
 === "Outside"
 
+    ![image](../assets/housing/classic/castle.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/classic/castle-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/classic/castle-2.png){ .on-glb }
 
 ## Updated classic
 
