@@ -94,7 +94,7 @@ You can click the house for a detailed view.
     |              [![icon](../assets/housing/custom/small-field-brick-villa-icon.png)<br>Small Field Brick Villa](#small-field-brick-villa)               |  9x9  |    2    |    62     |  90,000   |
     |              [![icon](../assets/housing/custom/small-field-stone-villa-icon.png)<br>Small Field Stone Villa](#small-field-stone-villa)               |  9x9  |    2    |    62     |  90,000   |
     |                         [![icon](../assets/housing/custom/small-wood-villa-icon.png)<br>Small Wood Villa](#small-wood-villa)                         |  9x9  |    2    |    62     |  90,000   |
-    | [![icon](../assets/housing/custom/medium-t‑shaped-wood-and-plaster-icon.png)<br>Medium T‑Shaped Wood and Plaster](#medium-t-shaped-wood-and-plaster) | 14x11 |    2    |    62     |  110,000  |
+    | [![icon](../assets/housing/custom/medium-t‑shaped-wood-and-plaster-icon.png)<br>Medium T‑Shaped Wood and Plaster](#medium-tshaped-wood-and-plaster) | 14x11 |    2    |    62     |  110,000  |
     |                [![icon](../assets/housing/custom/two-story-wooden-east-icon.png)<br>Two Story Wooden (East)](#two-story-wooden-east)                 | 9x12  |    4    |    135    |  165,000  |
     |                [![icon](../assets/housing/custom/two-story-stone-vendor-icon.png)<br>Two Story Stone Vendor](#two-story-stone-vendor)                |  9x9  |    4    |    135    |  195,000  |
     |                          [![icon](../assets/housing/custom/yew-crypt-tower-icon.png)<br>Yew Crypt Tower](#yew-crypt-tower)                           | 12x12 |    5    |    195    |  233,000  |
