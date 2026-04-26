@@ -511,222 +511,374 @@ You can have 1 house per account (total 3 houses).
 
 === "Outside"
 
+    ![image](../assets/housing/custom/small-rough-sandstone.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/custom/small-rough-sandstone-1.png){ .on-glb }
 
 ### Small Wood and Plaster Villa
 
 === "Outside"
 
+    ![image](../assets/housing/custom/small-wood-and-plaster-villa.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/small-wood-and-plaster-villa-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/small-wood-and-plaster-villa-2.png){ .on-glb }
 
 ### Small Field Brick Villa
 
 === "Outside"
 
+    ![image](../assets/housing/custom/small-field-brick-villa.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/small-field-brick-villa-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/small-field-brick-villa-2.png){ .on-glb }
 
 ### Small Field Stone Villa
 
 === "Outside"
 
+    ![image](../assets/housing/custom/small-field-stone-villa.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/small-field-stone-villa-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/small-field-stone-villa-2.png){ .on-glb }
 
 ### Small Wood Villa
 
 === "Outside"
 
+    ![image](../assets/housing/custom/small-wood-villa.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/small-wood-villa-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/small-wood-villa-2.png){ .on-glb }
 
 ### Medium T‑Shaped Wood and Plaster
 
 === "Outside"
 
+    ![image](../assets/housing/custom/medium-t‑shaped-wood-and-plaster.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/custom/medium-t‑shaped-wood-and-plaster-1.png){ .on-glb }
 
 ### Two Story Wooden (East)
 
 === "Outside"
 
+    ![image](../assets/housing/custom/two-story-wooden-east.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/two-story-wooden-east-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/two-story-wooden-east-2.png){ .on-glb }
 
 ### Two Story Stone Vendor
 
 === "Outside"
 
+    ![image](../assets/housing/custom/two-story-stone-vendor.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/two-story-stone-vendor-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/two-story-stone-vendor-2.png){ .on-glb }
 
 ### Yew Crypt Tower
 
 === "Outside"
 
+    ![image](../assets/housing/custom/yew-crypt-tower.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/yew-crypt-tower-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/yew-crypt-tower-2.png){ .on-glb }
 
 ### Medium Fieldstone Patio House
 
 === "Outside"
 
+    ![image](../assets/housing/custom/medium-fieldstone-patio-house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/custom/medium-fieldstone-patio-house-1.png){ .on-glb }
 
 ### Field Stone Shop
 
 === "Outside"
 
+    ![image](../assets/housing/custom/field-stone-shop.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/custom/field-stone-shop-1.png){ .on-glb }
 
 ### Brick Porch House
 
 === "Outside"
 
+    ![image](../assets/housing/custom/brick-porch-house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/custom/brick-porch-house-1.png){ .on-glb }
 
 ### Merchant Villa
 
 === "Outside"
 
+    ![image](../assets/housing/custom/merchant-villa.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/merchant-villa-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/merchant-villa-2.png){ .on-glb }
 
 ### Medium Brick Patio House
 
 === "Outside"
 
+    ![image](../assets/housing/custom/medium-brick-patio-house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/custom/medium-brick-patio-house-1.png){ .on-glb }
 
 ### Square Steeple House
 
 === "Outside"
 
+    ![image](../assets/housing/custom/square-steeple-house.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/square-steeple-house-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/square-steeple-house-2.png){ .on-glb }
+
+=== "3rd floor"
+
+    ![image](../assets/housing/custom/square-steeple-house-3.png){ .on-glb }
 
 ### Sandstone Plaster Patio
 
 === "Outside"
 
+    ![image](../assets/housing/custom/sandstone-plaster-patio.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/custom/sandstone-plaster-patio-1.png){ .on-glb }
 
 ### Two Story Square Brick
 
 === "Outside"
 
+    ![image](../assets/housing/custom/two-story-square-brick.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/two-story-square-brick-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/two-story-square-brick-2.png){ .on-glb }
 
 ### Large Sandstone Patio
 
 === "Outside"
 
+    ![image](../assets/housing/custom/large-sandstone-patio.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/custom/large-sandstone-patio-1.png){ .on-glb }
 
 ### Two Story Wood Balcony House
 
 === "Outside"
 
+    ![image](../assets/housing/custom/two-story-wood-balcony-house.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/two-story-wood-balcony-house-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/two-story-wood-balcony-house-2.png){ .on-glb }
 
 ### Mansion
 
 === "Outside"
 
+    ![image](../assets/housing/custom/mansion.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/mansion-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/mansion-2.png){ .on-glb }
+
+=== "3rd floor"
+
+    ![image](../assets/housing/custom/mansion-3.png){ .on-glb }
 
 ### Two Story T‑Shaped Brick
 
 === "Outside"
 
+    ![image](../assets/housing/custom/two-story-t‑shaped-brick.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/two-story-t‑shaped-brick-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/two-story-t‑shaped-brick-2.png){ .on-glb }
 
 ### Wood Framed Stone Manor
 
 === "Outside"
 
+    ![image](../assets/housing/custom/wood-framed-stone-manor.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/wood-framed-stone-manor-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/wood-framed-stone-manor-2.png){ .on-glb }
 
 ### Large Stone Compound
 
 === "Outside"
 
+    ![image](../assets/housing/custom/large-stone-compound.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/large-stone-compound-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/large-stone-compound-2.png){ .on-glb }
 
 ### Wood Frame Manor with Tower
 
 === "Outside"
 
+    ![image](../assets/housing/custom/wood-frame-manor-with-tower.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/wood-frame-manor-with-tower-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/wood-frame-manor-with-tower-2.png){ .on-glb }
 
 ### Two Story Fieldstone Patio House
 
 === "Outside"
 
+    ![image](../assets/housing/custom/two-story-fieldstone-patio-house.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/two-story-fieldstone-patio-house-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/two-story-fieldstone-patio-house-2.png){ .on-glb }
 
 ### Sandstone Two Story with Balcony
 
 === "Outside"
 
+    ![image](../assets/housing/custom/sandstone-two-story-with-balcony.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/sandstone-two-story-with-balcony-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/sandstone-two-story-with-balcony-2.png){ .on-glb }
 
 ### Large Castle with Fence
 
 === "Outside"
 
+    ![image](../assets/housing/custom/large-castle-with-fence.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/large-castle-with-fence-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/large-castle-with-fence-2.png){ .on-glb }
+
+=== "3rd floor"
+
+    ![image](../assets/housing/custom/large-castle-with-fence-3.png){ .on-glb }
 
 ### Sandstone Temple
 
 === "Outside"
 
+    ![image](../assets/housing/custom/sandstone-temple.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/custom/sandstone-temple-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/custom/sandstone-temple-2.png){ .on-glb }
+
+=== "3rd floor"
+
+    ![image](../assets/housing/custom/sandstone-temple-3.png){ .on-glb }
