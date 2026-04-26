@@ -86,10 +86,10 @@ You can have 1 house per account (total 3 houses).
 
 === "Orc Houses"
 
-    |  House   | Size | Secures | Lockdowns |  Cost  |
-    |:--------:|:----:|:-------:|:---------:|:------:|
-    | Orc Camp |      |    2    |    25     | 35,000 |
-    | Orc Camp |      |    2    |    25     | 35,000 |
+    |                              House                              | Size | Secures | Lockdowns |  Cost  |
+    |:---------------------------------------------------------------:|:----:|:-------:|:---------:|:------:|
+    | ![icon](../assets/housing/orc/orc-camp-v1-icon.png)<br>Orc Camp |      |    2    |    25     | 35,000 |
+    | ![icon](../assets/housing/orc/orc-camp-v2-icon.png)<br>Orc Camp |      |    2    |    25     | 35,000 |
 
 ## Classic houses
 
