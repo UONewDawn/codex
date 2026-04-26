@@ -86,10 +86,10 @@ You can have 1 house per account (total 3 houses).
 
 === "Orc Houses"
 
-    |                              House                              | Size  | Secures | Lockdowns |  Cost  |
-    |:---------------------------------------------------------------:|:-----:|:-------:|:---------:|:------:|
-    | ![icon](../assets/housing/orc/orc-camp-v1-icon.png)<br>Orc Camp | 12x12 |    2    |    25     | 35,000 |
-    | ![icon](../assets/housing/orc/orc-camp-v2-icon.png)<br>Orc Camp | 14x14 |    2    |    25     | 35,000 |
+    |                               House                                | Size  | Secures | Lockdowns |  Cost  |
+    |:------------------------------------------------------------------:|:-----:|:-------:|:---------:|:------:|
+    | ![icon](../assets/housing/orc/orc-camp-v1-icon.png)<br>Orc Camp v1 | 12x12 |    2    |    25     | 35,000 |
+    | ![icon](../assets/housing/orc/orc-camp-v2-icon.png)<br>Orc Camp v2 | 14x14 |    2    |    25     | 35,000 |
 
 ## Classic houses
 
@@ -882,3 +882,25 @@ You can have 1 house per account (total 3 houses).
 === "3rd floor"
 
     ![image](../assets/housing/custom/sandstone-temple-3.png){ .on-glb }
+
+## Orc houses
+
+### Orc camp v1
+
+=== "Outside"
+
+    ![image](../assets/housing/orc/orc-camp-v1.png){ .on-glb }
+
+=== "1st floor"
+
+    ![image](../assets/housing/orc/orc-camp-v1-1.png){ .on-glb }
+
+### Orc camp v2
+
+=== "Outside"
+
+    ![image](../assets/housing/orc/orc-camp-v2.png){ .on-glb }
+
+=== "1st floor"
+
+    ![image](../assets/housing/orc/orc-camp-v2-1.png){ .on-glb }
