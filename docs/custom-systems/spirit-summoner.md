@@ -188,18 +188,6 @@ This is working as designed. If you want controllable summons, use 5th or 8th ci
 | Evaluating Intelligence | 100   | Spell power                                                           |
 | Meditation              | 100   | Mana regeneration                                                     |
 
-### Optional Supporting Skills
-
-- **Resisting Spells** — PvP survivability
-- **Wrestling** — Defensive skill, avoids spell disruption
-- **Inscription** — Spell damage bonus
-
-### Stats
-
-- **Intelligence:** 100+ (primary mana pool)
-- **Dexterity:** 25–50 (casting speed)
-- **Strength:** 25–75 (reagent carrying and equipment requirements)
-
 ---
 
 ## Combat Tips
