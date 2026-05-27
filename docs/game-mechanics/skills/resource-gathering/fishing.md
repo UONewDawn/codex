@@ -84,3 +84,7 @@ Train from Fisher NPCs to reach around 30.
 Repeatedly fish until reaching 100, while fishing on land monster can't spawn and the gains are the same as fishing in deep sea.
 
 Consider keeping the fish to also train cooking.
+
+## Related skills
+
+- [Cooking](../crafting/cooking.md)
