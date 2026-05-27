@@ -12,18 +12,18 @@ All resource gathering activities will trigger the AFK captcha gump, to avoid un
 
 This table shows what can you fish up.
 
-| Skill |                           Loot                           |
-|:-----:|:--------------------------------------------------------:|
-|   0   |                Footwear<br>Mostly on land                |
-|   0   | Normal Fish<br>If cut with a knife yields 4 fish steaks  |
-|  25   |    Fishing net<br>Can be used to fish up sea monsters    |
-|  80   |             Prize Fish<br>+5 INT when eaten              |
-|  80   |            Wondrous Fish<br>+5 DEX when eaten            |
-|  80   |           Truly Rare Fish<br>+5 STR when eaten           |
-|  80   |  Highly Peculiar Fish<br>Restores 10 stamina when eaten  |
-|  90   | Big Fish<br>Shows weight, angler name and time of catch  |
-|  90   | Sea Serpents<br>They can drop Messages in a bottle (MiB) |
-|  100  |    Ancient Sea Serpents<br>They can drop Pirate maps     |
+| Skill |                                                                                                                          Loot                                                                                                                          |
+|:-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   0   |             ![item-icon](../../../assets/items/sandals.png) ![item-icon](../../../assets/items/shoes.png) ![item-icon](../../../assets/items/boots.png) ![item-icon](../../../assets/items/thigh-boots.png)<br>Footwear<br>Mostly on land              |
+|   0   | ![item-icon](../../../assets/items/fish-1.png) ![item-icon](../../../assets/items/fish-2.png) ![item-icon](../../../assets/items/fish-3.png) ![item-icon](../../../assets/items/fish-4.png)<br>Normal Fish<br>If cut with a knife yields 4 fish steaks |
+|  25   |                                                                       ![item-icon](../../../assets/items/fishing-net.png)<br>Fishing net<br>Can be used to fish up sea monsters                                                                        |
+|  80   |                                                                                 ![item-icon](../../../assets/items/prize-fish.png)<br>Prize Fish<br>+5 INT when eaten                                                                                  |
+|  80   |                                                                              ![item-icon](../../../assets/items/wondrous-fish.png)<br>Wondrous Fish<br>+5 DEX when eaten                                                                               |
+|  80   |                                                                            ![item-icon](../../../assets/items/truly-rare-fish.png)<br>Truly Rare Fish<br>+5 STR when eaten                                                                             |
+|  80   |                                                                 ![item-icon](../../../assets/items/highly-peculiar-fish.png)<br>Highly Peculiar Fish<br>Restores 10 stamina when eaten                                                                 |
+|  90   |                                                                       ![item-icon](../../../assets/items/fish-1.png)<br>Big Fish<br>Shows weight, angler name and time of catch                                                                        |
+|  90   |                                                                   ![item-icon](../../../assets/mobiles/sea-serpent.png)<br>Sea Serpents<br>They can drop Messages in a bottle (MiB)                                                                    |
+|  100  |                                                                   ![item-icon](../../../assets/mobiles/ancient-sea-serpent.png)<br>Ancient Sea Serpents<br>They can drop Pirate maps                                                                   |
 
 ## Catch and release
 
@@ -66,6 +66,8 @@ While trying to fish up the chest, you will also pull up random items such as bo
 There is also a very rare chance to pull up an Enraged kraken.
 
 ### Enraged kraken
+
+![item-icon](../../../assets/mobiles/kraken.png)
 
 Enraged Krakens will always drop a Strongbox, in them you can always find a Pirate map.
 
