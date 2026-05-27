@@ -44,3 +44,9 @@ They don't have MiBs, but they have very rare chance of dropping a level 2 Treas
 Krakens can't be pulled up by pole fishing, they usually drop a Net and have a rare chance of having a MiB.
 
 At the moment is better to keep Nets as decoration.
+
+## Ink of the deep
+
+You can extract Ink from rare fishes like the Octopus and the Cuttlefish.
+
+You can use the Bottle of Extracted Ink on a Dye Tub to make a single use of pure black hue.
