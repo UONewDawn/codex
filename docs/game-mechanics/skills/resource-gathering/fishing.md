@@ -6,11 +6,11 @@
 
 Fishing allows you to catch fish from any body of water. Beyond basic fish for food, skilled fishermen can catch rare fish, treasure, and special items.
 
-All resource gathering activities will trigger the AFK captcha gump, to avoid unattended gathering.
+To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 
 ## Catches
 
-This table shows what can you fish up.
+This table shows what you can fish up.
 
 | Skill |                                                                                                                          Loot                                                                                                                          |
 |:-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -23,7 +23,7 @@ This table shows what can you fish up.
 |  80   |                                                                 ![item-icon](../../../assets/items/highly-peculiar-fish.png)<br>Highly Peculiar Fish<br>Restores 10 stamina when eaten                                                                 |
 |  90   |                                                                       ![item-icon](../../../assets/items/fish-1.png)<br>Big Fish<br>Shows weight, angler name and time of catch                                                                        |
 |  90   |                                                                   ![item-icon](../../../assets/mobiles/sea-serpent.png)<br>Sea Serpents<br>They can drop Messages in a bottle (MiB)                                                                    |
-|  100  |                                                                   ![item-icon](../../../assets/mobiles/ancient-sea-serpent.png)<br>Ancient Sea Serpents<br>They can drop Pirate maps                                                                   |
+|  100  |                                                                     ![item-icon](../../../assets/mobiles/ancient-sea-serpent.png)<br>Ancient Sea Serpents<br>They drop Pirate maps                                                                     |
 
 ## Catch and release
 
@@ -51,7 +51,7 @@ At the moment is better to keep Nets as decoration.
 
 ## Ink of the deep
 
-You can extract Ink from rare fishes like the Octopus and the Cuttlefish.
+You can extract Ink from rare fishes like the Octopus and the Cuttlefish using a knife.
 
 You can use the Bottle of Extracted Ink on a Dye Tub to make a single use of pure black hue.
 
@@ -63,7 +63,7 @@ Double click the bottle to reveal the Waterstained SOS, use the map to find the 
 
 While trying to fish up the chest, you will also pull up random items such as bones, pillows, paintings and shells.
 
-There is also a very rare chance to pull up an Enraged kraken.
+There is also a very rare chance of pulling up an Enraged kraken.
 
 ### Enraged kraken
 
@@ -82,6 +82,9 @@ For more information about Pirate maps go [here](../../../custom-systems/pirate-
 ### Fishing rares
 
 This table shows which rares you can get after reaching the daily Ancient Sea Serpents limit.
+
+!!! warning
+    Table under construction.
 
 ## Training
 
