@@ -24,3 +24,9 @@ This table shows what can you fish up.
 |  90   | Big Fish<br>Shows weight, angler name and time of catch  |
 |  90   | Sea Serpents<br>They can drop Messages in a bottle (MiB) |
 |  100  |    Ancient Sea Serpents<br>They can drop Pirate maps     |
+
+## Catch and release
+
+Catch and release is an option found on the menu accessible by typing [profile in game.
+
+If turned ON, you will release normal fishes into the water, it helps managing weight and inventory.
