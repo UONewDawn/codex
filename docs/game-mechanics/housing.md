@@ -109,7 +109,7 @@ You can click the house for a detailed view.
     |                 [![icon](../assets/housing/custom/large-sandstone-patio-icon.png)<br>Large Sandstone Patio](#large-sandstone-patio)                  | 16x15 |    9    |    250    |  385,000  |
     |       [![icon](../assets/housing/custom/two-story-wood-balcony-house-icon.png)<br>Two Story Wood Balcony House](#two-story-wood-balcony-house)       | 14x10 |    6    |    195    |  420,000  |
     |                                      [![icon](../assets/housing/custom/mansion-icon.png)<br>Mansion](#mansion)                                       | 15x14 |    9    |    285    |  510,000  |
-    |             [![icon](../assets/housing/custom/two-story-t‑shaped-brick-icon.png)<br>Two Story T‑Shaped Brick](#two-story-t-shaped-brick)             | 14x17 |    6    |    195    |  520,000  |
+    |             [![icon](../assets/housing/custom/two-story-t‑shaped-brick-icon.png)<br>Two Story T‑Shaped Brick](#two-story-tshaped-brick)             | 14x17 |    6    |    195    |  520,000  |
     |              [![icon](../assets/housing/custom/wood-framed-stone-manor-icon.png)<br>Wood Framed Stone Manor](#wood-framed-stone-manor)               | 23x22 |   15    |    390    |  650,000  |
     |                   [![icon](../assets/housing/custom/large-stone-compound-icon.png)<br>Large Stone Compound](#large-stone-compound)                   | 13x14 |    9    |    285    |  680,000  |
     |        [![icon](../assets/housing/custom/wood-frame-manor-with-tower-icon.png)<br>Wood Frame Manor with Tower](#wood-frame-manor-with-tower)         | 23x22 |   17    |    400    |  690,000  |
@@ -486,6 +486,10 @@ You can click the house for a detailed view.
 === "1st floor"
 
     ![image](../assets/housing/updated-classic/two-story-brick-house-1.png){ .on-glb }
+
+=== "2nd floor"
+
+    ![image](../assets/housing/updated-classic/two-story-brick-house-2.png){ .on-glb }
 
 ### Large house with courtyard patio
 
