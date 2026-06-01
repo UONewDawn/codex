@@ -29,47 +29,47 @@ This table shows what you can fish up.
 
 === "Rare fishes"
 
-    |      Rare fishes      |
-    |:---------------------:|
-    |       Angelfish       |
-    |  Banded Coral Shrimp  |
-    |      Betta Fish       |
-    |    Blue Damselfish    |
-    |    Blue Parrotfish    |
-    |   Blue Surgeonfish    |
-    |       Blue Tang       |
-    | Blue-Spotted Stingray |
-    |  Blue/Yellow Chromis  |
-    |   Cherub Angelfish    |
-    |   Clown Triggerfish   |
-    |       Clownfish       |
-    |   Clownfish Variant   |
-    |      Cuttlefish       |
-    |   Emperor Angelfish   |
-    |     Fiddler Crab      |
-    |    Horseshoe Crab     |
-    |       Jellyfish       |
-    |   Leafy Sea Dragon    |
-    |       Lionfish        |
-    |     Moorish Idol      |
-    | Orange Butterflyfish  |
-    |   Orange Damselfish   |
-    |    Orange Percula     |
-    |       Pipe Fish       |
-    |      Pufferfish       |
-    |     Red Lionfish      |
-    |       Seahorse        |
-    |      Spider Crab      |
-    |     Spiny Lobster     |
-    |    Spotted Grouper    |
-    |   Striped Angelfish   |
-    | Striped Butterflyfish |
-    |  Striped Damselfish   |
-    |   White Damselfish    |
-    | Yellow Butterflyfish  |
-    |      Yellow Tang      |
-    |  Yellow Tang Variant  |
-    | Yellowtail Damselfish |
+    |                                      Rare fishes                                       |
+    |:--------------------------------------------------------------------------------------:|
+    |             ![item-icon](../../../assets/items/angelfish.png)<br>Angelfish             |
+    |   ![item-icon](../../../assets/items/banded-coral-shrimp.png)<br>Banded Coral Shrimp   |
+    |            ![item-icon](../../../assets/items/betta-fish.png)<br>Betta Fish            |
+    |       ![item-icon](../../../assets/items/blue-damselfish.png)<br>Blue Damselfish       |
+    |       ![item-icon](../../../assets/items/blue-parrotfish.png)<br>Blue Parrotfish       |
+    |      ![item-icon](../../../assets/items/blue-surgeonfish.png)<br>Blue Surgeonfish      |
+    |             ![item-icon](../../../assets/items/blue-tang.png)<br>Blue Tang             |
+    | ![item-icon](../../../assets/items/blue-spotted-stingray.png)<br>Blue-Spotted Stingray |
+    |   ![item-icon](../../../assets/items/blue-yellow.chromis.png)<br>Blue/Yellow Chromis   |
+    |      ![item-icon](../../../assets/items/cherub-angelfish.png)<br>Cherub Angelfish      |
+    |     ![item-icon](../../../assets/items/clown-triggerfish.png)<br>Clown Triggerfish     |
+    |             ![item-icon](../../../assets/items/clownfish.png)<br>Clownfish             |
+    |     ![item-icon](../../../assets/items/clownfish-variant.png)<br>Clownfish Variant     |
+    |            ![item-icon](../../../assets/items/cuttlefish.png)<br>Cuttlefish            |
+    |     ![item-icon](../../../assets/items/emperor-angelfish.png)<br>Emperor Angelfish     |
+    |          ![item-icon](../../../assets/items/fiddler-crab.png)<br>Fiddler Crab          |
+    |        ![item-icon](../../../assets/items/horseshoe-crab.png)<br>Horseshoe Crab        |
+    |             ![item-icon](../../../assets/items/jellyfish.png)<br>Jellyfish             |
+    |      ![item-icon](../../../assets/items/leafy-sea-dragon.png)<br>Leafy Sea Dragon      |
+    |              ![item-icon](../../../assets/items/lionfish.png)<br>Lionfish              |
+    |          ![item-icon](../../../assets/items/moorish-idol.png)<br>Moorish Idol          |
+    |  ![item-icon](../../../assets/items/orange-butterflyfish.png)<br>Orange Butterflyfish  |
+    |     ![item-icon](../../../assets/items/orange-damselfish.png)<br>Orange Damselfish     |
+    |        ![item-icon](../../../assets/items/orange-percula.png)<br>Orange Percula        |
+    |             ![item-icon](../../../assets/items/pipe-fish.png)<br>Pipe Fish             |
+    |            ![item-icon](../../../assets/items/pufferfish.png)<br>Pufferfish            |
+    |          ![item-icon](../../../assets/items/red-lionfish.png)<br>Red Lionfish          |
+    |              ![item-icon](../../../assets/items/seahorse.png)<br>Seahorse              |
+    |           ![item-icon](../../../assets/items/spider-crab.png)<br>Spider Crab           |
+    |         ![item-icon](../../../assets/items/spiny-lobster.png)<br>Spiny Lobster         |
+    |       ![item-icon](../../../assets/items/spotted-grouper.png)<br>Spotted Grouper       |
+    |     ![item-icon](../../../assets/items/striped-angelfish.png)<br>Striped Angelfish     |
+    | ![item-icon](../../../assets/items/striped-butterflyfish.png)<br>Striped Butterflyfish |
+    |    ![item-icon](../../../assets/items/striped-damselfish.png)<br>Striped Damselfish    |
+    |      ![item-icon](../../../assets/items/white-damselfish.png)<br>White Damselfish      |
+    |  ![item-icon](../../../assets/items/yellow-butterflyfish.png)<br>Yellow Butterflyfish  |
+    |           ![item-icon](../../../assets/items/yellow-tang.png)<br>Yellow Tang           |
+    |   ![item-icon](../../../assets/items/yellow-tang-variant.png)<br>Yellow Tang Variant   |
+    | ![item-icon](../../../assets/items/yellowtail-damselfish.png)<br>Yellowtail Damselfish |
 
 ## Catch and release
 
