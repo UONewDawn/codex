@@ -2,120 +2,22 @@
 
 # Mining
 
-Extract ore from mountains and rocks.
-
 ## Overview
 
-Mining allows you to extract ore from mountainsides and rocky areas. Essential for blacksmiths and one of the most important gathering skills in the game.
+Mining allows you to extract ore from mountainsides and rocky areas, essential for blacksmiths.
 
-## Effects
+To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 
-### Ore Gathering
+## Types of iron
 
-- Mine iron ore (most common)
-- Find colored ores (better quality)
-- Smelt ore into ingots
-- Renewable resource
-
-### Ore Types
-
-- **Iron** - Most common, everywhere
-- **Shadow** - Uncommon
-- **Copper** - Uncommon
-- **Bronze** - Rare
-- **Gold** - Rare
-- **Agapite** - Very rare
-- **Verite** - Extremely rare
-- **Valorite** - Legendary rare
-
-### Additional Resources
-
-- Find gems while mining
-- Special ore veins
-
-## Training
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Early (0-30)
-
-- Buy pickaxe from NPC
-- Mine any mountains
-- Practice near towns
-
-### Intermediate (30-60)
-
-- Mine in popular locations
-- Start finding colored ore
-- Build ingot stockpile
-
-### Advanced (60-85)
-
-- Mine rare ore types
-- Efficient gathering routes
-- Better yield rates
-
-### Master (85-100)
-
-- Expert miner
-- Maximum yield
-- Best chance for rare ore
-
-## Materials
-
-### Tools
-
-- **Pickaxe** - Required for mining
-- **Shovel** - Can also be used
-- Tools wear out over time
-
-### Mining Locations
-
-- Mountains
-- Caves
-- Rocky areas
-- Mine entrances
-
-## Related Skills
-
-**Essential For:**
-
-- [Blacksmithy](../crafting/blacksmithy.md) - Needs ingots ⭐⭐⭐⭐⭐
-
-**Support Skills:**
-
-- [Cartography](../utility-and-support/cartography.md) - Treasure hunting (dig up chests)
-- [Magery](../magic/magery.md) - Travel to mining spots
-
-## Ore Quality
-
-### Common Ores
-
-- Iron - Standard quality
-- Found everywhere
-- Most crafting uses iron
-
-### Rare Ores
-
-- Colored ores are rarer
-- Spawn in specific veins
-- Create superior equipment
-- Much higher value
-
-## Smelting
-
-### Ore to Ingots
-
-- Smelt ore at forges
-- 2 ore = 1 ingot
-- Ingots used in smithing
-- Lighter than ore for transport
-
----
-
-**Related Pages:**
-
-- [Blacksmithy](../crafting/blacksmithy.md)
-- [Cartography](../utility-and-support/cartography.md)
-- [Resources](../../../items/resources.md)
+| Skill |                                   Iron                                    | Spawn |
+|:-----:|:-------------------------------------------------------------------------:|:-----:|
+|   0   |        ![item-icon](../../../assets/items/iron-ingots.png)<br>Iron        |  50%  |
+|  65   | ![item-icon](../../../assets/items/dull-copper-ingots.png)<br>Dull Copper | 11.2% |
+|  70   |      ![item-icon](../../../assets/items/shadow-ingots.png)<br>Shadow      | 9.8%  |
+|  75   |      ![item-icon](../../../assets/items/copper-ingots.png)<br>Copper      | 8.4%  |
+|  80   |      ![item-icon](../../../assets/items/bronze-ingots.png)<br>Bronze      | 7.0%  |
+|  85   |      ![item-icon](../../../assets/items/golden-ingots.png)<br>Golden      | 5.6%  |
+|  90   |     ![item-icon](../../../assets/items/agapite-ingots.png)<br>Agapite     | 4.2%  |
+|  95   |      ![item-icon](../../../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
+|  99   |    ![item-icon](../../../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
