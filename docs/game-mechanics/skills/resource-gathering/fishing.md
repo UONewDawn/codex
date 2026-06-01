@@ -10,7 +10,7 @@ To avoid unattended gathering, all resource gathering activities will trigger th
 
 ## Catches
 
-This table shows what you can fish up.
+This table shows what can be fished up.
 
 === "Skill requirements"
 
@@ -71,7 +71,7 @@ This table shows what you can fish up.
     |   ![item-icon](../../../assets/items/yellow-tang-variant.png)<br>Yellow Tang Variant   |
     | ![item-icon](../../../assets/items/yellowtail-damselfish.png)<br>Yellowtail Damselfish |
 
-## Fishing
+## Pole fishing
 
 To be able to fish, you need to equip a fishing pole in your hand and be on foot.
 
@@ -81,11 +81,11 @@ Double click the pole and then the water.
 
 ## Catch and release
 
-Catch and release is an option found on the menu accessible by typing [profile in game.
+Catch and release is an option that can be found by typing [profile in game.
 
 If turned ON, you will release normal fishes into the water, it helps managing weight and inventory.
 
-## Boats
+## Boat
 
 You can buy a boat from shipwright vendors in most docks.
 
@@ -93,7 +93,7 @@ You can buy a boat from shipwright vendors in most docks.
 
 While fishing you have a chance of pulling up Sea Serpents and Deep Sea Serpents.
 
-In their loot they will guarantee one of these items.
+Their loot is guaranteed to contain one of the following items.
 
 |                              Sea serpents loot                               |
 |:----------------------------------------------------------------------------:|
@@ -108,7 +108,7 @@ Fishing nets can have multiple colors, some more rare than others.
 
 When used, they have a chance of pulling up Sea creatures such as Sea Serpents, Deep Sea Serpents, Water Elementals and Krakens.
 
-Sea Serpents are guaranteed to be pulled up with a net and have a different loot from those fished up with a pole.
+Sea Serpents pulled up with a net have a different loot from those fished up with a pole.
 
 They don't have MiBs, but they have very rare chance of dropping a Level 2 Treasure Map.
 
@@ -155,7 +155,7 @@ This table shows which rares you can get after reaching the daily Ancient Sea Se
 
 ## Training
 
-Train from Fisher NPCs to reach around 30.
+Train from Fisher NPCs to reach around 50.
 
 Repeatedly fish until reaching 100, while fishing on land monster can't spawn and the gains are the same as fishing in deep sea.
 

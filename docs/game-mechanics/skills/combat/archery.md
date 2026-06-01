@@ -39,7 +39,7 @@ After a successful snare:
 
 ## Training
 
-Train from Bowyer NPCs to reach around 30.
+Train from Bowyer NPCs to reach around 50.
 
 To gain you will need to repeatedly attack a target, use the razor scavenger to pick up the used arrows from the ground.
 

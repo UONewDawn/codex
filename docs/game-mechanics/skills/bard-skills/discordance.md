@@ -12,7 +12,7 @@ To use Discordance, you need instruments and Musicianship to play them.
 
 ## Training
 
-Train from Bard NPCs to reach around 30.
+Train from Bard NPCs to reach around 50.
 
 Discordance is a difficulty based skill. Some creatures are harder to "entice" than others, depending on their barding difficulty.
 

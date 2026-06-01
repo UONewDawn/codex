@@ -10,7 +10,7 @@ Higher combat skill makes you less likely to be hit.
 
 ## Lumberjacking bonus
 
-Combining Lumberjacking with Swordsmanship gives you bonus damage.
+Lumberjacking gives you bonus damage when using two handed axes.
 
 The bonus gets calculated with this formula:
 
@@ -64,7 +64,7 @@ On a successful hit you will reduce the target Intelligence by 25% for 30 second
 
 ## Training
 
-Train from Weaponsmith NPCs to reach around 30.
+Train from Weaponsmith NPCs to reach around 50.
 
 To gain you will need to repeatedly attack a target.
 

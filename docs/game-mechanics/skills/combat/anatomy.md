@@ -16,7 +16,7 @@ Every 10 points of Anatomy add a 2% increase to all physical damage, up to a max
 
 ## Training
 
-Train from Healer NPCs to reach around 30.
+Train from Healer NPCs to reach around 50.
 
 Anatomy can be used on a 1 second cooldown, it doesn't have any difficulty checks.
 

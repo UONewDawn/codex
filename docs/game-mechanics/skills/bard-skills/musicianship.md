@@ -12,7 +12,7 @@ Exceptional instruments can be crafted by a carpenter with enough Musicianship.
 
 ## Training
 
-Train from Bard NPCs to reach around 30.
+Train from Bard NPCs to reach around 50.
 
 Musicianship doesn't have any difficulty checks, keep playing instruments until you reach 100.
 

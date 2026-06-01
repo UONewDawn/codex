@@ -32,7 +32,7 @@ You can purchase a pickaxe or shovel from mining vendors.
 
 Specific veins will always yield the same type of ore.
 
-## Prospector Tool
+## Prospector tool
 
 The Prospector Tool is a Blacksmith BOD reward.
 
@@ -267,7 +267,7 @@ For more information about the system go [here](../../../custom-systems/archaeol
 
 ## Training
 
-Train from Miner NPCs to reach around 30.
+Train from Miner NPCs to reach around 50.
 
 Smelting ore gives faster gains than mining, when the chance of smelt is lower.
 

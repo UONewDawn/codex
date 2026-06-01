@@ -29,7 +29,7 @@ Once your Evaluating Intelligence reaches 76, you'll see the target's Mana as a 
 
 ## Training
 
-Train from Mage NPCs to reach around 30.
+Train from Mage NPCs to reach around 50.
 
 You can train by using it on players, monsters, and animals until you reach 100. It also increases when casting offensive spells and provides INT gains.
 

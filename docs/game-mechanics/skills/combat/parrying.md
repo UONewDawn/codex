@@ -91,7 +91,13 @@ Double click on your shield to activate the Shield Bash ability.
 
 If active when you get hit, you will be able to absorb Fire Breath damage.
 
-<!-- Not sure how it gets calculated and if it only works against Fire Breath -->
+<!-- Not sure how it gets calculated -->
+
+### Against players
+
+Shield bash can also be used in PVP.
+
+If active when you get hit by a melee attack, you will stun the opponent.
 
 ## Training
 

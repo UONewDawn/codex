@@ -51,7 +51,7 @@ On a successful hit you will deal 50% bonus damage.
 
 ## Training
 
-Train from Weaponsmith NPCs to reach around 30.
+Train from Weaponsmith NPCs to reach around 50.
 
 To gain you will need to repeatedly attack a target.
 
