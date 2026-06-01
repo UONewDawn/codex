@@ -84,7 +84,7 @@ They can be used during combat to hide and have a 25 second cooldown.
 
 ## Training
 
-Train from Cook NPCs to reach around 30.
+Train from Cook NPCs to reach around 50.
 
 Repeatedly craft food until reaching 100.
 

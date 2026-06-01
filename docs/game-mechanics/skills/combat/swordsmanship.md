@@ -64,7 +64,7 @@ On a successful hit you will reduce the target Intelligence by 25% for 30 second
 
 ## Training
 
-Train from Weaponsmith NPCs to reach around 30.
+Train from Weaponsmith NPCs to reach around 50.
 
 To gain you will need to repeatedly attack a target.
 

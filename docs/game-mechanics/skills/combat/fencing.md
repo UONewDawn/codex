@@ -44,7 +44,7 @@ During the effect the target can't be paralyzed again.
 
 ## Training
 
-Train from Weaponsmith or Thief NPCs to reach around 30.
+Train from Weaponsmith or Thief NPCs to reach around 50.
 
 To gain you will need to repeatedly attack a target.
 

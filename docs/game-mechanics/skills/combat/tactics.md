@@ -27,7 +27,7 @@ To calculate, multiple your weapon base damage by the % converted into decimals 
 
 ## Training
 
-Train from Weaponsmith NPCs to reach around 30.
+Train from Weaponsmith NPCs to reach around 50.
 
 To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time.
 

@@ -22,7 +22,7 @@ You can improve your chances of success by using Exceptional or Magical instrume
 
 ## Training
 
-Train from Bard NPCs to reach around 30.
+Train from Bard NPCs to reach around 50.
 
 Provocation is a difficulty based skill. Some creatures are harder to provoke than others, depending on their barding difficulty.
 

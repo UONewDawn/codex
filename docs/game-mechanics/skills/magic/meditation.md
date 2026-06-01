@@ -12,7 +12,7 @@ The type of armor you wear will impact how fast you can regen. Try to avoid any 
 
 ## Training
 
-Train from Mage NPCs to reach around 30.
+Train from Mage NPCs to reach around 50.
 
 In order to gain skill points you need to regenerate mana, you can consume mana by either casting spells or by equipping and un-quipping a magical wizard hat. You can gain points with passive regen or you can try to use Meditation when your are not at full mana.
 
