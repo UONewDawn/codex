@@ -154,8 +154,8 @@ nav:
         - Inscription: game-mechanics/skills/magic/inscription.md
       - Resource Gathering:
         - Fishing: game-mechanics/skills/resource-gathering/fishing.md
-        - Lumberjacking: game-mechanics/skills/resource-gathering/lumberjacking.md
         - Mining: game-mechanics/skills/resource-gathering/mining.md
+        - Lumberjacking: game-mechanics/skills/resource-gathering/lumberjacking.md
       - Stealth & Thievery:
         - Detecting Hidden: game-mechanics/skills/stealth-and-thievery/detecting-hidden.md
         - Hiding: game-mechanics/skills/stealth-and-thievery/hiding.md
