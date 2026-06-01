@@ -259,6 +259,12 @@ At GM you can safely smelt Iron, Dull Copper, Shadow and Copper ores.
 
 When smelting anything above Copper, it's recommended to combine the ores into small piles and smelt them 2 at a time, otherwise you will risk the entire stack.
 
+## Archaeology
+
+Mining is one of the skill required for Excavation in the Archaeology system, alongside with Item Identification.
+
+To learn more about the system go [here](../../../custom-systems/archaeology.md).
+
 ## Training
 
 Train from Miner NPCs to reach around 30.
