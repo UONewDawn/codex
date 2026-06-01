@@ -29,19 +29,19 @@ Specific trees will always yield the same type of wood.
 
 ## Axes damage bonus
 
-The bonus gets applied only on two handed axes.
+Lumberjacking gives you bonus damage when using two handed axes.
 
-This is the formula used in the calculation.
+The bonus gets calculated with this formula:
 
-`Lumberjacking Skill / 10 -2 + 1 if GM`
+`(Lumberjacking Skill / 10 - 2) + (1 if GM)`
 
-At Grand Master you will deal +9 damage.
+So if you have 50 Lumberjacking you will get +3 on your damage, if you have 99.9, +8 and if you have 100, +9.
 
 Lumberjacking is often paired with Swordsmanship.
 
 ## Training
 
-Train from Carpenter NPCs to reach around 30.
+Train from Carpenter NPCs to reach around 50.
 
 Repeatedly chop trees until reaching 100.
 
