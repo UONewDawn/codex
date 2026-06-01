@@ -10,7 +10,7 @@ Higher combat skill makes you less likely to be hit.
 
 ## Lumberjacking bonus
 
-Combining Lumberjacking with Swordsmanship gives you bonus damage.
+Lumberjacking gives you bonus damage when using two handed axes.
 
 The bonus gets calculated with this formula:
 
