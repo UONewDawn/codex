@@ -55,3 +55,15 @@ So for example an Agapite vein can be raised to Verite using a Prospector Tool a
 When using the Gargoyle pickaxe there is a chance of spawning an Ore Elemental of the same color of the ore you are mining.
 
 Gargoyles and Stone Gargoyles can also drop a Gargoyle pickaxe.
+
+## Mining gloves
+
+Mining gloves are a Blacksmith BOD reward.
+
+Leather Mining Gloves add 1.0 points of mining.
+
+Studded Mining Gloves add 3.0 points of mining.
+
+Ringmail Mining Gloves add 5.0 points of mining.
+
+They can be used to help training.
