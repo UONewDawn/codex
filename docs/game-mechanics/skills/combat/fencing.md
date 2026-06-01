@@ -38,7 +38,7 @@ Combining Fencing with Anatomy allows you to use the Paralyzing Blow special abi
 
 The success rate is calculated by dividing your Anatomy skill by 4, GM Anatomy equals to 25% success rate.
 
-On a successful hit the target will be paralyzed for 4 seconds, unable to move but still able to use potions, bandages and wands. 
+On a successful hit the target will be paralyzed for 4 seconds, unable to move but still able to use potions, bandages and wands.
 
 During the effect the target can't be paralyzed again.
 
