@@ -4,7 +4,11 @@
 
 ## Overview
 
-Meditation helps regenerate mana. You can either regen passively, every time your mana is below your INT, or actively, by using the skill, you will enter a "trance" that will be broken if you speak or make any other action. Active regen is faster than passive.
+Meditation helps regenerate mana.
+
+You can either regen passively, every time your mana is below your INT, or actively, by using the skill, you will enter a "trance" that will be broken if you speak or take any other action.
+
+Active regen is faster than passive.
 
 ## Armor
 

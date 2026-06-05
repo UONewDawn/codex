@@ -6,7 +6,9 @@
 
 Evaluating Intelligence can be used on a 1 second cooldown, it doesn't have difficulty checks.
 
-It passively boosts the damage of your offensive Magery spells. When combined with Anatomy, they function as a passive Wrestling further enhancing your combat effectiveness.
+It passively boosts the damage of your offensive Magery spells.
+
+When combined with Anatomy, they function as a passive Wrestling further enhancing your combat effectiveness.
 
 ## Skill Use
 

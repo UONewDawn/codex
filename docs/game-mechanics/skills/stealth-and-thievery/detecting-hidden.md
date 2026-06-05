@@ -18,6 +18,8 @@ Using Detecting Hidden in a house you own, co-own or are friended to, will not g
 
 Hidden players using Stealth while moving near you have a chance to be revealed automatically.
 
+A check is made by comparing your Detecting Hidden and INT against the Stealth and DEX of the hidder moving around you.
+
 ## Trapped containers
 
 At 50 Detecting Hidden you will be able to reveal trapped containers around you.
@@ -30,9 +32,7 @@ Blue, for dart traps.
 
 ## Tracking
 
-Detecting Hidden can also help Tracking Hidden players.
-
-You can find more information in the [Tracking](../utility-and-support/tracking.md) page.
+Detecting Hidden can also help Track Hidden players.
 
 ## Training
 

@@ -4,7 +4,9 @@
 
 ## Overview
 
-Inscription allows you to craft spell scrolls, spellbooks, and runebooks. It also enhances the effectiveness of spells like Reactive Armor, Magic Reflection, and Protection.
+Inscription allows you to craft spell scrolls, spellbooks, and runebooks.
+
+It also enhances the effectiveness of spells like Reactive Armor, Magic Reflection, and Protection.
 
 ## Tools
 

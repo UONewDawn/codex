@@ -8,7 +8,7 @@ Lockpicking allows you to open locked containers without a key, essential for tr
 
 ## Dungeon chests
 
-To identify a dungeon chest level, check its contents: around 200 gold with no arrows indicates a level 4 chest, while around 200 gold with arrows indicates a level 3 chest.
+To identify a dungeon chest level, check its contents: around 200 gold with arrows indicates a level 3 chest, while around 200 gold with no arrows indicates a level 4 chest.
 
 ## Training
 

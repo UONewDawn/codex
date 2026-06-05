@@ -10,6 +10,8 @@ To use Peacemaking, you need instruments and Musicianship to play them.
 
 ## Training
 
+Train from Bard NPCs to reach around 50.
+
 Peacemaking can be used on a 10 seconds cooldown, it doesn't have any difficulty checks. Just use it until you reach 100.
 
 To be more efficient, you can gain Peacemaking and Musicianship at the same time.
