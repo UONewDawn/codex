@@ -115,8 +115,7 @@ Spellcasting and magical abilities for mages and spellcasters.
 
 #### Support & Alternative
 
-- **[Inscription](magic/inscription.md)** - Scribe scrolls, increase damage
-- **[Spirit Speak](magic/spirit-speak.md)** - Alternative mana regeneration
+- **[Inscription](magic/inscription.md)** - Scribe scrolls, bonus to defensive spells
 
 ### Crafting Skills
 
