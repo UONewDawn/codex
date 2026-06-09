@@ -29,12 +29,6 @@ Gathering and crafting materials:
 
 [:octicons-arrow-right-24: Resources Guide](resources.md)
 
-### Special Items
-
-Unique and magical items:
-
-[:octicons-arrow-right-24: Special Items](special-items.md)
-
 ## Item Quality
 
 ### Regular Items

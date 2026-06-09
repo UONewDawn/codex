@@ -118,4 +118,3 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 - [Cartography](cartography.md)
 - [Lockpicking](../stealth-and-thievery/lockpicking.md)
 - [Mining](../resource-gathering/mining.md)
-- [Special Items](../../../items/special-items.md)
