@@ -225,17 +225,73 @@ You must have 85.1 (real) or higher for a chance to get a large BOD.
 
 The BOD 6-hour time limit applies to your whole account.
 
+### Cloth BOD Rewards
+
+| Points | Rewards                             |
+| -----: | ----------------------------------- |
+|      0 | Cloth (Tier 5) (100%)               |
+|     50 | Cloth (Tier 4) (100%)               |
+|    100 | Cloth (Tier 3) (100%)               |
+|    150 | Cloth (Tier 2) (90%), Sandals (10%) |
+|    200 | Cloth (Tier 1) (80%), Sandals (20%) |
+
+#### BOD Cloth Hues by Tier
+
+| Cloth Tier | Available Hues         |
+| ---------: | ---------------------- |
+|     Tier 5 | 1155, 1758, 2013, 2004 |
+|     Tier 4 | 1104, 1160, 2016, 1126 |
+|     Tier 3 | 2133, 2146, 1140, 1173 |
+|     Tier 2 | 2157, 1163, 1175, 2124 |
+|     Tier 1 | 1157, 1154, 2118, 1165 |
+
+#### BOD Sandal Hues
+
+Available sandal hues: 1243, 1321, 1207, 1352, 1534, 1416, 1505, 1621
+
 ### BOD Rewards
 
-!!! info "Rewards list"
-    You can get rewards from BODs but they are not listed here yet.
+| Points | Rewards                                                    |
+| -----: | ---------------------------------------------------------- |
+|    300 | Stretched Hide (random of 4) (100%)                        |
+|    350 | Ore Mask Dye (Tier 3) (100%)                               |
+|    400 | Tapestry (random of 4) (100%)                              |
+|    450 | Bear Rug (100%)                                            |
+|    500 | Tailoring Shelf (random of 4) (100%)                       |
+|    550 | Clothing Bless Deed (CBD) (80%), Sandals (mask dyes) (20%) |
+|    600 | Ore Mask Dye (Tier 2) (80%), Mask Dye (type 2) (20%)       |
+|    650 | Tailoring Deco (see note) (100%)                                    |
+|    700 | Ore Mask Dye (Tier 1) (80%), Mask Dye (type 1) (20%)       |
+|    750 | Master Tailoring Apron (+5) (100%)                         |
+|    800 | Grandmaster Tailoring Apron (+10) (100%)                   |
+
+#### Tailoring Deco
+
+You have a 50% chance to roll 1 of 4 hanging clothes. The other 50% will roll 1 of 2 tailoring kids.
+
+#### Ore Mask Dyes
+
+| Tier | Ore Type    | Hue ID |
+| ---: | ----------- | -----: |
+|    1 | Shadow Iron |   2406 |
+|    1 | Gold        |   2413 |
+|    1 | Valorite    |   2219 |
+|    2 | Agapite     |   2425 |
+|    2 | Verite      |   2207 |
+|    3 | Dull Copper |   2419 |
+|    3 | Copper      |   2213 |
+|    3 | Bronze      |   2418 |
+
+#### Regular Mask Dyes
+
+Available regular mask dye hues: 1109, 1157, 1321, 1243, 1416, 1207, 1505
 
 ## Training
 
 Consider cutting what you craft to recoup some of the materials.
 
 | Skill       | Item            |
-|-------------|-----------------|
+| ----------- | --------------- |
 | 0 - 30      | Train from NPCs |
 | 30.0 - 49.8 | Fancy Shirt     |
 | 49.8 - 52.0 | Skirt           |

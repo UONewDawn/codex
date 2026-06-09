@@ -88,4 +88,3 @@ Cartography allows you to draw maps of various regions and decode treasure maps.
 - [Lockpicking](../stealth-and-thievery/lockpicking.md)
 - [Mining](../resource-gathering/mining.md)
 - [Remove Trap](remove-trap.md)
-- [Special Items](../../../items/special-items.md)

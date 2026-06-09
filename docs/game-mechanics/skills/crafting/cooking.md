@@ -72,6 +72,27 @@ This is all the food you can craft.
     | ![item-icon](../../../assets/items/leg-of-lamb.png)<br>Leg of Lamb | 1 Raw Legs of Lamb |   0   |
     | ![item-icon](../../../assets/items/cut-of-ribs.png)<br>Cut of Ribs |     1 Raw Ribs     |   0   |
 
+## Bulk order deeds
+
+A minimum skill of 70.1 (real) is required to get a BOD.
+
+You must have 85.1 (real) or higher for a chance to get a large BOD.
+
+The BOD 6-hour time limit applies to your whole account.
+
+### BOD Rewards
+
+| Points | Rewards                                                                                                  |
+| -----: | -------------------------------------------------------------------------------------------------------- |
+|      0 | Birthday Cake Ticket (100%)                                                                              |
+|     25 | Random Tray of Food (1 of 4) (100%)                                                                      |
+|     50 | Random Basket of Food (1 of 16) (75%), Random Kitchen Accent (1 of 2) (25%)                              |
+|    350 | Random Basket of Food (1 of 16) (66.67%), Random Hanging Decor (1 of 3) (33.33%)                         |
+|    375 | Random Cooking Rack (1 of 5) (50%), Random Large Cooking Rack (1 of 2) (25%), Stone Grill (1 of 1) (25%) |
+|    400 | Random Cooking Counter (east or south) (75%), Master Apron (25%)                                         |
+|    425 | Random Cooking Bookshelf (50%), Random Baking Rack (1 of 6) (50%)                                        |
+|    450 | Random Cooking Counter (east or south) (66.67%), Grandmaster Apron (33.33%)                              |
+
 ## Egg bombs
 
 Egg bombs require 90+ Cooking to be crafted.
@@ -79,7 +100,7 @@ Egg bombs require 90+ Cooking to be crafted.
 They can be used during combat to hide and have a 25 second cooldown.
 
 |                          Item                           |     Resources     | Skill |
-|:-------------------------------------------------------:|:-----------------:|:-----:|
+| :-----------------------------------------------------: | :---------------: | :---: |
 | ![item-icon](../../../assets/items/egg.png)<br>Egg Bomb | 1 Eggs<br>3 Flour |  90   |
 
 ## Training
