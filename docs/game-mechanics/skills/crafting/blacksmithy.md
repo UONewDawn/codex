@@ -124,36 +124,36 @@ The BOD 6-hour time limit applies to your whole account.
 
 ### BOD Rewards
 
-| Points | Rewards                                                                       |
-| -----: | ----------------------------------------------------------------------------- |
-|      0 | Sturdy Shovel (100%)                                                          |
-|     25 | Sturdy Pickaxe (100%)                                                         |
-|     50 | Sturdy Shovel (45%), Sturdy Pickaxe (45%), Mining Gloves (leather) (10%)      |
-|    200 | Gargoyles Pickaxe (45%), Prospectors Tool (45%), MiningGloves (studded) (10%) |
-|    400 | Gargoyles Pickaxe (40%), Prospectors Tool (40%), Powder Of Temperament (20%)  |
-|    450 | Powder Of Temperament (90%), Mining Gloves (ringmail) (10%)                   |
-|    500 | Runic Hammer (25% chance to get 1 of 4 -- dull, shadow, copper, bronze)       |
-|    550 | Random Weapon Keg (1 of 4) (60%), Glowing Forged Metal (40%)                  |
-|    600 | Random Weapon Barrel (1 of 8) (50%), Random Rack Of Tools (1 of 3) (50%)      |
-|    625 | TBD                                                                           |
-|    650 | Random Blacksmith Case (1 of 4) (100%)                                        |
-|    675 | Colored Anvil (100%)                                                          |
-|    700 | TBD                                                                           |
-|    750 | Ancient Hammer (+5) (100%)                                                    |
-|    850 | Ancient Hammer (+10) (100%)                                                   |
-|    950 | Runic Hammer (Gold) (100%)                                                    |
-|   1000 | Ancient Hammer (+15) (100%)                                                   |
-|   1050 | Runic Hammer (Agapite) (100%)                                                 |
-|   1100 | Ancient Hammer (+20) (100%)                                                   |
-|   1150 | Runic Hammer (Verite) (100%)                                                  |
-|   1200 | Runic Hammer (Valorite) (100%)                                                |
+| Points |                                      Rewards                                      |
+|:------:|:---------------------------------------------------------------------------------:|
+|   0    |                               Sturdy Shovel (100%)                                |
+|   25   |                               Sturdy Pickaxe (100%)                               |
+|   50   |   Sturdy Shovel (45%)<br>Sturdy Pickaxe (45%)<br>Mining Gloves (leather) (10%)    |
+|  200   | Gargoyles Pickaxe (45%)<br>Prospectors Tool (45%)<br>MiningGloves (studded) (10%) |
+|  400   | Gargoyles Pickaxe (40%)<br>Prospectors Tool (40%)<br>Powder Of Temperament (20%)  |
+|  450   |           Powder Of Temperament (90%)<br>Mining Gloves (ringmail) (10%)           |
+|  500   |   Runic Hammer (25% chance to get 1 of 4: Dull Copper, Shadow, Copper, Bronze)    |
+|  550   |          Random Weapon Keg (1 of 4) (60%)<br>Glowing Forged Metal (40%)           |
+|  600   |    Random Weapon Barrel (1 of 8) (50%)<br>Random Rack Of Tools (1 of 3) (50%)     |
+|  625   |                                        TBD                                        |
+|  650   |                      Random Blacksmith Case (1 of 4) (100%)                       |
+|  675   |                               Colored Anvil (100%)                                |
+|  700   |                                        TBD                                        |
+|  750   |                            Ancient Hammer (+5) (100%)                             |
+|  850   |                            Ancient Hammer (+10) (100%)                            |
+|  950   |                            Runic Hammer (Gold) (100%)                             |
+|  1000  |                            Ancient Hammer (+15) (100%)                            |
+|  1050  |                           Runic Hammer (Agapite) (100%)                           |
+|  1100  |                            Ancient Hammer (+20) (100%)                            |
+|  1150  |                           Runic Hammer (Verite) (100%)                            |
+|  1200  |                          Runic Hammer (Valorite) (100%)                           |
 
 ## Training
 
 Training Blacksmithy can be really expensive, consider Mining to fund the training.
 
 | Skill      | Item             |
-| ---------- | ---------------- |
+|------------|------------------|
 | 0 - 30     | Train from NPCs  |
 | 30 - 50    | Maul             |
 | 50 - 70    | Kryss            |
