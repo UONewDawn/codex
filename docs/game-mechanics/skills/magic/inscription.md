@@ -83,11 +83,11 @@ This table shows the percent of success rate, divided into skill ranges.
 
 ## Other craftables
 
-|                               Item                               |                                   Resources                                   | Skill |
-|:----------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----:|
-|    ![icon](../../../assets/items/spellbook.png)<br>Spellbook     |  10 Blank scrolls<br>3 Leather or Hides<br>50 Blood Moss<br>50 Spider's Silk  |  50   |
-| ![icon](../../../assets/items/bulk-order.png)<br>Bulk Order Book |                               10 Blank scrolls                                |  65   |
-|     ![icon](../../../assets/items/runebook.png)<br>Runebook      | 8 Blank scrolls<br>64 Recall scrolls<br>64 Gate scrolls<br>3 Leather or Hides |  85   |
+|                               Item                               |                                           Resources                                           | Skill |
+|:----------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-----:|
+|    ![icon](../../../assets/items/spellbook.png)<br>Spellbook     | 10 Blank scrolls<br>3 Leather or Hides<br>50 Blood Moss<br>50 Spider's Silk<br>50 Black Pearl |  50   |
+| ![icon](../../../assets/items/bulk-order.png)<br>Bulk Order Book |                                       10 Blank scrolls                                        |  65   |
+|     ![icon](../../../assets/items/runebook.png)<br>Runebook      |         8 Blank scrolls<br>64 Recall scrolls<br>64 Gate scrolls<br>3 Leather or Hides         |  85   |
 
 ## Copying books
 
