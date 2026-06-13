@@ -165,10 +165,10 @@ nav:
         - Lockpicking: game-mechanics/skills/stealth-and-thievery/lockpicking.md
         - Detecting Hidden: game-mechanics/skills/stealth-and-thievery/detecting-hidden.md
       - Taming & Animals:
-        - Animal Lore: game-mechanics/skills/taming-and-animals/animal-lore.md
         - Animal Taming: game-mechanics/skills/taming-and-animals/animal-taming.md
-        - Herding: game-mechanics/skills/taming-and-animals/herding.md
+        - Animal Lore: game-mechanics/skills/taming-and-animals/animal-lore.md
         - Veterinary: game-mechanics/skills/taming-and-animals/veterinary.md
+        - Herding: game-mechanics/skills/taming-and-animals/herding.md
       - Utility & Support:
         - Arms Lore: game-mechanics/skills/utility-and-support/arms-lore.md
         - Begging: game-mechanics/skills/utility-and-support/begging.md
