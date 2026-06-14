@@ -11,11 +11,19 @@ Dungeons are dangerous areas filled with hostile creatures, valuable loot, and c
 
 ## Major Dungeons
 
-### Shame
+### Covetous
 
-Elemental-themed dungeon with earth creatures.
+Diverse dungeon near Vesper.
 
-[:octicons-arrow-right-24: Shame Guide](shame.md)
+[:octicons-arrow-right-24: Covetous Guide](covetous.md)
+
+---
+
+### Deceit
+
+Undead dungeon on remote Dagger island.
+
+[:octicons-arrow-right-24: Deceit Guide](deceit.md)
 
 ---
 
@@ -27,20 +35,61 @@ Ettin and harpy filled dungeon for new adventurers.
 
 ---
 
-### Covetous
+### Destard
 
-Harpy and elemental dungeon near Vesper.
+The home of dragons.
 
-[:octicons-arrow-right-24: Covetous Guide](covetous.md)
+[:octicons-arrow-right-24: Destard Guide](destard.md)
 
 ---
 
-### Other Notable Dungeons
+### Fire
 
-- **Deceit:** Undead creatures
-- **Destard:** Dragons galore
-- **Wrong:** Elementals and gazers
-- **Hythloth:** Demons and daemons
+Flames and burning foes.
+
+[:octicons-arrow-right-24: Fire Guide](fire.md)
+
+---
+
+### Hythloth
+
+Dangerous demon filled dungeon.
+
+[:octicons-arrow-right-24: Hythloth Guide](hythloth.md)
+
+---
+
+### Ice
+
+Home of the white wyrm and frozen fiends.
+
+[:octicons-arrow-right-24: Ice Guide](ice.md)
+
+---
+
+### Shame
+
+Elemental-themed dungeon with earth creatures.
+
+[:octicons-arrow-right-24: Shame Guide](shame.md)
+
+---
+
+### Terathan Keep
+
+Battleground between spiders and snakes. 
+
+[:octicons-arrow-right-24: Terathan Keep Guide](terathan-keep.md)
+
+---
+
+### Wrong
+
+Den of murderers.
+
+[:octicons-arrow-right-24: Wrong Guide](wrong.md)
+
+---
 
 ## Dungeon Safety
 
@@ -58,4 +107,4 @@ Dungeons contain:
 - Gold and gems
 - Magic items
 - Rare resources
-- Special artifacts
+- Dungeon dye materials

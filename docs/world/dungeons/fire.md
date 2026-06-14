@@ -16,7 +16,7 @@ Fire is a popular dungeon located in Serpent's Hold, known for its enflamed innh
 ### Level 2
 
 - **Creatures:** Efreets, daemons, liches, hell hounds, hell cats, lava serpents, fire elementals, evil mages
-- **Difficulty:** High
+- **Difficulty:** Hard
 
 ## Notable Features
 
