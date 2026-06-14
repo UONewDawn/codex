@@ -16,15 +16,15 @@ Every player has a minimum of 5 slots regardless of skill.
 
 Anyone can tame a Horse regardless of skill.
 
-Animals that require a skill of 29.1 or less will follow anyone's orders.
+Creatures that require a skill of 29.1 or less will follow anyone's orders.
 
-High Animal Taming and Animal Lore will help controlling harder animals, a check is made by comparing the required taming level to 70% Taming plus 30% Lore of the player.
+High Animal Taming and Animal Lore will help controlling harder creatures, a check is made by comparing the required taming level to 70% Taming plus 30% Lore of the player.
 
 Dragons, Drakes and Nightmare have the Fire Breath ability, proportionate to their remaining HP.
 
 This table shows the minimum skill required to start taming, the damage only shows melee without considering magery and fire breath.
 
-|                              Creature Name                              | Skill | Damage |    HP     |   AR   |
+|                                Creature                                 | Skill | Damage |    HP     |   AR   |
 |:-----------------------------------------------------------------------:|:-----:|:------:|:---------:|:------:|
 |           ![icon](../../../assets/mobiles/horse.png)<br>Horse           |   0   | 2 - 10 | 44 - 120  |   7    |
 |         ![icon](../../../assets/mobiles/chicken.png)<br>Chicken         | - 0.9 |   1    |   2 - 8   |   1    |
@@ -102,7 +102,7 @@ Even at GM, you still have a 5% chance of successfully taming a Dragon, White Wy
 
 ## Bonding
 
-All players start with one bond slot. Feed the animal you want to bond, after the message "You begin bonding with your pet." appears, stable the pet for 24 hours and then feed it again to bond it.
+All players start with one bond slot. Feed the pet you want to bond, after the message "You begin bonding with your pet." appears, stable the pet for 24 hours and then feed it again to bond it.
 
 Bonded pets can recall with you.
 
