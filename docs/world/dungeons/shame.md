@@ -4,49 +4,49 @@ An elemental-themed dungeon featuring earth elementals and other creatures.
 
 ## Overview
 
-Shame is a multi-level dungeon known for its earth elementals and mineral-based creatures. It's a popular spot for mid to high-level adventurers.
+Shame is a multi-level dungeon known for its many levels full of elementals. It's a popular spot for mid to high-level adventurers.
 
 ## Levels
 
 ### Level 1
 
-- **Creatures:** Earth elementals, elementals
-- **Difficulty:** Medium
-- **Loot:** Good for gems and ore
+- **Creatures:** Earth elementals, giant scorpions
+- **Difficulty:** Easy
 
 ### Level 2
 
-- **Creatures:** Stronger elementals, golems
-- **Difficulty:** Hard
-- **Loot:** Better magic items
+- **Creatures:** Air elementals
+- **Difficulty:** Medium
 
 ### Level 3
 
-- **Creatures:** Air elementals, powerful creatures
-- **Difficulty:** Very Hard
-- **Loot:** Rare items and gold
+- **Creatures:** Water elementals, evil mages
+- **Difficulty:** Medium
 
-## Recommended Stats
+### Level 4
 
-- **Skills:** 70+ combat skills
-- **Equipment:** Good armor and weapons
-- **Supplies:** Plenty of bandages
-- **Magic:** Recall rune for escape
+- **Creatures:** Elder gazers
+- **Difficulty:** Hard
+
+### Level 5
+
+- **Creatures:** Blood elementals, poison elementals, acid elementals, elder gazers
+- **Difficulty:** Very hard
 
 ## Notable Features
 
-- Rich in gem nodes
-- Good experience for leveling
-- Popular farming location
-- Champion spawn (if available)
+- Rich in mining nodes and elementals
+- Kraken and sea serpents
+- Popular farming locations
+- Floor gates
 
 ## Tips
 
 !!! tip "Success in Shame"
-    - Bring energy resistance
-    - Watch for elementals' special attacks
-    - Keep heal supplies stocked
-    - Group recommended for lower levels
+    - Watch for PKs
+    - Careful with scorpions poison
+    - Kraken will flamestrike
+    - Great gold from blood elementals and elder gazers
 
 ---
 
