@@ -104,6 +104,8 @@ Even at GM, you still have a 5% chance of successfully taming a Dragon, White Wy
 
 All players start with one bond slot. Feed the animal you want to bond, after the message "You begin bonding with your pet." appears, stable the pet for 24 hours and then feed it again to bond it.
 
+Bonded pets can recall with you.
+
 ### Bond slots
 
 You can gain additional bond slots by completing the [Animal Bonding Quest](../../../custom-systems/animal-bonding-quest.md).
@@ -111,6 +113,12 @@ You can gain additional bond slots by completing the [Animal Bonding Quest](../.
 At 80 Animal Taming you will able to accept the quest at the Moonglow Zoo located at these coordinates (4540, 1367).
 
 To complete the quest you will need to find and tame various rare animals, for more information you can go [here](../../../custom-systems/animal-bonding-quest.md).
+
+### Pet retrieval
+
+If you have lost your bonded pet, you can retrieve it at the Rangers Guild outside Skara Brae, at these coordinates (747, 2155).
+
+Say `Find my pets` near the NPCs to use the service, the fee for retrieving a lost pet is 3.000 gold.
 
 ## Training
 
