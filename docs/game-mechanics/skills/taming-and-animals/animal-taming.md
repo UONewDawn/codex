@@ -14,7 +14,7 @@ When you actively use the Animal Taming skill:
 
 - **Target Range**: 6 tiles
 - **Actual Cooldown**: None - you can attempt again immediately after success or failure
-- **Process**: Reveals you and starts a taming attempt with 3-4 attempts (random) at 3-second intervals
+- **Process**: Reveals you and starts a taming attempt
 - **Initial Message**: "Tame which animal?" when initiating
 
 ### Taming Requirements
@@ -23,10 +23,7 @@ Before you can attempt to tame a creature:
 
 - **Minimum Skill**: Must have at least the creature's `MinTameSkill` or you'll be told "You have no chance of taming this creature."
 - **Already Owned**: Creatures with too many previous owners (max varies) cannot be retamed
-- **Gender Requirements**: Some creatures can only be tamed by males or females
-- **Race Requirements**: Cu Sidhe can only be tamed by Elves
 - **Control Slots**: Must have enough follower slots available
-- **Subduing**: Some creatures must be subdued (reduced to < 10% HP) before taming
 - **Line of Sight**: Must maintain clear path and vision during taming
 - **Range**: Must stay within 6 tiles during the entire taming process
 - **Damage**: If the creature takes damage during taming, the attempt fails
@@ -49,7 +46,7 @@ Each creature requires a certain number of control slots. Your maximum follower 
 ### Skill Gain
 
 - Gains occur on successful taming attempts
-- Difficulty-based: Taming creatures near your skill level gives best gains
+- Attempt-based: Gain off of any creature you can fail taming, taming more challenging creatures results in more failure which gives the best gains
 - Each taming cycle provides multiple skill check opportunities
 
 !!! warning "Difficulty"
@@ -70,17 +67,12 @@ Each creature requires a certain number of control slots. Your maximum follower 
 
 ## Pet Commands
 
-### Basic Commands
-
 - **All Guard Me** - Pets defend you
 - **All Follow Me** - Pets follow you
 - **All Stay** - Pets hold position
 - **All Kill** - Attack target
-
-### Advanced Commands
-
 - **All Stop** - Cease current action
-- Individual pet commands by name
+- **Drop88 - Pet drops current inventory (bonded pets only)
 
 ## Character Templates
 
@@ -91,14 +83,16 @@ Each creature requires a certain number of control slots. Your maximum follower 
 
 ### Loyalty System
 
-Pets have loyalty levels that must be maintained:
+- Pets have loyalty levels that must be maintained by feeding or successful commands
+- Loyalty is reduced over time or from failed commands
 
 ### Bonding
 
-- Pets can be bonded after time
+- Pets will be bonded from the second time feeding them once 24 hours has passed after the first feeding
 - Bonded pets resurrect instead of dying permanently
 - Essential for valuable pets
 - Bonded pets can also recall with you
+- Retrieve bonded pets by asking the rangers outside Skara Brae to "find my pets"
 
 ## Importance
 
