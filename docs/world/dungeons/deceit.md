@@ -4,7 +4,7 @@ A multi-level dungeon featuring endless hordes of undead.
 
 ## Overview
 
-Deceit is a historic dungeon located on the frozen Dagger Island, known for the undead hordes that inhabit every floor. It provides a challenge for adventurers of all skill levels.
+Deceit is a historic dungeon located on the frozen Dagger Island, known for the undead hordes that inhabit every floor. Home to the Neira champion spawn. It provides a challenge for adventurers of all skill levels.
 
 ## Levels
 
