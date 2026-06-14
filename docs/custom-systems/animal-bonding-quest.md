@@ -30,6 +30,8 @@ Every time a pet spawns, it has a chance of being a rare.
 
 Since the spawn is shared, you will need to clear the area to force new pets to spawn.
 
+Most Tamers use Tracking to help find these pets.
+
 |                                 Page one                                  |                             Page two                              |                           Page three                            |
 |:-------------------------------------------------------------------------:|:-----------------------------------------------------------------:|:---------------------------------------------------------------:|
 | ![icon](../assets/mobiles/ferocious-alligator.png)<br>Ferocious Alligator |       ![icon](../assets/mobiles/loyal-dog.png)<br>Loyal Dog       |   ![icon](../assets/mobiles/serene-llama.png)<br>Serene Llama   |
