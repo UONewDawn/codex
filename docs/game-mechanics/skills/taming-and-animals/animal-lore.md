@@ -8,6 +8,8 @@ Animal Lore allows you to examine creatures and pets, revealing detailed informa
 
 It helps controlling pets and increases the amount of health you can heal with Veterinary. Also helps increasing your stable slots.
 
+Whe combined with Spirit Speak, your summons will be stronger.
+
 ## Training
 
 Train from Animal trainer NPCs to reach around 50.
@@ -22,3 +24,4 @@ To be more efficient, you can gain Lore while training Taming.
 
 - [Animal Taming](animal-taming.md)
 - [Veterinary](veterinary.md)
+- [Spirit Speak](../magic/spirit-speak.md)
