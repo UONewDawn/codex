@@ -1,10 +1,10 @@
 # Destard
 
-A dungeon featuring dragons, wyrms, and the Champion Rikktor.
+A dungeon featuring majestic and fearsom dragons and wyrms.
 
 ## Overview
 
-Destard is a legendary dungeon near Skara Brae, known as the home of dragons. It is a popular location for the bravest of adventurers.
+Destard is a legendary dungeon near Skara Brae, known as the home of dragons. Home to the Rikktor champion spawn. It is a popular location for the bravest of adventurers.
 
 ## Levels
 
