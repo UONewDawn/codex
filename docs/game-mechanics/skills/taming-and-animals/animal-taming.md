@@ -88,7 +88,7 @@ Each creature requires a certain number of control slots. Your maximum follower 
 
 ### Bonding
 
-- Pets will be bonded from the second time feeding them once 24 hours has passed after the first feeding
+- Pets bond after you feed them a second time, at least 24 hours after the first feeding
 - Bonded pets resurrect instead of dying permanently
 - Essential for valuable pets
 - Bonded pets can also recall with you
