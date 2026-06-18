@@ -14,7 +14,7 @@ Upon accepting the quest you will receive your blessed Sketchbook and Sketching 
 
 Open the Sketchbook to see the list of all the pets you need to add.
 
-To add a pet to your Sketchbook you first need to tame it, after that double click the Sketching Pencil and target the pet, then target the Sketchbook.
+To add a pet to your Sketchbook you first need to tame it, after that double click the Sketching Pencil and target the book, then target the pet.
 
 The pet will disappear and the Sketch will be added in your book alongside some information.
 
