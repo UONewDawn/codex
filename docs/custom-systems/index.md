@@ -7,7 +7,6 @@ New Dawn builds upon the classic Ultima Online foundation with unique systems th
 While New Dawn preserves the core UO experience players know and love, it introduces several custom systems designed to enhance gameplay, encourage exploration, and create new opportunities for adventure and progression. These systems have been carefully balanced and refined through dozens of patches based on player feedback.
 
 ## Custom Content
-
 ### [Codex Rifts](codex-rifts.md)
 
 Hunt colored, buffed rift spawns across Britannia — kill one and a gate may tear open at its corpse. Players within 16 tiles step through into an instanced Felucca battlefield where 4 waves of creatures stand between them and a powerful Rift Master boss.
@@ -38,9 +37,10 @@ Engage in classic team-based PvP battles in this 10v10 structured combat system.
 
 **Key Features:**
 
-- 10v10 team battles
+- Teams of 3v3 up to 10v10 battle
 - Two unique maps
-- Automated scheduling system
+- Earn war tokens to spend in a unique rewards shop
+- Player initiated games 
 - Individual stat tracking
 - Point-based scoring system
 
@@ -56,18 +56,6 @@ Decode clues dropped by monsters to reveal dig site coordinates, then excavate i
 - Find chance scales with Mining, Cartography, Item ID, and hidden clue quality (max 75%)
 - Active dig regions: Britain and Moonglow (Minoc, Trinsic, Yew planned)
 
-### [Conquest of the Virtues](conquest-of-virtues.md)
-
-Order and Chaos guilds battle over four ruined locations across Britannia in automated 60-minute ticket-based PvP matches. Control more capture points than the enemy to drain their tickets — first faction to zero loses.
-
-**Key Features:**
-
-- Four ruins, each with 3–5 capture points and independent 4-hour rotation timers
-- 400 tickets per faction; deaths and capture point pressure drain tickets
-- Physical flags that rise as capture progresses
-- Auto-respawn system with full heal and debuff clear
-- Live scoreboard with per-player Kill/Death/Capture stats
-
 ### [Dungeon Dyes](dungeon-dyes.md)
 
 Kill monsters deep inside Britannia's dungeons to collect rare materials, each unique to its dungeon. Load 250 materials into a Tailor's Dye Kit, add an empty bottle, and craft a permanent clothing dye in that dungeon's signature color.
@@ -79,6 +67,19 @@ Kill monsters deep inside Britannia's dungeons to collect rare materials, each u
 - 250 materials + 1 empty bottle per dye crafted from the kit's context menu
 - Dye applies permanently to clothing in your backpack; bottle is consumed
 - Tailor's Dye Kit is blessed and tracks all nine material types independently
+
+### [Dungeon of the Week](dotw.md)
+
+Venture into one of four active dungeons across Britannia enhanced with special bonuses. Each week four out of five possible dungeon bonuses will be applied to four random dungeons. Take advantage while you can.
+
+**Key Features:**
+
+- **Boon of the Slayer** — Higher chance creatures drop slayer weapons or instruments
+- **Gold Rush** — Creatures drop more gold and loot this week
+- **Collector's Week** — Creatures have a rare chance to drop statue and dye material
+- **Rift Surge** — Rift shards, rift spawns, and rift gates have a higher chance to drop
+- **Scholar's Week** — Skill gains are enhanced this week
+- Kill enough activated mobs and the mighty dragon Dracothraxus will appear 
 
 ### [Spirit Summoner](spirit-summoner.md)
 
@@ -102,7 +103,6 @@ Track your accomplishments and earn rewards through a comprehensive achievement 
 - Point-based progression
 - Multiple achievement categories
 - Exclusive titles
-- Item rewards
 - Long-term goals and milestones
 
 ## Integration with Classic Systems
@@ -110,5 +110,19 @@ Track your accomplishments and earn rewards through a comprehensive achievement 
 These custom systems are designed to complement, not replace, the classic Ultima Online experience. They provide additional content and goals while maintaining compatibility with traditional gameplay styles. Whether you're a PvM enthusiast, PvP fighter, crafter, or explorer, New Dawn's custom systems offer something new to discover.
 
 ## Continuous Development
+
+### Coming Soon
+
+#### [Conquest of the Virtues](conquest-of-virtues.md)
+
+Order and Chaos guilds battle over four ruined locations across Britannia in automated 60-minute ticket-based PvP matches. Control more capture points than the enemy to drain their tickets — first faction to zero loses.
+
+**Key Features:**
+
+- Four ruins, each with 3–5 capture points and independent 4-hour rotation timers
+- 400 tickets per faction; deaths and capture point pressure drain tickets
+- Physical flags that rise as capture progresses
+- Auto-respawn system with full heal and debuff clear
+- Live scoreboard with per-player Kill/Death/Capture stats
 
 New Dawn's custom systems are regularly updated and refined based on player feedback and testing. Check the [patch notes](../patches/index.md) for the latest changes and improvements to these systems.
