@@ -12,16 +12,16 @@
     font-display: swap;
 }
 
-/* Color Scheme — CK3-inspired warm dark medieval palette */
+/* Color Scheme — CK3-inspired dark neutral-slate palette */
 :root {
-    --nd-primary-bg: #0e0b06;
-    --nd-secondary-bg: #1c1710;
+    --nd-primary-bg: #191e24;
+    --nd-secondary-bg: #252a32;
     --nd-gold: #e1be7b;
     --nd-gold-hover: #f0d4a0;
     --nd-text: #ded6c1;
     --nd-text-muted: #b8a98a;
     --nd-border: rgba(225, 190, 123, 0.3);
-    --nd-card-bg: rgba(28, 23, 16, 0.5);
+    --nd-card-bg: rgba(25, 30, 36, 0.6);
 }
 
 /* Override MkDocs Material theme colors for slate mode */
@@ -30,12 +30,12 @@
     --md-primary-fg-color--light: #f0d4a0;
     --md-primary-fg-color--dark: #a08840;
     --md-accent-fg-color: #e1be7b;
-    --md-default-bg-color: #0e0b06;
+    --md-default-bg-color: #191e24;
     --md-default-fg-color: #ded6c1;
     --md-default-fg-color--light: #b8a98a;
     --md-default-fg-color--lighter: #7a6a50;
     --md-default-fg-color--lightest: rgba(225, 190, 123, 0.3);
-    --md-code-bg-color: rgba(28, 23, 16, 0.7);
+    --md-code-bg-color: rgba(25, 30, 36, 0.8);
     --md-code-fg-color: #ded6c1;
 }
 
@@ -49,8 +49,8 @@
 
 /* Background pattern - matching main site */
 [data-md-color-scheme="slate"] .md-main {
-    background-color: #0e0b06;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%231c1710' fill-opacity='0.4'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-color: #191e24;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23252a32' fill-opacity='0.4'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 
 /* Global body font */
@@ -114,12 +114,12 @@ body,
 
 /* Navigation styling */
 [data-md-color-scheme="slate"] .md-header {
-    background-color: rgba(10, 8, 4, 0.95);
+    background-color: rgba(14, 16, 20, 0.97);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 [data-md-color-scheme="slate"] .md-tabs {
-    background-color: rgba(28, 23, 16, 0.85);
+    background-color: rgba(25, 30, 36, 0.9);
     border-bottom: 1px solid var(--nd-border);
 }
 
@@ -192,27 +192,28 @@ body,
 /* Cards and content boxes */
 .md-typeset .admonition {
     margin: 1.5rem 0;
-    background-color: var(--nd-card-bg);
-    border: 1px solid var(--nd-border);
-    border-left: 3px solid var(--nd-gold);
-    border-radius: 5px;
+    background-color: #1e242c;
+    border-radius: 4px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+    /* Material handles per-type border colors — don't override them */
 }
 
 .md-typeset .admonition-title {
     font-family: 'Fondamento', cursive;
     font-weight: 400;
-    color: var(--nd-gold);
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 /* Code blocks */
 .md-typeset pre > code {
     padding: 1rem;
-    background-color: rgba(28, 23, 16, 0.7);
+    background-color: rgba(25, 30, 36, 0.8);
     border: 1px solid var(--nd-border);
 }
 
 .md-typeset code {
-    background-color: rgba(28, 23, 16, 0.5);
+    background-color: rgba(25, 30, 36, 0.6);
     color: var(--nd-text);
 }
 
@@ -241,7 +242,7 @@ body,
 
 /* Search styling */
 [data-md-color-scheme="slate"] .md-search__input {
-    background-color: rgba(28, 23, 16, 0.7);
+    background-color: rgba(25, 30, 36, 0.8);
     border: 1px solid var(--nd-border);
 }
 
@@ -251,34 +252,66 @@ body,
 
 /* Footer */
 [data-md-color-scheme="slate"] .md-footer {
-    background-color: rgba(6, 4, 2, 0.9);
+    background-color: rgba(14, 18, 22, 0.95);
     border-top: 1px solid var(--nd-border);
 }
 
 [data-md-color-scheme="slate"] .md-footer-meta {
-    background-color: rgba(6, 4, 2, 0.95);
+    background-color: rgba(10, 13, 16, 0.98);
 }
 
-/* Grid cards on home page */
-.grid.cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1rem;
-    margin: 2rem 0;
-}
-
-.grid.cards > * {
-    background-color: var(--nd-card-bg);
-    border: 1px solid var(--nd-border);
-    border-radius: 5px;
-    padding: 1.5rem;
+/* Grid cards on home page — .grid.cards > ul > li are the actual card elements */
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li {
+    background:
+        linear-gradient(160deg, #b8a47a 0%, #cfc09a 45%, #c4b28a 100%) !important;
+    border: 1px solid rgba(85, 58, 18, 0.45) !important;
+    border-top: 2px solid rgba(100, 70, 22, 0.55) !important;
+    border-radius: 3px !important;
+    color: #2a1a08;
+    box-shadow:
+        0 3px 10px rgba(0, 0, 0, 0.4),
+        inset 0 0 40px rgba(0, 0, 0, 0.07);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.grid.cards > *:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
-    border-color: var(--nd-gold);
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li:hover {
+    transform: translateY(-4px);
+    box-shadow:
+        0 10px 24px rgba(0, 0, 0, 0.5),
+        inset 0 0 40px rgba(0, 0, 0, 0.07);
+    border-color: rgba(120, 85, 25, 0.75) !important;
+}
+
+/* Dark text overrides for parchment card content */
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li p,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li strong,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li em,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li h1,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li h2,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li h3,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li h4,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li h5,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li h6 {
+    color: #2a1a08 !important;
+    text-shadow: none;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li hr {
+    border-color: rgba(85, 58, 18, 0.35);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li a {
+    color: #7a4a10 !important;
+    text-shadow: none;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li a:hover {
+    color: #3d1f02 !important;
+    text-shadow: none;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards li svg {
+    fill: #5a3a10;
 }
 
 /* Scrollbar styling for dark mode */
