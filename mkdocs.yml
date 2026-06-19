@@ -19,7 +19,7 @@ theme:
     primary: custom
     accent: custom
   font:
-    text: DM Sans
+    text: Asul
     code: Roboto Mono
   logo: assets/logo.png
   favicon: assets/favicon-32x32.png
