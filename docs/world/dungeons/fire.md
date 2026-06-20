@@ -4,7 +4,7 @@ A burning dungeon featuring smoldering enemies and mysteries.
 
 ## Overview
 
-Fire is a popular dungeon located in Serpent's Hold, known for its enflamed innhabitants and the Semidar champ spawn. It caters to a wide range of skill levels.
+Fire is a popular dungeon located in Serpent's Hold, known for its enflamed innhabitants and the Semidar champion spawn. It caters to a wide range of skill levels.
 
 ## Levels
 
@@ -23,7 +23,7 @@ Fire is a popular dungeon located in Serpent's Hold, known for its enflamed innh
 - In Serpent's Hold 
 - Easy access
 - Mix of creature types
-- Relatively small
+- Champion Semidar spawn 
 - Treasure chest spawns
 
 ## Tips
@@ -32,7 +32,7 @@ Fire is a popular dungeon located in Serpent's Hold, known for its enflamed innh
     - Excellent for bard farming
     - Demon bone armor rare drop from efreets
     - Careful of narrow passages with crowded spawns
-    - The champion Semidar resides on level 1
+    - Learn where the teleport sparkles lead
 
 ---
 

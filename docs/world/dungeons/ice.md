@@ -4,7 +4,7 @@ A frozen dungeon featuring frigid enemies and treasure hunter's rewards.
 
 ## Overview
 
-Ice is a popular dungeon located in far to the west of New Minoc, known for its frozen innhabitants. It challenges the most skilled adventurers.
+Ice is a popular dungeon located far to the west of New Minoc, known for its frozen innhabitants. It challenges the most skilled adventurers.
 
 ## Levels
 
@@ -21,7 +21,7 @@ Ice is a popular dungeon located in far to the west of New Minoc, known for its 
 ### Level 3
 
 - **Creatures:** Ice fiends, evil mage lords
-- **Difficulty:** Hard
+- **Difficulty:** Very hard
 
 ## Notable Features
 

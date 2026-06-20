@@ -1,53 +1,43 @@
 # Despise
 
-A beginner to mid-level dungeon filled with ettins, harpies, and lizardmen.
+A beginner to mid-level dungeon filled with ogres, ettins, and lizardmen.
 
 ## Overview
 
-Despise is an excellent dungeon for newer adventurers ready to move beyond basic hunting. It features humanoid creatures and offers good experience.
+Despise is an excellent dungeon for newer adventurers ready to move beyond basic hunting. Home to the Baracoon champion spawnIt features humanoid creatures and offers good experience.
 
 ## Levels
 
 ### Level 1
 
-- **Creatures:** Ettins, lizardmen
-- **Difficulty:** Easy to Medium
-- **Loot:** Basic gold and items
+- **Creatures:** Lizardmen, ratmen, brigands
+- **Difficulty:** Easy
 
 ### Level 2
 
-- **Creatures:** Harpies, stronger ettins
+- **Creatures:** Ettins, earth elementals, trolls
 - **Difficulty:** Medium
-- **Loot:** Better equipment drops
 
-### Lower Levels
+### Level 3
 
-- **Creatures:** Ogre lords, trolls
+- **Creatures:** Ogre lords, titans, cyclops, acid elementals, ettins, trolls
 - **Difficulty:** Hard
-- **Loot:** Magic items, good gold
-
-## Recommended Stats
-
-- **Skills:** 50+ combat skills for upper levels
-- **Skills:** 70+ for lower levels
-- **Equipment:** Mid-grade armor
-- **Supplies:** Standard healing supplies
 
 ## Notable Features
 
 - Great for skill training
 - Popular for new players
-- Easy access
-- Multiple paths
+- Barracoon the Piper champion spawn
+- Ogre lord island
 
 ## Tips
 
 !!! tip "Despise Strategy"
-    - Start on upper levels
-    - Work your way down as you improve
-    - Harpies can be provoked against each other
-    - Good place to make money early
+    - Don't be intimidated to explore deeper levels
+    - Learn where the teleport sparkles lead
+    - Champion altar located on ogre lord island
+    - Good gold farm from ogre lords and titans
 
 ---
 
-**Begin your dungeon adventures in Despise!**
+**Turn the resentment of Despise to your gain!**
