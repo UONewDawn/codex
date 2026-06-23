@@ -2,119 +2,21 @@
 
 # Remove Trap
 
-Disarm traps on chests and containers.
-
 ## Overview
 
-Remove Trap allows you to disarm traps on chests and containers before opening them. Essential for treasure hunters and useful for avoiding damage from trapped objects.
+Remove Trap allows you to disarm traps on containers before opening them, or disarm traps found in dungeon floors.
 
-## Effects
+You can't use this skill until you have at least 50 in both Lockpicking and Detecting Hidden.
 
-### Trap Disarmament
-
-- Remove traps from chests
-- Avoid trap damage
-- Safe treasure chest opening
-- Prevent poison, explosion, and magic traps
-
-### Trap Types
-
-- **Explosion Traps** - Deal physical damage
-- **Poison Traps** - Apply poison
-- **Magic Traps** - Various magical effects
-- **Dart Traps** - Direct damage
+If you fail to remove a trap, there is a high chance that it will activate.
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+Remove Trap can be used on a 10 seconds cooldown.
 
-### Early (0-30)
+Train on tinker made traps of rising difficulty. Once you reach 98, move to dungeon chests or high-level treasure maps.
 
-- Practice on trapped training boxes
-- Buy or craft trapped containers
-- Practice in safe areas
+## Related skills
 
-### Intermediate (30-60)
-
-- Disarm dungeon chest traps
-- Practice on treasure chests
-- Increase difficulty gradually
-
-### Advanced (60-85)
-
-- Disarm high-level treasure traps
-- Master trap removal
-- High success rates
-
-### Master (85-100)
-
-- Expert trap removal
-- Disarm any trap
-- Minimal failures
-
-## Materials
-
-### No Tools Required
-
-- Remove Trap uses no tools
-- Just the skill itself
-- Can be used repeatedly
-
-## Related Skills
-
-**Essential For:**
-
-- [Cartography](cartography.md) - Treasure hunting ⭐⭐⭐⭐⭐
-- [Lockpicking](../stealth-and-thievery/lockpicking.md) - Open after disarming ⭐⭐⭐⭐⭐
-
-**Treasure Hunter Template:**
-
-- [Cartography](cartography.md): 100
-- [Lockpicking](../stealth-and-thievery/lockpicking.md): 100
-- [Mining](../resource-gathering/mining.md): 100
-- Remove Trap: 80
-- [Magery](../magic/magery.md): 100
-- Combat skills
-
-## Uses
-
-### Treasure Hunting
-
-- Disarm treasure chest traps
-- Safe chest opening
-- Avoid damage and poison
-- Essential for treasure hunting
-
-### Dungeon Exploration
-
-- Disarm trapped dungeon chests
-- Safe looting
-- Avoid surprises
-
-### Safety
-
-- Prevent trap damage
-- Avoid poison application
-- Protect yourself and party
-
-## Failure Consequences
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Failed Disarm
-
-### Success Benefits
-
-- No damage taken
-- Safe opening
-- Proceed to lockpicking
-
----
-
-**Related Pages:**
-
-- [Cartography](cartography.md)
 - [Lockpicking](../stealth-and-thievery/lockpicking.md)
-- [Mining](../resource-gathering/mining.md)
+- [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md)
