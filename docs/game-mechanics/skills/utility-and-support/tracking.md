@@ -2,56 +2,30 @@
 
 # Tracking
 
-Locate creatures and players in the area.
-
 ## Overview
 
-Tracking allows you to detect and locate creatures, NPCs, and players within a radius around you. Essential for hunters, scouts, and PvP awareness.
+Tracking allows you to detect and locate creatures, NPCs, and players within a radius around you.
 
-!!! warning
-    These need refinement. Confirm in the Discord community.
+At GM Tracking, you can track up to 100 tiles away, 50 tiles within a dungeon.
 
-## Effects
+## Detecting Hidden
 
-### Target Detection
+Players that have both Tracking and Detecting Hidden have a chance at tracking hidden players.
 
-### Range
+Both players must be in the same region and dungeon level.
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+The chance is calculated by using the total Tracking and Detecting Hidden against the total Hiding and Stealth of the other player.
 
-- Radius increases with skill
-- 0-30: Short range
-- 30-60: Medium range
-- 60-100: Long range
-- 100: Maximum range
+After the base chance is calculated, is then also reduced based on the distance between the players.
 
 ## Training
 
-### Active Training
+Tracking can be used on a 10 seconds cooldown.
 
-Use Tracking skill:
+Repeatedly Track something until reaching 100.
 
-- Activate repeatedly
-- Any location works
-- Gains per use
-- Fast training
-
-### Training Tips
-
-- Macro tracking activation
-- Train anywhere
-- Quick skill to GM
-- Practice while traveling
-
-!!! tip "Easy GM"
-    Tracking is one of the easier skills to GM. Just macro it repeatedly.
-
----
-
-**Related Pages:**
+## Related skills
 
 - [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md)
 - [Hiding](../stealth-and-thievery/hiding.md)
 - [Stealth](../stealth-and-thievery/stealth.md)
-- [PvP Guide](../../pvp/index.md)
