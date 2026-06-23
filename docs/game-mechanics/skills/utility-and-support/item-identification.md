@@ -57,7 +57,13 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
 
 ## Slayers
 
+Slayers are magical bonuses on weapons and instruments that boost their power against specific enemy types. Weapons deal extra damage, while instruments gain higher success rates for bard abilities.
+
+Using a slayer against a creature of the opposite type actually weakens your power, making it worse than using a normal weapon or instrument.
+
 ### Humanoids
+
+Opposite slayer type: Undead.
 
 === "Repond"
 
@@ -105,6 +111,8 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
 
 ### Undead
 
+Opposite slayer type: Humanoids.
+
 === "Silver"
 
     ??? note "Click to expand"
@@ -130,6 +138,8 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
         - Zombie
 
 ### Elemental
+
+Opposite slayer type: Abyss.
 
 === "Elemental Ban"
 
@@ -208,6 +218,8 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
 
 ### Abyss
 
+Opposite slayer type: Elemental.
+
 === "Exorcism"
 
     ??? note "Click to expand"
@@ -256,6 +268,8 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
 
 ### Arachnid
 
+Opposite slayer type: Reptilian.
+
 === "Arachnid Doom"
 
     ??? note "Click to expand"
@@ -293,6 +307,8 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
         - Terathan Warrior
 
 ### Reptilian
+
+Opposite slayer type: Arachnid.
 
 === "Reptilian Death"
 
@@ -349,6 +365,8 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
         - Serado
 
 ### Fey
+
+Opposite slayer type: Abyss.
 
 === "Fey"
 
