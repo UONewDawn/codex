@@ -2,68 +2,28 @@
 
 # Camping
 
-Create campsites and rest in the wilderness.
-
 ## Overview
 
 Camping allows you to set up a campfire in the wilderness, providing a safe resting spot and logout protection. Useful for adventurers who spend time far from towns.
 
-## Effects
+## Fire
 
-### Campfire Creation
+To make a fire double click a pile of Kindling, if successful, you will get a message "The camp is now secure".
 
-- Create campfire using kindling
-- Provides light source
-- Safe logout spot
-- Temporary rest area
+## Kindling
 
-### Logout Protection
+Kindling can be gathered by using a knife on a tree, or bought from a Provisioner vendor.
 
-- Log out safely at campfire
-- Faster logout timer
-- Protected from instant attacks on login
+## Bedroll
+
+Bedrolls can be bought from a Provisioner vendor, once your camp is secure, double click the bedroll to securely log out.
+
+## Stat gain
+
+Camping can be used to gain very fast stats. To use this method, you will need to be at 700 skill cap, have 0 Camping with the skill pointing up, while all the other skills are locked. Then repeatedly use kindling to make fires and start gaining any stat of your choice.
 
 ## Training
 
-### Active Training
+Train from Provisioner NPCs to reach around 50.
 
-- Use camping skill to create campsites
-- Practice in wilderness areas
-- Set up camps repeatedly
-
-### Materials Needed
-
-- Kindling (crafted with Bowcraft/Fletching)
-- Bedroll (optional)
-
-## Related Skills
-
-**Support Skills:**
-
-- [Bowcraft/Fletching](../crafting/bowcraft-fletching.md) - Create kindling
-- Other wilderness survival skills
-
-## Uses
-
-### Wilderness Adventures
-
-- Safe logout in dungeons
-- Rest spots during long hunts
-- Emergency safe spots
-
-### Roleplay
-
-- Camping expeditions
-- Wilderness survival characters
-- Explorer and ranger concepts
-
-## Importance
-
-⭐⭐ (Utility skill, mostly for convenience)
-
----
-
-**Related Pages:**
-
-- [Bowcraft/Fletching](../crafting/bowcraft-fletching.md)
-- [Skills Overview](../index.md)
+Then repeatedly use kindling to make fires.

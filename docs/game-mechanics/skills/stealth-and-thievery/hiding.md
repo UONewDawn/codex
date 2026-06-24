@@ -10,7 +10,7 @@ Often paired with Stealth for movement.
 
 ## Effects
 
-Crossing paths with someone hidden will give a message 'Being perfectly rested, you shove something invisible out of the way.'
+Crossing paths with someone hidden will give a message "Being perfectly rested, you shove something invisible out of the way."
 
 Speaking or taking offensive actions will reveal you.
 

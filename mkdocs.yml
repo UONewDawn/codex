@@ -170,15 +170,15 @@ nav:
         - Veterinary: game-mechanics/skills/taming-and-animals/veterinary.md
         - Herding: game-mechanics/skills/taming-and-animals/herding.md
       - Utility & Support:
+        - Item Identification: game-mechanics/skills/utility-and-support/item-identification.md
+        - Cartography: game-mechanics/skills/utility-and-support/cartography.md
+        - Tracking: game-mechanics/skills/utility-and-support/tracking.md
+        - Taste Identification: game-mechanics/skills/utility-and-support/taste-identification.md
+        - Camping: game-mechanics/skills/utility-and-support/camping.md
         - Arms Lore: game-mechanics/skills/utility-and-support/arms-lore.md
         - Begging: game-mechanics/skills/utility-and-support/begging.md
-        - Camping: game-mechanics/skills/utility-and-support/camping.md
-        - Cartography: game-mechanics/skills/utility-and-support/cartography.md
-        - Forensic Evaluation: game-mechanics/skills/utility-and-support/forensic-evaluation.md
-        - Item Identification: game-mechanics/skills/utility-and-support/item-identification.md
         - Remove Trap: game-mechanics/skills/utility-and-support/remove-trap.md
-        - Taste Identification: game-mechanics/skills/utility-and-support/taste-identification.md
-        - Tracking: game-mechanics/skills/utility-and-support/tracking.md
+        - Forensic Evaluation: game-mechanics/skills/utility-and-support/forensic-evaluation.md
     - Stats: game-mechanics/stats.md
   - Items & Equipment:
     - items/index.md

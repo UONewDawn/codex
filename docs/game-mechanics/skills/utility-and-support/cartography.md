@@ -2,89 +2,36 @@
 
 # Cartography
 
-Create maps and decode treasure maps.
-
 ## Overview
 
-Cartography allows you to draw maps of various regions and decode treasure maps. Essential for treasure hunters and map makers.
+Cartography allows you to draw maps of various regions and decode treasure maps. Essential for treasure hunters.
 
-## Effects
+Cartography is also essential for Archaeology content, needed to decipher map fragments.
 
-### Map Creation
+## Draw maps
 
-- Draw local area maps
-- Create world maps
-- Custom map-making
+Use the skill on a blank map to choose its scale. Higher skill allows larger scales. If the attempt succeeds, the map is filled-in based on your current location.
 
-### Treasure Map Decoding
+## Decoding treasure maps
 
-- Decode treasure maps
-- Higher skill = higher level maps
-- Locate buried treasure
+Double click the map you want to decode, if you can decode it, you will receive a map with a pin marking the treasure location within 30 tiles.
+
+## Deciphering clues
+
+70+ Cartography is required for deciphering map fragments, double-click it in your backpack to attempt to interpret it, failure doesn't consume the clue.
+
+It also gives you +10% artifact chance at 100.
+
+For more information about Archaeology go [here](../../../custom-systems/archaeology.md).
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm in the Discord community.
+Train from Mapmaker NPCs to reach around 50.
 
-### Early (0-30)
-
-- Buy blank maps from NPC
-- Draw local maps
-- Practice in towns
-
-### Intermediate (30-60)
-
-- Decode level 1 treasure maps
-- Draw regional maps
-- Practice decoding
-
-### Advanced (60-85)
-
-- Decode higher level maps
-- Draw detailed world maps
-- Master cartography
-
-### Master (85-100)
-
-- Decode highest level maps
-- Expert map-making
-- Maximum decoding success
-
-## Materials
-
-### Tools
-
-### Resources
-
-- Blank maps
-- Treasure maps (to decode)
-
-## Related Skills
-
-**Synergy With:**
-
-- [Lockpicking](../stealth-and-thievery/lockpicking.md) - Open treasure chests
-- [Remove Trap](remove-trap.md) - Disarm chest traps
-
-**Treasure Hunter Template:**
-
-- Cartography: 100
-- Lockpicking: 100
-- Mining: 100
-- Combat skills for guardians
-- Magery: 100
-- Remove Trap: 80
-
-## Treasure Hunting
-
-!!! warning
-    These need refinement. Confirm in the Discord community.
-
----
-
-**Related Pages:**
-
-- [Lockpicking](../stealth-and-thievery/lockpicking.md)
-- [Mining](../resource-gathering/mining.md)
-- [Remove Trap](remove-trap.md)
+| Skill      | Draw                               |
+|------------|------------------------------------|
+| 20 - 52    | Local Maps                         |
+| 52 - 65    | City Maps                          |
+| 65 - 67    | Sea Charts                         |
+| 67 - 99.5  | World Maps                         |
+| 99.5 - 100 | Level 2 - 4 Tattered Treasure Maps |
