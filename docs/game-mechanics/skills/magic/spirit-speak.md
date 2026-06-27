@@ -8,7 +8,7 @@ Spirit Speak passively enhances your Magery summons, making them last longer and
 
 Once you reach 100 and become a Grand Master, you will be able to see and communicate with ghosts.
 
-Whe combined with Animal Lore, your summons will also be stronger.
+When combined with Animal Lore, your summons will also be stronger.
 
 ## Summoning chance
 
