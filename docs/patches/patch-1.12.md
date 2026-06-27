@@ -122,7 +122,7 @@ The following flowers make the bees happy:
 - To harvest honey, you must have a hive tool (which can also be purchased at the beekeeper)
 - Cooking recipes now require honey extracted from hives, not NPC bought
 - After you extract honey, you can use taste ID to identify the type of honey (quality)
-- Your item identification skill also helps in your ability to idendity the honey
+- Your item identification skill also helps in your ability to identify the honey
 - Honey comes in a variety type types (with the correct flowers increases the chances
 
 Clover, Wildflower, Buckwheat, OrangeBlossom, Lavender, Heather, Sourwood, Tupelo
