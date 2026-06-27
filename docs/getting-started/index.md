@@ -19,6 +19,10 @@ To play New Dawn, you'll need:
 
 All of these are acquired through the [New Dawn Portal](https://portal.uonewdawn.com/).
 
+## Installation
+
+Head over to the [Installation Guide](./installation.md) to get everything needed to connect.
+
 ## Quick Start
 
 !!! example "Get Playing in Minutes"

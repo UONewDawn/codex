@@ -94,6 +94,8 @@ nav:
     - getting-started/index.md
     - Character Creation: getting-started/character-creation.md
     - New Player Guide: getting-started/new-player-guide.md
+    - Installation Guide: getting-started/installation.md
+    - Linux Installation Guide: getting-started/linux.md
     - What's Different: getting-started/whats-different.md
   - Community & Resources:
     - community/index.md
