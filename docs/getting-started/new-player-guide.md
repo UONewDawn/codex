@@ -1,5 +1,6 @@
 # New Player Guide
 
+<!-- 
 Welcome to New Dawn! This guide will walk you through everything you need to know as a new player.
 
 ## How to Start Playing New Dawn
@@ -28,115 +29,166 @@ Welcome to New Dawn! This guide will walk you through everything you need to kno
 
 1. Click "Enter Britannia" again
 2. Select one of your three accounts & create/select a character
-3. Welcome to New Dawn!
+3. Welcome to New Dawn! 
+-->
 
-## Your First Steps in Britannia
+## Before starting
 
-### Starting Location
+This are some basics information that will help start your journey, you will discover even more later on.
 
-You can choose to start in any major town in Britannia. Each town offers unique opportunities:
+- Horses can be tamed regardless of skill.
+- All players start with one bond slot. Feed the pet you want to bond, after the message "You begin bonding with your pet." appears, stable the pet for 24 hours and then feed it again to bond it. Bonded pets can recall with you.
+- The light filter is not available, making the experience really immersive. Don't worry, you will get used to it in no time, you can buy Nightsight potions or use the Night Sight spell, they will last a long time.
+- Dungeons have a 50% skill boost gain, except for crafting skills.
+- Recall charges inside a runebook don't require magery.
+- You can't recall in or out of dungeons, instead, there are exit gates spread around.
+- Instead of Dex penalty when wearing armor, you instead lose stamina when taking damage, based on the armor you're wearing.
+- When you set a skill pointing down it will decrease at the same time as you gain on a skill pointing up, you don't have to wait to be at skill cap to lower a skill.
 
-- **Ocllo** - The most common starting location and recommended for new players
-- **Britain** - The ruins of its former self, the castle walls now the town walls
-- **Other towns** - Each has its own character and resources
+## Young program
 
-### Essential Commands
+You can enter the young program by typing `[young` in game. Each account can enter if below 120 hours of playtime.
 
-Learn these important commands:
+Upon entering the program you will be teleported to Ocllo.
 
-- `[ach` - View and track your achievements
-- `[profile` - Access your character profile
-- `[emote` - Use emotes to express yourself
+These are the benefits:
 
-### Banking
+- No item loss on death; all gear stays in your backpack.
+- Auto-teleport to a safe healer when you die.
+- Monsters will not attack you unprovoked in Ocllo.
+- Poison immunity & instant logout, no delay.
+- Cannot be stolen from by other players.
+- Access to the Ocllo Sewer for early training.
 
-Use the bank to store your items safely:
+If you leave Occlo you will lose the young status, you can rejoin the program a set amount of times, so be careful.
 
-1. Say "bank" near a banker NPC
-2. Your bank box will open
-3. Store important items here
+You will also lose young if you commit a murder, reach 450 total skill, or raise a craft skill past 80.
 
-!!! warning "Death and Items"
-    When you die, you may lose items you're carrying. Keep valuables in the bank!
+## Occlo
 
-## Building Your Character
+Occlo is the main city, you can find basically every vendor type here.
 
-### Understanding Stats
+![image](../assets/screenshots/occlo-bank.png)
 
-Your character has three primary stats:
+It's the perfect city where to train or buy whatever you need.
 
-- **Strength (STR)** - Affects hit points and melee damage
-- **Dexterity (DEX)** - Affects stamina and swing speed
-- **Intelligence (INT)** - Affects mana and magic power
+Explore around and make some gold while training.
 
-### Skills
+### Cotton farm
 
-You have 700 total skill points to distribute across various skills. Start by focusing on:
+Just South outside of the city you will find a Cotton farm, you can use it only while in the Young program.
 
-1. **Combat Skill** - Choose your weapon type
-2. **Tactics** - Improves combat effectiveness
-3. **Healing or Magery** - Keep yourself alive
-4. **Support Skills** - Add utility (Hiding, Tracking, etc.)
+![image](../assets/screenshots/occlo-cotton.png)
 
-See our [Skills Guide](../game-mechanics/skills/index.md) for detailed information.
+You should go here every chance you get to stock up on bandages.
 
-## Making Money
+### Occlo sewers
 
-As a new player, here are ways to earn gold:
+If you are Young, you receive a 50% skill gain bonus while inside this dungeon, but you cannot raise any skill above 80.
 
-### Early Game
+These are the entrances:
 
-- **Hunt animals** - Sell hides and meat
-- **Escorts** - Guide NPCs needing an escort to safety
-- **Collect resources** - Mining, lumberjacking
-- **Kill monsters** - Collect gold, sell off items to NPC vendors
+![image](../assets/screenshots/occlo-sewers-entrances.png)
 
-### Mid Game
+### Provo cage
 
-- **Dungeon hunting** - More dangerous, better rewards
-- **Crafting** - Create items to sell
-- **Treasure hunting** - Find buried treasure
+This spot inside the Sewers is perfect for training Musicianship and Provocation up to 80.
 
-## Social & Community
+![image](../assets/screenshots/sewer-cage.png)
 
-### Finding Groups
+Just Provo an Harpy to a Troll of the opposite cage.
 
-- Use Discord to find hunting partners
-- Join a guild for community support
-- Visit popular gathering spots (Ocllo bank)
+## Starting template
 
-### Player Housing
+The Provo Dexxer is one of the best templates to start with.
 
-Once you've earned enough gold, you can:
+It doesn't rely on Magery for healing, so you don't need to worry about stocking up on reagents, and Magery is expensive to train anyway.
 
-- Purchase a house placement tool
-- Customize the interior of your house
-- Set up vendors to sell goods
+All you need is to gather cotton around the world to make bandages for free healing.
 
-## Tips for Success
+Provocation is extremely powerful on almost any template, and pairing it with a combat skill makes the build even more profitable.
 
-!!! tip "Pro Tips"
-    - **Bank often** - Don't carry everything with you
-    - **Join a guild** - Experienced players can help you
-    - **Start small** - Don't fight challenging monsters too early
-    - **Use Discord** - Our community is helpful and active
-    - **Learn scripts & macros** - Make repetitive tasks easier
+- Musicianship
+- Provocation
+- Healing
+- Anatomy
+- Swordsmanship
+- Tactics
+- Parrying/Magery/Hiding
 
-## Common Mistakes to Avoid
+You also have some wiggle room for your 7th skill, which mainly serves as support depending on your play style.
 
-- Not banking valuable items
-- Spending all your gold immediately
-- Going AFK in dangerous areas
-- Not joining the community
+Recall charges inside a runebook don't require magery. If you still want Magery to recall around please note:
 
-## Next Steps
+- Casting from scrolls does not require reagents. If successful, the mana consumed will be the same as for normal spells, and the scroll will disappear.
+- You need 50 Magery to never fail casting from recall scrolls.
+- You need 70 Magery to never fail casting recall from spells.
 
-Ready to dive deeper? Check out:
+### Starting skills
 
-- [Character Creation](character-creation.md) - Optimize your build
-- [Skills](../game-mechanics/skills/index.md) - Learn about all skills
-- [Towns](../world/towns/index.md) - Explore Britannia
+The skills you choose during character creation aren't very important, since you can train any skill up to around 50 using gold.
 
----
+Consider making characters on your other accounts to funnel their starting gold to your main and fund early training.
+  
+### Starting stats
 
-**Welcome to New Dawn! May your adventures be legendary!**
+You should start every character with at least 12 Dexterity, otherwise you won't be able to go trough players and monsters.
+
+For this template, depending on how often you want to use Magery, these are the recommended starting stats:
+
+- Magery low usage: 47 strength, 12 dexterity, 11 intelligence
+- Magery high usage: 40 Strength, 12 Dexterity, 28 Intelligence
+
+??? Note "Click to expand: Skills that raise stats"
+
+    This list has all the skills that give stat gains.
+
+    Strength:
+
+    - Camping
+    - Fencing
+    - Herding
+    - Lumberjacking
+    - Mace Fighting
+    - Mining
+    - Swordsmanship
+
+    Dexterity:
+
+    - Camping
+    - Fencing
+    - Musicianship
+    - Snooping
+
+    Intelligence:
+    
+    - Camping
+    - Spirit Speak
+
+## Summoner template
+
+Once you have enough gold to train Magery, the Summoner is a very strong build.
+
+You will be able to summon powerful Deamons and other creatures.
+
+- Musicianship
+- Provocation
+- Magery
+- Meditation
+- Spirit Speak
+- Animal Lore
+- Resisting spells/Evaluating Intelligence/Hiding
+
+Visit the [Spirit Speak](../game-mechanics/skills/magic/spirit-speak.md) page for more information.
+
+## Training
+
+For an in-depth explanation on how a skill works or how to train, browse the skill pages.
+
+Remember, the closer you are to the skill cap the slower you will gain.
+
+## Community
+
+If you didn't already, hop on [discord](https://discord.gg/AStx3wYAPj).
+
+There are always various player driven events and facilities to help new players train.
