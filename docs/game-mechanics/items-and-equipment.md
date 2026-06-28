@@ -644,7 +644,7 @@ Weapons are considered being at full durability.
 ### Leather hides
 
 This list shows which animal and monster drop specific leather.
-F
+
 === "Normal"
 
     |                             Animal                              | Yield |
