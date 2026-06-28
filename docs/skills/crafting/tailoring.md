@@ -115,7 +115,7 @@ These are all the clothes and armor you can craft.
     |      ![icon](../../assets/items/leather-bustier.png)<br>Leather Bustier      | 6 Leather or Hides  | 58.0  |
     |      ![icon](../../assets/items/studded-bustier.png)<br>Studded Bustier      | 8 Leather or Hides  | 82.9  |
     | ![icon](../../assets/items/female-leather-armor.png)<br>Female Leather Armor | 8 Leather or Hides  | 62.2  |
-    |        ![icon](../../assets/items/studded-armor.png)<br>Studded Armor        | 10 Leather or Hides | 87.1  |
+    |    ![icon](../../assets/items/studded-armor.png)<br>Female Studded Armor     | 10 Leather or Hides | 87.1  |
 
 ## Repair deed
 

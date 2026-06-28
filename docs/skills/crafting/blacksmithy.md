@@ -18,31 +18,31 @@ These are all the weapons and armor you can craft.
 
 === "Ringmail"
 
-    |                             Item                              | Resources | Skill |
-    |:-------------------------------------------------------------:|:---------:|:-----:|
-    |   ![icon](../../assets/items/ringmail-gloves.png)<br>Gloves   | 10 ingots | 12.0  |
-    | ![icon](../../assets/items/ringmail-leggings.png)<br>Leggings | 16 ingots | 19.4  |
-    |  ![icon](../../assets/items/ringmail-sleeves.png)<br>Sleeves  | 14 ingots | 16.9  |
-    |    ![icon](../../assets/items/ringmail-tunic.png)<br>Tunic    | 18 ingots | 21.9  |
+    |                                  Item                                  | Resources | Skill |
+    |:----------------------------------------------------------------------:|:---------:|:-----:|
+    |   ![icon](../../assets/items/ringmail-gloves.png)<br>Ringmail Gloves   | 10 ingots | 12.0  |
+    | ![icon](../../assets/items/ringmail-leggings.png)<br>Ringmail Leggings | 16 ingots | 19.4  |
+    |  ![icon](../../assets/items/ringmail-sleeves.png)<br>Ringmail Sleeves  | 14 ingots | 16.9  |
+    |    ![icon](../../assets/items/ringmail-tunic.png)<br>Ringmail Tunic    | 18 ingots | 21.9  |
 
 === "Chainmail"
 
-    |                              Item                              | Resources | Skill |
-    |:--------------------------------------------------------------:|:---------:|:-----:|
-    |     ![icon](../../assets/items/chainmail-coif.png)<br>Coif     | 10 ingots | 14.5  |
-    | ![icon](../../assets/items/chainmail-leggings.png)<br>Leggings | 18 ingots | 36.7  |
-    |    ![icon](../../assets/items/chainmail-tunic.png)<br>Tunic    | 20 ingots | 39.1  |
+    |                                   Item                                   | Resources | Skill |
+    |:------------------------------------------------------------------------:|:---------:|:-----:|
+    |     ![icon](../../assets/items/chainmail-coif.png)<br>Chainmail Coif     | 10 ingots | 14.5  |
+    | ![icon](../../assets/items/chainmail-leggings.png)<br>Chainmail Leggings | 18 ingots | 36.7  |
+    |    ![icon](../../assets/items/chainmail-tunic.png)<br>Chainmail Tunic    | 20 ingots | 39.1  |
 
 === "Platemail"
 
-    |                                   Item                                   | Resources | Skill |
-    |:------------------------------------------------------------------------:|:---------:|:-----:|
-    |          ![icon](../../assets/items/platemail-arms.png)<br>Arms          | 18 ingots | 66.3  |
-    |        ![icon](../../assets/items/platemail-gloves.png)<br>Gloves        | 12 ingots | 58.9  |
-    |        ![icon](../../assets/items/platemail-gorget.png)<br>Gorget        | 10 ingots | 56.4  |
-    |          ![icon](../../assets/items/platemail-legs.png)<br>Legs          | 20 ingots | 68.8  |
-    |         ![icon](../../assets/items/platemail-tunic.png)<br>Tunic         | 25 ingots | 75.0  |
-    | ![icon](../../assets/items/platemail-tunic-female.png)<br>Tunic (Female) | 20 ingots | 44.1  |
+    |                                        Item                                        | Resources | Skill |
+    |:----------------------------------------------------------------------------------:|:---------:|:-----:|
+    |          ![icon](../../assets/items/platemail-arms.png)<br>Platemail Arms          | 18 ingots | 66.3  |
+    |        ![icon](../../assets/items/platemail-gloves.png)<br>Platemail Gloves        | 12 ingots | 58.9  |
+    |        ![icon](../../assets/items/platemail-gorget.png)<br>Platemail Gorget        | 10 ingots | 56.4  |
+    |          ![icon](../../assets/items/platemail-legs.png)<br>Platemail Legs          | 20 ingots | 68.8  |
+    |         ![icon](../../assets/items/platemail-tunic.png)<br>Platemail Tunic         | 25 ingots | 75.0  |
+    | ![icon](../../assets/items/platemail-tunic-female.png)<br>Platemail Tunic (Female) | 20 ingots | 44.1  |
 
 === "Helmets"
 
