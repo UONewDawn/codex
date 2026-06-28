@@ -204,7 +204,7 @@ See [Spirit Summoner](../custom-systems/spirit-summoner.md) for complete details
 - **Dungeon bans:** 15min for reds with 5+ murders
 - **Forged pardons:** Clear murders at Yew Courthouse
 
-See [Murder System](../game-mechanics/pvp/murder-system.md) for complete details.
+See [Murder System](../game-mechanics/murder-system.md) for complete details.
 
 ### PvP Changes
 
