@@ -24,8 +24,8 @@ This table shows what can be fished up.
     |  80   |                                                                     ![icon](../../assets/items/truly-rare-fish.png)<br>Truly Rare Fish<br>+5 STR when eaten                                                                     |
     |  80   |                                                         ![icon](../../assets/items/highly-peculiar-fish.png)<br>Highly Peculiar Fish<br>Restores 10 stamina when eaten                                                          |
     |  90   |                                                                ![icon](../../assets/items/fish-1.png)<br>Big Fish<br>Shows weight, angler name and time of catch                                                                |
-    |  90   |                                                             ![icon](../../../assets/mobiles/sea-serpent.png)<br>Sea Serpents, Deep Sea Serpents<br>Drop details below                                                              |
-    |  100  |                                                             ![icon](../../../assets/mobiles/ancient-sea-serpent.png)<br>Ancient Sea Serpents<br>They drop Pirate maps                                                              |
+    |  90   |                                                             ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpents, Deep Sea Serpents<br>Drop details below                                                              |
+    |  100  |                                                             ![icon](../../assets/mobiles/ancient-sea-serpent.png)<br>Ancient Sea Serpents<br>They drop Pirate maps                                                              |
 
 === "Rare fishes"
 
@@ -134,7 +134,7 @@ There is also a very rare chance of pulling up an Enraged kraken.
 
 ### Enraged kraken
 
-![icon](../../../assets/mobiles/kraken.png)
+![icon](../../assets/mobiles/kraken.png)
 
 Enraged Krakens will always drop a Strongbox, in them you can always find a Pirate map.
 
