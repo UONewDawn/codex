@@ -148,7 +148,7 @@ Check [patch notes](../patches/index.md) for new additions.
 
 ## Related Systems
 
-- **[Champion Spawns](../world/dungeons/index.md)** - Earning Champion Tokens
+- **Champion Spawns** - Earning Champion Tokens
 - **[Codex Rifts](../custom-systems/codex-rifts.md)** - Rift and Codex Shards
 - **[Pirate Adventures](../custom-systems/pirate-adventures.md)** - Pirate currency
 - **[Achievements](../custom-systems/achievements.md)** - Another reward system
