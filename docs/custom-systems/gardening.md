@@ -1,6 +1,5 @@
 # Gardening
 
-<<<<<<< HEAD
 Grow and harvest beautiful plants from gardening. 
 
 ## Overview 
@@ -283,4 +282,3 @@ Displayed as `harvested / remaining`. Once the display reads `0/0` the plant wil
 #### Set Decorative (Top Right)
 
 Only appears after day 9. Clicking this converts the plant into a permanent **decorative item** placed in your backpack that needs no further care.
->>>>>>> main

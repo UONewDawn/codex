@@ -94,6 +94,19 @@ Combine Magery and Spirit Speak to unlock a fundamentally different summoning ex
 - Dispel resistance: up to 50% vs players, 80% vs NPC auto-dispel, 99% vs NPC-cast dispel
 - Bonus healing on spirit summons: up to +50% at GM Spirit Speak
 
+### [Ship Holds](ship-holds.md)
+
+On New Dawn, ships aren't simply ways to fish or get to an island. Here, they are your _home away from home_.
+
+**Key Features:**
+
+- Each ship is assigned a hold when placed, accessible via single-click while anchored
+- Holds have a max weight and item count, viewable from the ship model inside the hold
+- Decorate your hold using the ship model decorator tool
+- Items in your ship's hold do not decay
+- Use your bunk bed to initiate a quick 30-second logout
+- Anyone who can board your ship can access and loot your hold — keep valuables in a house or bank
+
 ### [Achievement System](achievements.md)
 
 Track your accomplishments and earn rewards through a comprehensive achievement system covering various gameplay aspects from combat to exploration to crafting.

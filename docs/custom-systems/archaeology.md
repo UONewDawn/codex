@@ -41,7 +41,7 @@ Double-click a clue in your backpack to attempt to interpret it.
 **All other clues** (expedition notes, journal pages, book pages, digging permits) — requires **70+ Inscription**. Same skill check range (70–130). Failure doesn't consume the clue.
 
 !!! tip "Skill Check Range"
-The check is capped at 100. so higher-than-70 skill improves your success rate.
+    The check is capped at 100. so higher-than-70 skill improves your success rate.
 
 On success, the clue is marked as interpreted. A gump window opens showing the flavor text, which contains the **X and Y coordinates** of your dig site. The clue also records who decoded it.
 
@@ -80,7 +80,7 @@ Use the **Brush** the same way.
 - The clue is **consumed** at this stage regardless of outcome
 
 !!! warning "Wrong Tool"
-Using the wrong tool for the current stage gives the message `"This doesn't seem like the right tool for this stage."` No charge is consumed.
+    Using the wrong tool for the current stage gives the message `"This doesn't seem like the right tool for this stage."` No charge is consumed.
 
 ## Artifact Find Chance
 
@@ -103,7 +103,7 @@ Dig zones spread throughout the ruins of Britain.
 Dig zones spread across the Ruins of Moonglow, including the bank area and surrounding ruins.
 
 !!! note "Future Regions"
-Minoc, Trinsic, and Yew dig regions are defined in the system but not yet active in-game. Their artifact tables are also drafted. These may be enabled in a future patch.
+    Minoc, Trinsic, and Yew dig regions are defined in the system but not yet active in-game. Their artifact tables are also drafted. These may be enabled in a future patch.
 
 ## Common Artifacts (All Regions)
 
