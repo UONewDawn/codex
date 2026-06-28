@@ -26,64 +26,64 @@ This table shows the Armor Rating for each shield type.
 
     |                            Shield Type                             | AR  |
     |:------------------------------------------------------------------:|:---:|
-    |    ![icon](../../../assets/items/buckler-shield.png)<br>Buckler    |  7  |
-    |     ![icon](../../../assets/items/wooden-shield.png)<br>Wooden     |  8  |
-    |     ![icon](../../../assets/items/bronze-shield.png)<br>Bronze     | 10  |
-    |      ![icon](../../../assets/items/metal-shield.png)<br>Metal      | 11  |
-    | ![icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 16  |
-    |     ![icon](../../../assets/items/heater-shield.png)<br>Heater     | 23  |
-    |      ![icon](../../../assets/items/order-shield.png)<br>Order      | 30  |
-    |      ![icon](../../../assets/items/chaos-shield.png)<br>Chaos      | 32  |
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  7  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |  8  |
+    |     ![icon](../../assets/items/bronze-shield.png)<br>Bronze     | 10  |
+    |      ![icon](../../assets/items/metal-shield.png)<br>Metal      | 11  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite | 16  |
+    |     ![icon](../../assets/items/heater-shield.png)<br>Heater     | 23  |
+    |      ![icon](../../assets/items/order-shield.png)<br>Order      | 30  |
+    |      ![icon](../../assets/items/chaos-shield.png)<br>Chaos      | 32  |
 
 === "GM Made"
 
     |                            Shield Type                             | AR  |
     |:------------------------------------------------------------------:|:---:|
-    |    ![icon](../../../assets/items/buckler-shield.png)<br>Buckler    |  8  |
-    |     ![icon](../../../assets/items/bronze-shield.png)<br>Bronze     | 12  |
-    |      ![icon](../../../assets/items/metal-shield.png)<br>Metal      | 13  |
-    | ![icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 19  |
-    |     ![icon](../../../assets/items/heater-shield.png)<br>Heater     | 27  |
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  8  |
+    |     ![icon](../../assets/items/bronze-shield.png)<br>Bronze     | 12  |
+    |      ![icon](../../assets/items/metal-shield.png)<br>Metal      | 13  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite | 19  |
+    |     ![icon](../../assets/items/heater-shield.png)<br>Heater     | 27  |
 
 === "Defense"
 
     |                            Shield Type                             | AR  |
     |:------------------------------------------------------------------:|:---:|
-    |    ![icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 12  |
-    |     ![icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 13  |
-    | ![icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 21  |
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    | 12  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     | 13  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite | 21  |
 
 === "Guarding"
 
     |                            Shield Type                             | AR  |
     |:------------------------------------------------------------------:|:---:|
-    |    ![icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 17  |
-    |     ![icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 18  |
-    | ![icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 26  |
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    | 17  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     | 18  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite | 26  |
 
 === "Hardening"
 
     |                            Shield Type                             | AR  |
     |:------------------------------------------------------------------:|:---:|
-    |    ![icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 22  |
-    |     ![icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 23  |
-    | ![icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 31  |
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    | 22  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     | 23  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite | 31  |
 
 === "Fortification"
 
     |                            Shield Type                             | AR  |
     |:------------------------------------------------------------------:|:---:|
-    |    ![icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 27  |
-    |     ![icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 28  |
-    | ![icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 36  |
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    | 27  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     | 28  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite | 36  |
 
 === "Invulnerability"
 
     |                            Shield Type                             | AR  |
     |:------------------------------------------------------------------:|:---:|
-    |    ![icon](../../../assets/items/buckler-shield.png)<br>Buckler    | 32  |
-    |     ![icon](../../../assets/items/wooden-shield.png)<br>Wooden     | 33  |
-    | ![icon](../../../assets/items/metal-kite-shield.png)<br>Metal Kite | 41  |
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    | 32  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     | 33  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite | 41  |
 
 ## Shield Bash
 

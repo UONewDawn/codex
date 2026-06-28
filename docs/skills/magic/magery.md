@@ -151,14 +151,14 @@ This table show how much each reagent type is used when casting spells, for exam
 
 |                               Reagent                               | All Circles | Circles 1 - 4 | Circles 5 - 8 |
 |:-------------------------------------------------------------------:|:-----------:|:-------------:|:-------------:|
-|  ![icon](../../../assets/items/mandrake-root.png)<br>Mandrake Root  |     56%     |      41%      |      72%      |
-| ![icon](../../../assets/items/sulphurous-ash.png)<br>Sulphurous Ash |     41%     |      34%      |      47%      |
-|     ![icon](../../../assets/items/blood-moss.png)<br>Blood Moss     |     41%     |      28%      |      53%      |
-|  ![icon](../../../assets/items/spiders-silk.png)<br>Spider's Silk   |     39%     |      25%      |      53%      |
-|         ![icon](../../../assets/items/garlic.png)<br>Garlic         |     34%     |      44%      |      25%      |
-|    ![icon](../../../assets/items/black-pearl.png)<br>Black Pearl    |     30%     |      19%      |      41%      |
-|     ![icon](../../../assets/items/nightshade.png)<br>Nightshade     |     27%     |      28%      |      25%      |
-|        ![icon](../../../assets/items/ginseng.png)<br>Ginseng        |     17%     |      25%      |      9%       |
+|  ![icon](../../assets/items/mandrake-root.png)<br>Mandrake Root  |     56%     |      41%      |      72%      |
+| ![icon](../../assets/items/sulphurous-ash.png)<br>Sulphurous Ash |     41%     |      34%      |      47%      |
+|     ![icon](../../assets/items/blood-moss.png)<br>Blood Moss     |     41%     |      28%      |      53%      |
+|  ![icon](../../assets/items/spiders-silk.png)<br>Spider's Silk   |     39%     |      25%      |      53%      |
+|         ![icon](../../assets/items/garlic.png)<br>Garlic         |     34%     |      44%      |      25%      |
+|    ![icon](../../assets/items/black-pearl.png)<br>Black Pearl    |     30%     |      19%      |      41%      |
+|     ![icon](../../assets/items/nightshade.png)<br>Nightshade     |     27%     |      28%      |      25%      |
+|        ![icon](../../assets/items/ginseng.png)<br>Ginseng        |     17%     |      25%      |      9%       |
 
 ### Guild discount
 

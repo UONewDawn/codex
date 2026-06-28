@@ -18,9 +18,9 @@ Weapons are considered being at full durability.
 
 |                               Weapon                                |                        Ammo                        | STR Required |     Damage roll     | Speed | Item HP  |
 |:-------------------------------------------------------------------:|:--------------------------------------------------:|:------------:|:-------------------:|:-----:|:--------:|
-|            ![icon](../../../assets/items/bow.png)<br>Bow            | ![icon](../../../assets/items/arrow.png)<br>Arrows |      20      |  4d9+5<br>(9 - 41)  |   -   | 31 - 60  |
-|       ![icon](../../../assets/items/crossbow.png)<br>Crossbow       |  ![icon](../../../assets/items/bolt.png)<br>Bolts  |      30      |  5d8+3<br>(8 - 43)  |   -   | 31 - 80  |
-| ![icon](../../../assets/items/heavy-crossbow.png)<br>Heavy Crossbow |  ![icon](../../../assets/items/bolt.png)<br>Bolts  |      40      | 5d10+6<br>(11 - 56) |   -   | 31 - 100 |
+|            ![icon](../../assets/items/bow.png)<br>Bow            | ![icon](../../assets/items/arrow.png)<br>Arrows |      20      |  4d9+5<br>(9 - 41)  |   -   | 31 - 60  |
+|       ![icon](../../assets/items/crossbow.png)<br>Crossbow       |  ![icon](../../assets/items/bolt.png)<br>Bolts  |      30      |  5d8+3<br>(8 - 43)  |   -   | 31 - 80  |
+| ![icon](../../assets/items/heavy-crossbow.png)<br>Heavy Crossbow |  ![icon](../../assets/items/bolt.png)<br>Bolts  |      40      | 5d10+6<br>(11 - 56) |   -   | 31 - 100 |
 
 ## Snare
 

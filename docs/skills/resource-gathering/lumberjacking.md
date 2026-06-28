@@ -12,10 +12,10 @@ To avoid unattended gathering, all resource gathering activities will trigger th
 
 | Skill |                           Boards                           |
 |:-----:|:----------------------------------------------------------:|
-|   0   | ![icon](../../../assets/items/normal-boards.png)<br>Normal |
-|  65   |    ![icon](../../../assets/items/oak-boards.png)<br>Oak    |
-|  80   |    ![icon](../../../assets/items/ash-boards.png)<br>Ash    |
-|  95   |    ![icon](../../../assets/items/yew-boards.png)<br>Yew    |
+|   0   | ![icon](../../assets/items/normal-boards.png)<br>Normal |
+|  65   |    ![icon](../../assets/items/oak-boards.png)<br>Oak    |
+|  80   |    ![icon](../../assets/items/ash-boards.png)<br>Ash    |
+|  95   |    ![icon](../../assets/items/yew-boards.png)<br>Yew    |
 
 ## Gathering
 

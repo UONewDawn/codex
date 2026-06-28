@@ -18,104 +18,104 @@ These are all the clothes and armor you can craft.
 
     |                                Item                                 | Resources | Skill |
     |:-------------------------------------------------------------------:|:---------:|:-----:|
-    |       ![icon](../../../assets/items/skullcap.png)<br>Skullcap       |  2 Cloth  |  0.0  |
-    |        ![icon](../../../assets/items/bandana.png)<br>Bandana        |  2 Cloth  |  0.0  |
-    |     ![icon](../../../assets/items/floppy-hat.png)<br>Floppy Hat     | 11 Cloth  |  6.2  |
-    |            ![icon](../../../assets/items/cap.png)<br>Cap            | 11 Cloth  |  6.2  |
-    |  ![icon](../../../assets/items/wide-brim-hat.png)<br>Wide-Brim Hat  | 12 Cloth  |  6.2  |
-    |      ![icon](../../../assets/items/straw-hat.png)<br>Straw Hat      | 10 Cloth  |  6.2  |
-    | ![icon](../../../assets/items/tall-straw-hat.png)<br>Tall Straw Hat | 12 Cloth  |  6.7  |
-    |     ![icon](../../../assets/items/wizard-hat.png)<br>Wizard Hat     | 15 Cloth  |  7.2  |
-    |         ![icon](../../../assets/items/bonnet.png)<br>Bonnet         | 11 Cloth  |  6.2  |
-    |  ![icon](../../../assets/items/feathered-hat.png)<br>Feathered Hat  | 12 Cloth  |  6.2  |
-    |     ![icon](../../../assets/items/tricorne-hat.png)<br>Tricorne     | 12 Cloth  |  6.2  |
-    |     ![icon](../../../assets/items/jester-hat.png)<br>Jester Hat     | 15 Cloth  |  7.2  |
+    |       ![icon](../../assets/items/skullcap.png)<br>Skullcap       |  2 Cloth  |  0.0  |
+    |        ![icon](../../assets/items/bandana.png)<br>Bandana        |  2 Cloth  |  0.0  |
+    |     ![icon](../../assets/items/floppy-hat.png)<br>Floppy Hat     | 11 Cloth  |  6.2  |
+    |            ![icon](../../assets/items/cap.png)<br>Cap            | 11 Cloth  |  6.2  |
+    |  ![icon](../../assets/items/wide-brim-hat.png)<br>Wide-Brim Hat  | 12 Cloth  |  6.2  |
+    |      ![icon](../../assets/items/straw-hat.png)<br>Straw Hat      | 10 Cloth  |  6.2  |
+    | ![icon](../../assets/items/tall-straw-hat.png)<br>Tall Straw Hat | 12 Cloth  |  6.7  |
+    |     ![icon](../../assets/items/wizard-hat.png)<br>Wizard Hat     | 15 Cloth  |  7.2  |
+    |         ![icon](../../assets/items/bonnet.png)<br>Bonnet         | 11 Cloth  |  6.2  |
+    |  ![icon](../../assets/items/feathered-hat.png)<br>Feathered Hat  | 12 Cloth  |  6.2  |
+    |     ![icon](../../assets/items/tricorne-hat.png)<br>Tricorne     | 12 Cloth  |  6.2  |
+    |     ![icon](../../assets/items/jester-hat.png)<br>Jester Hat     | 15 Cloth  |  7.2  |
 
 === "Bone Armor"
 
     |                               Item                                |             Resources             | Skill |
     |:-----------------------------------------------------------------:|:---------------------------------:|:-----:|
-    |     ![icon](../../../assets/items/bear-mask.png)<br>Bear Mask     | 6 Leather or Hides<br>1 Bear Head | 80.0  |
-    |     ![icon](../../../assets/items/deer-mask.png)<br>Deer Mask     | 6 Leather or Hides<br>1 Deer Head | 80.0  |
-    |   ![icon](../../../assets/items/bone-helmet.png)<br>Bone Helmet   |   4 Leather or Hides<br>2 Bones   | 85.0  |
-    |   ![icon](../../../assets/items/bone-gloves.png)<br>Bone Gloves   |   6 Leather or Hides<br>2 Bones   | 89.0  |
-    |     ![icon](../../../assets/items/bone-arms.png)<br>Bone Arms     |   8 Leather or Hides<br>4 Bones   | 92.0  |
-    | ![icon](../../../assets/items/bone-leggings.png)<br>Bone Leggings |  10 Leather or Hides<br>6 Bones   | 95.0  |
-    |    ![icon](../../../assets/items/bone-armor.png)<br>Bone Armor    |  12 Leather or Hides<br>10 Bones  | 96.0  |
+    |     ![icon](../../assets/items/bear-mask.png)<br>Bear Mask     | 6 Leather or Hides<br>1 Bear Head | 80.0  |
+    |     ![icon](../../assets/items/deer-mask.png)<br>Deer Mask     | 6 Leather or Hides<br>1 Deer Head | 80.0  |
+    |   ![icon](../../assets/items/bone-helmet.png)<br>Bone Helmet   |   4 Leather or Hides<br>2 Bones   | 85.0  |
+    |   ![icon](../../assets/items/bone-gloves.png)<br>Bone Gloves   |   6 Leather or Hides<br>2 Bones   | 89.0  |
+    |     ![icon](../../assets/items/bone-arms.png)<br>Bone Arms     |   8 Leather or Hides<br>4 Bones   | 92.0  |
+    | ![icon](../../assets/items/bone-leggings.png)<br>Bone Leggings |  10 Leather or Hides<br>6 Bones   | 95.0  |
+    |    ![icon](../../assets/items/bone-armor.png)<br>Bone Armor    |  12 Leather or Hides<br>10 Bones  | 96.0  |
 
 === "Shirts"
 
     |                             Item                              | Resources | Skill |
     |:-------------------------------------------------------------:|:---------:|:-----:|
-    |     ![icon](../../../assets/items/doublet.png)<br>Doublet     |  8 Cloth  |  0.0  |
-    |       ![icon](../../../assets/items/shirt.png)<br>Shirt       |  8 Cloth  | 20.7  |
-    | ![icon](../../../assets/items/fancy-shirt.png)<br>Fancy Shirt |  8 Cloth  | 24.8  |
-    |       ![icon](../../../assets/items/tunic.png)<br>Tunic       | 12 Cloth  |  0.0  |
-    |     ![icon](../../../assets/items/surcoat.png)<br>Surcoat     | 14 Cloth  |  8.2  |
-    | ![icon](../../../assets/items/plain-dress.png)<br>Plain Dress | 10 Cloth  | 33.1  |
-    | ![icon](../../../assets/items/fancy-dress.png)<br>Fancy Dress | 12 Cloth  | 12.4  |
-    |       ![icon](../../../assets/items/cloak.png)<br>Cloak       | 14 Cloth  | 41.4  |
-    |        ![icon](../../../assets/items/robe.png)<br>Robe        | 16 Cloth  | 53.9  |
-    | ![icon](../../../assets/items/jester-suit.png)<br>Jester Suit | 24 Cloth  |  8.2  |
+    |     ![icon](../../assets/items/doublet.png)<br>Doublet     |  8 Cloth  |  0.0  |
+    |       ![icon](../../assets/items/shirt.png)<br>Shirt       |  8 Cloth  | 20.7  |
+    | ![icon](../../assets/items/fancy-shirt.png)<br>Fancy Shirt |  8 Cloth  | 24.8  |
+    |       ![icon](../../assets/items/tunic.png)<br>Tunic       | 12 Cloth  |  0.0  |
+    |     ![icon](../../assets/items/surcoat.png)<br>Surcoat     | 14 Cloth  |  8.2  |
+    | ![icon](../../assets/items/plain-dress.png)<br>Plain Dress | 10 Cloth  | 33.1  |
+    | ![icon](../../assets/items/fancy-dress.png)<br>Fancy Dress | 12 Cloth  | 12.4  |
+    |       ![icon](../../assets/items/cloak.png)<br>Cloak       | 14 Cloth  | 41.4  |
+    |        ![icon](../../assets/items/robe.png)<br>Robe        | 16 Cloth  | 53.9  |
+    | ![icon](../../assets/items/jester-suit.png)<br>Jester Suit | 24 Cloth  |  8.2  |
 
 === "Pants"
 
     |                             Item                              | Resources | Skill |
     |:-------------------------------------------------------------:|:---------:|:-----:|
-    | ![icon](../../../assets/items/short-pants.png)<br>Short Pants |  6 Cloth  | 24.8  |
-    |  ![icon](../../../assets/items/long-pants.png)<br>Long Pants  |  8 Cloth  | 24.8  |
-    |        ![icon](../../../assets/items/kilt.png)<br>Kilt        |  8 Cloth  | 20.7  |
-    |       ![icon](../../../assets/items/skirt.png)<br>Skirt       | 10 Cloth  | 29.0  |
+    | ![icon](../../assets/items/short-pants.png)<br>Short Pants |  6 Cloth  | 24.8  |
+    |  ![icon](../../assets/items/long-pants.png)<br>Long Pants  |  8 Cloth  | 24.8  |
+    |        ![icon](../../assets/items/kilt.png)<br>Kilt        |  8 Cloth  | 20.7  |
+    |       ![icon](../../assets/items/skirt.png)<br>Skirt       | 10 Cloth  | 29.0  |
 
 === "Miscellaneous"
 
     |                            Item                             | Resources | Skill |
     |:-----------------------------------------------------------:|:---------:|:-----:|
-    |  ![icon](../../../assets/items/body-sash.png)<br>Body Sash  |  4 Cloth  |  4.1  |
-    | ![icon](../../../assets/items/half-apron.png)<br>Half Apron |  6 Cloth  | 20.7  |
-    | ![icon](../../../assets/items/full-apron.png)<br>Full Apron | 10 Cloth  | 29.0  |
-    |  ![icon](../../../assets/items/oil-cloth.png)<br>Oil Cloth  |  1 Cloth  | 74.6  |
+    |  ![icon](../../assets/items/body-sash.png)<br>Body Sash  |  4 Cloth  |  4.1  |
+    | ![icon](../../assets/items/half-apron.png)<br>Half Apron |  6 Cloth  | 20.7  |
+    | ![icon](../../assets/items/full-apron.png)<br>Full Apron | 10 Cloth  | 29.0  |
+    |  ![icon](../../assets/items/oil-cloth.png)<br>Oil Cloth  |  1 Cloth  | 74.6  |
 
 === "Footwear"
 
     |                             Item                              |      Resources      | Skill |
     |:-------------------------------------------------------------:|:-------------------:|:-----:|
-    |     ![icon](../../../assets/items/sandals.png)<br>Sandals     | 4 Leather or Hides  | 12.4  |
-    |       ![icon](../../../assets/items/shoes.png)<br>Shoes       | 6 Leather or Hides  | 16.5  |
-    |       ![icon](../../../assets/items/boots.png)<br>Boots       | 8 Leather or Hides  | 33.1  |
-    | ![icon](../../../assets/items/thigh-boots.png)<br>Thigh Boots | 10 Leather or Hides | 41.4  |
+    |     ![icon](../../assets/items/sandals.png)<br>Sandals     | 4 Leather or Hides  | 12.4  |
+    |       ![icon](../../assets/items/shoes.png)<br>Shoes       | 6 Leather or Hides  | 16.5  |
+    |       ![icon](../../assets/items/boots.png)<br>Boots       | 8 Leather or Hides  | 33.1  |
+    | ![icon](../../assets/items/thigh-boots.png)<br>Thigh Boots | 10 Leather or Hides | 41.4  |
 
 === "Leather Armor"
 
     |                                  Item                                   |      Resources      | Skill |
     |:-----------------------------------------------------------------------:|:-------------------:|:-----:|
-    |   ![icon](../../../assets/items/leather-gorget.png)<br>Leather Gorget   | 4 Leather or Hides  | 53.9  |
-    |      ![icon](../../../assets/items/leather-cap.png)<br>Leather Cap      | 2 Leather or Hides  |  6.8  |
-    |   ![icon](../../../assets/items/leather-gloves.png)<br>Leather Gloves   | 3 Leather or Hides  | 51.8  |
-    |  ![icon](../../../assets/items/leather-sleeves.png)<br>Leather Sleeves  | 4 Leather or Hides  | 53.9  |
-    | ![icon](../../../assets/items/leather-leggings.png)<br>Leather Leggings | 10 Leather or Hides | 66.3  |
-    |    ![icon](../../../assets/items/leather-tunic.png)<br>Leather Tunic    | 12 Leather or Hides | 70.5  |
+    |   ![icon](../../assets/items/leather-gorget.png)<br>Leather Gorget   | 4 Leather or Hides  | 53.9  |
+    |      ![icon](../../assets/items/leather-cap.png)<br>Leather Cap      | 2 Leather or Hides  |  6.8  |
+    |   ![icon](../../assets/items/leather-gloves.png)<br>Leather Gloves   | 3 Leather or Hides  | 51.8  |
+    |  ![icon](../../assets/items/leather-sleeves.png)<br>Leather Sleeves  | 4 Leather or Hides  | 53.9  |
+    | ![icon](../../assets/items/leather-leggings.png)<br>Leather Leggings | 10 Leather or Hides | 66.3  |
+    |    ![icon](../../assets/items/leather-tunic.png)<br>Leather Tunic    | 12 Leather or Hides | 70.5  |
 
 === "Studded Armor"
 
     |                                  Item                                   |      Resources      | Skill |
     |:-----------------------------------------------------------------------:|:-------------------:|:-----:|
-    |   ![icon](../../../assets/items/studded-gorget.png)<br>Studded Gorget   | 6 Leather or Hides  | 78.8  |
-    |   ![icon](../../../assets/items/studded-gloves.png)<br>Studded Gloves   | 8 Leather or Hides  | 82.9  |
-    |  ![icon](../../../assets/items/studded-sleeves.png)<br>Studded Sleeves  | 10 Leather or Hides | 87.1  |
-    | ![icon](../../../assets/items/studded-leggings.png)<br>Studded Leggings | 12 Leather or Hides | 91.2  |
-    |    ![icon](../../../assets/items/studded-tunic.png)<br>Studded Tunic    | 14 Leather or Hides | 95.4  |
+    |   ![icon](../../assets/items/studded-gorget.png)<br>Studded Gorget   | 6 Leather or Hides  | 78.8  |
+    |   ![icon](../../assets/items/studded-gloves.png)<br>Studded Gloves   | 8 Leather or Hides  | 82.9  |
+    |  ![icon](../../assets/items/studded-sleeves.png)<br>Studded Sleeves  | 10 Leather or Hides | 87.1  |
+    | ![icon](../../assets/items/studded-leggings.png)<br>Studded Leggings | 12 Leather or Hides | 91.2  |
+    |    ![icon](../../assets/items/studded-tunic.png)<br>Studded Tunic    | 14 Leather or Hides | 95.4  |
 
 === "Female Armor"
 
     |                                      Item                                       |      Resources      | Skill |
     |:-------------------------------------------------------------------------------:|:-------------------:|:-----:|
-    |       ![icon](../../../assets/items/leather-shorts.png)<br>Leather Shorts       | 8 Leather or Hides  | 62.2  |
-    |        ![icon](../../../assets/items/leather-skirt.png)<br>Leather Skirt        | 6 Leather or Hides  | 58.0  |
-    |      ![icon](../../../assets/items/leather-bustier.png)<br>Leather Bustier      | 6 Leather or Hides  | 58.0  |
-    |      ![icon](../../../assets/items/studded-bustier.png)<br>Studded Bustier      | 8 Leather or Hides  | 82.9  |
-    | ![icon](../../../assets/items/female-leather-armor.png)<br>Female Leather Armor | 8 Leather or Hides  | 62.2  |
-    |        ![icon](../../../assets/items/studded-armor.png)<br>Studded Armor        | 10 Leather or Hides | 87.1  |
+    |       ![icon](../../assets/items/leather-shorts.png)<br>Leather Shorts       | 8 Leather or Hides  | 62.2  |
+    |        ![icon](../../assets/items/leather-skirt.png)<br>Leather Skirt        | 6 Leather or Hides  | 58.0  |
+    |      ![icon](../../assets/items/leather-bustier.png)<br>Leather Bustier      | 6 Leather or Hides  | 58.0  |
+    |      ![icon](../../assets/items/studded-bustier.png)<br>Studded Bustier      | 8 Leather or Hides  | 82.9  |
+    | ![icon](../../assets/items/female-leather-armor.png)<br>Female Leather Armor | 8 Leather or Hides  | 62.2  |
+    |        ![icon](../../assets/items/studded-armor.png)<br>Studded Armor        | 10 Leather or Hides | 87.1  |
 
 ## Repair deed
 
@@ -133,24 +133,24 @@ Lastly you can use scissors on the Bolts to get Cloth.
 
     |                              From                               |                             Get                             |
     |:---------------------------------------------------------------:|:-----------------------------------------------------------:|
-    | ![icon](../../../assets/items/cotton-plant.png)<br>Cotton Plant | ![icon](../../../assets/items/cotton.png)<br>Bale of Cotton |
-    |   ![icon](../../../assets/items/flax-plant.png)<br>Flax Plant   |   ![icon](../../../assets/items/flax.png)<br>Flax Bundle    |
-    |       ![icon](../../../assets/mobiles/sheep.png)<br>Sheep       |   ![icon](../../../assets/items/wool.png)<br>Pile of Wool   |
+    | ![icon](../../assets/items/cotton-plant.png)<br>Cotton Plant | ![icon](../../assets/items/cotton.png)<br>Bale of Cotton |
+    |   ![icon](../../assets/items/flax-plant.png)<br>Flax Plant   |   ![icon](../../assets/items/flax.png)<br>Flax Bundle    |
+    |       ![icon](../../../assets/mobiles/sheep.png)<br>Sheep       |   ![icon](../../assets/items/wool.png)<br>Pile of Wool   |
 
 === "Spinning Wheel"
 
     |                             Use                             |                                  Get                                  |
     |:-----------------------------------------------------------:|:---------------------------------------------------------------------:|
-    | ![icon](../../../assets/items/cotton.png)<br>Bale of Cotton | ![icon](../../../assets/items/spool-thread.png)<br>6 Spools of Thread |
-    |   ![icon](../../../assets/items/flax.png)<br>Flax Bundle    | ![icon](../../../assets/items/spool-thread.png)<br>6 Spools of Thread |
-    |   ![icon](../../../assets/items/wool.png)<br>Pile of Wool   |    ![icon](../../../assets/items/ball-yarn.png)<br>3 Balls of Yarn    |
+    | ![icon](../../assets/items/cotton.png)<br>Bale of Cotton | ![icon](../../assets/items/spool-thread.png)<br>6 Spools of Thread |
+    |   ![icon](../../assets/items/flax.png)<br>Flax Bundle    | ![icon](../../assets/items/spool-thread.png)<br>6 Spools of Thread |
+    |   ![icon](../../assets/items/wool.png)<br>Pile of Wool   |    ![icon](../../assets/items/ball-yarn.png)<br>3 Balls of Yarn    |
 
 === "Upright Loom"
 
     |                                  Use                                  |                               Get                                |
     |:---------------------------------------------------------------------:|:----------------------------------------------------------------:|
-    | ![icon](../../../assets/items/spool-thread.png)<br>5 Spools of Thread | ![icon](../../../assets/items/bolt-cloth.png)<br>1 Bolt of Cloth |
-    |    ![icon](../../../assets/items/ball-yarn.png)<br>5 Balls of Yarn    | ![icon](../../../assets/items/bolt-cloth.png)<br>1 Bolt of Cloth |
+    | ![icon](../../assets/items/spool-thread.png)<br>5 Spools of Thread | ![icon](../../assets/items/bolt-cloth.png)<br>1 Bolt of Cloth |
+    |    ![icon](../../assets/items/ball-yarn.png)<br>5 Balls of Yarn    | ![icon](../../assets/items/bolt-cloth.png)<br>1 Bolt of Cloth |
 
 ## Leather Hides
 
