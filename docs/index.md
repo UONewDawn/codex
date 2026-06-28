@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # New Dawn Codex
 
 Welcome to the **New Dawn Codex**, your comprehensive guide to the world of New Dawn.
