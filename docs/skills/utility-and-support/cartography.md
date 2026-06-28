@@ -22,7 +22,7 @@ Double click the map you want to decode, if you can decode it, you will receive 
 
 It also gives you +10% artifact chance at 100.
 
-For more information about Archaeology go [here](../../../custom-systems/archaeology.md).
+For more information about Archaeology go [here](../../custom-systems/archaeology.md).
 
 ## Training
 

@@ -30,6 +30,6 @@ Spirit speak can be used on a 10 seconds cooldown, it doesn't have difficulty ch
 
 ## Related skills
 
-- [Spirit Summoner System](../../../custom-systems/spirit-summoner.md)
+- [Spirit Summoner System](../../custom-systems/spirit-summoner.md)
 - [Magery](magery.md)
 - [Animal Lore](../taming-and-animals/animal-lore.md)

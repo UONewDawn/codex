@@ -263,7 +263,7 @@ When smelting anything above Copper, it's recommended to combine the ores into s
 
 Mining is one of the skill required for Excavation in the Archaeology system, alongside with Item Identification.
 
-For more information about the system go [here](../../../custom-systems/archaeology.md).
+For more information about the system go [here](../../custom-systems/archaeology.md).
 
 ## Training
 
