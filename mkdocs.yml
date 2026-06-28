@@ -94,8 +94,8 @@ nav:
     - index.md
     - Getting Started:
       - Installation:
-          - Windows: getting-started/windows-installation.md
-          - Linux: getting-started/linux-installation.md
+          - On Windows: getting-started/on-windows.md
+          - On Linux: getting-started/on-linux.md
       - New Player Guide: getting-started/new-player-guide.md
     - World:
       - New Dawn: world/new-dawn.md

@@ -22,7 +22,7 @@ Thanks for trying out New Dawn. Getting the game installed only takes a few minu
 
 #### Linux
 
-If you're running Linux, head over to our [Linux installation guide](./linux.md) to get going.
+If you're running Linux, head over to our [Linux installation guide](on-linux.md) to get going.
 
 ### Step 3: Authenticate Your Launcher
 
