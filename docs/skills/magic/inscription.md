@@ -18,14 +18,14 @@ Before you can inscribe a spell, there are a few requirements. You need a spellb
 
 |                        icon                        | Spell Circle | Magery skill | INT/Mana |
 |:--------------------------------------------------:|:------------:|:------------:|:--------:|
-|  ![icon](../../../assets/spells/first-circle.png)  |    First     |     1.1      |    4     |
-| ![icon](../../../assets/spells/second-circle.png)  |    Second    |     6.1      |    6     |
-|  ![icon](../../../assets/spells/third-circle.png)  |    Third     |     16.1     |    9     |
-| ![icon](../../../assets/spells/fourth-circle.png)  |    Fourth    |     26.1     |    11    |
-|  ![icon](../../../assets/spells/fifth-circle.png)  |    Fifth     |     36.1     |    14    |
-|  ![icon](../../../assets/spells/sixth-circle.png)  |    Sixth     |     51.8     |    20    |
-| ![icon](../../../assets/spells/seventh-circle.png) |   Seventh    |     66.1     |    40    |
-|  ![icon](../../../assets/spells/eight-circle.png)  |    Eighth    |     80.1     |    50    |
+|  ![icon](../../assets/spells/first-circle.png)  |    First     |     1.1      |    4     |
+| ![icon](../../assets/spells/second-circle.png)  |    Second    |     6.1      |    6     |
+|  ![icon](../../assets/spells/third-circle.png)  |    Third     |     16.1     |    9     |
+| ![icon](../../assets/spells/fourth-circle.png)  |    Fourth    |     26.1     |    11    |
+|  ![icon](../../assets/spells/fifth-circle.png)  |    Fifth     |     36.1     |    14    |
+|  ![icon](../../assets/spells/sixth-circle.png)  |    Sixth     |     51.8     |    20    |
+| ![icon](../../assets/spells/seventh-circle.png) |   Seventh    |     66.1     |    40    |
+|  ![icon](../../assets/spells/eight-circle.png)  |    Eighth    |     80.1     |    50    |
 
 It doesn't matter if you successfully scribe a scroll or not, you will always consume mana, reagents and the blank scroll.
 
