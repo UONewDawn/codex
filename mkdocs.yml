@@ -87,6 +87,13 @@ plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
+# Pages excluded from nav (linked inline)
+not_in_nav: |
+  patches/patch-*.md
+  patches/login-patch-*.md
+  hues/hue.md
+  custom-systems/conquest-of-virtues.md
+
 # Page tree
 nav:
   - Home: index.md
@@ -96,6 +103,7 @@ nav:
     - New Player Guide: getting-started/new-player-guide.md
     - Installation Guide: getting-started/installation.md
     - Linux Installation Guide: getting-started/linux.md
+    - Training: getting-started/training.md
     - What's Different: getting-started/whats-different.md
   - Community & Resources:
     - community/index.md
@@ -110,14 +118,18 @@ nav:
       - custom-systems/battlegrounds.md
       - Capture the Flag: custom-systems/capture-the-flag.md
       - Conquest: custom-systems/conquest.md
-    - Codex Rifts: custom-systems/codex-rifts.md
-    #- Conquest of Virtues: custom-systems/conquest-of-virtues.md    
+    - Codex Rifts: custom-systems/codex-rifts.md    
     - Dungeon Dyes: custom-systems/dungeon-dyes.md
+    - Dungeon of the Week: custom-systems/dotw.md
+    - Gardening: custom-systems/gardening.md
     - Pirate Adventures: custom-systems/pirate-adventures.md
+    - Ship Holds: custom-systems/ship-holds.md
     - Spirit Summoner: custom-systems/spirit-summoner.md
+    - Young Player Program: custom-systems/young-program.md
   - Game Mechanics:
     - game-mechanics/index.md
     - Currencies: game-mechanics/currencies.md
+    - Gardening: game-mechanics/gardening.md
     - Housing: game-mechanics/housing.md
     - PvP & Murder:
       - game-mechanics/pvp/index.md
@@ -194,8 +206,15 @@ nav:
     - Dungeons:
       - world/dungeons/index.md
       - Covetous: world/dungeons/covetous.md
+      - Deceit: world/dungeons/deceit.md
       - Despise: world/dungeons/despise.md
+      - Destard: world/dungeons/destard.md
+      - Fire: world/dungeons/fire.md
+      - Hythloth: world/dungeons/hythloth.md
+      - Ice: world/dungeons/ice.md
       - Shame: world/dungeons/shame.md
+      - Terathan Keep: world/dungeons/terathan-keep.md
+      - Wrong: world/dungeons/wrong.md
     - Towns:
       - world/towns/index.md
       - Britain: world/towns/britain.md

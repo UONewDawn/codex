@@ -6,22 +6,23 @@ Welcome to the New Dawn patch notes archive. All server patches and updates are 
 
 ### Release Patches (1.0+)
 
-| Patch Version                              | Release Date      |
-| ------------------------------------------ | ----------------- |
-| [SERVER PATCH 1.12](patch-1.12.md)       | June 10th, 2026    |
-| [SERVER PATCH 1.11.1](patch-1.11.1.md)       | May 14th, 2026    |
-| [SERVER PATCH 1.11](patch-1.11.md)         | May 13th, 2026    |
-| [SERVER PATCH 1.10](patch-1.10.md)         | April 19th, 2026  |
-| [SERVER PATCH 1.9](patch-1.9.md)           | April 6th, 2026   |
-| [SERVER PATCH 1.8](patch-1.8.md)           | March 23rd, 2026  |
-| [SERVER PATCH 1.7](patch-1.7.md)           | March 12th, 2026  |
-| [SERVER PATCH 1.6](patch-1.6.md)           | March 3rd, 2026   |
-| [SERVER PATCH 1.5](patch-1.5.md)           | February 25, 2026 |
-| [SERVER PATCH 1.4](patch-1.4.md)           | February 22, 2026 |
-| [SERVER PATCH 1.3](patch-1.3.md)           | February 17, 2026 |
-| [SERVER PATCH 1.2](patch-1.2.md)           | February 13, 2026 |
-| [SERVER PATCH 1.1](patch-1.1.md)           | February 9, 2026  |
-| [SERVER PATCH 1.0](patch-1.0.md)           | January 23, 2026  |
+| Patch Version                          | Release Date      |
+| -------------------------------------- | ----------------- |
+| [SERVER PATCH 1.13](patch-1.13.md)     | June 28th, 2026   |
+| [SERVER PATCH 1.12](patch-1.12.md)     | June 10th, 2026   |
+| [SERVER PATCH 1.11.1](patch-1.11.1.md) | May 14th, 2026    |
+| [SERVER PATCH 1.11](patch-1.11.md)     | May 13th, 2026    |
+| [SERVER PATCH 1.10](patch-1.10.md)     | April 19th, 2026  |
+| [SERVER PATCH 1.9](patch-1.9.md)       | April 6th, 2026   |
+| [SERVER PATCH 1.8](patch-1.8.md)       | March 23rd, 2026  |
+| [SERVER PATCH 1.7](patch-1.7.md)       | March 12th, 2026  |
+| [SERVER PATCH 1.6](patch-1.6.md)       | March 3rd, 2026   |
+| [SERVER PATCH 1.5](patch-1.5.md)       | February 25, 2026 |
+| [SERVER PATCH 1.4](patch-1.4.md)       | February 22, 2026 |
+| [SERVER PATCH 1.3](patch-1.3.md)       | February 17, 2026 |
+| [SERVER PATCH 1.2](patch-1.2.md)       | February 13, 2026 |
+| [SERVER PATCH 1.1](patch-1.1.md)       | February 9, 2026  |
+| [SERVER PATCH 1.0](patch-1.0.md)       | January 23, 2026  |
 
 ### Pre-Release Patches (Alpha/Beta)
 
