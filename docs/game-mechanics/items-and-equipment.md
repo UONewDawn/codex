@@ -1,6 +1,6 @@
 # Items & Equipment
 
-This page will explain every item properties
+This page is a technical reference for game items and equipment, providing detailed statistics on magical enchantments, slayer bonuses, armor ratings, weapon damage profiles etc.
 
 ## Magical properties
 
@@ -473,6 +473,75 @@ Looted Bone armor can't be repaired.
 |        ![icon](../assets/items/platemail-legs.png)<br>Platemail Legs        |    60    | Legs/Feet |   40    |    8.8    |  51 - 65  |
 |       ![icon](../assets/items/platemail-tunic.png)<br>Platemail Tunic       |    60    |   Body    |   40    |   14.3    |  51 - 65  |
 
+### Shields
+
+This table shows the Armor Rating for each shield type.
+
+Visit the [Parrying](../skills/combat/parrying.md) page for more information.
+
+=== "Normal"
+
+    |                         Shield Type                          | STR Required | AR  |  Item HP  |
+    |:------------------------------------------------------------:|:------------:|:---:|:---------:|
+    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |      15      |  7  |  41 - 51  |
+    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     |      5       |  8  |  21 - 23  |
+    |     ![icon](../assets/items/bronze-shield.png)<br>Bronze     |      20      | 10  |  26 - 30  |
+    |      ![icon](../assets/items/metal-shield.png)<br>Metal      |      10      | 11  |  36 - 44  |
+    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 16  | 101 - 115 |
+    |     ![icon](../assets/items/heater-shield.png)<br>Heater     |      30      | 23  |  31 - 37  |
+    |      ![icon](../assets/items/order-shield.png)<br>Order      |      0       | 30  | 101 - 115 |
+    |      ![icon](../assets/items/chaos-shield.png)<br>Chaos      |      0       | 32  | 101 - 115 |
+
+=== "GM Made"
+
+    |                         Shield Type                          | STR Required | AR  |  Item HP  |
+    |:------------------------------------------------------------:|:------------:|:---:|:---------:|
+    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |      15      |  8  |  41 - 51  |
+    |     ![icon](../assets/items/bronze-shield.png)<br>Bronze     |      20      | 12  |  26 - 30  |
+    |      ![icon](../assets/items/metal-shield.png)<br>Metal      |      10      | 13  |  36 - 44  |
+    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 19  | 101 - 115 |
+    |     ![icon](../assets/items/heater-shield.png)<br>Heater     |      30      | 27  |  31 - 37  |
+
+=== "Defense"
+
+    |                         Shield Type                          | STR Required | AR  |  Item HP  |
+    |:------------------------------------------------------------:|:------------:|:---:|:---------:|
+    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |      15      | 12  |  41 - 51  |
+    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     |      5       | 13  |  21 - 23  |
+    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 21  | 101 - 115 |
+
+=== "Guarding"
+
+    |                         Shield Type                          | STR Required | AR  |  Item HP  |
+    |:------------------------------------------------------------:|:------------:|:---:|:---------:|
+    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |      15      | 17  |  41 - 51  |
+    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     |      5       | 18  |  21 - 23  |
+    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 26  | 101 - 115 |
+
+=== "Hardening"
+
+    |                         Shield Type                          | STR Required | AR  |  Item HP  |
+    |:------------------------------------------------------------:|:------------:|:---:|:---------:|
+    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |      15      | 22  |  41 - 51  |
+    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     |      5       | 23  |  21 - 23  |
+    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 31  | 101 - 115 |
+
+=== "Fortification"
+
+    |                         Shield Type                          | STR Required | AR  |  Item HP  |
+    |:------------------------------------------------------------:|:------------:|:---:|:---------:|
+    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |      15      | 27  |  41 - 51  |
+    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     |      5       | 28  |  21 - 23  |
+    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 36  | 101 - 115 |
+
+=== "Invulnerability"
+
+    |                         Shield Type                          | STR Required | AR  |  Item HP  |
+    |:------------------------------------------------------------:|:------------:|:---:|:---------:|
+    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |      15      | 32  |  41 - 51  |
+    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     |      5       | 33  |  21 - 23  |
+    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 41  | 101 - 115 |
+
 ## Weapons
 
 These tables do not take into account the Strength, Dexterity and Tactics of the attacker or the Armor Rating of the defender.
@@ -562,69 +631,104 @@ Weapons are considered being at full durability.
 |       ![icon](../assets/items/crossbow.png)<br>Crossbow       |  ![icon](../assets/items/bolt.png)<br>Bolts  |      30      |  5d8+3<br>(8 - 43)  |   -   | 31 - 80  |
 | ![icon](../assets/items/heavy-crossbow.png)<br>Heavy Crossbow |  ![icon](../assets/items/bolt.png)<br>Bolts  |      40      | 5d10+6<br>(11 - 56) |   -   | 31 - 100 |
 
-## Shields
+## Resources
 
-This table shows the Armor Rating for each shield type.
+### Cotton
+
+|                             From                             |                           Get                            |
+|:------------------------------------------------------------:|:--------------------------------------------------------:|
+| ![icon](../../assets/items/cotton-plant.png)<br>Cotton Plant | ![icon](../../assets/items/cotton.png)<br>Bale of Cotton |
+|   ![icon](../../assets/items/flax-plant.png)<br>Flax Plant   |   ![icon](../../assets/items/flax.png)<br>Flax Bundle    |
+|       ![icon](../../assets/mobiles/sheep.png)<br>Sheep       |   ![icon](../../assets/items/wool.png)<br>Pile of Wool   |
+
+### Leather hides
+
+This list shows which animal and monster drop specific leather.
 
 === "Normal"
 
-    |                         Shield Type                          | AR  |
-    |:------------------------------------------------------------:|:---:|
-    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |  7  |
-    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     |  8  |
-    |     ![icon](../assets/items/bronze-shield.png)<br>Bronze     | 10  |
-    |      ![icon](../assets/items/metal-shield.png)<br>Metal      | 11  |
-    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite | 16  |
-    |     ![icon](../assets/items/heater-shield.png)<br>Heater     | 23  |
-    |      ![icon](../assets/items/order-shield.png)<br>Order      | 30  |
-    |      ![icon](../assets/items/chaos-shield.png)<br>Chaos      | 32  |
+    |                               Animal                               | Yield |
+    |:------------------------------------------------------------------:|:-----:|
+    |            ![icon](../../assets/mobiles/cat.png)<br>Cat            |   1   |
+    |        ![icon](../../assets/mobiles/gorilla.png)<br>Gorilla        |   1   |
+    |   ![icon](../../assets/mobiles/snow-leopard.png)<br>Snow Leopard   |   1   |
+    |     ![icon](../../assets/mobiles/polar-bear.png)<br>Polar Bear     |   3   |
+    |         ![icon](../../assets/mobiles/rabbit.png)<br>Rabbit         |   4   |
+    |      ![icon](../../assets/mobiles/grey-wolf.png)<br>Grey Wolf      |   6   |
+    |     ![icon](../../assets/mobiles/white-wolf.png)<br>White Wolf     |   6   |
+    |           ![icon](../../assets/mobiles/goat.png)<br>Goat           |   8   |
+    |           ![icon](../../assets/mobiles/hind.png)<br>Hind           |   8   |
+    |         ![icon](../../assets/mobiles/cougar.png)<br>Cougar         |  10   |
+    |          ![icon](../../assets/mobiles/horse.png)<br>Horse          |  10   |
+    |     ![icon](../../assets/mobiles/pack-horse.png)<br>Pack Horse     |  10   |
+    |        ![icon](../../assets/mobiles/cougar.png)<br>Panther         |  10   |
+    |     ![icon](../../assets/mobiles/black-bear.png)<br>Black Bear     |  12   |
+    |     ![icon](../../assets/mobiles/brown-bear.png)<br>Brown Bear     |  12   |
+    |            ![icon](../../assets/mobiles/cow.png)<br>Cow            |  12   |
+    | ![icon](../../assets/mobiles/llama.png)<br>Llama<br>Rideable Llama |  12   |
+    |      ![icon](../../assets/mobiles/goat.png)<br>Mountain Goat       |  12   |
+    |         ![icon](../../assets/mobiles/walrus.png)<br>Walrus         |  12   |
+    |           ![icon](../../assets/mobiles/bull.png)<br>Bull           |  15   |
+    |     ![icon](../../assets/mobiles/great-hart.png)<br>Great Hart     |  15   |
+    |    ![icon](../../assets/mobiles/brown-bear.png)<br>Grizzly Bear    |  16   |
 
-=== "GM Made"
+=== "Spined"
 
-    |                         Shield Type                          | AR  |
-    |:------------------------------------------------------------:|:---:|
-    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    |  8  |
-    |     ![icon](../assets/items/bronze-shield.png)<br>Bronze     | 12  |
-    |      ![icon](../assets/items/metal-shield.png)<br>Metal      | 13  |
-    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite | 19  |
-    |     ![icon](../assets/items/heater-shield.png)<br>Heater     | 27  |
+    |                                 Monster                                  | Yield |
+    |:------------------------------------------------------------------------:|:-----:|
+    |         ![icon](../../assets/mobiles/dire-wolf.png)<br>Dire Wolf         |   6   |
+    |               ![icon](../../assets/mobiles/imp.png)<br>Imp               |   6   |
+    |            ![icon](../../assets/mobiles/ratman.png)<br>Ratman            |   8   |
+    |           ![icon](../../assets/mobiles/hellcat.png)<br>Hellcat           |  10   |
+    |         ![icon](../../assets/mobiles/alligator.png)<br>Alligator         |  12   |
+    |        ![icon](../../assets/mobiles/giant-toad.png)<br>Giant Toad        |  12   |
+    |         ![icon](../../assets/mobiles/lizardman.png)<br>Lizardman         |  12   |
+    |       ![icon](../../assets/mobiles/lava-lizard.png)<br>Lava Lizard       |  14   |
+    | ![icon](../../assets/mobiles/giant-ice-serpent.png)<br>Giant Ice Serpent |  15   |
+    |     ![icon](../../assets/mobiles/giant-serpent.png)<br>Giant Serpent     |  15   |
+    |      ![icon](../../assets/mobiles/lava-serpent.png)<br>Lava Serpent      |  15   |
 
-=== "Defense"
+=== "Horned"
 
-    |                         Shield Type                          | AR  |
-    |:------------------------------------------------------------:|:---:|
-    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    | 12  |
-    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     | 13  |
-    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite | 21  |
+    |                                     Monster                                      | Yield |
+    |:--------------------------------------------------------------------------------:|:-----:|
+    | ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpent<br>Deep Sea Serpent |  10   |
+    |                 ![icon](../../assets/mobiles/drake.png)<br>Drake                 |  20   |
+    |                ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern                |  20   |
 
-=== "Guarding"
+=== "Barbed"
 
-    |                         Shield Type                          | AR  |
-    |:------------------------------------------------------------:|:---:|
-    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    | 17  |
-    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     | 18  |
-    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite | 26  |
+    |                            Monster                             | Yield |
+    |:--------------------------------------------------------------:|:-----:|
+    |    ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare    |  10   |
+    | ![icon](../../assets/mobiles/ancient-wyrm.png)<br>Ancient Wyrm |  20   |
+    |       ![icon](../../assets/mobiles/dragon.png)<br>Dragon       |  20   |
+    |  ![icon](../../assets/mobiles/shadow-wyrm.png)<br>Shadow Wyrm  |  20   |
+    |   ![icon](../../assets/mobiles/white-wyrm.png)<br>White Wyrm   |  20   |
 
-=== "Hardening"
+### Wood
 
-    |                         Shield Type                          | AR  |
-    |:------------------------------------------------------------:|:---:|
-    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    | 22  |
-    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     | 23  |
-    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite | 31  |
+Gathered with [Lumberjacking](../skills/resource-gathering/lumberjacking.md).
 
-=== "Fortification"
+| Skill |                         Boards                          |
+|:-----:|:-------------------------------------------------------:|
+|   0   | ![icon](../../assets/items/normal-boards.png)<br>Normal |
+|  65   |    ![icon](../../assets/items/oak-boards.png)<br>Oak    |
+|  80   |    ![icon](../../assets/items/ash-boards.png)<br>Ash    |
+|  95   |    ![icon](../../assets/items/yew-boards.png)<br>Yew    |
 
-    |                         Shield Type                          | AR  |
-    |:------------------------------------------------------------:|:---:|
-    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    | 27  |
-    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     | 28  |
-    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite | 36  |
+### Iron
 
-=== "Invulnerability"
+Gathered with [Mining](../skills/resource-gathering/mining.md).
 
-    |                         Shield Type                          | AR  |
-    |:------------------------------------------------------------:|:---:|
-    |    ![icon](../assets/items/buckler-shield.png)<br>Buckler    | 32  |
-    |     ![icon](../assets/items/wooden-shield.png)<br>Wooden     | 33  |
-    | ![icon](../assets/items/metal-kite-shield.png)<br>Metal Kite | 41  |
+| Skill |                               Iron                                | Spawn |
+|:-----:|:-----------------------------------------------------------------:|:-----:|
+|   0   |        ![icon](../../assets/items/iron-ingots.png)<br>Iron        |  50%  |
+|  65   | ![icon](../../assets/items/dull-copper-ingots.png)<br>Dull Copper | 11.2% |
+|  70   |      ![icon](../../assets/items/shadow-ingots.png)<br>Shadow      | 9.8%  |
+|  75   |      ![icon](../../assets/items/copper-ingots.png)<br>Copper      | 8.4%  |
+|  80   |      ![icon](../../assets/items/bronze-ingots.png)<br>Bronze      | 7.0%  |
+|  85   |      ![icon](../../assets/items/golden-ingots.png)<br>Golden      | 5.6%  |
+|  90   |     ![icon](../../assets/items/agapite-ingots.png)<br>Agapite     | 4.2%  |
+|  95   |      ![icon](../../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
+|  99   |    ![icon](../../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
