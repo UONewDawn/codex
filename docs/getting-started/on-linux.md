@@ -4,7 +4,7 @@ These steps have been tested on Ubuntu and Debian.
 
 !!! warning
     Many distros offer outdated versions of Wine that don't have the right tools for handling ClickOnce applications.
-    
+
     The automated setup script has been tested using the latest Wine-Staging version from winehq.org
     
     Wine setup steps will differ based on the specific OS version you are running. Refer to the guide in the below URL and modify these commands accordingly. The examples assume Noble (Ubuntu 24.04 / Linux Mint 22)
@@ -18,6 +18,7 @@ These steps have been tested on Ubuntu and Debian.
 ## System Prerequisites
 
 ### Enable 32-bit architecture support
+
 Wine needs 32-bit libraries even on a 64-bit system:
 
 ```bash
