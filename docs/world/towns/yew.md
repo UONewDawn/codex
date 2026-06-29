@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Yew: Rebirth Among the Trees
 
 When war swept through Yew, nature wasted no time reclaiming what remained. The ancient yew trees for which the settlement was named spread their roots through the rubble, their branches soon obscuring all signs of the town that once stood there. Within a generation, the forest had swallowed old Yew entirely.

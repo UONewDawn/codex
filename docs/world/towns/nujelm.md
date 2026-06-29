@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Nujel'm: Lost in the Veil of Mystery
 
 Nujel'm, once a vibrant island bustling with activity and commerce, met an enigmatic fate that has confounded all who seek its whereabouts. Inexplicably and without warning, the island vanished, leaving no trace behind. Its sudden disappearance became a haunting enigma, shrouded in an impenetrable veil of mystery.

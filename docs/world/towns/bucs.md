@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # The Infamous Alliance: Pirates and Gargoyles in Buccaneer's Den
 
 Situated on a remote island off the coast of Britannia, Buccaneer's Den stands as a testament to an era of lawlessness and chaos. This notorious haven for pirates and criminals emerged as a result of a dark alliance forged during the tumultuous days of the gargoyles' invasion.

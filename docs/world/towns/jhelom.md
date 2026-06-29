@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Jhelom: The Citadel of Valor, Embraced by Nature's Veil
 
 Deep within the Valorian Isles, lies the renowned town of Jhelom. A testament to bravery and martial prowess, Jhelom has long been a sanctuary for warriors, scholars of valor, and those in search of respite. Enclosed by a formidable wooden wall, the town stands as a bastion of strength, its defenses warding off the encroaching perils of the world.

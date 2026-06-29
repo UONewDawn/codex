@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Magincia: Rise and Resentment
 
 Magincia, once a modest fishing village, underwent a remarkable metamorphosis in the wake of the cataclysmic events that shaped Britannia's fate. After the devastating Codex War, the town seized the opportunity to ascend to prominence. With its considerable wealth and the support of the influential Council of Mages, Magincia embarked on an ambitious endeavor: the construction of a formidable wall shielding the town from the moongate. To further bolster their defenses, they employed a sizeable mercenary army comprising defectors from Britannia's protective forces.

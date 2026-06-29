@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # New Minoc: A Haven Within Crescent Mountain
 
 Upon receiving dire tidings of the Invasion of Cove, the inhabitants of Minoc wasted no time in fleeing their ancestral homes. Seeking safety and solace, they embarked on an exodus towards the protective embrace of Crescent Mountain, a majestic peak nestled in the northern reaches. Abandoning the desolate streets of Minoc, they left behind a ghost town, devoid of life.

@@ -3,12 +3,12 @@
 Thanks for giving New Dawn a look. Stepping into UO for the first time (or the first time in 25 years) can feel like a lot. It can be a bit overwhelming to where you might say, "nevermind" and log out.
 
 That's normal. UO has never been a "read one page and you're ready" kind of game, and we don't expect you to memorize this guide either.
- 
+
 Think of this as a handhold, not homework. Skim it, keep it open in a tab, and come back to whichever section you need when you need it. By the end you'll know enough to get your feet under you, find your way to Ocllo, and start your first character with a bit of confidence.
 
 ## Getting New Dawn installed
 
-If you need to install New Dawn, [jump over to the installation page](./installation.md). Obviously if you've completed this step, you can skip it.
+If you need to install New Dawn, [jump over to the installation page](on-windows.md). Obviously if you've completed this step, you can skip it.
 
 ## A few basics before you dive in
 
@@ -32,7 +32,7 @@ Type `[young` in game to join. Each account qualifies as long as it has under 12
 Upon entering the program you will be teleported to Ocllo.
 
 **Here's what you get as a Young player:**
- 
+
 - No item loss on death. All your gear stays in your backpack.
 - Auto-teleport to a safe healer when you die.
 - Monsters won't attack you unprovoked while you're in Ocllo.
@@ -81,7 +81,7 @@ Just Provo an Harpy to a Troll of the opposite cage.
 If you're not sure where to start, the Provo Dexxer is one of the friendliest templates for a new character.
 
 It doesn't lean on Magery for healing, so there's no need to stock reagents, which is good news since Magery is expensive to train early on. Instead, you'll gather cotton from around the world to make bandages, giving you free healing whenever you need it.
- 
+
 Provocation is extremely powerful on almost any template, and pairing it with a combat skill makes the build even more profitable.
 
 - Musicianship
@@ -103,7 +103,7 @@ Recall charges inside a runebook don't require magery. If you still want Magery 
 ### Don't stress over starting skills
 
 The skills you pick during character creation aren't all that important. You can train almost anything up to around 50 using gold alone, so there's no wrong way to start. You also have 3 accounts, with 5 characters each, so you can always try out different skills.
- 
+
 A handy trick: if you have other accounts, you can make characters on them just to funnel their starting gold toward your main, giving yourself a head start on early training.
   
 ### Starting stats
@@ -157,16 +157,16 @@ Once you've saved enough gold to train Magery, the Summoner is a strong next ste
 
 Again, that 7th slot really comes down to your own playstyle.
 
-For more detail, take a look at the [Spirit Speak](../game-mechanics/skills/magic/spirit-speak.md) page.
+For more detail, take a look at the [Spirit Speak](../skills/magic/spirit-speak.md) page.
 
 ## On training in general
 
 Every skill page goes deeper into how that skill works and how best to train it, so when you're ready to specialize, that's the place to look.
- 
+
 One thing worth keeping in mind: the closer you get to your skill cap, your skill gains may ever so slightly slow down. That's normal, not a sign you're doing something wrong. Keep at it!
 
 ## You're not alone in this
 
 If you get stuck, have a question, or just want to see what other players are up to, come hang out on [Discord](https://discord.gg/AStx3wYAPj). No question is too small, and you don't need to have it all figured out before you show up.
- 
+
 There are always player-driven events and training groups happy to help new folks get going, so don't be shy about jumping in.

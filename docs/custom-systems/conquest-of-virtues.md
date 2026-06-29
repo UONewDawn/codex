@@ -231,7 +231,7 @@ A: If neither faction lost more than 100 tickets by the end of the 60-minute bat
 
 ## Related Systems
 
-- [PvP & Murder System](../game-mechanics/pvp/index.md) - Conquest involves full PvP
+- PvP & Murder System - Conquest involves full PvP
 - [Guilds](../community/index.md) - Guild system information
 
 ## Patch History

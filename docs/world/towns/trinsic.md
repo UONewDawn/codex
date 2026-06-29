@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Trinsic: Honor Reforged
 
 Before the war, Trinsic stood as one of Britannia's proudest cities, its battlements guarding a jewel of civilization along the southern coast. The town was built on honor, and its people lived by that virtue in everything they did.

@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Hues
 
 Browse all available hues on New Dawn. Use the search box to find specific hue IDs, or adjust the number of results per page.

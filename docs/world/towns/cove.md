@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Cove: The Betrayal and the Orcish Conquest
 
 Cove, once a flourishing settlement nestled within the protective embrace of a majestic mountain range, fell victim to treachery and a devastating orcish invasion during the early days of the gargoyles' onslaught.

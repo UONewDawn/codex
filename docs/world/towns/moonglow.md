@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Moonglow: The Transformation of the Lycaeum
 
 In the aftermath of the grueling conflict against the Shadowlords, Moonglow found itself in a precarious state of recovery when unsettling rumors began to circulate. Whispers of an imminent gargoyle invasion reached the city, sending waves of concern through its weary inhabitants. As the gravity of the situation unfolded, a crucial decision had to be made.

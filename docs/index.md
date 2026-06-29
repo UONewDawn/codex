@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # New Dawn Codex
 
 Welcome to the **New Dawn Codex**, your comprehensive guide to the world of New Dawn.
@@ -12,7 +17,7 @@ Veterans will recognize the familiar rhythms of classic UO, but with enough fres
 
 We've found the sweet spot between tradition and evolution—more authentic than contemporary shards, yet more polished than a rigid time capsule. Best of all, New Dawn is completely free-to-play with zero pay-to-win mechanics. Just pure Ultima Online as it was meant to be experienced.
 
-## Quick Links
+<!-- ## Quick Links
 
 <div class="grid cards" markdown>
 
@@ -38,7 +43,7 @@ We've found the sweet spot between tradition and evolution—more authentic than
 
     Discover towns, dungeons, and the geography of our realm.
 
-    [:octicons-arrow-right-24: Explore the World](world/index.md)
+    [:octicons-arrow-right-24: Explore the World](world/new-dawn.md)
 
 -   :material-shield:{ .lg .middle } __Items & Equipment__
 
@@ -46,9 +51,9 @@ We've found the sweet spot between tradition and evolution—more authentic than
 
     Browse weapons, armor, resources, and special items.
 
-    [:octicons-arrow-right-24: View Items](items/index.md)
+    [:octicons-arrow-right-24: View Items](items-and-equipment.md)
 
-</div>
+</div> -->
 
 ## Latest Updates
 

@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Ocllo: Fortified by Vision and Resilience
 
 In the months preceding the relentless gargoyle invasion, a harbinger of fate emerged in the form of Penumbra, known as the Daughter of the Eclipse. She graced the shores of Ocllo with a forewarning of the impending doom. Moved by her words, the City Council of Ocllo swiftly took action, approving a crucial measure that would alter the city's destiny.

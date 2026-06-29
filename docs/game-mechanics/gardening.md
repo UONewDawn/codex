@@ -18,7 +18,7 @@ Once planted, the pot needs to be **locked down in your house** or carried in yo
 ### Growth Checks
 
 | Location                    | Frequency                 | Notes                                 |
-| --------------------------- | ------------------------- | ------------------------------------- |
+|-----------------------------|---------------------------|---------------------------------------|
 | Locked down in a house      | Once per day at server up | Plant will sicken if left untended    |
 | Character's backpack        | Every 23 hours            | Only while the character is logged in |
 | Secure container / bank box | Never                     | Plant will neither grow nor sicken    |
@@ -56,7 +56,7 @@ There are **17 breedable plant types** arranged across four generations. Higher 
 ### Generation 1
 
 | Plant            |
-| ---------------- |
+|------------------|
 | Tribarrel Cactus |
 | Fern             |
 | Campion Flowers  |
@@ -64,14 +64,14 @@ There are **17 breedable plant types** arranged across four generations. Higher 
 ### Generation 2
 
 | Plant       | Parents                 |
-| ----------- | ----------------------- |
+|-------------|-------------------------|
 | Water Plant | Tribarrel Cactus × Fern |
 | Lilies      | Campion Flowers × Fern  |
 
 ### Generation 3
 
 | Plant               | Parents                        |
-| ------------------- | ------------------------------ |
+|---------------------|--------------------------------|
 | Prickly Pear Cactus | Tribarrel Cactus × Water Plant |
 | Small Palm          | Water Plant × Fern             |
 | Rushes              | Lilies × Fern                  |
@@ -80,7 +80,7 @@ There are **17 breedable plant types** arranged across four generations. Higher 
 ### Generation 4
 
 | Plant         | Parents                                |
-| ------------- | -------------------------------------- |
+|---------------|----------------------------------------|
 | Barrel Cactus | Tribarrel Cactus × Prickly Pear Cactus |
 | Snake Plant   | Water Plant × Prickly Pear Cactus      |
 | Century Plant | Water Plant × Small Palm               |
@@ -111,32 +111,32 @@ Each of the 17 breedable plants has an assigned number. Add the two parent numbe
 
 **Example:** Prickly Pear Cactus (3) × Ponytail Palm (8) = 11 ÷ 2 = 5.5 → offspring is either a Water Plant (5) or a Century Plant (6).
 
-| #   | Plant               |
-| --- | ------------------- |
-| 1   | Tribarrel Cactus    |
-| 2   | Barrel Cactus       |
-| 3   | Prickly Pear Cactus |
-| 4   | Fern                |
-| 5   | Water Plant         |
-| 6   | Century Plant       |
-| 7   | Small Palm          |
-| 8   | Ponytail Palm       |
-| 9   | Snake Plant         |
-| 10  | Elephant Ears       |
-| 11  | Campion Flowers     |
-| 12  | Lilies              |
-| 13  | Snowdrops           |
-| 14  | Rushes              |
-| 15  | Pampas Grass        |
-| 16  | Bulrushes           |
-| 17  | Poppies             |
+| #  | Plant               |
+|----|---------------------|
+| 1  | Tribarrel Cactus    |
+| 2  | Barrel Cactus       |
+| 3  | Prickly Pear Cactus |
+| 4  | Fern                |
+| 5  | Water Plant         |
+| 6  | Century Plant       |
+| 7  | Small Palm          |
+| 8  | Ponytail Palm       |
+| 9  | Snake Plant         |
+| 10 | Elephant Ears       |
+| 11 | Campion Flowers     |
+| 12 | Lilies              |
+| 13 | Snowdrops           |
+| 14 | Rushes              |
+| 15 | Pampas Grass        |
+| 16 | Bulrushes           |
+| 17 | Poppies             |
 
 ### Color Mixing
 
 Colors combine like paint. Crossing two plants of **different** colors always produces a **dull** result; crossing two plants of the **same** color produces a **bright** version.
 
 |            | Red        | Blue        | Yellow        | Purple        | Green        | Orange        | Plain |
-| ---------- | ---------- | ----------- | ------------- | ------------- | ------------ | ------------- | ----- |
+|------------|------------|-------------|---------------|---------------|--------------|---------------|-------|
 | **Red**    | Bright Red | Purple      | Orange        | Red           | Red          | Red           | Plain |
 | **Blue**   | Purple     | Bright Blue | Green         | Blue          | Blue         | Blue          | Plain |
 | **Yellow** | Orange     | Green       | Bright Yellow | Yellow        | Yellow       | Yellow        | Plain |
@@ -169,7 +169,7 @@ Tracks days 1–9. The plant reaches maturity at **day 7** (pollen becomes avail
 #### Growth Result (Top Right)
 
 | Icon     | Meaning                             |
-| -------- | ----------------------------------- |
+|----------|-------------------------------------|
 | Red !    | Plant is in an invalid location     |
 | Red −    | Plant is unhealthy and did not grow |
 | Yellow − | Growth check hasn't happened yet    |
@@ -181,7 +181,7 @@ Tracks days 1–9. The plant reaches maturity at **day 7** (pollen becomes avail
 Apply water each cycle using a **jug of water** in your backpack:
 
 | Status   | Meaning           | Action                        |
-| -------- | ----------------- | ----------------------------- |
+|----------|-------------------|-------------------------------|
 | Yellow − | Needs water       | Click jug icon once           |
 | Red −    | Very thirsty      | Click jug icon twice          |
 | +        | Correctly watered | Nothing needed                |
@@ -192,7 +192,7 @@ Apply water each cycle using a **jug of water** in your backpack:
 Treat with **Greater Poison Potions** in your backpack:
 
 | Icon     | Severity | Clicks Required |
-| -------- | -------- | --------------- |
+|----------|----------|-----------------|
 | Yellow + | Minor    | 1               |
 | Red +    | Severe   | 2               |
 
@@ -201,7 +201,7 @@ Treat with **Greater Poison Potions** in your backpack:
 Treat with **Greater Cure Potions** in your backpack:
 
 | Icon     | Severity | Clicks Required |
-| -------- | -------- | --------------- |
+|----------|----------|-----------------|
 | Yellow + | Minor    | 1               |
 | Red +    | Severe   | 2               |
 
@@ -231,7 +231,7 @@ Removed during seed or sapling stage: the seed is returned to your backpack alon
 #### Pollination State
 
 | Symbol  | Meaning                                        |
-| ------- | ---------------------------------------------- |
+|---------|------------------------------------------------|
 | −       | Not yet producing pollen (below day 7)         |
 | Red X   | Cannot be cross-pollinated                     |
 | Red !   | Pollen available — ready to collect or receive |

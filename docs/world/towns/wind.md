@@ -1,4 +1,9 @@
-## Wind - The Sealed Sanctum
+---
+hide:
+  - toc
+---
+
+# Wind - The Sealed Sanctum
 
 As war's dark tide approached Britannia's shores, the reclusive mages of Wind took drastic steps to protect their isolated sanctuary. Already wary of outsiders, Wind's elders invoked powerful magics to seal off access to their mountainous domain.
 

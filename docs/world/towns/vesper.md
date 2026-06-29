@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Vesper: The Sunken Sanctuary
 
 Before the war, Vesper was a thriving sea town, its fertile shores and island streets home to merchants, fishermen, and families who built their lives around the harbor. When word of the invasion spread, most residents fled westward, hoping to find safety deeper inland. Those who stayed behind prepared for siege, fortifying what they could and bracing for the fight to come.

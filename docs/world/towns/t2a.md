@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Delucia and Papua: Sealed Realms of Britannia's Lost Souls
 
 In the dire days of Britannia's invasion, when chaos and terror plagued the land, Delucia and Papua emerged as havens of refuge for countless fleeing citizens. As the relentless storm of war raged on, these two towns provided sanctuary to those desperately seeking safety. However, the fates of Delucia and Papua took an unforeseen turn when the Avatar, in a moment of profound sacrifice, shattered the Codex of Ultimate Wisdom.

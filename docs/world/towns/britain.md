@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # New Britain: Remnants of a Fallen Capital
 
 Once a beacon of power and prosperity, the illustrious town of Britain, Britannia's former capital and largest city, now lies in ruins. The invasion that swept across the land left no corner untouched, and Britain bore the brunt of its destructive force. The once majestic Castle Britannia, a symbol of Britannian might, stands as a haunting shell of its former glory.
