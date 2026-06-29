@@ -6,6 +6,8 @@
 
 Alchemy allows you to craft a variety of potions using reagents.
 
+Starting items if you choose this skill in character creation: Robe, Mortar & Pestle, Bottles.
+
 ## Tools
 
 In order to start crafting, you will need a Mortar and pestle, you can purchase one from alchemist vendors.

@@ -10,6 +10,8 @@ Once you reach 100 and become a Grand Master, you will be able to see and commun
 
 When combined with Animal Lore, your summons will also be stronger.
 
+Starting items if you choose this skill in character creation: Cloak.
+
 ## Summoning chance
 
 Once you use Spirit Speak and establish contact with the netherworld, its effect will last around 3 minutes.

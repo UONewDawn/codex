@@ -8,6 +8,8 @@ Mining allows you to extract ore from mountainsides and rocky areas, essential f
 
 To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 
+Starting items if you choose this skill in character creation: Pickaxe.
+
 ## Types of iron
 
 | Skill |                               Iron                                | Spawn |

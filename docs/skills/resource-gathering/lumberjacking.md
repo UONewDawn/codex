@@ -8,6 +8,8 @@ Lumberjacking allows you to chop trees for logs and provides a damage bonus when
 
 To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 
+Starting items if you choose this skill in character creation: Hatchet.
+
 ## Types of wood
 
 | Skill |                         Boards                          |

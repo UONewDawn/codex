@@ -8,6 +8,8 @@ Fishing allows you to catch fish from any body of water, beyond basic fish for f
 
 To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 
+Starting items if you choose this skill in character creation: Fishing Pole, Floppy Hat.
+
 ## Catches
 
 This table shows what can be fished up.

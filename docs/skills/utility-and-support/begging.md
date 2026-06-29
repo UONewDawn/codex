@@ -8,6 +8,8 @@ Begging allows you to ask NPCs for gold. While not a combat or crafting skill, i
 
 Begging negatively affects your karma.
 
+Starting items if you choose this skill in character creation: Gnarled Staff.
+
 ## Training
 
 Repeatedly beg NPCs until reaching 100.

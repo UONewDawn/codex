@@ -8,6 +8,8 @@ Provocation is one of the most powerful skills in the game, by using it you have
 
 To use Provocation, you need instruments and Musicianship to play them.
 
+Starting items if you choose this skill in character creation: Random Instrument.
+
 ## How it works
 
 Provocation remembers the last instrument used. Use the skill, then target the two creatures you want to provoke.

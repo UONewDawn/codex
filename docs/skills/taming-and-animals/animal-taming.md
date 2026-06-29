@@ -6,6 +6,8 @@
 
 Animal Taming allows you to befriend wild creatures and command them in combat.
 
+Starting items if you choose this skill in character creation: Shepherds Crook.
+
 ## Stable slots
 
 The amount of available stable slots is determined by the total Animal Taming, Animal Lore and Veterinary of the player, for a max of 30 slots.

@@ -8,6 +8,8 @@ Cartography allows you to draw maps of various regions and decode treasure maps.
 
 Cartography is also essential for Archaeology content, needed to decipher map fragments.
 
+Starting items if you choose this skill in character creation: Sextant, Blank Maps.
+
 ## Draw maps
 
 Use the skill on a blank map to choose its scale. Higher skill allows larger scales. If the attempt succeeds, the map is filled-in based on your current location.

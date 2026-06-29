@@ -6,6 +6,8 @@
 
 Parrying is a defensive skill that gives you a chance to absorb damage with your shield.
 
+Starting items if you choose this skill in character creation: Wooden Shield.
+
 ## How it works
 
 If you are wearing a shield, each time you get hit, you have a chance to parry the attack and absorb some of the damage.

@@ -8,6 +8,8 @@ Hiding allows you to become invisible to players and monsters.
 
 Often paired with Stealth for movement.
 
+Starting items if you choose this skill in character creation: Cloak.
+
 ## Effects
 
 Crossing paths with someone hidden will give a message "Being perfectly rested, you shove something invisible out of the way."

@@ -10,6 +10,8 @@ It will also reduce the creature skills and stats, and apply a bonus chance of s
 
 To use Discordance, you need instruments and Musicianship to play them.
 
+Starting items if you choose this skill in character creation: Random Instrument.
+
 ## Training
 
 Train from Bard NPCs to reach around 50.

@@ -8,6 +8,8 @@ Tracking allows you to detect and locate creatures, NPCs, and players within a r
 
 At GM Tracking, you can track up to 100 tiles away, 50 tiles within a dungeon.
 
+Starting items if you choose this skill in character creation: Boots, Skinning Knife.
+
 ## Detecting Hidden
 
 Players that have both Tracking and Detecting Hidden have a chance at tracking hidden players.

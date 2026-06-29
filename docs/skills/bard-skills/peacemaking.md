@@ -8,6 +8,8 @@ Peacemaking, if successful, will stop all nearby creatures in place and prevent 
 
 To use Peacemaking, you need instruments and Musicianship to play them.
 
+Starting items if you choose this skill in character creation: Random Instrument.
+
 ## Training
 
 Train from Bard NPCs to reach around 50.

@@ -6,6 +6,8 @@
 
 Camping allows you to set up a campfire in the wilderness, providing a safe resting spot and logout protection. Useful for adventurers who spend time far from towns.
 
+Starting items if you choose this skill in character creation: Bedroll, Kindling.
+
 ## Fire
 
 To make a fire double click a pile of Kindling, if successful, you will get a message "The camp is now secure".

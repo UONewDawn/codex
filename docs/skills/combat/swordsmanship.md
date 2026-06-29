@@ -8,6 +8,8 @@ Swordsmanship is the mastery of bladed weapons, it allows you to use a great var
 
 Higher combat skill makes you less likely to be hit.
 
+Starting items if you choose this skill in character creation: Swords Weapon.
+
 ## Lumberjacking bonus
 
 Lumberjacking gives you bonus damage when using two handed axes.

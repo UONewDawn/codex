@@ -6,6 +6,8 @@
 
 Tinkering allows you to craft various tools and mechanical items including lockpicks.
 
+Starting items if you choose this skill in character creation: Tinker Tools, Tinker Parts.
+
 ## Tools
 
 In order to start crafting, you will need a Tinker tool, you can purchase one from tinker vendors.

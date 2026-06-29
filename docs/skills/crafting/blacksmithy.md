@@ -6,6 +6,8 @@
 
 Blacksmithy allows you to craft and repair metal weapons and armors.
 
+Starting items if you choose this skill in character creation: Half Apron, Pickaxes, Tongs, Iron Ingots.
+
 ## Tools
 
 In order to start crafting, you will need Tongs or a Smith's Hammer, you can purchase them from blacksmith vendors.

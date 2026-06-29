@@ -8,6 +8,8 @@ Inscription allows you to craft spell scrolls, spellbooks, and runebooks.
 
 It also enhances the effectiveness of spells like Reactive Armor, Magic Reflection, and Protection.
 
+Starting items if you choose this skill in character creation: Book, Blank Scrolls.
+
 ## Tools
 
 In order to start crafting, you will need a scribe pen. You can purchase one from mage vendors.

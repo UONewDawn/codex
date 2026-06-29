@@ -10,6 +10,8 @@ It helps controlling pets and increases the amount of health you can heal with V
 
 Whe combined with Spirit Speak, your summons will be stronger.
 
+Starting items if you choose this skill in character creation: Robe, Shepherds Crook.
+
 ## Training
 
 Train from Animal trainer NPCs to reach around 50.

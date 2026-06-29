@@ -10,6 +10,8 @@ Combining Evaluating Intelligence with Magery will boost the damage of your spel
 
 Casting spells consumes mana, is a good idea to combine Magery with Meditation.
 
+Starting items if you choose this skill in character creation: Wizards Hat, Robe, Spellbook, Bag of Reagents, 3 Random Scrolls.
+
 ## Spells
 
 Each Spell Circle adds 0.5 seconds of casting time. For example, a spell from Circle 1 takes 0.5 second to cast, while a spell from Circle 2 takes 1 second to cast, and so on.

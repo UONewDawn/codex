@@ -8,6 +8,8 @@ Wrestling lowers the chances of being physically hit, is most used by mages as a
 
 It's also used to calculate the chance of hitting with your bare hands.
 
+Starting items if you choose this skill in character creation: Leather Gloves.
+
 ## Stun Punch
 
 Combining at least 80 Wrestling with 80 Anatomy allows you to use the Stun Punch special ability.

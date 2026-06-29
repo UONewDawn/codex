@@ -10,6 +10,8 @@ It focuses on speed rather than damage, it's often paired with Poisoning to incr
 
 Higher combat skill makes you less likely to be hit.
 
+Starting items if you choose this skill in character creation: Fencing Weapon.
+
 ## Weapons
 
 This table doesn't take into account the Strength, Dexterity and Tactics of the attacker or the Armor Rating of the defender.

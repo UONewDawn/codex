@@ -10,6 +10,8 @@ Maces and War Maces can deplete the target stamina.
 
 Higher combat skill makes you less likely to be hit.
 
+Starting items if you choose this skill in character creation: Macing Weapon.
+
 ## Weapons
 
 This table doesn't take into account the Strength, Dexterity and Tactics of the attacker or the Armor Rating of the defender.

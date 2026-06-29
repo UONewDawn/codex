@@ -6,6 +6,8 @@
 
 Detecting Hidden allows you to reveal hidden players and trapped containers.
 
+Starting items if you choose this skill in character creation: Cloak.
+
 ## Hidden players
 
 Higher skill means better chance of revealing hidden players, event at GM, a GM Hidder will still have a chance of escaping detection.

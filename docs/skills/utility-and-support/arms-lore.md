@@ -8,6 +8,8 @@ Arms Lore allows you to inspect weapons and armor, revealing their condition and
 
 Use the skill on an item and a message will display.
 
+Starting items if you choose this skill in character creation: Random Weapon.
+
 ## Condition
 
 This table shows the current health of the item before it breaks.

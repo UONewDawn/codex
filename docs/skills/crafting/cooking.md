@@ -6,6 +6,8 @@
 
 Cooking allows you to craft various foods from raw ingredients.
 
+Starting items if you choose this skill in character creation: Kindling, Raw Birds, Sack of Flour, Pitcher.
+
 ## Tools
 
 In order to start crafting, you will need either a Skillet, Rolling pin or a Flour Sifter, you can purchase these from cook vendors.

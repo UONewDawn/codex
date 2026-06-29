@@ -6,6 +6,8 @@
 
 Musicianship is required to successfully use instruments and barding skills like Provocation, Discordance and Peacemaking.
 
+Starting items if you choose this skill in character creation: Random Instrument.
+
 ## Exceptional instruments
 
 Exceptional instruments can be crafted by a carpenter with enough Musicianship.

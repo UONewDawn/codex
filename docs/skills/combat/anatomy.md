@@ -10,6 +10,8 @@ When combined with Healing, it increases how much you heal with bandages.
 
 When combined with Evaluating Intelligence, they function as a passive Wrestling further enhancing your combat effectiveness.
 
+Starting items if you choose this skill in character creation: Robe, Bandages.
+
 ## Damage bonus
 
 Every 10 points of Anatomy add a 2% increase to all physical damage, up to a maximum of 20% at GM.

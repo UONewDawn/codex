@@ -6,6 +6,8 @@
 
 Tailoring allows you to craft clothing and leather armors.
 
+Starting items if you choose this skill in character creation: Sewing Kit, Bolt of Cloth.
+
 ## Tools
 
 In order to start crafting, you will need a Sewing kit, you can purchase one from tailor vendors.

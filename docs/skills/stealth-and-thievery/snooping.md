@@ -8,6 +8,8 @@ Snooping allows you to look inside another player's backpack without their permi
 
 Used by thieves to identify valuable targets before stealing.
 
+Starting items if you choose this skill in character creation: Lockpicks.
+
 ## Training
 
 Train from Thief NPCs to reach around 50.

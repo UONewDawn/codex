@@ -6,6 +6,8 @@
 
 Healing must be paired with Anatomy to be effective, you can heal wounds, poison and even resurrect others with the use of bandages.
 
+Starting items if you choose this skill in character creation: Scissors, Bandages.
+
 ## Requirements
 
 A minimum of 60 in both Healing and Anatomy will give you a 80% chance to cure poison.

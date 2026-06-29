@@ -10,6 +10,8 @@ If you are not in the Thieves guild you can only steal from NPCs, guild mates, o
 
 The higher the armor rating you wear, the harder it is to steal.
 
+Starting items if you choose this skill in character creation: Lockpicks.
+
 ## Thieves guild
 
 You can join the Thieves guild by using the command `[NPC name] join` and paying a fee of 5.000 gold to a Grandmaster Thief NPC.

@@ -8,6 +8,8 @@ Archery allows you to fight from a distance using bows and crossbows, this skill
 
 To help make Archers more viable, the shooting delay was reduced to 500ms and the Snare ability was added.
 
+Starting items if you choose this skill in character creation: Bow, Arrows.
+
 <!-- Not clear if all weapons have the same delay between shots -->
 
 ## Weapons and ammo

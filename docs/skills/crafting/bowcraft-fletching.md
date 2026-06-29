@@ -6,6 +6,8 @@
 
 Bowcraft/Fletching allows you to craft ranged weapons and ammunition, essential for archers.
 
+Starting items if you choose this skill in character creation: Boards, Feathers, Shafts.
+
 ## Tools
 
 In order to start crafting, you will need an Arrow Fletching tool, you can purchase one from bowyers vendors.

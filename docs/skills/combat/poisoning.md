@@ -8,6 +8,8 @@ Poisoning allows you to apply various levels of poison to weapons or enhance the
 
 It's often paired with Fencing, since all weapons used with that skill are fast and benefit from quick, repeated strikes.
 
+Starting items if you choose this skill in character creation: Lesser Poison Potions.
+
 ## How to apply
 
 Use the Poisoning skill, target the poison potion and then target the desired weapon.

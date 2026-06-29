@@ -8,6 +8,8 @@ Item Identification allows you to reveal the magical properties of unidentified 
 
 Use the skill then click the item you want to identify, at GM you can also identify all the contents of a bag or a corpse at once.
 
+Starting items if you choose this skill in character creation: Gnarled Staff.
+
 ## Magical properties
 
 For a detailed list of all the Magical properties visit the [Items & Equipment](../../game-mechanics/items-and-equipment.md) page.

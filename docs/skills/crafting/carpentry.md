@@ -6,6 +6,8 @@
 
 Carpentry allows you to craft wooden furniture and instruments.
 
+Starting items if you choose this skill in character creation: Half Apron, Saw, Boards.
+
 ## Tools
 
 In order to start crafting, you will need a Saw tool, you can purchase one from carpenters vendors.

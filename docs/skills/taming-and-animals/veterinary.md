@@ -10,6 +10,8 @@ Also helps increasing your stable slots.
 
 At 60 you will be able to cure poison and at 80 to resurrect pets.
 
+Starting items if you choose this skill in character creation: Scissors, Bandages.
+
 ## Training
 
 Train from Animal trainer NPCs to reach around 50.
