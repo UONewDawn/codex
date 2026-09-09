@@ -44,6 +44,7 @@ This table shows what can be fished up.
     | ![icon](../../assets/items/blue-spotted-stingray.png)<br>Blue-Spotted Stingray |
     |   ![icon](../../assets/items/blue-yellow.chromis.png)<br>Blue/Yellow Chromis   |
     |           ![icon](../../assets/items/brook-trout.png)<br>Brook Trout           |
+    |         ![icon](../../assets/items/captain-snook.png)<br>Captain Snook         |
     |      ![icon](../../assets/items/cherub-angelfish.png)<br>Cherub Angelfish      |
     |     ![icon](../../assets/items/clown-triggerfish.png)<br>Clown Triggerfish     |
     |             ![icon](../../assets/items/clownfish.png)<br>Clownfish             |
@@ -51,6 +52,7 @@ This table shows what can be fished up.
     |            ![icon](../../assets/items/cuttlefish.png)<br>Cuttlefish            |
     |     ![icon](../../assets/items/emperor-angelfish.png)<br>Emperor Angelfish     |
     |          ![icon](../../assets/items/fiddler-crab.png)<br>Fiddler Crab          |
+    |          ![icon](../../assets/items/gray-snapper.png)<br>Gray Snapper          |
     |         ![icon](../../assets/items/green-catfish.png)<br>Green Catfish         |
     |               ![icon](../../assets/items/haddock.png)<br>Haddock               |
     |        ![icon](../../assets/items/horseshoe-crab.png)<br>Horseshoe Crab        |

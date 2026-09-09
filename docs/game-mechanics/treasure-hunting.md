@@ -93,13 +93,13 @@ The reward chest from [Pirate Adventures](../custom-systems/pirate-adventures.md
 
 Single-clicking the map will show its description, which indicates the map level.
 
-|  Level  |  Map Description  |
-|:-------:|:-----------------:|
-| Level 1 |   Plainly Drawn   |
-| Level 2 |  Expertly Drawn   |
-| Level 3 |   Adeptly Drawn   |
-| Level 4 |  Cleverly Drawn   |
-| Level 5 |  Deviously Drawn  |
+| Level   | Map Description   |
+|---------|-------------------|
+| Level 1 | Plainly Drawn     |
+| Level 2 | Expertly Drawn    |
+| Level 3 | Adeptly Drawn     |
+| Level 4 | Cleverly Drawn    |
+| Level 5 | Deviously Drawn   |
 | Level 6 | Ingeniously Drawn |
 
 ## Decoding the map

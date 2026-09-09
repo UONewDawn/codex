@@ -59,28 +59,17 @@ Creatures drop more gold and loot.
 
 Creatures have a rare chance to drop dungeon-themed [dye materials](dungeon-dyes.md) and rare monster statues.
 
-| Tier                  | Kills       | Effect                                                   |
-|-----------------------|-------------|----------------------------------------------------------|
-| Tier 1 - Dye Material | 0 kills     | Creatures may drop the dungeon's signature dye material. |
-| Tier 2 - Rare Statues | 2,500 kills | Creatures may also drop rare monster statues.            |
-| Tier 3 - Statue Surge | 5,000 kills | An extra statue drop roll is granted on every kill.      |
+| Tier                  | Kills       | Effect                                                       |
+|-----------------------|-------------|--------------------------------------------------------------|
+| Tier 1 - Dye Material | 0 kills     | Creatures may drop the dungeon's signature dye material.     |
+| Tier 2 - Rare Statues | 2,500 kills | Creatures have an increased chance to drop their own statue. |
+| Tier 3 - Statue Surge | 5,000 kills | An extra statue drop roll is granted on every kill.          |
 
-#### Monster statues
+#### Statues
 
-This table shows which monsters drop their statue during Collector's Week.
+All monsters and animals have a chance to drop their own statue, and an even rarer chance for that statue to be bronze.
 
-|  Monster Statues   |                    |                  |                 |                  |                 |
-|:------------------:|:------------------:|:----------------:|:---------------:|:----------------:|:---------------:|
-|   Air Elemental    |       Balron       |      Birds       |   Black Bear    |    Bull Frog     |       Cow       |
-|       Daemon       | Devourer of Souls  |      Dragon      | Earth Elemental |      Efreet      |      Ettin      |
-|     Evil Mage      |   Fire Elemental   |  Forest Ostard   | Frenzied Ostard |     Gargoyle     |      Gazer      |
-|     Giant Toad     |      Gorilla       |   Grizzly Bear   |      Harpy      |     Harrower     |  Headless One   |
-|       Horse        |        Lich        |    Lizardman     |      Llama      |     Mongbat      |      Ogre       |
-| Ophidian Arch Mage |  Ophidian Knight   |  Ophidian Mage   | Ophidian Queen  | Ophidian Warrior |       Orc       |
-|       Pixie        |    Plague Beast    |    Polar Bear    |       Rat       |      Ratman      |     Reapers     |
-|      Scorpion      |    Sea Serpent     |     Skeleton     |      Slime      |      Spider      | Stone Gargoyle  |
-|   Terathan Drone   | Terathan Matriarch | Terathan Warrior |      Titan      |      Troll       | Water Elemental |
-|        Wolf        |       Zombie       |                  |                 |                  |                 |
+During Collector's Week, the drop rates are increased.
 
 ### Rift Surge
 
@@ -97,6 +86,8 @@ For more information visit the [Codex Rifts](codex-rifts.md) page.
 ### Scholar's Week
 
 Skill gains are enhanced inside the dungeon. The bonus builds up across tiers.
+
+Scholar's Week provides bonus gains to every skill, even crafting ones.
 
 | Tier                | Kills       | Effect                                             |
 |---------------------|-------------|----------------------------------------------------|

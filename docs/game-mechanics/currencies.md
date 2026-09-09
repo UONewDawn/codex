@@ -338,6 +338,7 @@ For more information visit the [Beekeeping](../custom-systems/beekeeping.md) pag
     |                               Clothing                               |              Hue               |
     |:--------------------------------------------------------------------:|:------------------------------:|
     |   ![icon](../assets/items/beekeepers-mask.png)<br>Beekeeper's Mask   | [2996](../hues/hue.md?id=2996) |
+    |  ![icon](../assets/items/beekeepers-mask-2.png)<br>Beekeeper's Mask  | [2996](../hues/hue.md?id=2996) |
     | ![icon](../assets/items/beekeepers-jacket.png)<br>Beekeeper's Jacket | [2996](../hues/hue.md?id=2996) |
     |  ![icon](../assets/items/beekeepers-pants.png)<br>Beekeeper's Pants  | [2996](../hues/hue.md?id=2996) |
     | ![icon](../assets/items/beekeepers-gloves.png)<br>Beekeeper's Gloves | [2996](../hues/hue.md?id=2996) |

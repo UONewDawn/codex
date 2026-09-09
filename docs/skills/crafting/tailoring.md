@@ -318,12 +318,12 @@ You have a 50% chance to roll 1 of 4 hanging clothes. The other 50% will roll 1 
 | Tier |  Ore Type   | Hue ID |
 |:----:|:-----------:|-------:|
 |  1   | Shadow Iron |   2406 |
-|  1   |    Gold     |   2413 |
+|  1   |    Gold     |   2213 |
 |  1   |  Valorite   |   2219 |
 |  2   |   Agapite   |   2425 |
 |  2   |   Verite    |   2207 |
 |  3   | Dull Copper |   2419 |
-|  3   |   Copper    |   2213 |
+|  3   |   Copper    |   2413 |
 |  3   |   Bronze    |   2418 |
 
 #### Regular Mask Dyes

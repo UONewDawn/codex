@@ -30,6 +30,7 @@ New Dawn builds on the classic Ultima Online foundation while introducing meanin
 - Runebooks can be blessed using [Codex fragments](../custom-systems/codex-rifts.md#codex-fragments) and [Codex Bindings](../skills/crafting/alchemy.md#codex-binding).
 - To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 - Instead of Dex penalty when wearing armor, you instead lose stamina when taking melee damage, based on the armor you're wearing.
+- All monsters and animals have a chance to drop their own statue, and an even rarer chance for that statue to be bronze.
 
 ## Custom Systems
 
@@ -56,7 +57,7 @@ The Smuggler has unlimited restock, but their prices are slightly higher.
 
 - 500 Reagents for 2.500 gold - 5 gold each instead of 3
 - 500 Arrows for 3.000 gold - 6 gold each instead of 5
-- 500 Bolts for 2.500 gold - 5 each same as regular vendor
+- 500 Bolts for 2.500 gold - 6 gold each instead of 5
 - 250 Bandages for 1.750 gold - 7 gold each instead of 5
 - 500 Blank Scrolls for 2.500 gold - 5 gold each instead of 3
 - 50 Empty Bottles for 350 gold - 7 gold each instead of 5
