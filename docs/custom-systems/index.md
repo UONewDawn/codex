@@ -115,3 +115,23 @@ You'll produce Honey to fill orders and earn Apiary Marks, which can be exchange
 You can also refine Wax and craft a range of candles, adding a touch of craftsmanship to your apiary work.
 
 For more information visit the [Beekeeping](beekeeping.md) page.
+
+## [Storage Rack](storage-rack.md)
+
+A lockable house rack that holds a shared stock of reagents, potions, supplies, ammo and crafting resources.
+
+Each player builds their own loadouts and restocks the whole set instantly with one click.
+
+For more information visit the [Storage Rack](storage-rack.md) page.
+
+## [Arcane Lantern](arcane-lantern.md)
+
+A lockable house repository for wand charges. Deposit wands one at a time or a whole container at once, and redeem freshly charged wands later.
+
+For more information visit the [Arcane Lantern](arcane-lantern.md) page.
+
+## [Moongate Runes](moongate-runes.md)
+
+Change the color, light, and even the look of your Gate Travel moongates. Runes are bought from the reward stores and bound to your character with Codex Fragments.
+
+For more information visit the [Moongate Runes](moongate-runes.md) page.
