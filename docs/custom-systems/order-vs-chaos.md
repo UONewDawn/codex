@@ -53,18 +53,50 @@ Outposts across Felucca can be captured by either faction, at any time.
 
 ### How capturing works
 
-- Stand on the outpost's capture ground. Every second, the side with more players there makes progress, and the bigger the lead, the faster it goes. An even fight freezes progress
-- An owned outpost is fortified. With a lead of one player, attackers need about 5 minutes to break the fortification. Then they must neutralize the outpost, and then capture it
-- Fortification slowly rebuilds while the owners hold the outpost unopposed
-- Assaults move at half speed while none of the defending faction is online
+Stand on the outpost's capture ground. Only living, visible players count, so hiding on the ground does nothing.
+
+Taking an outpost from the enemy has three steps:
+
+1. **Break the fortification.** Every owned outpost starts fully fortified, and attackers on the capture ground wear it down. Alone, this takes roughly 10 minutes, or longer when many faction members are online.
+2. **Neutralize it.** Once the fortification is gone, hold the ground about 30 more seconds to tear down the enemy's banner. The outpost becomes neutral.
+3. **Capture it.** Hold a neutral outpost for about a minute to claim it for your faction.
+
+#### Numbers help, but not much
+
+- Each extra attacker speeds things up a little less than the one before. Three attackers are faster than one, but not three times faster
+- Every defender standing on the capture ground slows the attack hard. Two attackers against one defender barely move, and an even fight stops the attack completely
+- To take an outpost the owners are defending, you have to drive them off the ground or kill them, not just outnumber them
+- However many attackers show up, breaking the fortification always takes at least 6 minutes. That gives the owners time to answer the call
+- The more Order and Chaos players are online, the longer a small group takes to break in
+
+#### Defending
+
+- While the owners hold the ground, or match the attackers one for one, the fortification slowly rebuilds. From empty, it takes about 10 minutes to fully rebuild
+- The owning faction is warned in game when an assault starts, and again when the fortification falls to half and to a quarter
+- Assaults move at half speed while none of the owning faction is online
 - A freshly captured outpost can't be attacked for 30 minutes
-- The outpost's war banner rises and falls with capture progress, and ticks as the fight shifts. Single-click it to see who holds the outpost and its fortification
+
+#### The war banner
+
+The outpost's war banner rises and falls with the fight, and ticks as it shifts. Single-click it to see who holds the outpost and how much fortification is left. The [War Map](#the-war-map) shows every outpost's fortification too.
 
 ### Rules of the ground
 
 - Recall, gate and teleport can't take you into an outpost. Walk in, or [Rally](#rally). You can still recall out
 - One character per account may be inside the outposts at a time, across all of them
 - When an assault begins, the defending faction is alerted in game and on Discord
+
+### Dying in an outpost
+
+If the enemy faction kills you inside an outpost, **you keep everything**. Nothing is left on your corpse to loot, though your killers still take your head and ears.
+
+- After a short wait as a ghost you return to life automatically, fully dressed and with your pets, at half health, mana and stamina
+- **Defenders return close by** while **attackers**, and everyone fighting over a neutral outpost, return farther out and have a longer run back
+- The wait is 30 seconds. Die again within 15 minutes and it grows to 1 minute, then 2 minutes
+- If a friend or a healer resurrects you before the wait ends, you get up right where you fell, with all your gear
+- For 2 minutes after you return, you can't recall or gate out of the outpost, or Rally
+
+This only applies when the enemy faction did most of the damage. If monsters, murderers, players outside the war or your own side kill you, or you die outside an outpost, it's a normal death and your corpse can be looted.
 
 ### Outpost rewards
 
