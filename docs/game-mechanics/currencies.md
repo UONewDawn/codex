@@ -91,6 +91,16 @@ For more information visit the [Codex Rift](../custom-systems/codex-rifts.md) pa
     |      ![icon](../assets/items/arcane-bottles-and-cloth.png)<br>Arcane Bottles and Cloth       |
     |           ![icon](../assets/items/rift-pixie-painting.png)<br>Rift Pixie Painting            |
 
+## Halloween Candy
+
+Halloween Candy is a seasonal currency earned during the Halloween [Rift Season](../custom-systems/rift-seasons.md), from **October 25 to November 2**.
+
+During the season, every town rift is taken over by its own horror story, and all rift kills pay out Halloween Candy in place of Rift Shards.
+
+Halloween Candy is spent at the **Reaper's Hollow Market**.
+
+For more information visit the [Rift Seasons](../custom-systems/rift-seasons.md) page.
+
 ## Doubloons
 
 ![image](../assets/screenshots/dawn-doubloons-npc.png){ .center-img }
@@ -266,7 +276,7 @@ Defeating the Harrower will award the tokens.
 
 ![image](../assets/screenshots/dawn-war-npc.png){ .center-img }
 
-War Tokens are a currency earned by participating in the CTF and Conquest PvP systems.
+War Tokens are a currency earned by participating in the CTF and Conquest PvP systems, and in the [Order vs. Chaos](../custom-systems/order-vs-chaos.md) faction war.
 
 Players can sign up for either activity inside the Dawn Event Center.
 

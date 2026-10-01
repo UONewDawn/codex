@@ -34,6 +34,12 @@ Rift Shards can be exchanged for rewards.
 
 For more information visit the [Codex Rifts](codex-rifts.md) page.
 
+## [Rift Seasons](rift-seasons.md)
+
+During a Rift Season, the Codex Rifts are taken over by a limited-time theme, with new creatures, mini-bosses, a season boss, and a seasonal currency.
+
+For more information visit the [Rift Seasons](rift-seasons.md) page.
+
 ## [Pirate Adventures](pirate-adventures.md)
 
 To begin a Pirate Adventure, players must first obtain a pirate map, which can drop from Ancient Sea Serpents or appear inside Strongboxes recovered from Enraged Krakens.
@@ -73,6 +79,12 @@ Monsters slain inside a dungeon have a rare chance to drop a Dungeon Dye Materia
 Collect enough material, load it into a Tailor Dye Kit, and you can craft a dye bottle that permanently colors clothing in that dungeon signature hue.
 
 For more information visit the [Dungeon Dyes](dungeon-dyes.md) page.
+
+## [Order vs. Chaos](order-vs-chaos.md)
+
+The open-world faction war. Join an Order or Chaos guild, fight for outposts across Felucca, turn in enemy trophies, and climb five faction ranks. Earn War Tokens for the faction stores and help your side win the monthly season.
+
+For more information visit the [Order vs. Chaos](order-vs-chaos.md) page.
 
 ## Battlegrounds
 
