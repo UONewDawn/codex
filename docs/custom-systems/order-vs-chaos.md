@@ -72,6 +72,8 @@ Taking an outpost from the enemy has three steps:
 #### Defending
 
 - While the owners hold the ground, or match the attackers one for one, the fortification slowly rebuilds. From empty, it takes about 10 minutes to fully rebuild
+- **Every attacker you kill inside the outpost pushes the attack back.** Any progress toward neutralizing the outpost is lost, and 15% of the fortification comes back at once
+- **You can break an assault.** If the attackers lose 3 more fights than they win inside the outpost within 15 minutes, their assault is broken. The outpost goes back to full fortification and can't be attacked for 15 minutes, and its defenders are rewarded. Trading kills evenly won't break an assault; the attackers have to be clearly losing
 - The owning faction is warned in game when an assault starts, and again when the fortification falls to half and to a quarter
 - Assaults move at half speed while none of the owning faction is online
 - A freshly captured outpost can't be attacked for 30 minutes
@@ -91,6 +93,7 @@ The outpost's war banner rises and falls with the fight, and ticks as it shifts.
 If the enemy faction kills you inside an outpost, **you keep everything**. Nothing is left on your corpse to loot, though your killers still take your head and ears.
 
 - After a short wait as a ghost you return to life automatically, fully dressed and with your pets, at half health, mana and stamina
+- You return **hidden**, at a random spot near one of the outpost's approaches, and the game prefers an approach with no enemies close by. Nobody can wait on the exact spot where you'll appear
 - **Defenders return close by** while **attackers**, and everyone fighting over a neutral outpost, return farther out and have a longer run back
 - The wait is 30 seconds. Die again within 15 minutes and it grows to 1 minute, then 2 minutes
 - If a friend or a healer resurrects you before the wait ends, you get up right where you fell, with all your gear
@@ -105,8 +108,9 @@ This only applies when the enemy faction did most of the damage. If monsters, mu
 | Capture an outpost                                                  | 15         | 5              |
 | Neutralize an enemy outpost                                         | 8          | 2              |
 | Defend an outpost under attack (per minute, up to 10 minutes a day) | 2          | 1              |
+| Break an assault on your outpost                                    | 10         | 3              |
 
-Captures and neutralizations only pay if the losing side had held the outpost for at least 20 minutes. Each player can be paid for flipping the same outpost once per hour.
+Captures and neutralizations only pay if the losing side had held the outpost for at least 20 minutes. Each player can be paid for capturing, neutralizing or breaking an assault on the same outpost once per hour each. Breaking an assault pays every defender who stood on the capture ground during it or is in the outpost when it breaks.
 
 ## Rally
 
