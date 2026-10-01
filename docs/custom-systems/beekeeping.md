@@ -8,6 +8,7 @@ All you need to start is a beehive deed and an open area with plenty of flowers 
 - **Health:** Overall health ranges from Dying to Thriving.
 - **Resources:** Water and flowers within range feed the hive.
 - **Treatments:** Pour potions into the hive to combat pests, illness, or fatigue.
+- **Supplements:** Pollen Patties and sweetened water give the hive a small extra boost.
 - **Harvest:** Once Producing, collect honey (bottles) and beeswax with a hive tool.
 
 Hives perform a growth check once per day at world save. Watch the Last Tending indicator in the top-right of the control panel to see how the most recent check went.
@@ -31,11 +32,25 @@ From the vendor you can buy:
 |   ![icon](../assets/items/wax-crafting-pot.png)<br>Wax Crafting Pot   |    Tool for crafting candles    |
 |       ![icon](../assets/items/common-honey.png)<br>Common Honey       |                -                |
 
-Once the Beehive is placed, you can only move it once every 48 hours.
+### Placing and activating a hive
 
-Axing the Beehive will destroy it and you will lose the deed.
+A newly placed Beehive starts in **Dormant** mode. While it's dormant you can chop it with an axe to get the deed back, so you can try a different spot.
 
-Double-click the Beehive to access the gump and get started.
+Double-click the Beehive to activate it and open the gump. Once a hive is active it can no longer be chopped down.
+
+### Moving a hive
+
+To move an active hive, stand on the spot in your house where you want it and use the Move Hive option on the gump. Only the owner of the house the hive stands in can relocate it.
+
+Moving a hive disturbs the bees, so it pushes the next growth check back by 4 hours.
+
+### Hibernation
+
+You can put a hive into hibernation from the gump. While it hibernates, growth, production, and maladies are all on hold, and you can't extract honey or wax.
+
+### Destroying a hive
+
+To destroy an active hive, use the button on the gump. You only need an axe if the hive is empty or dead, and the deed is not returned.
 
 ## Stages
 
@@ -85,6 +100,10 @@ Place filled water barrels or tubs near the hive. Each one counts as a source wh
 
 Water barrels can be crafted with [Carpentry](../skills/crafting/carpentry.md#__tabbed_1_6).
 
+#### Sweetened water
+
+Add **Refined Sugar** to a water barrel to sweeten it, which gives the bees a slight water boost. You can get Refined Sugar as a [Cooking BOD reward](../skills/crafting/cooking.md#bod-rewards).
+
 ### Flowers
 
 Flowers are used for food, building, and almost every hive function. An overabundance of flowers brings more parasites and insects with them.
@@ -128,6 +147,12 @@ Pour potions from your backpack into the hive using the Potion Treatments panel.
 
 Lesser and standard potions are too weak - only Greater (and Deadly Poison) varieties have any effect.
 
+## Pollen Patties
+
+A **Pollen Patty** is a supplement you can apply to a hive to slightly raise the chance of harvesting better quality honey. It works alongside the [flowers](#flowers) that already improve honey quality.
+
+You can get Pollen Patties as a [Cooking BOD reward](../skills/crafting/cooking.md#bod-rewards).
+
 ## Indicators
 
 The Last Tending pill in the top-right of the control panel summarizes what happened at the most recent growth check.
@@ -145,7 +170,7 @@ Growth checks happen during the daily world save. If you make changes after the 
 
 Once a hive reaches the Producing stage, use the Harvest button on the control panel. A hive tool and empty bottles are required - each harvester uses a charge.
 
-Once you have the Honey, use [Taste Identification](../skills/utility-and-support/taste-identification.md) to identify the type. You have three attempts, if you fail all three the Honey will default to the most common type.
+Once you have the Honey, use [Taste Identification](../skills/utility-and-support/taste-identification.md) to identify the type. You have three attempts. If you fail all three, the Honey will default to Wildflower or Clover.
 
 [Item Identification](../skills/utility-and-support/item-identification.md) adds a 5% success rate boost when using Taste ID.
 
@@ -187,6 +212,8 @@ To get a Honey Order, single‑click the Beekeeper NPC in Occlo at coordinates 3
 You can get one order every 24 hours per account.
 
 Unlike BODs, the timer doesn't reset when you turn an order in.
+
+Completed orders must be turned in to the Beekeeper NPC.
 
 Completing orders will award Apiary Marks that can be exchanged for [rewards](../game-mechanics/currencies.md#apiary-marks-store).
 
