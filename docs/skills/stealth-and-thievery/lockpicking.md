@@ -10,7 +10,12 @@ Starting items if you choose this skill in character creation: Lockpicks.
 
 ## Dungeon chests
 
-To identify a dungeon chest level, check its contents: around 200 gold with arrows indicates a level 3 chest, while around 200 gold with no arrows indicates a level 4 chest.
+Dungeon treasure chests need 57 / 72 / 84 / 92 Lockpicking for levels 1 to 4. Some level 4 chests have a **masterwork lock** that needs 95.0.
+
+- Only chests opened with Lockpicking can contain dungeon dye material. Magically unlocked chests won't
+- Grandmaster lockpickers (100.0) have a small chance to find a hidden compartment in level 4 chests, holding rare items found nowhere else
+
+For more information visit the [Dungeon Treasure Chests](../../game-mechanics/dungeon-treasure-chests.md) page.
 
 ## Training
 
@@ -25,10 +30,13 @@ Lock the boxes with their key and start lockpicking them.
 | 50 - 76  | 50 Tinker level box    |
 | 76 - 82  | 70 Tinker level box    |
 | 82 - 95  | 100 Tinker level box   |
-| 95 - 100 | Level 4 dungeon chests |
+| 95 - 100 | Masterwork or level 4 dungeon chests |
 
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
+
+Level 4 chest locks keep giving skill gains all the way to 100.0. Masterwork locks are harder still and are the best place to train from 95.0 to GM.
 
 ## Related skills
 
 - [Tinkering](../crafting/tinkering.md)
+- [Remove Trap](../utility-and-support/remove-trap.md)

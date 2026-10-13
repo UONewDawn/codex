@@ -145,7 +145,7 @@ These are all of the furniture, containers, instruments etc. you can craft.
 Runic Saws are obtained through BOD rewards, the enchantments only apply to weapons.
 
 !!! warning
-    Section under construction.
+Section under construction.
 
 ## Masonry
 
@@ -159,7 +159,7 @@ Once learned, Masonry allows you to use the Mallet and Chisel tool, available fr
 
 ### Materials
 
-Most items crafted with Masonry retain the color of the stone used.
+Stonework takes the color of the granite (stone) used to make it. Stone, sandstone and marble blocks don't change the color.
 
 #### Types of stone
 
@@ -170,7 +170,7 @@ The book Mining for Quality Stone is available from the Stone Crafter NPC.
 You can choose to mine for stone and ore by single-clicking your mining tool.
 
 |                                 Stone                                  |                Hue                |
-|:----------------------------------------------------------------------:|:---------------------------------:|
+| :--------------------------------------------------------------------: | :-------------------------------: |
 |             ![icon](../../assets/items/stone.png)<br>Stone             |                 -                 |
 | ![icon](../../assets/items/dull-copper-stone.png)<br>Dull Copper Stone | [2419](../../hues/hue.md?id=2419) |
 |      ![icon](../../assets/items/shadow-stone.png)<br>Shadow Stone      | [2406](../../hues/hue.md?id=2406) |
@@ -186,7 +186,7 @@ You can choose to mine for stone and ore by single-clicking your mining tool.
 Stone Blocks can be looted from Stone, Sandstone and Marble Elementals, which can spawn when using a [Gargoyle Pickaxe](../resource-gathering/mining.md#gargoyle-pickaxe).
 
 |                            Stone Block                             |
-|:------------------------------------------------------------------:|
+| :----------------------------------------------------------------: |
 |     ![icon](../../assets/items/stone-block.png)<br>Stone Block     |
 | ![icon](../../assets/items/sandstone-block.png)<br>Sandstone Block |
 |    ![icon](../../assets/items/marble-block.png)<br>Marble Block    |
@@ -200,6 +200,9 @@ Stone Blocks can be looted from Stone, Sandstone and Marble Elementals, which ca
     |    Vase    |           1 Stones           |      yes      | 52.5  |
     | Large Vase |           3 Stones           |      yes      | 52.5  |
     |  Fountain  | 100 Stones<br>4 Stone Blocks |      no       | 75.0  |
+    |      Sandstone Fountain       | 100 Stones<br>4 Sandstone Blocks |      yes      | 75.0  |
+    |           Small Urn           |             3 Stones             |      yes      | 82.0  |
+    |     Small Tower Sculpture     |             3 Stones             |      yes      | 82.0  |
 
 === "Furniture"
 
@@ -216,6 +219,47 @@ Stone Blocks can be looted from Stone, Sandstone and Marble Elementals, which ca
     |   Medium Marble Table (east)   |  9 Stones<br>3 Marble Blocks   |      yes      | 75.0  |
     |  Medium Marble Table (south)   |  9 Stones<br>3 Marble Blocks   |      yes      | 75.0  |
 
+=== "Hearths & Stoves"
+
+    |                  Item                  |             Resources             | Retains Color | Skill | Cooking |
+    |:--------------------------------------:|:---------------------------------:|:-------------:|:-----:|:-------:|
+    |                Fire Pit                |             5 Stones              |      yes      | 60.0  |  Cook   |
+    |              Stone Stove               |    10 Stones<br>2 Stone Blocks    |      yes      | 70.0  | Cook, Bake |
+    |     Sandstone Oven (east / south)      |  15 Stones<br>3 Sandstone Blocks  |      yes      | 75.0  | Cook, Bake |
+    |     Stone Fireplace (east / south)     |    20 Stones<br>4 Stone Blocks    |      yes      | 80.0  |  Cook   |
+    |  Grey Brick Fireplace (east / south)   |    20 Stones<br>4 Stone Blocks    |      yes      | 80.0  |  Cook   |
+    |   Sandstone Fireplace (east / south)   |  20 Stones<br>4 Sandstone Blocks  |      yes      | 80.0  |  Cook   |
+    |      Stone Hearth (east / south)       |    25 Stones<br>5 Stone Blocks    |      yes      | 90.0  |  Cook   |
+
+=== "Monuments"
+
+    |                              Item                              |            Resources             | Retains Color | Skill |
+    |:--------------------------------------------------------------:|:--------------------------------:|:-------------:|:-----:|
+    | Arched Headstone<br>Rounded, Slate, Rose and Grey Gravestones  |    6 Stones<br>1 Stone Block     |      yes      | 55.0  |
+    | Carved and Weathered Gravestones<br>Narrow, Dark Narrow and Small Tablet Gravestones | 6 Stones<br>1 Stone Block | yes | 60.0 |
+    |             Twin, Tablet and Engraved Gravestones              |    8 Stones<br>1 Stone Block     |      yes      | 65.0  |
+    |                    Sandstone Twin Gravestone                   |  8 Stones<br>1 Sandstone Block   |      yes      | 65.0  |
+    |                       Ornate Gravestone                        |    8 Stones<br>2 Stone Blocks    |      yes      | 70.0  |
+    |                           Tomb Slab                            |   10 Stones<br>2 Stone Blocks    |      yes      | 70.0  |
+    |                     Blue Marble Tomb Slab                      |   10 Stones<br>2 Marble Blocks   |      yes      | 70.0  |
+    |                         Grave Obelisk                          |   12 Stones<br>2 Stone Blocks    |      yes      | 80.0  |
+    |                         Stone Monument                         |   15 Stones<br>3 Stone Blocks    |      yes      | 80.0  |
+    |                         Marble Memorial                        |   15 Stones<br>3 Marble Blocks   |      yes      | 85.0  |
+    |                           Stone Spire                          |   15 Stones<br>3 Stone Blocks    |      yes      | 85.0  |
+
+=== "Columns & Pedestals"
+
+    |         Item          |            Resources            | Retains Color | Skill |
+    |:---------------------:|:-------------------------------:|:-------------:|:-----:|
+    |    Stone Pedestal     |    5 Stones<br>1 Stone Block    |      yes      | 60.0  |
+    | Small Marble Pedestal |   4 Stones<br>1 Marble Block    |      yes      | 60.0  |
+    |   Sandstone Column    | 10 Stones<br>2 Sandstone Blocks |      yes      | 70.0  |
+    |     Marble Column     |  10 Stones<br>2 Marble Blocks   |      yes      | 75.0  |
+
+- You can cook on the fire pit, fireplaces and hearths, and bake in the sandstone ovens and the stone stove.
+- Hearths, stoves and fireplaces keep their color when turned back into a deed.
+- Most monuments and columns, and the stone stove, can be flipped with an [Interior Decorator](../../game-mechanics/housing.md#tools) to face another direction or show another style. Hearths, ovens and fireplaces come in separate east and south versions instead.
+
 ## Bulk order deeds
 
 A minimum skill of 70.1 (real) is required to get a BOD.
@@ -227,7 +271,7 @@ The BOD 6-hour time limit applies to your whole account.
 ### BOD Rewards
 
 | Points |                                                                                Rewards                                                                                |
-|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   0    |                                                                   Sturdy Dovetail Saw (180) (100%)                                                                    |
 |   50   |                                                                   Sturdy Dovetail Saw (220) (100%)                                                                    |
 |  100   |                                                                Sturdy Lumberjack Axe (250 uses) (100%)                                                                |
@@ -247,7 +291,7 @@ The BOD 6-hour time limit applies to your whole account.
 Consider Lumberjacking to fund the training.
 
 | Skill       | Item            |
-|-------------|-----------------|
+| ----------- | --------------- |
 | 0 - 30      | Train from NPCs |
 | 30 - 47.3   | Medium Crate    |
 | 47.3 - 71.1 | Ballot Box      |

@@ -91,6 +91,56 @@ For more information visit the [Codex Rift](../custom-systems/codex-rifts.md) pa
     |      ![icon](../assets/items/arcane-bottles-and-cloth.png)<br>Arcane Bottles and Cloth       |
     |           ![icon](../assets/items/rift-pixie-painting.png)<br>Rift Pixie Painting            |
 
+## Halloween Candy
+
+Halloween Candy is a seasonal currency earned during the Halloween [Rift Season](../custom-systems/rift-seasons.md), from **October 25 to November 2**.
+
+During the season, every town rift is taken over by its own horror story, and all rift kills pay out Halloween Candy in place of Rift Shards.
+
+Halloween Candy is spent at the **Reaper's Hollow Market**.
+
+For more information visit the [Rift Seasons](../custom-systems/rift-seasons.md) page.
+
+## Soul Coins
+
+Soul Coins are dropped by the bosses of the Phantom Fleet, the haunted ships called up with Phantom Fleet charts during the Halloween Rift Season. Each boss drops 8 to 12.
+
+Spend them with **Mortlake the wreck warden** at the Phantom Fleet Exchange.
+
+For more information visit the [Sea Encounters](../custom-systems/sea-encounters.md#the-phantom-fleet) page.
+
+### Phantom Fleet Exchange
+
+=== "Decorations & Lights"
+
+    | Item             | Soul Coins |
+    | ---------------- | :--------: |
+    | Grim Warning     | 10         |
+    | Skulls on a Pike | 25         |
+    | Lantern of Souls | 10         |
+    | Spectral Lantern | 50         |
+
+=== "Ship's Colors"
+
+    Drop a flag deed on your ship's tillerman to fly it.
+
+    | Flag               | Soul Coins |
+    | ------------------ | :--------: |
+    | Drowned Grey Bones | 25         |
+    | Rot Green Bones    | 25         |
+    | Bone Ivory Bones   | 25         |
+    | Jack Orange Bones  | 25         |
+    | Spectral Bones     | 60         |
+
+=== "Ship Stains"
+
+    | Stain              | Soul Coins |
+    | ------------------ | :--------: |
+    | Drowned Grey Stain | 40         |
+    | Rot Green Stain    | 40         |
+    | Bone Ivory Stain   | 40         |
+    | Jack Orange Stain  | 40         |
+
 ## Doubloons
 
 ![image](../assets/screenshots/dawn-doubloons-npc.png){ .center-img }
@@ -266,7 +316,7 @@ Defeating the Harrower will award the tokens.
 
 ![image](../assets/screenshots/dawn-war-npc.png){ .center-img }
 
-War Tokens are a currency earned by participating in the CTF and Conquest PvP systems.
+War Tokens are a currency earned by participating in the CTF and Conquest PvP systems, and in the [Order vs. Chaos](../custom-systems/order-vs-chaos.md) faction war.
 
 Players can sign up for either activity inside the Dawn Event Center.
 

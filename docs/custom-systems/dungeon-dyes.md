@@ -26,6 +26,8 @@ This table shows which dungeon drops each Dye Material.
 
 Click any hue ID to preview the color on the [Hues](../hues/index.md) page.
 
+Dye material can also be found in dungeon treasure chests (level 2 and up) opened with Lockpicking. For more information visit the [Dungeon Treasure Chests](../game-mechanics/dungeon-treasure-chests.md#dungeon-dye-material) page.
+
 ## Tailor Dye Kit
 
 The Tailor Dye Kit is used with Dungeon Dye Materials to craft dyes.
@@ -86,3 +88,4 @@ The Tailoring Guidebook describes each material:
 
 - [Hues](../hues/index.md)
 - [Dungeon of the Week](dotw.md)
+- [Dungeon Treasure Chests](../game-mechanics/dungeon-treasure-chests.md)

@@ -14,6 +14,10 @@ Starting items if you choose this skill in character creation: Sextant, Blank Ma
 
 Use the skill on a blank map to choose its scale. Higher skill allows larger scales. If the attempt succeeds, the map is filled-in based on your current location.
 
+## Star charts
+
+Star charts are crafted from one blank map at 50 Cartography, and are used to chart constellations for [Astronomy](../../custom-systems/astronomy.md#charting-a-discovery).
+
 ## Decoding treasure maps
 
 Double‑click the map you want to decode, if you can decode it, you will receive a map with a pin marking the treasure location within 30 tiles.

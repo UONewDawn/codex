@@ -160,10 +160,12 @@ nav:
         - Virtues: game-mechanics/character/virtues.md
         - Stats: game-mechanics/character/stats.md
       - Treasure Hunting: game-mechanics/treasure-hunting.md
+      - Dungeon Treasure Chests: game-mechanics/dungeon-treasure-chests.md
       - Murder System: game-mechanics/murder-system.md
       - Currencies: game-mechanics/currencies.md
       - Gardening: game-mechanics/gardening.md
       - Housing: game-mechanics/housing.md
+      - Parties: game-mechanics/parties.md
     - Skills:
       - Bard Skills:
         - Musicianship: skills/bard-skills/musicianship.md
@@ -228,13 +230,18 @@ nav:
     - Achievements: custom-systems/achievements.md
     - Animal Bonding Quest: custom-systems/animal-bonding-quest.md
     - Arcane Lantern: custom-systems/arcane-lantern.md
+    - Astronomy: custom-systems/astronomy.md
     - Beekeeping: custom-systems/beekeeping.md
     - Archaeology: custom-systems/archaeology.md
     - Codex Rifts: custom-systems/codex-rifts.md    
+    - Coin Collecting: custom-systems/coin-collecting.md
     - Dungeon Dyes: custom-systems/dungeon-dyes.md
     - Dungeon of the Week: custom-systems/dotw.md
     - Moongate Runes: custom-systems/moongate-runes.md
+    - Order vs. Chaos: custom-systems/order-vs-chaos.md
     - Pirate Adventures: custom-systems/pirate-adventures.md
+    - Rift Seasons: custom-systems/rift-seasons.md
+    - Sea Encounters: custom-systems/sea-encounters.md
     - Ship Holds: custom-systems/ship-holds.md
     - Spirit Summoner: custom-systems/spirit-summoner.md
     - Storage Rack: custom-systems/storage-rack.md

@@ -18,9 +18,7 @@ Stepping on someone else will also reveal you.
 
 You can't use Stealth while riding a mount.
 
-The higher the armor rating you wear, the harder it is to stealth.
-
-At GM Stealth you can move hidden with an AR of 15.
+The armor you wear makes stealth harder. See [Armor](#armor) below.
 
 When stealthing around others there is a chance of being detected. A check is made by comparing your Stealth and DEX against the Detecting Hidden and INT of players around you.
 
@@ -41,23 +39,33 @@ This table shows how many steps you can take before using Stealth again based on
 | 90    | 9     |
 | 100   | 10    |
 
+## Armor
+
+Stealth depends on what kind of armor you wear and where you wear it, not how good it is. Quality, color, resource and magic level don't matter, so upgrading your armor never makes you worse at sneaking.
+
+Each piece adds a penalty. The penalties of all your pieces are added together:
+
+| Material                           | Gorget | Gloves | Helm | Arms | Legs | Chest | Full suit |
+|------------------------------------|:------:|:------:|:----:|:----:|:----:|:-----:|:---------:|
+| Leather (including spined, horned, barbed) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Studded leather                    | 2      | 2      | 0    | 4    | 6    | 10    | 24        |
+| Chainmail                          | 0      | 0      | 10   | 0    | 15   | 25    | 50        |
+| Ringmail                           | 0      | 5      | 0    | 10   | 15   | 25    | 55        |
+| Bone                               | 0      | 5      | 10   | 10   | 15   | 25    | 65        |
+| Plate (including dragon)           | 5      | 5      | 10   | 10   | 15   | 25    | 70        |
+
+- Shields never hurt Stealth
+- A total of **42 or more** makes stealth impossible: "You could not hope to move quietly wearing this much armor." A full suit of chain, ring, bone or plate is always over the limit
+- Below the limit, every penalty point makes the Stealth check a little harder. At GM Stealth, a total of 20 or less never fails
+- A single heavy piece, such as a plate chest over leather, is still workable
+
 ## Training
 
 Train from Thief NPCs to reach around 50.
 
-Stealth can be used on a 10 seconds cooldown, wear the right amount of armor rating and keep using Stealth while hidden until you reach 100.
+Stealth can be used on a 10 seconds cooldown. Keep using Stealth while hidden until you reach 100.
 
-| Skill    | Wear AR |
-|----------|---------|
-| up to 60 | up to 5 |
-| 60 - 65  | 6       |
-| 65 - 70  | 7       |
-| 70 - 73  | 8       |
-| 73 - 75  | 9       |
-| 75 - 78  | 11      |
-| 78 - 82  | 12      |
-| 82 - 90  | 13      |
-| 90 - 100 | 14      |
+Wearing a little more [armor](#armor) makes the check harder, which helps you keep gaining as your skill rises.
 
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

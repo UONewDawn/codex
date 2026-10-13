@@ -10,6 +10,10 @@ Begging negatively affects your karma.
 
 Starting items if you choose this skill in character creation: Gnarled Staff.
 
+## Trick or Treat
+
+During the Halloween rift season, players with 100 Begging have a small chance of receiving a rare Halloween treat instead of candy when they trick or treat. For more information visit the [Rift Seasons](../../custom-systems/rift-seasons.md#trick-or-treat) page.
+
 ## Training
 
 Train from Begging child NPCs (3714, 2509) to reach around 50.

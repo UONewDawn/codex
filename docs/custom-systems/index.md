@@ -34,6 +34,12 @@ Rift Shards can be exchanged for rewards.
 
 For more information visit the [Codex Rifts](codex-rifts.md) page.
 
+## [Rift Seasons](rift-seasons.md)
+
+During a Rift Season, the Codex Rifts are taken over by a limited-time theme, with new creatures, mini-bosses, a season boss, and a seasonal currency.
+
+For more information visit the [Rift Seasons](rift-seasons.md) page.
+
 ## [Pirate Adventures](pirate-adventures.md)
 
 To begin a Pirate Adventure, players must first obtain a pirate map, which can drop from Ancient Sea Serpents or appear inside Strongboxes recovered from Enraged Krakens.
@@ -47,6 +53,12 @@ Defeating the boss will award Doubloons.
 Doubloons can be exchanged for rewards.
 
 For more information visit the [Pirate Adventures](pirate-adventures.md) page.
+
+## [Coin Collecting](coin-collecting.md)
+
+Old coins, tokens and banknotes from three eras of Britannian history are buried in treasure chests across the land. Mount them in a Coin Collector's Book to complete the catalog of 86 issues, hunt down the rare varieties, and earn the Numismatist titles.
+
+For more information visit the [Coin Collecting](coin-collecting.md) page.
 
 ## [Archaeology System](archaeology.md)
 
@@ -74,6 +86,12 @@ Collect enough material, load it into a Tailor Dye Kit, and you can craft a dye 
 
 For more information visit the [Dungeon Dyes](dungeon-dyes.md) page.
 
+## [Order vs. Chaos](order-vs-chaos.md)
+
+The open-world faction war. Join an Order or Chaos guild, fight for outposts across Felucca, turn in enemy trophies, and climb five faction ranks. Earn War Tokens for the faction stores and help your side win the monthly season.
+
+For more information visit the [Order vs. Chaos](order-vs-chaos.md) page.
+
 ## Battlegrounds
 
 ### [Capture the Flag](capture-the-flag.md)
@@ -97,6 +115,14 @@ At the end of each match, every participant receives War Tokens based on their i
 War Tokens can be exchanged for rewards.
 
 For more information visit the [Conquest](conquest.md) page.
+
+## [Sea Encounters](sea-encounters.md)
+
+Fish long enough from your boat in Felucca's deep water and a ship will come out of the fog to meet you: pirate raiders, a fishing boat in distress, a derelict or a ghost ship. Board her, clear the deck, and claim what's in the hold.
+
+During the Halloween Rift Season, Phantom Fleet charts call up four haunted ships whose bosses drop Soul Coins.
+
+For more information visit the [Sea Encounters](sea-encounters.md) page.
 
 ## [Ship Holds](ship-holds.md)
 
@@ -129,6 +155,12 @@ For more information visit the [Storage Rack](storage-rack.md) page.
 A lockable house repository for wand charges. Deposit wands one at a time or a whole container at once, and redeem freshly charged wands later.
 
 For more information visit the [Arcane Lantern](arcane-lantern.md) page.
+
+## [Astronomy](astronomy.md)
+
+One thousand constellations are hidden in the New Dawn night sky. Build a telescope, search the stars at night, chart what you find, and be the first to name it. Discoveries are recorded forever in the Constellation Ledger.
+
+For more information visit the [Astronomy](astronomy.md) page.
 
 ## [Moongate Runes](moongate-runes.md)
 
