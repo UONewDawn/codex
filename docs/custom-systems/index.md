@@ -54,6 +54,12 @@ Doubloons can be exchanged for rewards.
 
 For more information visit the [Pirate Adventures](pirate-adventures.md) page.
 
+## [Coin Collecting](coin-collecting.md)
+
+Old coins, tokens and banknotes from three eras of Britannian history are buried in treasure chests across the land. Mount them in a Coin Collector's Book to complete the catalog of 86 issues, hunt down the rare varieties, and earn the Numismatist titles.
+
+For more information visit the [Coin Collecting](coin-collecting.md) page.
+
 ## [Archaeology System](archaeology.md)
 
 Uncover lost artifacts and treasures from Britannia's forgotten past through the Archaeology system.
@@ -110,6 +116,14 @@ War Tokens can be exchanged for rewards.
 
 For more information visit the [Conquest](conquest.md) page.
 
+## [Sea Encounters](sea-encounters.md)
+
+Fish long enough from your boat in Felucca's deep water and a ship will come out of the fog to meet you: pirate raiders, a fishing boat in distress, a derelict or a ghost ship. Board her, clear the deck, and claim what's in the hold.
+
+During the Halloween Rift Season, Phantom Fleet charts call up four haunted ships whose bosses drop Soul Coins.
+
+For more information visit the [Sea Encounters](sea-encounters.md) page.
+
 ## [Ship Holds](ship-holds.md)
 
 On New Dawn, ships aren't simply ways to fish or get to an island. Here, they are your _home away from home_.
@@ -141,6 +155,12 @@ For more information visit the [Storage Rack](storage-rack.md) page.
 A lockable house repository for wand charges. Deposit wands one at a time or a whole container at once, and redeem freshly charged wands later.
 
 For more information visit the [Arcane Lantern](arcane-lantern.md) page.
+
+## [Astronomy](astronomy.md)
+
+One thousand constellations are hidden in the New Dawn night sky. Build a telescope, search the stars at night, chart what you find, and be the first to name it. Discoveries are recorded forever in the Constellation Ledger.
+
+For more information visit the [Astronomy](astronomy.md) page.
 
 ## [Moongate Runes](moongate-runes.md)
 

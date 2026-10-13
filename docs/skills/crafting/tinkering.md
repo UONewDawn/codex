@@ -97,6 +97,10 @@ These are all the tools and parts that you can craft.
     |      ![icon](../../assets/items/spyglass.png)<br>Spyglass      | 4 ingots  |  60   |
     |       ![icon](../../assets/items/lantern.png)<br>Lantern       | 2 ingots  |  30   |
     | ![icon](../../assets/items/heating-stand.png)<br>Heating stand | 4 ingots  |  60   |
+    |                           Telescope                            | 25 ingots<br>1 Spyglass |  80   |
+    |              Bloodrift Telescope (recipe required)             | 25 ingots<br>10 Gold ingots<br>1 Spyglass |  95   |
+
+    Telescopes are used for [Astronomy](../../custom-systems/astronomy.md).
 
 === "Jewelry"
 

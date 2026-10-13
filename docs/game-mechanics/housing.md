@@ -12,6 +12,21 @@ Houses will collapse after 30 days of being "unused" if the owner, co-owner or a
 
 You can buy the House Placement Tool and the Interior Decorator both for 10,000 gp from the architect vendor in Occlo.
 
+## Expanding storage
+
+House owners can buy more storage from the house sign: open **Info** and choose **Expand storage**.
+
+| Upgrade              | Gold (from your bank) | Gems (in your backpack) |
+| -------------------- | --------------------- | ----------------------- |
+| +20 lockdowns        | 500,000 and up        | 3 Perfect Emeralds      |
+| +1 secure container  | 500,000 and up        | 3 Dark Sapphires        |
+
+- Each kind starts at 500,000 gold and costs 100,000 more every time you buy it for the same house
+- Lockdowns and secures have separate prices, so buying one doesn't raise the price of the other
+- A confirmation page shows the exact price before anything is taken. Purchases can't be undone
+- Only the house owner can expand storage
+- Lockdown and secure increase deeds still work as before and don't raise the price
+
 ## Commands
 
 * I wish to lock this down

@@ -100,6 +100,12 @@ If turned ON, you will release normal fishes into the water, it helps managing w
 
 You can buy a boat from shipwright vendors in most docks.
 
+## Sea encounters
+
+Fish from the deck of a boat in Felucca's deep water long enough and a ship will come out of the fog to meet you: pirate raiders, a fishing boat in distress, a derelict or a ghost ship. The sea warns you before one arrives.
+
+For more information visit the [Sea Encounters](../../custom-systems/sea-encounters.md) page.
+
 ## Sea serpents loot
 
 While fishing you have a chance of pulling up Sea Serpents and Deep Sea Serpents.

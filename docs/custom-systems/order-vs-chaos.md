@@ -45,7 +45,7 @@ Outposts across Felucca can be captured by either faction, at any time.
 ### Supply Depot
 
 - Ocllo west coast building
-- 
+- Southwest of Yew
 
 ### Shrine of War
 

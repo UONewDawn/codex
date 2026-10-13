@@ -255,8 +255,34 @@ When you are done looting, you can single-click the chest and select "Remove Che
 |  Level 5  | 5000 Gold, ~ 30 Magic Items, ~ 25 Scrolls, ~ 14 Gems, ~ 766 Reagents |
 |  Level 6  | 6000 Gold, ~ 44 Magic Items, ~ 31 Scrolls, ~ 32 Gems, ~ 830 Reagents |
 
+## Rare finds
+
+Treasure chests sometimes hold more than gold. The higher the map level, the better your odds. Each rare find is rolled separately, so one lucky chest can hold several.
+
+### Coin collecting
+
+Treasure chests can hold old coins, tokens and banknotes from three eras of Britannian history. Pieces tend to surface near the towns that issued them. Mount them in a Coin Collector's Book, sold by bankers, to complete the catalog.
+
+For more information visit the [Coin Collecting](../custom-systems/coin-collecting.md) page.
+
+### Ultima busts
+
+Very rarely, a chest comes up with a stone bust of one of fourteen great figures from Britannia's history, among them Lord British, Iolo, Shamino and Mondain.
+
+- You won't dig up a bust you already found until you've found all fourteen
+- Busts can be turned in your house like other decorations
+- Each bust you unearth is recorded in your achievements. Find all fourteen to earn the title **Curator of Britannia**
+
+!!! note
+    Achievements go to the player who digs up the bust. Buying or trading for one doesn't count.
+
+### Grave dirt
+
+Now and then the earth you turn over isn't ordinary earth. Grave dirt is a rare decorative find, with an achievement of its own.
+
 ## Related pages
 
+- [Coin Collecting](../custom-systems/coin-collecting.md)
 - [Cartography](../skills/utility-and-support/cartography.md)
 - [Lockpicking](../skills/stealth-and-thievery/lockpicking.md)
 - [Magery](../skills/magic/magery.md)

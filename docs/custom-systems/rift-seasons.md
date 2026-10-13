@@ -12,7 +12,17 @@ From **October 25 to November 2**, every town rift is taken over by its own horr
 - Spend your Halloween Candy at the **Reaper's Hollow Market**
 
 !!! tip "Phantom Fleet Chart"
-    Any Halloween rift creature can drop a **Phantom Fleet Chart**, but it's super rare. Mini-bosses drop one far more often.
+    Any Halloween rift creature can drop a **Phantom Fleet Chart**, but it's super rare. Mini-bosses drop one far more often. See [The Phantom Fleet](sea-encounters.md#the-phantom-fleet) to learn how to use it.
+
+### 🍬 Trick or Treat
+
+During the Halloween rift season, say **"trick or treat"** and pick a shopkeeper to beg candy from.
+
+- Sometimes you get a treat (a piece of candy), sometimes a trick! Tricks range from a gang of costumed brats pelting you with rotten eggs to an exploding candy bag
+- Shopkeepers remember you. Come back too soon and you'll get sent away. Come back later and they'll start to wonder whether they've seen you before
+- Push your luck too far and they'll refuse you until next Halloween. Spread your visits across many shopkeepers
+- Players with 100 [Begging](../skills/utility-and-support/begging.md) have a small chance of receiving a rare Halloween treat instead of candy
+- Don't bother asking the town's children for candy. They're keeping theirs
 
 ### 🐴 Skara Brae: The Hollow Ride
 

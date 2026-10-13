@@ -9,6 +9,7 @@ When you kill another player, the victim receives a gump asking if they want to 
 - When a player reports you for a kill, you receive both a short‑term and a long‑term murder count simultaneously.
 - Once someone reports you, they cannot report you again for 5 minutes.
 - Members of the Thieves Guild cannot report murders.
+- Killing a member of your own party doesn't give a murder count, and attacking one doesn't flag you as a criminal. See the [Parties](parties.md) page.
 
 ## Counts Decay
 
