@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.4, released April 27, 2023. Includes: Fishing works on transparent water; More removal of unicode for ascii messages."
+---
+
 # SERVER PATCH 0.4
 
 **April 27, 2023**

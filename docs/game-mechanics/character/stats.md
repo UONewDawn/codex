@@ -1,3 +1,7 @@
+---
+description: "Strength, Dexterity and Intelligence on New Dawn: the 225 stat cap, and how each stat affects health, damage, stamina and mana."
+---
+
 # Stats
 
 Stat cap is set to 225, 100 max for each individual stat.

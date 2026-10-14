@@ -1,3 +1,7 @@
+---
+description: "Bowcraft/Fletching on New Dawn: craft bows, crossbows, arrows and bolts. Crafting list, materials and training."
+---
+
 ![Bowcraft/Fletching](../../assets/flags/flag-bowcraft.png){ align=right }
 
 # Bowcraft/Fletching

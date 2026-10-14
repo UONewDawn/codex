@@ -1,3 +1,7 @@
+---
+description: "Taste Identification on New Dawn: identify potions, poisoned food, honey quality and beeswax, and how to train it."
+---
+
 ![Taste Identification](../../assets/flags/flag-taste-identification.png){ align=right }
 
 # Taste Identification

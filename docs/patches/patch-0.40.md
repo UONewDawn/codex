@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.40, released April 24, 2024. Highlights: Bulk Order Deeds, Small BODs and Large BODs."
+---
+
 # SERVER PATCH 0.40
 
 **April 24, 2024**

@@ -1,3 +1,7 @@
+---
+description: "Slayer weapons and instruments on New Dawn: every slayer group, super vs. minor slayers, and which creatures each one covers."
+---
+
 # Slayers
 
 Slayers are magical bonuses on weapons and instruments that boost their power against specific enemy types. Weapons deal extra damage, while instruments gain higher success rates for bard abilities.

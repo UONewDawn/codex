@@ -1,3 +1,7 @@
+---
+description: "Discordance on New Dawn: weaken creature skills and stats and boost your other bard skills. How it works and how to train it."
+---
+
 ![Discordance](../../assets/flags/flag-enticement.png){ align=right }
 
 # Discordance

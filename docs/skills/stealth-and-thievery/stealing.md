@@ -1,3 +1,7 @@
+---
+description: "Stealing on New Dawn: who you can steal from, the Thieves Guild, how armor affects it, and how to train it."
+---
+
 ![Stealing](../../assets/flags/flag-stealing.png){ align=right }
 
 # Stealing

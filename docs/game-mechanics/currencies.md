@@ -1,3 +1,7 @@
+---
+description: "Every New Dawn currency and reward vendor, from Champion Tokens to War Tokens and Doubloons, and where to spend them in the Dawn Event Center."
+---
+
 # Currencies & Rewards
 
 New Dawn features multiple currency systems that allow players to earn rewards through various activities. These currencies can be spent at reward vendors for aesthetic rewards.

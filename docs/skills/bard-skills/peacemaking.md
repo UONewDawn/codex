@@ -1,3 +1,7 @@
+---
+description: "Peacemaking on New Dawn: calm nearby creatures and stop fights for a short time. How it works and how to train it."
+---
+
 ![Peacemaking](../../assets/flags/flag-peacemaking.png){ align=right }
 
 # Peacemaking

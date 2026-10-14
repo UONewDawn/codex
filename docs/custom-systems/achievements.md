@@ -1,3 +1,7 @@
+---
+description: "New Dawn's Achievement system: complete challenges, reach milestones and unlock exclusive titles."
+---
+
 # Achievement System
 
 Track your accomplishments through New Dawn's comprehensive Achievement system. Complete challenges, reach milestones, and unlock exclusive titles.

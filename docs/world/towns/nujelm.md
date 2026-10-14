@@ -1,4 +1,5 @@
 ---
+description: "Nujel'm on New Dawn: the island that vanished without a trace, and the mystery of what became of it."
 hide:
   - toc
 ---

@@ -1,3 +1,7 @@
+---
+description: "Carpentry on New Dawn: craft furniture, containers and instruments from boards. Crafting list and training to GM."
+---
+
 ![Carpentry](../../assets/flags/flag-carpentry.png){ align=right }
 
 # Carpentry

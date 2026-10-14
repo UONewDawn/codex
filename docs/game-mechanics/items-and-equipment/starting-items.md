@@ -1,3 +1,7 @@
+---
+description: "The items you start with on New Dawn based on the skills you pick at character creation, and which ones are newbied."
+---
+
 # Starting items
 
 Depending on which skills you choose during character creation you will receive different items. Even 1 point on a skill will grant you these items.

@@ -1,4 +1,5 @@
 ---
+description: "Searchable list of every hue in the New Dawn game files, with hue IDs and previews."
 hide:
   - navigation
   - toc

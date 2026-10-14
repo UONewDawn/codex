@@ -1,3 +1,7 @@
+---
+description: "Detecting Hidden on New Dawn: reveal hidden players and trapped containers, detection in houses, and training."
+---
+
 ![Detecting Hidden](../../assets/flags/flag-detecting-hidden.png){ align=right }
 
 # Detecting Hidden

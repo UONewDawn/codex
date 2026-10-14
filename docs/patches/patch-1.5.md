@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.5, released February 25, 2026. Highlights: Codex Bindings and Healer Outposts."
+---
+
 # SERVER PATCH 1.5
 
 ## February 25th, 2026

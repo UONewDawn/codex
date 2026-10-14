@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.42, released February 16, 2025. Highlights: Login Process, Conquest of the Virtues and Music."
+---
+
 # SERVER PATCH 0.42
 
 **February 16, 2025**

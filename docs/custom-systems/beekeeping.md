@@ -1,3 +1,7 @@
+---
+description: "Keep bees on New Dawn: produce honey to fill orders for Apiary Marks, refine wax and craft candles."
+---
+
 # Beekeeping
 
 Apiculture is the science (and some say art) of raising honey bees. Bees live together in groups called colonies and make their homes in beehives. Tending a hive is rewarding but takes a steady hand.

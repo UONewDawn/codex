@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.15, released June 4, 2023. Highlights: Map Updates."
+---
+
 # SERVER PATCH 0.15
 
 **June 4, 2023**

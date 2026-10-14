@@ -1,4 +1,5 @@
 ---
+description: "Cove on New Dawn: the town betrayed and conquered by orcs early in the gargoyle invasion."
 hide:
   - toc
 ---

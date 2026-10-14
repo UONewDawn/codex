@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.16, released June 24, 2023. Includes: Adjusted summoning followers count based on if you have Spirit Speak or not."
+---
+
 # SERVER PATCH 0.16
 
 **June 24, 2023**

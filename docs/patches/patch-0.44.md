@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.44, released March 25, 2025. Highlights: Gardening/Plants."
+---
+
 # SERVER PATCH 0.44
 
 **March 25, 2025**

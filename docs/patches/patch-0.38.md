@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.38, released March 10, 2024. Includes: Fixed issue with ships and houses."
+---
+
 # SERVER PATCH 0.38
 
 **March 10, 2024**

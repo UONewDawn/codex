@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.34, released January 22, 2024. Highlights: Vesper Rises and Cove - Orc Stronghold."
+---
+
 # SERVER PATCH 0.34
 
 **January 22, 2024**

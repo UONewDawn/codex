@@ -1,4 +1,5 @@
 ---
+description: "Moonglow on New Dawn: the mages' city and the transformation of the Lycaeum during the gargoyle invasion."
 hide:
   - toc
 ---

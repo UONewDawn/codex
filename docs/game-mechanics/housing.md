@@ -1,3 +1,7 @@
+---
+description: "Housing rules on New Dawn: one house per account, 30-day decay, biome-specific houses, placement tools and house options."
+---
+
 # Housing
 
 You can have 1 house per account (total 3 houses).

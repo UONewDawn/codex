@@ -14,6 +14,7 @@ copyright: Copyright &copy; 2026 New Dawn
 # Theme configuration
 theme:
   name: material
+  custom_dir: overrides
   palette:
     scheme: slate
     primary: custom
@@ -102,6 +103,7 @@ nav:
   - Home: 
     - index.md
     - Getting Started:
+      - getting-started/index.md
       - Installation:
           - On Windows: getting-started/on-windows.md
           - On Linux: getting-started/on-linux.md

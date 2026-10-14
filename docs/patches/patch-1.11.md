@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.11, released May 13th, 2026. Highlights: Masonry, Dungeon of the Week (DOTW) and Cooking Bulk Order Deeds."
+---
+
 # SERVER PATCH 1.11
 
 ## May 13th, 2026

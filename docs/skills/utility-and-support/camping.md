@@ -1,3 +1,7 @@
+---
+description: "Camping on New Dawn: make a campfire for a secure camp and safe logout in the wilderness, and how to train it."
+---
+
 ![Camping](../../assets/flags/flag-camping.png){ align=right }
 
 # Camping

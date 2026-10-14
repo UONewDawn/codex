@@ -1,3 +1,7 @@
+---
+description: "Tinkering on New Dawn: craft tools, lockpicks and mechanical items. Crafting list, materials and training to GM."
+---
+
 ![Tinkering](../../assets/flags/flag-tinkering.png){ align=right }
 
 # Tinkering

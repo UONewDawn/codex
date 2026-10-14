@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.28, released October 30, 2023. Includes: Over 45 changes and optimizations from the main ModernUO code branch."
+---
+
 # SERVER PATCH 0.28
 
 **October 30, 2023**

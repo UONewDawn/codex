@@ -1,3 +1,7 @@
+---
+description: "Magery on New Dawn: every spell by circle, reagents, travel and healing magic, and how to train Magery to GM."
+---
+
 ![Magery](../../assets/flags/flag-magery.png){ align=right }
 
 # Magery

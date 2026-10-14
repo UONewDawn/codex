@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.6, released March 3rd, 2026. Highlights: Housing, Daily Rares, Dawn Dueling Pits and Rangers' Guild Announcement."
+---
+
 # SERVER PATCH 1.6
 
 ## March 3rd, 2026

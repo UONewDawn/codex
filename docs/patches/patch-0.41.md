@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.41, released May 1, 2024. Includes: Fixed logic on the pirate region to not eject NPCs."
+---
+
 # SERVER PATCH 0.41
 
 **May 1, 2024**

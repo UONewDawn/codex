@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.29, released November 8, 2023. Includes: Fixed items (regs, pots, etc) being consumed when playing CTF."
+---
+
 # SERVER PATCH 0.29
 
 **November 8, 2023**

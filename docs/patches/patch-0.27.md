@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.27, released October 8, 2023. Highlights: Codex Rifts, Codex Rift Instance and Capture the Flag."
+---
+
 # SERVER PATCH 0.27
 
 **October 8, 2023**

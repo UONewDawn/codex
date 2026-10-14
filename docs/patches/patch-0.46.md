@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.46, released March 30, 2025. Highlights: Escort System Updates."
+---
+
 # SERVER PATCH 0.46
 
 **March 30, 2025**

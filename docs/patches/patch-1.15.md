@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.15, released August 8th, 2026. Highlights: Battle Lumberjackin', Capture the Flag and Bulk Order Deeds."
+---
+
 # SERVER PATCH 1.15
 
 ## August 8th, 2026

@@ -1,3 +1,7 @@
+---
+description: "A beginner's guide to New Dawn: join the Young Player Program, train in the Ocllo sewers, and build your first character, the Provo Dexxer."
+---
+
 # New Player Guide
 
 Thanks for giving New Dawn a look. Stepping into UO for the first time (or the first time in 25 years) can feel like a lot. It can be a bit overwhelming to where you might say, "nevermind" and log out.

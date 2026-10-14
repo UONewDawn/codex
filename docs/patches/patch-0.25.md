@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.25, released September 1, 2023. Includes: Animal sketchbook shows status; Fixed sketch on enraged bull."
+---
+
 # SERVER PATCH 0.25
 
 **September 1, 2023**

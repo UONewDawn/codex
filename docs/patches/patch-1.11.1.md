@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.11.1, released May 14th, 2026. Includes: Champ spawn are excluded from DotW bonuses."
+---
+
 # SERVER PATCH 1.11.1
 
 ## May 14th, 2026

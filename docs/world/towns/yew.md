@@ -1,4 +1,5 @@
 ---
+description: "Yew on New Dawn: the forest town reclaimed by nature, whose people rebuilt around Yew Abbey after the war."
 hide:
   - toc
 ---

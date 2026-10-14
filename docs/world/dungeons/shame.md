@@ -1,3 +1,7 @@
+---
+description: "Shame dungeon on New Dawn: entrance coordinates, level-by-level maps, monsters and its Dungeon Dye."
+---
+
 # Shame
 
 ## Dungeon Dye

@@ -1,3 +1,7 @@
+---
+description: "Collect old coins, tokens and banknotes from treasure chests, complete a catalog of 86 issues and earn the Numismatist titles on New Dawn."
+---
+
 # Coin Collecting
 
 Britannia's money has a history, and some of it is still buried. [Treasure chests](../game-mechanics/treasure-hunting.md) can hold old coins, tokens and banknotes from three eras of Britannian history. Collect them all in a Coin Collector's Book.

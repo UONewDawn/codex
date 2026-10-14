@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.0, released January 23, 2026. Highlights: Spawners, AI and Movement, Player Event Tracking and Boat Control Changes."
+---
+
 # SERVER PATCH 1.0
 
 ## January 23, 2026

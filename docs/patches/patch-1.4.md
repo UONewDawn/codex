@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.4, released February 22, 2026. Highlights: Codex Rifts, Bulk Order Deeds, Housing and Orcs."
+---
+
 # SERVER PATCH 1.4
 
 ## February 22nd, 2026

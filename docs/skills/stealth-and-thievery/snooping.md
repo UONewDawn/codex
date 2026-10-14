@@ -1,3 +1,7 @@
+---
+description: "Snooping on New Dawn: look inside other players' backpacks to pick targets for stealing, and how to train it."
+---
+
 ![Snooping](../../assets/flags/flag-snooping.png){ align=right }
 
 # Snooping

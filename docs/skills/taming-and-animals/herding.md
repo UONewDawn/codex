@@ -1,3 +1,7 @@
+---
+description: "Herding on New Dawn: guide animals to a location with a shepherd's crook, and how to train the skill."
+---
+
 ![Herding](../../assets/flags/flag-herding.png){ align=right }
 
 # Herding

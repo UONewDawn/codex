@@ -1,3 +1,7 @@
+---
+description: "Begging on New Dawn: ask NPCs for gold, the karma cost, rare Halloween treats at 100 skill, and how to train it."
+---
+
 ![Begging](../../assets/flags/flag-begging.png){ align=right }
 
 # Begging

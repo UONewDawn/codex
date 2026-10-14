@@ -1,3 +1,7 @@
+---
+description: "Mace Fighting on New Dawn: blunt weapons, stamina drain from maces and war maces, weapon stats and training."
+---
+
 ![Mace Fighting](../../assets/flags/flag-mace-fighting.png){ align=right }
 
 # Mace Fighting

@@ -1,3 +1,7 @@
+---
+description: "New Dawn's Young Player Program protects new players in Ocllo: no item loss on death, no unprovoked monster attacks and instant logout."
+---
+
 # Young Player Program Guide
 
 The Young Player Program is an opt-in protection system designed to give brand-new adventurers time to find their footing before the full dangers of New Dawn are upon them.

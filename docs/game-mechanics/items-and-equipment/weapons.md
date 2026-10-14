@@ -1,3 +1,7 @@
+---
+description: "Damage, speed and stats for every weapon on New Dawn, grouped by Swordsmanship, Mace Fighting, Fencing and Archery."
+---
+
 ## Weapons
 
 These tables do not take into account the Strength, Dexterity and Tactics of the attacker or the Armor Rating of the defender.

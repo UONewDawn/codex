@@ -1,3 +1,7 @@
+---
+description: "Raw resources on New Dawn: cotton and flax, which creatures drop each leather, wood types and ores, and where to gather them."
+---
+
 # Resources
 
 Resources are the raw materials players collect throughout the world. Cotton from fields, leather from creatures, wood from trees, and ores from the earth.

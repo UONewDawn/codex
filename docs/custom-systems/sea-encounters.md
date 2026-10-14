@@ -1,3 +1,7 @@
+---
+description: "Fish from your boat in Felucca's deep water to encounter pirate raiders, ghost ships and derelicts. Board them and claim the hold."
+---
+
 # Sea Encounters
 
 Deep water is no longer a quiet place to fish. Fish from the deck of your boat in Felucca's deep water long enough, and something will come out of the fog to meet you.

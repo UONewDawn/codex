@@ -1,3 +1,7 @@
+---
+description: "Locked, trapped treasure chests in New Dawn's dungeons: chest levels, skill requirements and what loot each level holds."
+---
+
 # Dungeon Treasure Chests
 
 Locked, trapped chests spawn throughout Britannia's dungeons. Pick the lock with [Lockpicking](../skills/stealth-and-thievery/lockpicking.md), disarm the trap with [Remove Trap](../skills/utility-and-support/remove-trap.md), and claim gold, gems, scrolls, magic gear and, if you're lucky, the dungeon's own dye material.

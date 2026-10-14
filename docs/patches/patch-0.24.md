@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.24, released August 22, 2023. Includes: Fixed issue with pirate map bosses disappearing."
+---
+
 # SERVER PATCH 0.24
 
 **August 22, 2023**

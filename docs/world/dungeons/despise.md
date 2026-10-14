@@ -1,3 +1,7 @@
+---
+description: "Despise dungeon on New Dawn: entrance coordinates, level-by-level maps, monsters, Dungeon Dye and the Barracoon champion spawn."
+---
+
 # Despise
 
 ## Dungeon Dye

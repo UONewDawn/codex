@@ -1,3 +1,7 @@
+---
+description: "Grow and cross-pollinate plants on New Dawn: seed types, plant care, all 17 plant types and how to breed rare color mutations."
+---
+
 <style>
 
 /* Cross color table */

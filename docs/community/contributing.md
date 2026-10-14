@@ -1,3 +1,7 @@
+---
+description: "How to contribute to the New Dawn Codex: fix errors, add guides and improve pages on GitHub using Markdown and MkDocs."
+---
+
 # Contributing to the Codex
 
 Help us improve and expand the New Dawn Codex!

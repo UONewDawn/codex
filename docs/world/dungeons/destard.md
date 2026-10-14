@@ -1,3 +1,7 @@
+---
+description: "Destard dungeon on New Dawn: entrance coordinates, level-by-level maps, monsters, Dungeon Dye and the Rikktor champion spawn."
+---
+
 # Destard
 
 ## Dungeon Dye

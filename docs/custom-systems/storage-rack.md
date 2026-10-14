@@ -1,3 +1,7 @@
+---
+description: "The Storage Rack is a lockable house rack for reagents, potions, supplies and resources. Build loadouts and restock with one click."
+---
+
 # Storage Rack
 
 A Storage Rack is a lockable house item that holds a stock of common supplies such as reagents, potions, bandages, ammo, ingots, hides and boards. Instead of piling everything in chests, you drop your supplies onto the rack and it keeps a count of each one.

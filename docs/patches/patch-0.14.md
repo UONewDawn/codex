@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.14, released May 29, 2023. Includes: Blocked being able to open house doors from outside a house."
+---
+
 # SERVER PATCH 0.14
 
 **May 29, 2023**

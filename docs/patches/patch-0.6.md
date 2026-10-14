@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.6, released May 2, 2023. Includes: Fixed issue with harming players in Fel."
+---
+
 # SERVER PATCH 0.6
 
 **May 2, 2023**

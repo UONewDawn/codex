@@ -1,3 +1,7 @@
+---
+description: "The Painted Caves on New Dawn: entrance coordinates, map and monsters."
+---
+
 # Painted Caves
 
 ## Entrance

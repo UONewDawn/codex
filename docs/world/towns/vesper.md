@@ -1,4 +1,5 @@
 ---
+description: "Vesper on New Dawn: the sea town sunk by explosives beneath its foundations during the war, and what remains."
 hide:
   - toc
 ---

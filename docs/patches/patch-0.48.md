@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.48, released April 7, 2025. Highlights: Stamina Loss and Spirit Summoner."
+---
+
 # SERVER PATCH 0.48
 
 **April 7, 2025**

@@ -1,3 +1,7 @@
+---
+description: "Treasure hunting on New Dawn: finding and decoding maps, map levels, digging up chests, guardians, traps and loot."
+---
+
 # Treasure Hunting
 
 Treasure Hunting is all about following a decoded map to its marked spot, digging up a buried chest, fighting off the creatures that rise to defend it, and claiming the gold and loot hidden beneath the soil.

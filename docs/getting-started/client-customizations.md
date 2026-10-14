@@ -1,3 +1,7 @@
+---
+description: "Replace item art and gump (UI) graphics in the New Dawn client with your own PNG or BMP images. Where files go and how to name them."
+---
+
 # Custom Art & Gumps
 
 The New Dawn client can swap out selected item art and gump (UI) graphics with your own images. Drop a `.png` or `.bmp` into the right folder, name it after the graphic it replaces, and restart the client.

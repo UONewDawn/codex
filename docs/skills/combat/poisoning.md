@@ -1,3 +1,7 @@
+---
+description: "Poisoning on New Dawn: apply poison to weapons, chance of poisoning, the Poison spell, and how to train it."
+---
+
 ![Poisoning](../../assets/flags/flag-poisoning.png){ align=right }
 
 # Poisoning

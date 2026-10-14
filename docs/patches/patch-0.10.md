@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.10, released May 21, 2023. Includes: Added LOS check on NPCs when calling guards."
+---
+
 # SERVER PATCH 0.10
 
 **May 21, 2023**

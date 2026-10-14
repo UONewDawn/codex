@@ -1,3 +1,7 @@
+---
+description: "Fencing on New Dawn: fast piercing weapons, pairing with Poisoning, weapon stats and how to train it."
+---
+
 ![Fencing](../../assets/flags/flag-fencing.png){ align=right }
 
 # Fencing

@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.13, released June 28th, 2026. Highlights: Ship Holds - Home Below Deck, Beekeeping and New House Styles."
+---
+
 # SERVER PATCH 1.13
 
 ## June 28th, 2026

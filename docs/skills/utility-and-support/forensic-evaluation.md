@@ -1,3 +1,7 @@
+---
+description: "Forensic Evaluation on New Dawn: find out who killed or looted a corpse, spot thieves, and how to train it."
+---
+
 ![Forensic Evaluation](../../assets/flags/flag-forensic-evaluation.png){ align=right }
 
 # Forensic Evaluation

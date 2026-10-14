@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn login service patch 1.2, released June 8, 2025. Highlights: Beta Participant Name Reservations."
+---
+
 # LOGIN SERVICE PATCH 1.2
 
 **June 8, 2025**

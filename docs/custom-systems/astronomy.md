@@ -1,3 +1,7 @@
+---
+description: "Build a telescope, search the New Dawn night sky for 1,000 hidden constellations, chart them and name your discoveries in the Constellation Ledger."
+---
+
 # Astronomy
 
 Willebrord the Astronomer has pitched his tent east of Moonglow (4707, 1127) in Felucca. One thousand constellations are hidden in the New Dawn night sky, and only you can discover and name them.

@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.31, released December 28, 2023. Highlights: Murder Changes and Discord Registration."
+---
+
 # SERVER PATCH 0.31
 
 **December 28, 2023**

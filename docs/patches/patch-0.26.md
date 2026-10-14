@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.26, released September 22, 2023. Includes: 10v10 capture the flag (Team & Random)."
+---
+
 # SERVER PATCH 0.26
 
 **September 22, 2023**

@@ -1,3 +1,7 @@
+---
+description: "How to install and play New Dawn on Linux with Wine, tested on Ubuntu and Debian, including the automated setup script."
+---
+
 # Linux Installation Guide
 
 These steps have been tested on Ubuntu and Debian.

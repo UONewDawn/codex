@@ -1,3 +1,7 @@
+---
+description: "Ship holds on New Dawn are a private space aboard your boat for storing items and logging out safely."
+---
+
 # Ship Holds
 
 On New Dawn, ships aren't simply ways to fish or get to an island. Here, they are your _home away from home_.

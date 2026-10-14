@@ -1,4 +1,5 @@
 ---
+description: "Ocllo on New Dawn: the fortified island town, starting point for new players and the shard's main social hub."
 hide:
   - toc
 ---

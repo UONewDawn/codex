@@ -1,4 +1,5 @@
 ---
+description: "Magincia on New Dawn: the fishing village that rose to wealth after the Codex War, and the resentment that followed."
 hide:
   - toc
 ---

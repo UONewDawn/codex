@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.7, released March 12th, 2026. Highlights: Fletching Change, Bulk Order Deeds and Carpentry Bulk Order Deeds."
+---
+
 # SERVER PATCH 1.7
 
 ## March 11th, 2026

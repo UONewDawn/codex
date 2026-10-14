@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.18, released July 8, 2023. Includes: Fixed chain lightning to chain when its two targets, also has a chance to resist."
+---
+
 # SERVER PATCH 0.18
 
 **July 8, 2023**

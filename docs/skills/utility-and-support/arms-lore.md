@@ -1,3 +1,7 @@
+---
+description: "Arms Lore on New Dawn: inspect weapons and armor for condition, damage and armor rating, and how to train it."
+---
+
 ![Arms Lore](../../assets/flags/flag-arms-lore.png){ align=right }
 
 # Arms Lore

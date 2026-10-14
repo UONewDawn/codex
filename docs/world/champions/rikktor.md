@@ -1,3 +1,7 @@
+---
+description: "Rikktor champion spawn in Destard on New Dawn: altar location, activation, spawn levels and the Skull of Power."
+---
+
 # Rikktor
 
 ![image](../../assets/mobiles/rikktor.png)

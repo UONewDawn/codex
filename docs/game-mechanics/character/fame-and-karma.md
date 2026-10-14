@@ -1,3 +1,7 @@
+---
+description: "How Fame and Karma work on New Dawn: how points are gained and lost, the tier scale, and the reputation titles they unlock."
+---
+
 <style>
 
 /* Cross color table */

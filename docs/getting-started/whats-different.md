@@ -1,3 +1,7 @@
+---
+description: "What sets New Dawn apart from classic Ultima Online: Felucca-only PvP, 700 skill points, account and housing rules, pets and custom systems."
+---
+
 # What's Different from Classic UO?
 
 New Dawn builds on the classic Ultima Online foundation while introducing meaningful changes and custom systems. This guide helps veteran UO players quickly understand what makes New Dawn unique.

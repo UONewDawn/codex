@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.45, released March 29, 2025. Highlights: Sheep Farming."
+---
+
 # SERVER PATCH 0.45
 
 **March 29, 2025**

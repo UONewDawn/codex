@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.19, released July 22, 2023. Includes: Remove extra spaces in some labels."
+---
+
 # SERVER PATCH 0.19
 
 **July 22, 2023**

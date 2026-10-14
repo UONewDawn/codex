@@ -1,3 +1,7 @@
+---
+description: "The Minoc champion altar on New Dawn summons a random champion spawn. Location, activation and which champions can appear."
+---
+
 # Minoc altar
 
 When this altar is activated, it selects a random Champion spawn.

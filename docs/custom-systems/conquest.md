@@ -1,3 +1,7 @@
+---
+description: "Conquest is New Dawn's objective-based team PvP mode. Capture and hold points, drain enemy tickets and earn War Tokens."
+---
+
 # Conquest
 
 Take control of key positions across a contested battleground, hold them against the enemy, and bleed their tickets dry before yours run out.

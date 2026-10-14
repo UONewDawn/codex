@@ -1,4 +1,5 @@
 ---
+description: "Details and previews for a single New Dawn hue, including its ID and how it looks on items."
 title: Hue Details
 ---
 

@@ -1,4 +1,5 @@
 ---
+description: "New Minoc on New Dawn: the refuge the people of Minoc built inside Crescent Mountain after fleeing the invasion."
 hide:
   - toc
 ---

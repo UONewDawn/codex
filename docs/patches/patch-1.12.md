@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.12, released June 10th, 2026. Highlights: Pirate Maps, Difficulty Scale and Dungeon of the Week."
+---
+
 # SERVER PATCH 1.12
 
 ## June 10th, 2026

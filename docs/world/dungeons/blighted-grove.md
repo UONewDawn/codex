@@ -1,3 +1,7 @@
+---
+description: "Blighted Grove dungeon on New Dawn: entrance coordinates, map and the Mephitis champion spawn."
+---
+
 # Blighted Grove
 
 ## Entrance

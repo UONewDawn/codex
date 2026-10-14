@@ -1,3 +1,7 @@
+---
+description: "Find and restore a pirate map, open a gate to a timed instance, defeat the boss and earn Doubloons in New Dawn's Pirate Adventures."
+---
+
 # Pirate Adventures
 
 Venture into four distinct instanced pirate encounters, a hidden cove hideaway, a crumbling lighthouse, a sunken treasure cave, and an ancient pirate tomb.
