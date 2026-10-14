@@ -102,6 +102,9 @@ nav:
       - Installation:
           - On Windows: getting-started/on-windows.md
           - On Linux: getting-started/on-linux.md
+      - Client:
+          - Built-in Assistant: getting-started/built-in-assistant.md
+          - Custom Art & Gumps: getting-started/client-customizations.md
       - New Player Guide: getting-started/new-player-guide.md
       - What's Different: getting-started/whats-different.md
       - Trainers: getting-started/trainers.md
