@@ -1,3 +1,7 @@
+---
+description: "Join the New Dawn Discord server for chat, help, trading, events and guild recruitment."
+---
+
 # Discord
 
 Connect with the New Dawn community on Discord.

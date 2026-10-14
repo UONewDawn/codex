@@ -1,3 +1,7 @@
+---
+description: "Join the New Dawn community on Discord and in Ocllo, get help from other players, and contribute to the Codex."
+---
+
 # Community & Resources
 
 Connect with fellow players and contribute to the New Dawn community.

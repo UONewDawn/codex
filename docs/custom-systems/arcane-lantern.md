@@ -1,3 +1,7 @@
+---
+description: "The Arcane Lantern is a lockable house repository for wand charges. Deposit wands and redeem freshly charged ones later."
+---
+
 # Arcane Lantern
 
 An Arcane Lantern is a lockable house item that stores wand charges. Drop wands into it and the lantern keeps a bank of charges **for each spell**. Later you can draw out a fresh, fully charged wand.

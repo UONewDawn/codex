@@ -1,3 +1,7 @@
+---
+description: "Order vs. Chaos is New Dawn's open-world faction war. Fight for Felucca outposts, climb five ranks and earn War Tokens in monthly seasons."
+---
+
 # Order vs. Chaos
 
 Order vs. Chaos is the open-world war for Britannia. Fight for outposts across Felucca, earn War Tokens, climb the ranks, and help your faction win the monthly season.

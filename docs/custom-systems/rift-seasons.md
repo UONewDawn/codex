@@ -1,3 +1,7 @@
+---
+description: "Rift Seasons bring limited-time themes to the Codex Rifts on New Dawn, with new creatures, mini-bosses, a season boss and seasonal currency."
+---
+
 # Rift Seasons
 
 During a Rift Season, the [Codex Rifts](codex-rifts.md) are taken over by a limited-time theme. The town rifts swap their usual champions for seasonal ones, with new creatures, new mini-bosses, and a season boss.

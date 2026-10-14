@@ -1,3 +1,7 @@
+---
+description: "Tame rare pets across Britannia and fill your Sketchbook in the Animal Bonding Quest to earn an extra bond slot. Requires 80 Animal Taming."
+---
+
 # Animal Bonding Quest
 
 Discover rare pets around the world and complete your Sketchbook to gain an additional bond slot.

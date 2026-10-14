@@ -1,3 +1,7 @@
+---
+description: "New Dawn's client has Razor built in: the same tabs, options and hotkeys, running inside ClassicUO on every platform."
+---
+
 # Built-in Assistant
 
 The New Dawn client has an assistant built in. It's Razor, rebuilt inside the client: the same tabs, the same options, the same names, all in the same places. Razor already works well, so the goal wasn't to reinvent it. The goal was to make it part of the client.

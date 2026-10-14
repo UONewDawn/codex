@@ -1,4 +1,5 @@
 ---
+description: "Locations and coordinates of every skill trainer in Ocllo, New Dawn's starting town and social hub."
 hide:
   - toc
 ---

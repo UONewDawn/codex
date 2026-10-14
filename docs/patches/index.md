@@ -1,3 +1,7 @@
+---
+description: "Archive of every New Dawn server patch, with release dates and links to the full patch notes."
+---
+
 # Patch Notes
 
 Welcome to the New Dawn patch notes archive. All server patches and updates are documented here in chronological order.

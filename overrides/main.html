@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{#
+  index.md lives inside the "Home" nav section, so MkDocs doesn't flag it
+  as page.is_homepage and Material renders "New Dawn Codex - New Dawn Codex".
+#}
+{% block htmltitle %}
+  {% if page.file and page.file.src_uri == "index.md" %}
+    <title>{{ config.site_name }}</title>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}

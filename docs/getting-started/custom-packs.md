@@ -1,4 +1,5 @@
 ---
+description: "Download optional custom packs for the New Dawn client: reagents, gems, bags, spell icons, sounds and more. Install by extracting into your client folder."
 render_macros: true
 ---
 

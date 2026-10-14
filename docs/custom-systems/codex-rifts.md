@@ -1,3 +1,7 @@
+---
+description: "Codex Rifts: defeat Rift Spawns to open a gate to a shared instance of champion spawns and bosses, and earn Rift Shards and Codex fragments."
+---
+
 # Codex Rifts
 
 In the decades following the Codex War, scholars studied the magical artifacts recovered from the fallen forces. Among their discoveries were strange, otherworldly creatures they called rift spawns - entities capable of tearing openings between realms and moments in time.

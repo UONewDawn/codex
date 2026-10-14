@@ -1,4 +1,5 @@
 ---
+description: "The player wiki for New Dawn, a free-to-play Ultima Online shard set in the T2A/UOR era. Guides to skills, dungeons, custom systems and getting started."
 hide:
   - toc
 ---

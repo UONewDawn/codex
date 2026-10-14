@@ -1,3 +1,7 @@
+---
+description: "New Dawn's custom systems: Codex Rifts, Pirate Adventures, Dungeon of the Week, Order vs. Chaos, Battlegrounds, Archaeology, Beekeeping and more."
+---
+
 # Custom Systems
 
 New Dawn builds upon the classic Ultima Online foundation with unique systems that create fresh gameplay experiences while maintaining the spirit of the original game. These custom features distinguish New Dawn from other UO servers and provide new challenges for veterans and newcomers alike.

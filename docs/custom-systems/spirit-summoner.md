@@ -1,3 +1,7 @@
+---
+description: "The Spirit Summoner is a New Dawn mage archetype combining Magery, Spirit Speak and Animal Lore for stronger, longer-lasting summons."
+---
+
 # Spirit Summoner
 
 The Spirit Summoner is a unique mage archetype that combines Magery with Spirit Speak.

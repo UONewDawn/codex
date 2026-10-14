@@ -1,3 +1,7 @@
+---
+description: "Step-by-step guide to creating a New Dawn account, installing the launcher on Windows and logging in to the shard for the first time."
+---
+
 # Installation Guide
 
 Thanks for trying out New Dawn. Getting the game installed only takes a few minutes

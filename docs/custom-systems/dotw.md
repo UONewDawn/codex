@@ -1,3 +1,7 @@
+---
+description: "Dungeon of the Week: every Monday four New Dawn dungeons get bonuses to slayers, gold, dyes and rift spawns, plus a chance to face the dragon Dracothraxus."
+---
+
 # Dungeon of the Week
 
 Every Monday at 8AM CT, four of the ten available dungeons are randomly assigned one of five weekly bonuses.

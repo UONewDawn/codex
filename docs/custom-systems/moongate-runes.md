@@ -1,3 +1,7 @@
+---
+description: "Moongate Runes change the color, light and look of your Gate Travel moongates. Buy them from reward stores and bind them with Codex Fragments."
+---
+
 # Moongate Runes
 
 Moongate Runes change how your **Gate Travel** (7th circle) moongates look. Each rune unlocks a new gate color, and with it a new light color. The premium **Riftgate** runes also replace the gate itself with different art.

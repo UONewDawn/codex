@@ -1,3 +1,7 @@
+---
+description: "Collect rare Dungeon Dye Materials from monsters and craft dyes that color clothing in each dungeon's signature hue."
+---
+
 # Dungeon Dyes
 
 Every dungeon in Britannia leaves its mark on those who spend enough time within its depths.

@@ -1,3 +1,7 @@
+---
+description: "New Dawn's Archaeology system: decode clues, find hidden dig sites and excavate lost artifacts with three specialized tools."
+---
+
 # Archaeology System
 
 Uncover lost artifacts and treasures from Britannia's forgotten past through the Archaeology system.

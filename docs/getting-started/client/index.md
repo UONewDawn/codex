@@ -1,4 +1,5 @@
 ---
+description: "The New Dawn ClassicUO client: a built-in Razor assistant, custom item art and gump replacements, and downloadable custom packs."
 hide:
   - toc
 ---
