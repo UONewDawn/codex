@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.17, released July 2, 2023. Includes: Several adjustments to the different pirates based on feedback."
+---
+
 # SERVER PATCH 0.17
 
 **July 2, 2023**

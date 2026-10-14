@@ -1,3 +1,7 @@
+---
+description: "Cooking on New Dawn: turn raw ingredients into food, the tools you need, recipes and how to train it."
+---
+
 ![Cooking](../../assets/flags/flag-cooking.png){ align=right }
 
 # Cooking

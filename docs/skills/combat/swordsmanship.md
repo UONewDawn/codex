@@ -1,3 +1,7 @@
+---
+description: "Swordsmanship on New Dawn: swords, polearms and axes, the Lumberjacking damage bonus, weapon stats and training."
+---
+
 ![Swordsmanship](../../assets/flags/flag-swordsmanship.png){ align=right }
 
 # Swordsmanship

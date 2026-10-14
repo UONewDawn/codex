@@ -1,3 +1,7 @@
+---
+description: "Magical armor and weapon properties on New Dawn: every enchantment level and what it does, revealed with Item Identification."
+---
+
 # Magical properties
 
 [Item Identification](../../skills/utility-and-support/item-identification.md) allows you to reveal the magical properties of unidentified items.

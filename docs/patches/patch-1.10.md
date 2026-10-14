@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.10, released April 19th, 2026. Highlights: Conquest, Capture the Flag, Player Vendors, Vendor Upkeep and Auction House."
+---
+
 # SERVER PATCH 1.10
 
 ## April 19th, 2026

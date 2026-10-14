@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.20, released August 2, 2023. Includes: Fixed issue with cooldown on potion use timers."
+---
+
 # SERVER PATCH 0.20
 
 **August 2, 2023**

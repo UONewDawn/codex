@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.8, released March 23rd, 2026. Highlights: Happy St. Patrick's Day."
+---
+
 # SERVER PATCH 1.8
 
 ## March 23rd, 2026

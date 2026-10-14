@@ -1,3 +1,7 @@
+---
+description: "Provocation on New Dawn: turn two creatures against each other. How it works, instruments, and how to train it."
+---
+
 ![Provocation](../../assets/flags/flag-provocation.png){ align=right }
 
 # Provocation

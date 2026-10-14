@@ -1,4 +1,5 @@
 ---
+description: "Jhelom on New Dawn: the warriors' town in the Valorian Isles, one of three cities to withstand the gargoyle invasion."
 hide:
   - toc
 ---

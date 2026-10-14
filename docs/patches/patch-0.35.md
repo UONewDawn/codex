@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.35, released January 24, 2024. Includes: Dupe should no longer cause issues with items."
+---
+
 # SERVER PATCH 0.35
 
 **January 24, 2024**

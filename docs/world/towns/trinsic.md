@@ -1,4 +1,5 @@
 ---
+description: "Trinsic on New Dawn: the city of Honor that held against the invasion, and how it was reforged afterwards."
 hide:
   - toc
 ---

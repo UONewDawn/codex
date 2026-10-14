@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.2, released February 13, 2026. Highlights: Charter Hue, Murder Changes and Valentine's Day 2026."
+---
+
 # SERVER PATCH 1.2
 
 ## February 13th, 2026

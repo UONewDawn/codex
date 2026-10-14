@@ -1,4 +1,5 @@
 ---
+description: "Delucia and Papua on New Dawn: the sealed towns of the Lost Lands, cut off from Britannia when the Codex was destroyed."
 hide:
   - toc
 ---

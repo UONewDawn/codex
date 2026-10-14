@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.5, released April 30, 2023. Includes: Added an AFK gump for resource gathering."
+---
+
 # SERVER PATCH 0.5
 
 **April 30, 2023**

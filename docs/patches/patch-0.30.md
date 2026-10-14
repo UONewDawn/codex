@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.30, released November 11, 2023. Highlights: Capture the Flag."
+---
+
 # SERVER PATCH 0.30
 
 **November 11, 2023**

@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.49, released April 14, 2025. Highlights: Combat & Skills, Storage & Weight Updates and Fishing Improvements."
+---
+
 # SERVER PATCH 0.49
 
 **April 14, 2025**

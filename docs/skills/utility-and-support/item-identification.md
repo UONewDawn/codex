@@ -1,3 +1,7 @@
+---
+description: "Item Identification on New Dawn: reveal magic item properties, identify whole bags at GM, and how to train it."
+---
+
 ![Item Identification](../../assets/flags/flag-item-identification.png){ align=right }
 
 # Item Identification

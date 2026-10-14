@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.8, released May 8, 2023. Includes: One account/IP allowed in a dungeon; Instruments show the correct usage status."
+---
+
 # SERVER PATCH 0.8
 
 **May 8, 2023**

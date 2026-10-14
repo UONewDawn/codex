@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.18, released October 13th, 2026. Highlights: Halloween Rift Season: The Eight Nightmares and Trick or Treat."
+---
+
 # SERVER PATCH 1.18
 
 ## October 13th

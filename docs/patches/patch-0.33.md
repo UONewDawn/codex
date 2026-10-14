@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.33, released January 20, 2024. Highlights: Tailoring."
+---
+
 # SERVER PATCH 0.33
 
 **January 20, 2024**

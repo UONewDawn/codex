@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.36, released February 9, 2024. Highlights: Harrower Scroll."
+---
+
 # SERVER PATCH 0.36
 
 **February 9, 2024**

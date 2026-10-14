@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.14, released July 23rd, 2026. Highlights: NPC Vendor Prices, Dungeon of the Week (DOTW) and Traveling Merchant."
+---
+
 # SERVER PATCH 1.14
 
 ## July 23rd, 2026

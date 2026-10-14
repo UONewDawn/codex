@@ -1,3 +1,7 @@
+---
+description: "Blacksmithy on New Dawn: craft and repair metal weapons and armor, runic hammers, bulk order deeds and training."
+---
+
 ![Blacksmithy](../../assets/flags/flag-blacksmithy.png){ align=right }
 
 # Blacksmithy

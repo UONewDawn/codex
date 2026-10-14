@@ -1,4 +1,5 @@
 ---
+description: "The story of New Dawn: the lore and history of Britannia after the gargoyle invasion, inspired by Ultima V and Ultima VI."
 hide:
   - toc
 ---

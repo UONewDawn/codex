@@ -1,3 +1,7 @@
+---
+description: "Spirit Speak on New Dawn: longer-lasting, stronger Magery summons, talking to ghosts at GM, and how to train it."
+---
+
 ![Spirit Speak](../../assets/flags/flag-spirit-speak.png){ align=right }
 
 # Spirit Speak

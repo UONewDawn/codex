@@ -1,3 +1,7 @@
+---
+description: "Fishing on New Dawn: what you can catch, rare fish and treasure, and how to train Fishing."
+---
+
 ![Fishing](../../assets/flags/flag-fishing.png){ align=right }
 
 # Fishing

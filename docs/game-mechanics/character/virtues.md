@@ -1,3 +1,7 @@
+---
+description: "New Dawn's Virtues: how to gain Compassion, Sacrifice and Valor, and what each one unlocks."
+---
+
 # Virtues
 
 ![image](../../assets/gumps/virtues.png)

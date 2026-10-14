@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.12, released May 27, 2023. Includes: Fixed issue with placing boats."
+---
+
 # SERVER PATCH 0.12
 
 **May 27, 2023**

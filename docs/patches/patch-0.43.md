@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.43, released March 8, 2025. Highlights: Archaeology/Artifact System, Clue Hunting and Tools & Techniques."
+---
+
 # SERVER PATCH 0.43
 
 **March 8, 2025**

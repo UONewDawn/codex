@@ -1,3 +1,7 @@
+---
+description: "The New Dawn bestiary: an A to Z index of the creatures of Britannia, from Acid Elementals to Ancient Wyrms and beyond."
+---
+
 <style>
 .mob-info table {
     border-collapse: separate !important;

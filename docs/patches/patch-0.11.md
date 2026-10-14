@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.11, released May 24, 2023. Includes: GM Item ID can be used on a bag; Instruments will say exceptional."
+---
+
 # SERVER PATCH 0.11
 
 **May 24, 2023**

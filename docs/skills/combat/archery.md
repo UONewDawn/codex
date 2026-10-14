@@ -1,3 +1,7 @@
+---
+description: "Archery on New Dawn: bows and crossbows, ammo, the 500ms shot delay, the Snare ability, and how to train it."
+---
+
 ![Archery](../../assets/flags/flag-archery.png){ align=right }
 
 # Archery

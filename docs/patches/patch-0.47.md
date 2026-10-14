@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.47, released March 31, 2025. Includes: Moongates now properly maintain their space (no stacking)."
+---
+
 # SERVER PATCH 0.47
 
 **March 31, 2025**

@@ -1,4 +1,5 @@
 ---
+description: "Wind on New Dawn: the hidden city of mages, sealed off by magic to protect it from the gargoyle invasion."
 hide:
   - toc
 ---

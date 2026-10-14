@@ -1,3 +1,7 @@
+---
+description: "Parties on New Dawn: up to 40 members, invite permissions, shared fame and karma, corpse looting and party commands."
+---
+
 # Parties
 
 Group up with friends to hunt, share fame and karma, and look after each other's corpses.

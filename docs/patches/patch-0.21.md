@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.21, released August 5, 2023. Includes: Block housing to be placed in ruined town areas."
+---
+
 # SERVER PATCH 0.21
 
 **August 5, 2023**

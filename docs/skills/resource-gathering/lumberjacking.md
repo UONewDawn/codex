@@ -1,3 +1,7 @@
+---
+description: "Lumberjacking on New Dawn: chop logs, wood types, the axe damage bonus, and how to train it."
+---
+
 ![Lumberjacking](../../assets/flags/flag-lumberjacking.png){ align=right }
 
 # Lumberjacking

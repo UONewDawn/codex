@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.9, released April 6th, 2026. Highlights: Happy Easter, Housing, Capture the Flag and Pirates in the South."
+---
+
 # SERVER PATCH 1.9
 
 ## April 6th, 2026

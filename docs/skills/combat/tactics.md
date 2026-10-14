@@ -1,3 +1,7 @@
+---
+description: "Tactics on New Dawn: how it scales your weapon damage, the damage formula with examples, and how to train it."
+---
+
 ![Tactics](../../assets/flags/flag-tactics.png){ align=right }
 
 # Tactics

@@ -1,3 +1,7 @@
+---
+description: "Wrestling on New Dawn: defend against physical hits, protect spellcasting, Stun Punch with Anatomy, and training."
+---
+
 ![Wrestling](../../assets/flags/flag-wrestling.png){ align=right }
 
 # Wrestling

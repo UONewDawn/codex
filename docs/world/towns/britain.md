@@ -1,4 +1,5 @@
 ---
+description: "New Britain on New Dawn: the ruined former capital of Britannia, now a humble settlement inside Castle Britannia."
 hide:
   - toc
 ---

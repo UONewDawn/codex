@@ -1,3 +1,7 @@
+---
+description: "Tracking on New Dawn: locate creatures, NPCs and players nearby, track hidden players, and how to train it."
+---
+
 ![Tracking](../../assets/flags/flag-tracking.png){ align=right }
 
 # Tracking

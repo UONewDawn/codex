@@ -1,3 +1,7 @@
+---
+description: "Resisting Spells on New Dawn: reduce spell damage and debuff duration, how resist chance is calculated, and training."
+---
+
 ![Resisting Spells](../../assets/flags/flag-resisting-spells.png){ align=right }
 
 # Resisting Spells

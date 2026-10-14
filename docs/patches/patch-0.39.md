@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.39, released March 13, 2024."
+---
+
 # SERVER PATCH 0.39
 
 **March 13, 2024**

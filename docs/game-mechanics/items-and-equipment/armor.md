@@ -1,3 +1,7 @@
+---
+description: "Armor ratings for every armor type on New Dawn, from leather to plate, with per-slot AR and contribution to your total."
+---
+
 # Armor
 
 The AR Area on this table shows the actual Armor Rating of the area it protects. It will not match the in-game character status window, which only displays the total average.

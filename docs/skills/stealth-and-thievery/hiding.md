@@ -1,3 +1,7 @@
+---
+description: "Hiding on New Dawn: turn invisible to players and monsters, what reveals you, pairing with Stealth, and training."
+---
+
 ![Hiding](../../assets/flags/flag-hiding.png){ align=right }
 
 # Hiding

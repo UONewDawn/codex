@@ -1,3 +1,7 @@
+---
+description: "How to summon The Harrower on New Dawn: place all six champion skulls in the Star Room on Temple Island, then find and defeat it."
+---
+
 # The Harrower
 
 ![image](../../assets/screenshots/star-room-banner.png){ .center-img }

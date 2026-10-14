@@ -1,3 +1,7 @@
+---
+description: "Meditation on New Dawn: passive and active mana regeneration, how armor affects it, and how to train it."
+---
+
 ![Meditation](../../assets/flags/flag-meditation.png){ align=right }
 
 # Meditation

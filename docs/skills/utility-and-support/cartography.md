@@ -1,3 +1,7 @@
+---
+description: "Cartography on New Dawn: draw maps, decode treasure maps, decipher Archaeology fragments, and how to train it."
+---
+
 ![Cartography](../../assets/flags/flag-cartography.png){ align=right }
 
 # Cartography

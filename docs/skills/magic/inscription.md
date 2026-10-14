@@ -1,3 +1,7 @@
+---
+description: "Inscription on New Dawn: craft spell scrolls, spellbooks and runebooks, boost protective spells, and training."
+---
+
 ![Inscription](../../assets/flags/flag-inscription.png){ align=right }
 
 # Inscription

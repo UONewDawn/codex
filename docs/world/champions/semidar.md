@@ -1,3 +1,7 @@
+---
+description: "Semidar champion spawn in the Fire dungeon on New Dawn: altar location, activation, spawn levels and the Skull of Pain."
+---
+
 # Semidar
 
 ![image](../../assets/mobiles/semidar.png)

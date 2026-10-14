@@ -1,3 +1,7 @@
+---
+description: "How New Dawn's murder system works: reporting kills, short- and long-term counts and decay, pardons, and stat loss on resurrection."
+---
+
 # Player Murder System
 
 The murder system tracks player kills and applies consequences for those who engage in player killing (PKing). This system uses both **short-term** and **long-term** murder counts to regulate PvP behavior and provide pathways for redemption.

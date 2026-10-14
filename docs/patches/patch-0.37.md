@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.37, released March 8, 2024. Highlights: Housing and New House Types."
+---
+
 # SERVER PATCH 0.37
 
 **March 8, 2024**

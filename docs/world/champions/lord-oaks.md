@@ -1,3 +1,7 @@
+---
+description: "Lord Oaks and Silvani champion spawn near Yew on New Dawn: location, activation, spawn levels and the Skull of Enlightenment."
+---
+
 # Lord Oaks
 
 ![image](../../assets/mobiles/lord-oaks.png)

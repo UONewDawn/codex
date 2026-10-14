@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.9, released May 17, 2023. Includes: Added in-game invasion controller; Added base in-game seasonal event controller."
+---
+
 # SERVER PATCH 0.9
 
 **May 17, 2023**

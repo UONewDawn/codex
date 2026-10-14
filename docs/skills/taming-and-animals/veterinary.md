@@ -1,3 +1,7 @@
+---
+description: "Veterinary on New Dawn: heal, cure and resurrect pets with bandages, skill requirements and how to train it."
+---
+
 ![Veterinary](../../assets/flags/flag-veterinary.png){ align=right }
 
 # Veterinary

@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.17, released September 24th, 2026. Highlights: Masonry, Storage Rack, Arcane Lantern and Bulk Order Deeds."
+---
+
 # SERVER PATCH 1.17
 
 ## September 24th, 2026

@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.1, released February 9, 2026. Highlights: Night Sight Improvements, Quality of Life and Skills & Achievements."
+---
+
 # SERVER PATCH 1.1
 
 ## February 10th, 2026

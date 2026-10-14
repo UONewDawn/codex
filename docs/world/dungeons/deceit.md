@@ -1,3 +1,7 @@
+---
+description: "Deceit dungeon on New Dawn: entrance coordinates, level-by-level maps, monsters, Dungeon Dye and the Neira champion spawn."
+---
+
 # Deceit
 
 ## Dungeon Dye

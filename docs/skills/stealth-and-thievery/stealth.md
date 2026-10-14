@@ -1,3 +1,7 @@
+---
+description: "Stealth on New Dawn: move while hidden, the 80 Hiding requirement, steps per use, and how to train it."
+---
+
 ![Stealth](../../assets/flags/flag-stealth.png){ align=right }
 
 # Stealth

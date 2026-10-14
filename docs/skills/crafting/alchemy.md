@@ -1,3 +1,7 @@
+---
+description: "Alchemy on New Dawn: craft potions, Codex Bindings and arcane ink, potion kegs, and how to train Alchemy."
+---
+
 ![Alchemy](../../assets/flags/flag-alchemy.png){ align=right }
 
 # Alchemy

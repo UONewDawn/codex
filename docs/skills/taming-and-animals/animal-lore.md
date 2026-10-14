@@ -1,3 +1,7 @@
+---
+description: "Animal Lore on New Dawn: inspect creature stats, control pets, boost Veterinary and summons, and how to train it."
+---
+
 ![Animal Lore](../../assets/flags/flag-animal-lore.png){ align=right }
 
 # Animal Lore

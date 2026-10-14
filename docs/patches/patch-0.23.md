@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.23, released August 16, 2023."
+---
+
 # SERVER PATCH 0.23
 
 **August 16, 2023**

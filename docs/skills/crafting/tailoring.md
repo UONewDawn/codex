@@ -1,3 +1,7 @@
+---
+description: "Tailoring on New Dawn: craft clothing and leather armor, leather hides, dye kits, bulk order deeds and training."
+---
+
 ![Tailoring](../../assets/flags/flag-tailoring.png){ align=right }
 
 # Tailoring

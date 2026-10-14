@@ -1,3 +1,7 @@
+---
+description: "Animal Taming on New Dawn: taming requirements, stable and bond slots, bonding and retrieving pets, and training."
+---
+
 ![Animal Taming](../../assets/flags/flag-animal-taming.png){ align=right }
 
 # Animal Taming

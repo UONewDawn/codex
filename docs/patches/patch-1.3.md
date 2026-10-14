@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.3, released February 17, 2026. Highlights: The Tailors Guild Proclamation, Champions of Evil and Name Changes."
+---
+
 # SERVER PATCH 1.3
 
 ## February 17th, 2026

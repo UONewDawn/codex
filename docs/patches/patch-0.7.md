@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.7, released May 3, 2023. Includes: Fixed house placement tool for east facing houses; All potions now stack."
+---
+
 # SERVER PATCH 0.7
 
 **May 3, 2023**

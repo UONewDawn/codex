@@ -1,3 +1,7 @@
+---
+description: "Parrying on New Dawn: block attacks with a shield, parry chance by skill, Shield Bash, and how to train it."
+---
+
 ![Parrying](../../assets/flags/flag-parrying.png){ align=right }
 
 # Parrying

@@ -1,3 +1,7 @@
+---
+description: "Anatomy on New Dawn: passive damage bonus, better bandage healing, and Stun Punch with Wrestling. How to train it."
+---
+
 ![Anatomy](../../assets/flags/flag-anatomy.png){ align=right }
 
 # Anatomy

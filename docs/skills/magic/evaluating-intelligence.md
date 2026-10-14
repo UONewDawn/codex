@@ -1,3 +1,7 @@
+---
+description: "Evaluating Intelligence on New Dawn: boost your Magery spell damage, defend with Anatomy, and how to train it."
+---
+
 ![Evaluating Intelligence](../../assets/flags/flag-evaluate-intelligence.png){ align=right }
 
 # Evaluating Intelligence

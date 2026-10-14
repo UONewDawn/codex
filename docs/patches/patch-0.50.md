@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.50, released April 25, 2025. Highlights: Combat."
+---
+
 # SERVER PATCH 0.50
 
 **April 25, 2025**

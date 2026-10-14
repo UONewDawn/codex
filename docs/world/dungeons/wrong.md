@@ -1,3 +1,7 @@
+---
+description: "Wrong dungeon on New Dawn: entrance coordinates, level-by-level maps, monsters and its Dungeon Dye."
+---
+
 # Wrong
 
 ## Dungeon Dye

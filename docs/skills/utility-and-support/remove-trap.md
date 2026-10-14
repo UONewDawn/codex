@@ -1,3 +1,7 @@
+---
+description: "Remove Trap on New Dawn: disarm trapped chests and dungeon floor traps, salvage the mechanism, and training."
+---
+
 ![Remove Trap](../../assets/flags/flag-remove-trap.png){ align=right }
 
 # Remove Trap

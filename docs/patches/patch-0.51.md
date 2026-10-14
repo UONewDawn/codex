@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.51, released June 7, 2025. Highlights: Archery and The Trinsic Terathan Outpost."
+---
+
 # SERVER PATCH 0.51
 
 **(POST BETA) June 7, 2025**

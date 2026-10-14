@@ -1,4 +1,5 @@
 ---
+description: "Serpent's Hold on New Dawn: the independent fortress that withstood the gargoyle invasion under the Order of the Silver Serpent."
 hide:
   - toc
 ---

@@ -1,3 +1,7 @@
+---
+description: "Fire dungeon on New Dawn: entrance coordinates, level-by-level maps, monsters, Dungeon Dye and the Semidar champion spawn."
+---
+
 # Fire
 
 ## Dungeon Dye

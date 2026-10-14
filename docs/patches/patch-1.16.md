@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 1.16, released August 31st, 2026. Highlights: Monster Statues."
+---
+
 # SERVER PATCH 1.16
 
 ## August 31st, 2026

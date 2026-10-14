@@ -1,3 +1,7 @@
+---
+description: "Neira the Necromancer champion spawn in Deceit on New Dawn: altar location, activation, spawn levels and the Skull of Death."
+---
+
 # Neira the Necromancer
 
 ![image](../../assets/mobiles/neira.png)

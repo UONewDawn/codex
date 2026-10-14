@@ -1,3 +1,7 @@
+---
+description: "Barracoon the Piper champion spawn on New Dawn: altar location in Despise, activation, spawn levels and the Skull of Greed."
+---
+
 # Barracoon the Piper
 
 ![image](../../assets/mobiles/barracoon.png)

@@ -1,3 +1,7 @@
+---
+description: "Mining on New Dawn: ore and stone types, prospecting, smelting ore into ingots, and how to train Mining."
+---
+
 ![Mining](../../assets/flags/flag-mining.png){ align=right }
 
 # Mining

@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.22, released August 7, 2023. Includes: Activate meditation is faster compared to passive."
+---
+
 # SERVER PATCH 0.22
 
 **August 7, 2023**

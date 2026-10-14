@@ -1,4 +1,5 @@
 ---
+description: "Buccaneer's Den on New Dawn: the island haven of pirates and their alliance with the gargoyles during the invasion."
 hide:
   - toc
 ---

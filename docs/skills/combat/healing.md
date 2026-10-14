@@ -1,3 +1,7 @@
+---
+description: "Healing on New Dawn: bandage healing, curing poison and resurrecting with Anatomy, skill requirements and training."
+---
+
 ![Healing](../../assets/flags/flag-healing.png){ align=right }
 
 # Healing

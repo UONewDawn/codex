@@ -1,3 +1,7 @@
+---
+description: "Musicianship on New Dawn: the skill behind every bard ability, exceptional instruments, and how to train it to GM."
+---
+
 ![Musicianship](../../assets/flags/flag-musicianship.png){ align=right }
 
 # Musicianship

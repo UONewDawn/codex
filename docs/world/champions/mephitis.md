@@ -1,3 +1,7 @@
+---
+description: "Mephitis champion spawn in Blighted Grove on New Dawn: altar location, activation, spawn levels and the Skull of Venom."
+---
+
 # Mephitis
 
 ![image](../../assets/mobiles/mephitis.png)

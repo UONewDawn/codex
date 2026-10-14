@@ -1,3 +1,7 @@
+---
+description: "Patch notes for New Dawn server patch 0.1 - 0.3, released April 27, 2023. Includes: Removed necro, bushido, ninja, AOS from core game mechanics."
+---
+
 # SERVER PATCH 0.1 - 0.3
 
 **April 27, 2023**

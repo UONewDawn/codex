@@ -13,7 +13,7 @@ Welcome to the New Dawn patch notes archive. All server patches and updates are 
 | Patch Version                          | Release Date         |
 | -------------------------------------- | -------------------- |
 | [SERVER PATCH 1.18](patch-1.18.md)     | October 13th, 2026 |
-| [SERVER PATCH 1.17](patch-1.17.md)     | September 24rd, 2026 |
+| [SERVER PATCH 1.17](patch-1.17.md)     | September 24th, 2026 |
 | [SERVER PATCH 1.16](patch-1.16.md)     | August 31st, 2026    |
 | [SERVER PATCH 1.15](patch-1.15.md)     | August 8th, 2026     |
 | [SERVER PATCH 1.14](patch-1.14.md)     | July 23rd, 2026      |

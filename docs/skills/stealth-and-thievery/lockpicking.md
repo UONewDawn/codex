@@ -1,3 +1,7 @@
+---
+description: "Lockpicking on New Dawn: open locked chests, skill needed for each dungeon chest level, and how to train it."
+---
+
 ![Lockpicking](../../assets/flags/flag-lockpicking.png){ align=right }
 
 # Lockpicking
