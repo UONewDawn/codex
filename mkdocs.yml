@@ -86,6 +86,9 @@ plugins:
       background: none
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - macros:
+      module_name: main
+      render_by_default: false  # pages opt in with `render_macros: true` front matter
 
 # Pages excluded from nav (linked inline)
 not_in_nav: |
@@ -102,6 +105,11 @@ nav:
       - Installation:
           - On Windows: getting-started/on-windows.md
           - On Linux: getting-started/on-linux.md
+      - Client:
+          - getting-started/client/index.md
+          - Built-in Assistant: getting-started/built-in-assistant.md
+          - Custom Art & Gumps: getting-started/client-customizations.md
+          - Custom Packs: getting-started/custom-packs.md
       - New Player Guide: getting-started/new-player-guide.md
       - What's Different: getting-started/whats-different.md
       - Trainers: getting-started/trainers.md
@@ -270,6 +278,9 @@ extra:
       link: https://github.com/UONewDawn/Codex
       name: GitHub Repository
   generator: false
+  packs_manifest: docs/packs/packs.json
+  packs_schema: packs.schema.json
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/packs.css

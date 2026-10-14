@@ -2,6 +2,9 @@
 
 The New Dawn client can swap out selected item art and gump (UI) graphics with your own images. Drop a `.png` or `.bmp` into the right folder, name it after the graphic it replaces, and restart the client.
 
+!!! tip "Don't want to make your own?"
+    [Custom Packs](custom-packs.md) has ready-made sets of reagents, gems, bags, spell icons and more. Download one, extract it into your client folder, and the files land in the right place for you.
+
 ## Where the files go
 
 Inside your client folder (the one containing `ClassicUO.exe`):
@@ -78,6 +81,8 @@ The shard maintains this list. If you want a graphic added, ask staff.
 Custom images are loaded **once, when the client starts**. After adding, changing, or removing a file, fully close and restart the client.
 
 To go back to the original graphic, delete your file (or move it out of the folder) and restart.
+
+To remove a [pack](custom-packs.md), delete the files listed under **Files and checksum** on its card, then restart.
 
 ## Troubleshooting
 

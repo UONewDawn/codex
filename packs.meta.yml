@@ -1,0 +1,38 @@
+# Optional per-pack details, keyed by source folder name.
+# Anything left out is filled in automatically (name from the folder name,
+# author from default_author). Only add what you want players to see.
+
+ART_BetterReagents1:
+  name: Better Reagents (Style 1)
+  description: Clearer, easier-to-tell-apart reagent icons.
+
+ART_BetterReagents2:
+  name: Better Reagents (Style 2)
+  description: An alternate take on clearer reagent icons.
+
+ART_GemsJewelry:
+  author: Burning Sheep
+
+ART_IoloReagents1:
+  name: Iolo Reagents
+  description: Reagent icons from the Iolo art set.
+
+ART_NoBoatSails:
+  author: Burning Sheep
+  description: Removes sails from boats so you can see what's on deck.
+
+GUMP_ColoredSpellIcons1:
+  name: Colored Spell Icons (Style 1)
+
+GUMP_ColoredSpellIcons2:
+  name: Colored Spell Icons (Style 2)
+
+GUMP_ColoredSpellIcons3:
+  name: Colored Spell Icons (Style 3)
+  author: Burning Sheep
+
+GUMP_GreenBags:
+  author: Burning Sheep
+
+GUMP_OriginalBags:
+  description: The stock container art. Install this to undo any other bag pack.

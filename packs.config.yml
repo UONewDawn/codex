@@ -1,0 +1,15 @@
+# Where the built packs are served. Build into docs/packs and the docs site
+# publishes them at this URL on the next deploy.
+cdn_base: https://codex.uonewdawn.com/packs
+
+default_author: New Dawn Staff
+
+# Folder prefix -> category and the folder (relative to the game folder, the
+# one containing ClassicUO.exe) the client reads drop-in images from.
+prefixes:
+  ART:
+    category: art
+    install_dir: Data/Custom/Art
+  GUMP:
+    category: gumps
+    install_dir: Data/Custom/Gumps

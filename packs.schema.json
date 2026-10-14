@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://codex.uonewdawn.com/packs/packs.schema.json",
+  "title": "New Dawn Custom Pack Manifest",
+  "type": "object",
+  "required": ["schema_version", "packs"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "const": 1 },
+    "updated": { "type": "string", "format": "date" },
+    "packs": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/pack" }
+    }
+  },
+  "$defs": {
+    "pack": {
+      "type": "object",
+      "required": ["id", "name", "version", "category", "url", "sha256", "size", "files"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "description": "Stable slug. Never change it once published; the launcher uses it to track installs.",
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "name": { "type": "string", "minLength": 1 },
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        },
+        "category": {
+          "type": "string",
+          "enum": ["art", "gumps", "sounds", "maps", "other"]
+        },
+        "author": { "type": "string" },
+        "description": { "type": "string" },
+        "released": { "type": "string", "format": "date" },
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "size": {
+          "description": "Zip size in bytes.",
+          "type": "integer",
+          "minimum": 1
+        },
+        "files": {
+          "description": "Paths the pack writes, relative to the game folder, forward slashes. Used for conflict detection and uninstall.",
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^(?!/)(?!.*\\.\\.)(?!.*\\\\)[^:]+$"
+          }
+        },
+        "preview": { "type": "string", "format": "uri" },
+        "min_client": {
+          "description": "Oldest client version this pack works with.",
+          "type": "string"
+        },
+        "tags": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "type": "string" }
+        },
+        "changelog": { "type": "string" },
+        "license": {
+          "description": "Credit and license text from the pack folder's license.txt. Also shipped in the zip.",
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -185,6 +185,8 @@ Razor is the best assistant for Ultima Online, so the goal here isn't to try to 
 
 If you want to try it out, disable Razor in the launcher, and open the client normally. After you're logged in, you will see an Assistant button the top bar you can use
 
+See the [Built-in Assistant](../getting-started/built-in-assistant.md) page for more.
+
 ### Parties
 
 - Parties can now have up to 40 members, shown in a new scrolling party window
