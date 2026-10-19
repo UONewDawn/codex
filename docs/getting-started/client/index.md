@@ -18,13 +18,13 @@ The New Dawn client is ClassicUO, built for this shard. On top of the client you
 
     [:octicons-arrow-right-24: Built-in Assistant](../built-in-assistant.md)
 
--   :material-palette-outline:{ .lg .middle } __Custom Art & Gumps__
+-   :material-palette-outline:{ .lg .middle } __Custom Art, Gumps & Themes__
 
     ---
 
-    Replace item art and UI graphics with your own images. Covers where files go, how to name them, and what can be replaced.
+    Replace item art and UI graphics with your own images, and make your own assistant themes. Covers where files go, how to name them, and what can be replaced.
 
-    [:octicons-arrow-right-24: Custom Art & Gumps](../client-customizations.md)
+    [:octicons-arrow-right-24: Custom Art, Gumps & Themes](../client-customizations.md)
 
 -   :material-package-variant-closed:{ .lg .middle } __Custom Packs__
 

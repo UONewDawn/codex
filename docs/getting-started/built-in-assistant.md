@@ -74,7 +74,7 @@ The tabs follow Razor's order and layout. Most options sit in the same group box
 - **Integrated.** There's no separate program to start or attach, and no window that ends up behind the game. Click **\_** to minimize it to a small status bar that shows the running macro or script, recording, the bandage timer and whether hotkeys are on
 - **Search.** The search box at the top finds any option by name, description or hotkey, then opens its tab and highlights it
 - **Floating buttons.** Right-click any hotkey, macro or script and choose **Create button** to put a button on screen
-- **Your look.** Classic Look (on by default) gives the light, Razor-like window. Turn it off for the dark theme. You can also pick the font, with Razor Style as the default
+- **Your look.** Pick a theme under **General → Window → Theme**: Classic (the default, light and Razor-like), Dark, Midnight, Slate, Forge, Grove or Parchment, or [make your own](client-customizations.md#custom-assistant-themes). You can also pick the font, with Razor Style as the default, and set how see-through the window and its minimized bar are
 - **Macros and scripts work the same way.** Macros are scripts, so anything a script can do, a macro can do too. Every macro category is listed, and renaming a macro keeps its hotkey
 - **Autocomplete.** The script editor completes commands as you type, or on ++ctrl+space++, with a usage example for each one
 - **Named agents.** Buy, Organizer and Restock agents have names and there's no limit on how many you make, instead of a fixed set of numbered slots
@@ -119,6 +119,6 @@ There's no reason to create a brand new help guide. This assistant, as mentioned
 
 ## Related pages
 
-- [Custom Art & Gumps](client-customizations.md)
+- [Custom Art, Gumps & Themes](client-customizations.md)
 - [Patch 1.18](../patches/patch-1.18.md)
 - Installation on [Windows](on-windows.md) or [Linux](on-linux.md)
