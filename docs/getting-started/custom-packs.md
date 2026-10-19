@@ -11,7 +11,7 @@ Custom packs change how the game looks and sounds. They're optional and only aff
 
 1. Close the game.
 2. Download the pack below.
-3. Extract the zip directly into your New Dawn game folder (the one containing `ClassicUO.exe`) and allow it to replace files. The files land in `Data/Custom`, as described in [Custom Art & Gumps](client-customizations.md).
+3. Extract the zip directly into your New Dawn game folder (the one containing `ClassicUO.exe`) and allow it to replace files. The files land in `Data/Custom`, as described in [Custom Art, Gumps & Themes](client-customizations.md).
 4. Start the game.
 
 ## Removing a pack
