@@ -6,7 +6,7 @@ description: "Replace item art and gump (UI) graphics in the New Dawn client wit
 
 The New Dawn client can swap out selected item art and gump (UI) graphics with your own images. Drop a `.png` or `.bmp` into the right folder, name it after the graphic it replaces, and restart the client.
 
-You can also make your own colour themes for the [Built-in Assistant](built-in-assistant.md) window. See [Custom assistant themes](#custom-assistant-themes) below.
+You can also make your own color themes for the [Built-in Assistant](built-in-assistant.md) window. See [Custom assistant themes](#custom-assistant-themes) below.
 
 !!! tip "Don't want to make your own?"
     [Custom Packs](custom-packs.md) has ready-made sets of reagents, gems, bags, spell icons and more. Download one, extract it into your client folder, and the files land in the right place for you.
@@ -237,36 +237,36 @@ Comments (`// like this`) and a comma after the last setting are allowed. Settin
 
 Start from the built-in theme closest to what you want. A light theme is easier to make from `Classic` or `Parchment`, and a dark one from `Dark`.
 
-### Writing colours
+### Writing colors
 
-Colours are written as hex codes, like the ones any colour picker or image editor shows:
+Colors are written as hex codes, like the ones any color picker or image editor shows:
 
 | Format                        | Example         | Meaning                                                    |
 | ----------------------------- | --------------- | ---------------------------------------------------------- |
-| `"#RRGGBB"`                   | `"#4A3866"`     | A solid colour                                             |
-| `"#RRGGBBAA"`                 | `"#1A1224ED"`   | A colour with transparency: `00` is invisible, `FF` solid  |
+| `"#RRGGBB"`                   | `"#4A3866"`     | A solid color                                             |
+| `"#RRGGBBAA"`                 | `"#1A1224ED"`   | A color with transparency: `00` is invisible, `FF` solid  |
 | `[r, g, b]` or `[r, g, b, a]` | `[74, 56, 102]` | The same thing as numbers from 0 to 255                    |
 | `"transparent"`               | `"transparent"` | Nothing drawn at all                                       |
 
 Fills can be see-through, so the game shows through the window. The **Opacity** slider under the Theme fades the whole window on top of that.
 
-### Writing text colours
+### Writing text colors
 
-The game draws text in UO hues, not in any colour, so the five text settings (`text`, `dim`, `accent`, `danger`, `group`) take a hue instead:
+The game draws text in UO hues, not in any color, so the five text settings (`text`, `dim`, `accent`, `danger`, `group`) take a hue instead:
 
 | Format          | Example       | Meaning                                                    |
 | --------------- | ------------- | ---------------------------------------------------------- |
 | A hue number    | `1153`        | Exactly this hue, as shown by the assistant's `>hue` command |
 | A hex hue       | `"0x0481"`    | The same, in hex                                           |
-| A colour        | `"#C8A0F0"`   | The hue that looks closest to this colour                  |
+| A color        | `"#C8A0F0"`   | The hue that looks closest to this color                  |
 
-Hue `0x0481` (1153) is the near-white most dark themes use for text. Text colours can't be see-through.
+Hue `0x0481` (1153) is the near-white most dark themes use for text. Text colors can't be see-through.
 
 ### Every setting
 
 **Text**
 
-| Setting       | What it colours                                                                      |
+| Setting       | What it colors                                                                      |
 | ------------- | ------------------------------------------------------------------------------------ |
 | `text`        | Normal text                                                                          |
 | `dim`         | Help text, empty lists and other quieter text                                        |
@@ -277,7 +277,7 @@ Hue `0x0481` (1153) is the near-white most dark themes use for text. Text colour
 
 **Window**
 
-| Setting       | What it colours                       |
+| Setting       | What it colors                       |
 | ------------- | ------------------------------------- |
 | `windowFill`  | Behind everything in the window       |
 | `headerFill`  | Header bands: the minimized bar, dialog title bars, table headings |
@@ -287,7 +287,7 @@ Hue `0x0481` (1153) is the near-white most dark themes use for text. Text colour
 
 **Lists and text boxes**
 
-| Setting         | What it colours                                    |
+| Setting         | What it colors                                    |
 | --------------- | -------------------------------------------------- |
 | `listFill`      | Behind lists, trees and the script editor          |
 | `listBorder`    | The frame around them                              |
@@ -298,7 +298,7 @@ Hue `0x0481` (1153) is the near-white most dark themes use for text. Text colour
 
 **Buttons and tabs**
 
-| Setting             | What it colours                                                          |
+| Setting             | What it colors                                                          |
 | ------------------- | ------------------------------------------------------------------------ |
 | `buttonFace`        | A button                                                                 |
 | `buttonHoverFace`   | A button under the mouse                                                 |
@@ -315,7 +315,7 @@ Hue `0x0481` (1153) is the near-white most dark themes use for text. Text colour
 
 **Dropdowns**
 
-| Setting             | What it colours                                    |
+| Setting             | What it colors                                    |
 | ------------------- | -------------------------------------------------- |
 | `comboFace`         | A dropdown box                                     |
 | `comboHoverFace`    | A dropdown box under the mouse                     |
@@ -329,7 +329,7 @@ Hue `0x0481` (1153) is the near-white most dark themes use for text. Text colour
 
 **Scrollbars**
 
-| Setting              | What it colours                          |
+| Setting              | What it colors                          |
 | -------------------- | ---------------------------------------- |
 | `scrollTrack`        | The track the scrollbar slides in        |
 | `scrollThumb`        | The part you drag                        |
@@ -340,7 +340,7 @@ Hue `0x0481` (1153) is the near-white most dark themes use for text. Text colour
 
 **Checkboxes, radio buttons and focus**
 
-| Setting            | What it colours                                                                              |
+| Setting            | What it colors                                                                              |
 | ------------------ | -------------------------------------------------------------------------------------------- |
 | `checkFill`        | Inside a checkbox or radio button                                                            |
 | `checkBorder`      | Its frame                                                                                    |
@@ -362,6 +362,6 @@ A mistake in a theme file never stops the client or the assistant. The client lo
 | `is not named theme.<Name>.json, skipping`    | The file name doesn't start with `theme.`                   | Rename it, for example to `theme.Amethyst.json`            |
 | `is not valid json`                           | A missing quote, comma or bracket                           | Check the line the message points to                       |
 | `is not a theme setting, ignored`             | A misspelled setting name                                   | Check it against the tables above                          |
-| `is not a colour` / `is not a hue`            | A value written the wrong way                               | See [Writing colours](#writing-colours); that setting comes from the base theme until it's fixed |
+| `is not a color` / `is not a hue`            | A value written the wrong way                               | See [Writing colors](#writing-colors); that setting comes from the base theme until it's fixed |
 | `is not a built-in theme`                     | `base` names a theme that doesn't exist                     | Use one of the built-in theme names; Classic is used until then |
 | `another file is already named`               | Two files have the same name in different upper/lower case  | Remove one of them                                         |

@@ -177,7 +177,7 @@ The war is fought in monthly seasons.
 
 Type `[OvcMap` or ask your Herald. It shows:
 
-- every outpost on the map in its owner's colour, with a warning mark on any under attack
+- every outpost on the map in its owner's color, with a warning mark on any under attack
 - each outpost's type, status, fortification and location
 - the season score, days left, last season's victor and any underdog bonus
 - your rank, season stats and War Tokens earned today

@@ -96,7 +96,7 @@ If a hive runs out of resources for too long, bees will die off or the entire co
 
 ## Resources
 
-Bees need both water and flowers within their foraging range. The control panel shows the status of each as a coloured label plus the source count.
+Bees need both water and flowers within their foraging range. The control panel shows the status of each as a colored label plus the source count.
 
 ### Water
   
