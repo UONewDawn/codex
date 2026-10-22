@@ -4,15 +4,15 @@ description: "A beginner's guide to New Dawn: join the Young Player Program, tra
 
 # New Player Guide
 
-Thanks for giving New Dawn a look. Stepping into UO for the first time (or the first time in 25 years) can feel like a lot. It can be a bit overwhelming to where you might say, "nevermind" and log out.
+Thanks for giving New Dawn some of your time. Stepping into UO for the first time in 25 years (or the first time) can feel like a lot. It can be a bit overwhelming to where you might say, "nevermind" and log out.
 
-That's normal. UO has never been a "read one page and you're ready" kind of game, and we don't expect you to memorize this guide either.
+That's normal. UO has never been a "read one page and you're ready" kind of game, and we don't expect you to memorize this guide or every system either. UO is a MMO sandbox designed for you to play at any pace you want.
 
-Think of this as a handhold, not homework. Skim it, keep it open in a tab, and come back to whichever section you need when you need it. By the end you'll know enough to get your feet under you, find your way to Ocllo, and start your first character with a bit of confidence.
+So, think of this guide as a handhold, not homework. Skim it, keep it open in a tab, and come back to whichever section you need when you need it. By the end you'll know enough to get your feet under you, find your way to Ocllo, and start your first character with a bit of confidence.
 
 !!! tip "The short version"
-    1. [Install the game](on-windows.md) and log in.
-    2. Type `[young` to join the [Young Player Program](#the-young-player-program). You'll be teleported to Ocllo.
+    1. [Install the game](on-windows.md), create your character, and log in.
+    2. Type `[young` to join the [Young Player Program](#the-young-player-program). You'll be teleported to Ocllo (if you didn't pick it as your starting town)
     3. Stay in Ocllo, train in the [sewers](#the-ocllo-sewer), and build toward the [Provo Dexxer](#picking-your-first-build-the-provo-dexxer).
 
 ## Getting New Dawn installed
@@ -159,7 +159,7 @@ Visit the [Stats page](../game-mechanics/character/stats.md) for a detailed list
 
 ## Leveling up: the Summoner template
 
-Once you've saved enough gold to train Magery, the Summoner is a strong next step. It lets you call powerful Daemons and other creatures to fight alongside you.
+Once you've saved enough gold to train Magery, the Summoner is a strong next step. It lets you call powerful Daemons and other creatures to fight alongside you. Think of it as a tamer, but without any of the taming.
 
 **Suggested skills:**
 

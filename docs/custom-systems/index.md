@@ -120,6 +120,12 @@ War Tokens can be exchanged for rewards.
 
 For more information visit the [Conquest](conquest.md) page.
 
+### [Dueling](dueling.md)
+
+Fight 1v1, 2v2 or 3v3 in the pits of Dawn, with nothing lost and nobody killed. Ranked 1v1 duels move you up a monthly ladder and pay War Tokens win or lose, and every Saturday the pits hold a cup.
+
+For more information visit the [Dueling](dueling.md) page.
+
 ## [Sea Encounters](sea-encounters.md)
 
 Fish long enough from your boat in Felucca's deep water and a ship will come out of the fog to meet you: pirate raiders, a fishing boat in distress, a derelict or a ghost ship. Board her, clear the deck, and claim what's in the hold.

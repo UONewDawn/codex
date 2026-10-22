@@ -320,7 +320,7 @@ Defeating the Harrower will award the tokens.
 
 ![image](../assets/screenshots/dawn-war-npc.png){ .center-img }
 
-War Tokens are a currency earned by participating in the CTF and Conquest PvP systems, and in the [Order vs. Chaos](../custom-systems/order-vs-chaos.md) faction war.
+War Tokens are a currency earned by participating in the CTF and Conquest PvP systems, in the [Order vs. Chaos](../custom-systems/order-vs-chaos.md) faction war, and in ranked [duels](../custom-systems/dueling.md#war-tokens) and the Saturday Cup.
 
 Players can sign up for either activity inside the Dawn Event Center.
 

@@ -7,7 +7,7 @@ description: "New Dawn's client has Razor built in: the same tabs, options and h
 The New Dawn client has an assistant built in. It's Razor, rebuilt inside the client: the same tabs, the same options, the same names, all in the same places. Razor already works well, so the goal wasn't to reinvent it. The goal was to make it part of the client.
 
 !!! tip "Used Razor before?"
-    Then you already know how to use this. Every tab, checkbox and hotkey is where you'd expect to find it. The only real change is the look: it's drawn by the client instead of being a separate Windows program.
+    Then you already know how to use this. Every tab, checkbox and hotkey is where you'd expect to find it. The only real change is the look: it's drawn by the client instead of being a separate Windows program. You can bring your Razor profile with you too: see [Coming from Razor](#coming-from-razor).
 
 ## Why build it?
 
@@ -52,7 +52,7 @@ The tabs follow Razor's order and layout. Most options sit in the same group box
 
 | Tab       | Sub-tabs                                                                          | What's there                                                                                                                            |
 | --------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| General   |                                                                                   | Assistant messages, window look and font                                                                                                |
+| General   |                                                                                   | Window look and font, Razor profile import                                                                                              |
 | Options   | Speech & Messages, Targeting & Queues, Additional Options                         | Message hues, container labels, last target queueing and range checks, smart targeting, blocks, stealth steps, auto unequip for potions |
 | Display   | Display, Counters, Bandage Timer, Overhead Messages, Waypoints, Buffs / Cooldowns | Title bar stats, counters, bandage timer, overhead messages, waypoints, buff and debuff messages                                        |
 | Arm/Dress |                                                                                   | Dress lists and undress bag                                                                                                             |
@@ -63,6 +63,8 @@ The tabs follow Razor's order and layout. Most options sit in the same group box
 | Macros    | Macros, Options                                                                   | Record, play, loop, step through, Pause/Wait, If, For and While                                                                         |
 | Scripts   | Scripts, Options                                                                  | Script editor, recording, script variables                                                                                              |
 | Friends   |                                                                                   | Friends groups, tags and party options                                                                                                  |
+| Advanced  |                                                                                   | Status info, assistant message level, open data folder                                                                                  |
+| About     |                                                                                   | Version, news, help and credits                                                                                                         |
 
 !!! tip
     - Hotkey actions use Razor's wording, word for word: Last Target, Target Self, Next Monster Target, Drink Heal, All Kill and so on
@@ -85,9 +87,9 @@ The tabs follow Razor's order and layout. Most options sit in the same group box
 
 ## Coming from Razor
 
+- **Bring your Razor profile.** On the **General** tab, click **Import Razor Profile**. It finds Razor beside the client (or asks where it is), lets you pick a profile, and brings over your options, hotkeys, agents, dress lists, friends, filters and counters. Your Razor scripts and macros are copied over too. A report lists anything that couldn't come over. Importing replaces this character's assistant settings
 - **Macros come with you.** Drop your Razor `.macro` files into `Data\Scripts\Macros` in the client folder and they're converted when you open the Macros tab (or right-click and choose **Refresh Macro List**). The original is kept as `.macro.bak`. Any line that couldn't be converted is kept as a `// [not converted]` comment so you can fix it by hand
 - **Copy and paste works too.** Copy a Razor macro, then click **New...** on the Macros tab and it offers to convert it
-- **Settings don't come with you.** Razor profiles aren't imported, so your options, hotkeys and agents need setting up once
 - **Where scripts live:**
   - Shared by all characters: `Data\Scripts\` in the client folder
   - For one character: the `Scripts` folder in that character's profile folder
