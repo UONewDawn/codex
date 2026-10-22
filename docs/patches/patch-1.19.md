@@ -6,7 +6,7 @@ description: "Patch notes for New Dawn server patch 1.19, released October 22nd,
 
 ## October 22nd, 2026
 
-This is a smaller patch to address a few issues to the current rift season system, dueling, whoile it introduces a new concept to OvC called War Calls
+This is a smaller patch to address a few issues to the current rift season system, dueling, while it introduces a new concept to OvC called War Calls
 
 ## 🛠️ Bug Fixes & Enhancements
 
@@ -14,7 +14,7 @@ This is a smaller patch to address a few issues to the current rift season syste
 - You cannot snoop or steal from pack animals owned by Young players
 - All Rift Seasons mobs and bosses have a chance at dropping a statue
 - You can only trick or treat in towns
-- Rift Shards or seasonal currency pay full shares to parties of up to five, while larger groups now split a fixed pool worth five full rewards by damage dealt
+- Large groups now share a capped reward pool (what five top damage dealers would earn), split by damage dealt. Groups of five or fewer are unchanged
 
 ## ⚔️ The Pits of Dawn
 
