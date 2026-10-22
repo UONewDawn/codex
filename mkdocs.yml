@@ -259,6 +259,7 @@ nav:
     - Battlegrounds:
       - Capture the Flag: custom-systems/capture-the-flag.md
       - Conquest: custom-systems/conquest.md
+      - Dueling: custom-systems/dueling.md
 ### Hues ###
   - Hues: hues/index.md
 ### Game Portal ###

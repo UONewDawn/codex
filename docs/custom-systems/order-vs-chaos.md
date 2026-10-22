@@ -27,7 +27,7 @@ Kill enemy faction members to take their heads and ears. Turn them in at your fa
 
 ## Outposts
 
-Outposts across Felucca can be captured by either faction, at any time.
+Outposts across Felucca can be captured by either faction, at any time. The client outlines each outpost on the ground and on the world map in the color of the faction that holds it, and marks the capture ground.
 
 | Outpost       | What holding it grants your faction                                  |
 | ------------- | -------------------------------------------------------------------- |
@@ -159,7 +159,7 @@ Faction cloaks and robes are blessed, and only members of their faction can wear
 
 The war is fought in monthly seasons.
 
-- Season score comes from outposts held (every minute counts, and a Shrine of War counts double) plus trophy points turned in
+- Season score comes from outposts held (every minute counts, and a Shrine of War counts double), trophy points turned in, and [War Call](#war-calls) victories
 - The winning faction earns +10% War Tokens for the whole next month, and its victory banner flies at its home
 - **Underdog bonus:** a faction more than 25% behind in score gets +15% War Tokens, and breaks enemy fortifications 25% faster, until it closes the gap
 - Weekly standings are posted every Monday
@@ -173,11 +173,32 @@ The war is fought in monthly seasons.
 | Your season points, kills, captures and defense minutes | Lifetime kills, captures, trophies and defense    |
 | The season leaderboard                                  | Seasons played, seasons won, and your best finish |
 
+## War Calls
+
+Every so often the war picks a battlefield. A War Call names one outpost, and for 45 minutes it's the place to fight.
+
+- **When:** a War Call can sound at any hour, once both factions have at least 2 active players online. There are at least 3 hours between War Calls, and no more than 3 in any 24 hours. You count as active when you're visible and have moved in the last 10 minutes or are standing in an outpost. Several characters on one account count once
+- **Warning:** 10 minutes before it begins, both factions are told which outpost and where, and it's posted on Discord. Outposts held by the faction leading the season are picked more often, and the same outpost is never picked twice in a row
+- **The fight:** for 45 minutes the outpost changes hands fast. A capture or a broken assault locks it for only 5 minutes instead of the usual 30 or 15
+- **Winning:** the faction that holds the outpost for more of the 45 minutes wins **720 season score**, or 1,440 at a Shrine of War. Both sides have to show up: if nobody from the other faction takes part, the War Call scores nothing
+- **Taking part:** spend 3 minutes on the capture ground, or help kill an enemy inside the outpost
+
+| War Call reward                         | War Tokens | Faction Points |
+| --------------------------------------- | ---------- | -------------- |
+| Winning side, when both sides took part | 30         | 5              |
+| Everyone else who took part             | 10         | 1              |
+
+- Your daily War Token and Faction Point limits still apply
+- If you have characters on both sides in the same War Call, you earn nothing from it
+- Captures, kills and trophies inside the War Call outpost pay the same as anywhere else
+- The [War Map](#the-war-map) marks the War Call outpost with a gold star and shows each side's time held, and `[OvcPoints` shows it too. The New Dawn client outlines it in gold
+
 ## The War Map
 
 Type `[OvcMap` or ask your Herald. It shows:
 
-- every outpost on the map in its owner's color, with a warning mark on any under attack
+- every outpost on the map in its owner's color, with a warning mark on any under attack and a gold star on the [War Call](#war-calls) outpost
+- the War Call's time left and how long each side has held it
 - each outpost's type, status, fortification and location
 - the season score, days left, last season's victor and any underdog bonus
 - your rank, season stats and War Tokens earned today
@@ -199,6 +220,9 @@ Type `[OvcMap` or ask your Herald. It shows:
 | Stalwart Defender       | Defend outposts under attack       | Bulwark, The Unyielding              |
 | Holdfast                | Repel assaults on your outposts    | Holdfast, Keeper of the Walls        |
 | Rally to the Banner     | Rally to watchtowers               | First to the Wall                    |
+| Answer the Call         | Fight in War Calls                 | Called to Arms, Ever at the Front    |
+| Hold the Call           | Win War Calls with your faction    | Warcaller, Master of the Call        |
+| Blood on the Banner     | Kill enemies in a War Call outpost | Bloodied Banner, Scourge of the Call |
 | Faction Rank            | Reach ranks 2 through 5            | —                                    |
 | Spoils of War           | Earn War Tokens from the war       | War Profiteer                        |
 | Veteran of the Campaign | Take part in seasons               | Campaign Veteran, Old Guard          |
@@ -212,7 +236,7 @@ See the [Achievements](achievements.md) page for the full list.
 
 | Command      | Description                                                    |
 | ------------ | -------------------------------------------------------------- |
-| `[OvcPoints` | Shows your rank, Faction Points, today's earnings and season stats |
+| `[OvcPoints` | Shows your rank, Faction Points, today's earnings, season stats and any War Call |
 | `[OvcMap`    | Opens the war map                                              |
 
 ## Related pages
