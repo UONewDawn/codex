@@ -98,6 +98,12 @@ For more information visit the [Order vs. Chaos](order-vs-chaos.md) page.
 
 ## Battlegrounds
 
+### [Battle Bombin'](battle-bombin.md)
+
+A free-for-all arena game for 2 to 8 players. Plant bombs, blast through the maze, grab upgrades, and be the last one standing. Nobody gets hurt, and every game counts toward a shared leaderboard.
+
+For more information visit the [Battle Bombin'](battle-bombin.md) page.
+
 ### [Capture the Flag](capture-the-flag.md)
 
 Two teams of pirates race to steal the enemy flag and bring it back to their base, while defending their own flag from being taken.

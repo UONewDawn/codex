@@ -20,6 +20,14 @@ Orphanages have officially opened in **Britain**, **Moonglow**, **New Minoc**, *
 
 See the [Orphanages](../custom-systems/orphanages.md) page for full details.
 
+## 💣 Battle Bombin'
+
+A new arena game for 2 to 8 players. Everyone starts in a corner of a walled maze with a bag of bombs. Blast through the breakable walls, grab the upgrades they leave behind (more bombs, bigger blasts, speed, a detonator), and catch your rivals in the blast. Bombs set each other off, your own blast can catch you, and the last player standing wins. Nobody gets hurt: a blast just knocks you out of the game.
+
+Every game counts toward a shared leaderboard of scores, wins and losses.
+
+See the [Battle Bombin'](../custom-systems/battle-bombin.md) page for full details.
+
 ## Order vs. Chaos: War Call Changes
 
 - If only one faction shows up to a War Call and it holds the outpost when the call ends, it wins **360 season score** (720 at a Shrine of War). Its players are paid as winners: 30 War Tokens, 5 Faction Points and credit toward Hold the Call. It doesn't matter who held the outpost longer, so take it or keep it
