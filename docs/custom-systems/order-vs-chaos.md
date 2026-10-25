@@ -70,13 +70,13 @@ Taking an outpost from the enemy has three steps:
 - Each extra attacker speeds things up a little less than the one before. Three attackers are faster than one, but not three times faster
 - Every defender standing on the capture ground slows the attack hard. Two attackers against one defender barely move, and an even fight stops the attack completely
 - To take an outpost the owners are defending, you have to drive them off the ground or kill them, not just outnumber them
-- However many attackers show up, breaking the fortification always takes at least 6 minutes. That gives the owners time to answer the call
+- However many attackers show up, breaking the fortification always takes at least 6 minutes. That gives the owners time to answer the call. During a [War Call](#war-calls) it takes at least 3
 - The more Order and Chaos players are online, the longer a small group takes to break in
 
 #### Defending
 
 - While the owners hold the ground, or match the attackers one for one, the fortification slowly rebuilds. From empty, it takes about 10 minutes to fully rebuild
-- **Every attacker you kill inside the outpost pushes the attack back.** Any progress toward neutralizing the outpost is lost, and 15% of the fortification comes back at once
+- **Every attacker you kill inside the outpost pushes the attack back.** Any progress toward neutralizing the outpost is lost, and 15% of the fortification comes back at once (30% during a [War Call](#war-calls))
 - **You can break an assault.** If the attackers lose 3 more fights than they win inside the outpost within 15 minutes, their assault is broken. The outpost goes back to full fortification and can't be attacked for 15 minutes, and its defenders are rewarded. Trading kills evenly won't break an assault; the attackers have to be clearly losing
 - The owning faction is warned in game when an assault starts, and again when the fortification falls to half and to a quarter
 - Assaults move at half speed while none of the owning faction is online
@@ -159,7 +159,7 @@ Faction cloaks and robes are blessed, and only members of their faction can wear
 
 The war is fought in monthly seasons.
 
-- Season score comes from outposts held (every minute counts, and a Shrine of War counts double), trophy points turned in, and [War Call](#war-calls) victories
+- Season score comes from outposts held (every minute counts, and a Shrine of War counts double), trophy points turned in, and [War Call](#war-calls) victories, including wins by forfeit
 - The winning faction earns +10% War Tokens for the whole next month, and its victory banner flies at its home
 - **Underdog bonus:** a faction more than 25% behind in score gets +15% War Tokens, and breaks enemy fortifications 25% faster, until it closes the gap
 - Weekly standings are posted every Monday
@@ -177,16 +177,30 @@ The war is fought in monthly seasons.
 
 Every so often the war picks a battlefield. A War Call names one outpost, and for 45 minutes it's the place to fight.
 
-- **When:** a War Call can sound at any hour, once both factions have at least 2 active players online. There are at least 3 hours between War Calls, and no more than 3 in any 24 hours. You count as active when you're visible and have moved in the last 10 minutes or are standing in an outpost. Several characters on one account count once
-- **Warning:** 10 minutes before it begins, both factions are told which outpost and where, and it's posted on Discord. Outposts held by the faction leading the season are picked more often, and the same outpost is never picked twice in a row
-- **The fight:** for 45 minutes the outpost changes hands fast. A capture or a broken assault locks it for only 5 minutes instead of the usual 30 or 15
-- **Winning:** the faction that holds the outpost for more of the 45 minutes wins **720 season score**, or 1,440 at a Shrine of War. Both sides have to show up: if nobody from the other faction takes part, the War Call scores nothing
-- **Taking part:** spend 3 minutes on the capture ground, or help kill an enemy inside the outpost
+- **When:** a War Call can sound at any hour, once both factions have at least 2 active players online. There are at least 3 hours between War Calls, and no more than 3 in any 24 hours
+- **Who counts as active:** you count toward starting a War Call when you are:
+  - in an Order or Chaos guild, Discord-linked, and not on probation after switching sides
+  - visible and alive. A ghost waiting to return at an outpost still counts
+  - moving: you've moved in the last 10 minutes, or you're standing in any outpost
 
-| War Call reward                         | War Tokens | Faction Points |
-| --------------------------------------- | ---------- | -------------- |
-| Winning side, when both sides took part | 30         | 5              |
-| Everyone else who took part             | 10         | 1              |
+  Several characters on one account count once, and an account with active characters on both sides counts for neither. Being active only decides whether a War Call starts. If your faction is active and ignores the call, the other side can win by forfeit (see below)
+- **Warning:** 10 minutes before it begins, both factions are told which outpost and where, and it's posted on Discord. Outposts held by the faction leading the season are picked more often, and the same outpost is never picked twice in a row
+- **The fight:** for 45 minutes the outpost changes hands fast:
+  - A capture or a broken assault locks it for only 5 minutes instead of the usual 30 or 15
+  - Its fortification breaks twice as fast, so the 6-minute minimum becomes 3. Everyone was told where to be, so there's no travel time to protect. An even fight on the capture ground still doesn't wear it down
+  - Each attacker the owners kill restores 30% of the fortification instead of 15%, so a kill still buys the defenders as much time
+- **Taking part:** you take part in a War Call by doing either of these:
+  - **Spend 3 minutes on the capture ground.** The time adds up, so it doesn't need to be in one go. Only time spent alive and visible counts, and only one character per account counts on the ground
+  - **Earn kill credit:** be one of the top three damage dealers on an enemy who dies inside the War Call outpost. Fighting outside the outpost doesn't count
+
+  You don't need to be there when the War Call ends. Once you've taken part, you're paid at the end wherever you are, unless you've changed faction or are on probation by then
+- **Winning:** the faction that holds the outpost for more of the 45 minutes wins **720 season score**, or 1,440 at a Shrine of War. This only counts when both sides take part. "Holding" means your faction owns the outpost, not that someone is standing on it, so an outpost your faction owned before the call keeps counting for you until the enemy takes it
+- **Winning by forfeit:** if only one faction takes part, it wins **360 season score** (720 at a Shrine of War) as long as it holds the outpost when the War Call ends. It doesn't matter who held it longer, so take the outpost or keep it. If nobody takes part, or the side that came doesn't hold the outpost at the end, the War Call scores nothing
+
+| War Call reward                                    | War Tokens | Faction Points |
+| -------------------------------------------------- | ---------- | -------------- |
+| Winning side, including a win by forfeit           | 30         | 5              |
+| Everyone else who took part                        | 10         | 1              |
 
 - Your daily War Token and Faction Point limits still apply
 - If you have characters on both sides in the same War Call, you earn nothing from it
