@@ -24,7 +24,7 @@ See the [Orphanages](../custom-systems/orphanages.md) page for full details.
 
 A new arena game for 2 to 8 players. Everyone starts in a corner of a walled maze with a bag of bombs. Blast through the breakable walls, grab the upgrades they leave behind (more bombs, bigger blasts, speed, a detonator), and catch your rivals in the blast. Bombs set each other off, your own blast can catch you, and the last player standing wins. Nobody gets hurt: a blast just knocks you out of the game.
 
-Every game counts toward a shared leaderboard of scores, wins and losses.
+Every game counts toward a monthly and an all-time leaderboard. At the end of each month, the top three go into the Past Seasons list. There are achievements to earn too, with titles for the dedicated: Fuse Lighter, Demolitionist, Powder Keg and Blast Baron. It's all just for fun, with no prizes.
 
 See the [Battle Bombin'](../custom-systems/battle-bombin.md) page for full details.
 

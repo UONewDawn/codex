@@ -100,7 +100,7 @@ For more information visit the [Order vs. Chaos](order-vs-chaos.md) page.
 
 ### [Battle Bombin'](battle-bombin.md)
 
-A free-for-all arena game for 2 to 8 players. Plant bombs, blast through the maze, grab upgrades, and be the last one standing. Nobody gets hurt, and every game counts toward a shared leaderboard.
+A free-for-all arena game for 2 to 8 players. Plant bombs, blast through the maze, grab upgrades, and be the last one standing. Nobody gets hurt, and every game counts toward monthly and all-time leaderboards and achievements.
 
 For more information visit the [Battle Bombin'](battle-bombin.md) page.
 

@@ -75,18 +75,52 @@ Bomb Count and Blast Strength stack. Upgrades only last until the game ends.
 
 After the game, everyone is sent back to the stone, and the bags and upgrades disappear.
 
-## Scores
+## Leaderboards
 
-Every game counts toward a shared leaderboard.
+Battle Bombin' is just for fun: there are no prizes. Every game you play adds to your score, your record and your achievements.
 
 | Event | Score |
 |-------|-------|
 | Blowing up another player | +1 |
 | Being blown up by someone else | −1 |
 | Blowing yourself up | −2 |
+| Disconnecting | −1 |
 | Winning the game | +2 |
 
-Your score never drops below 0. The leaderboard also counts your wins and losses. To see it, right-click the stone and choose **View events**.
+Your score never drops below 0. A game only counts if at least two different people are playing, so games between your own characters don't count.
+
+To see the leaderboard, right-click the stone and choose **View events**, or type `[BombermanRankings`. Single-clicking the stone also shows this month's leader. The leaderboard has three tabs:
+
+| Tab | Shows |
+|-----|-------|
+| This Month | The top 10 of the current season |
+| All Time | The top 10 since the leaderboard began |
+| Past Seasons | The top three of each of the last 12 seasons |
+
+The boards are ranked by score, then by wins. Players who are tied share a place. Each board also shows wins, games played and opponents blown up. You're highlighted in gold, and your own place is shown at the bottom even if you're outside the top 10.
+
+### Monthly seasons
+
+A season runs for a calendar month and ends at midnight on the 1st, Central time. The monthly board then starts again from zero. Your all-time record is never reset.
+
+The top three players of the month go into **Past Seasons** and earn the Podium Finish achievement. First place also earns Monthly Champion. To place, you need to have played at least **3 games** that month, and only one character per person can place.
+
+## Achievements
+
+Battle Bombin' has its own achievement category:
+
+| Achievement | Goal | Title |
+|-------------|------|-------|
+| Bomber | Play 1 up to 500 games | Fuse Lighter |
+| Last One Standing | Win 1 up to 250 games | Demolitionist |
+| Blown Away | Blow up 5 up to 2,500 opponents | Powder Keg |
+| Podium Finish | Finish 1, 3 and then 6 seasons in the top three | Blast Baron |
+| Monthly Champion | Finish a season in first place | |
+| Two for One | Blow up two opponents within a second of each other | |
+| Clean Sweep | Win a game of 4 or more players having blown up every opponent yourself | |
+| Full House | Win an 8-player game | |
+
+The title comes with the last tier of each achievement. One more achievement is hidden.
 
 ## Related pages
 
