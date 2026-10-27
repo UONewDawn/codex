@@ -12,9 +12,10 @@ Welcome to the New Dawn patch notes archive. All server patches and updates are 
 
 | Patch Version                          | Release Date         |
 | -------------------------------------- | -------------------- |
-| [SERVER PATCH 1.19](patch-1.19.md)     | October 22nd, 2026 |
-| [SERVER PATCH 1.18.1](patch-1.18.1.md)     | October 16th, 2026 |
-| [SERVER PATCH 1.18](patch-1.18.md)     | October 13th, 2026 |
+| [SERVER PATCH 1.20](patch-1.20.md)     | October 27th, 2026   |
+| [SERVER PATCH 1.19](patch-1.19.md)     | October 22nd, 2026   |
+| [SERVER PATCH 1.18.1](patch-1.18.1.md) | October 16th, 2026   |
+| [SERVER PATCH 1.18](patch-1.18.md)     | October 13th, 2026   |
 | [SERVER PATCH 1.17](patch-1.17.md)     | September 24th, 2026 |
 | [SERVER PATCH 1.16](patch-1.16.md)     | August 31st, 2026    |
 | [SERVER PATCH 1.15](patch-1.15.md)     | August 8th, 2026     |

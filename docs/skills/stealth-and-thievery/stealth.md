@@ -45,23 +45,44 @@ This table shows how many steps you can take before using Stealth again based on
 
 ## Armor
 
-Stealth depends on what kind of armor you wear and where you wear it, not how good it is. Quality, color, resource and magic level don't matter, so upgrading your armor never makes you worse at sneaking.
+Only the **type** of armor and the **slot** it's in matter. Quality, color, resource and magic level don't, so better armor never makes you worse at sneaking.
 
-Each piece adds a penalty. The penalties of all your pieces are added together:
+### The short version
 
-| Material                           | Gorget | Gloves | Helm | Arms | Legs | Chest | Full suit |
-|------------------------------------|:------:|:------:|:----:|:----:|:----:|:-----:|:---------:|
-| Leather (including spined, horned, barbed) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Studded leather                    | 2      | 2      | 0    | 4    | 6    | 10    | 24        |
-| Chainmail                          | 0      | 0      | 10   | 0    | 15   | 25    | 50        |
-| Ringmail                           | 0      | 5      | 0    | 10   | 15   | 25    | 55        |
-| Bone                               | 0      | 5      | 10   | 10   | 15   | 25    | 65        |
-| Plate (including dragon)           | 5      | 5      | 10   | 10   | 15   | 25    | 70        |
+- **Free:** leather of any kind, clothing, jewelry and **shields**
+- **Fine:** a full suit of studded leather
+- **Limited:** metal and bone. **A metal chest plus metal legs is the most you can wear.** Anything else on top, apart from leather, is too much
 
-- Shields never hurt Stealth
-- A total of **42 or more** makes stealth impossible: "You could not hope to move quietly wearing this much armor." A full suit of chain, ring, bone or plate is always over the limit
-- Below the limit, every penalty point makes the Stealth check a little harder. At GM Stealth, a total of 20 or less never fails
-- A single heavy piece, such as a plate chest over leather, is still workable
+### The numbers
+
+Metal and bone armor costs the same in every material: plate, dragon, chainmail, ringmail and bone.
+
+| Slot          | Metal or bone | Studded |
+|---------------|:-------------:|:-------:|
+| Chest         | 25            | 10      |
+| Legs          | 15            | 6       |
+| Helm          | 10            | -       |
+| Arms          | 10            | 4       |
+| Gloves        | 5             | 2       |
+| Gorget        | 5             | 2       |
+| **Full suit** | **70**        | **24**  |
+
+Add up what you're wearing:
+
+- **Under 42:** you can stealth. Every point makes the check a little harder, but at GM Stealth a total of 20 or less never fails
+- **42 or more:** "You could not hope to move quietly wearing this much armor."
+
+Some examples:
+
+| Outfit                                  | Total | Stealth?    |
+|-----------------------------------------|:-----:|:-----------:|
+| Full leather + shield                   | 0     | Always      |
+| Full studded                            | 24    | Yes         |
+| Plate chest, rest leather               | 25    | Yes         |
+| Plate helm, arms, gloves and gorget     | 30    | Yes         |
+| Plate chest and legs, rest leather      | 40    | Yes, barely |
+| Plate chest and legs + studded gloves   | 42    | No          |
+| Any full suit of metal or bone          | 50+   | No          |
 
 ## Training
 
@@ -69,7 +90,15 @@ Train from Thief NPCs to reach around 50.
 
 Stealth can be used on a 10 seconds cooldown. Keep using Stealth while hidden until you reach 100.
 
-Wearing a little more [armor](#armor) makes the check harder, which helps you keep gaining as your skill rises.
+Past 60 you need some [armor](#armor) on, because the check gets too easy to give gains:
+
+| Your Stealth | Wear at least | Easy way to get it                  |
+|--------------|:-------------:|-------------------------------------|
+| up to 60     | nothing       | Leather is fine                     |
+| 60 to 80     | 10            | A metal helm, or a studded chest    |
+| 80 to 100    | 20            | A metal chest                       |
+
+**A metal chest over leather works from 60 all the way to GM.**
 
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

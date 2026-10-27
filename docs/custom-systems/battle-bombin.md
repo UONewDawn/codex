@@ -26,7 +26,7 @@ The player in charge chooses:
 |---------|---------|
 | Players | 2 to 8, but never fewer than have already signed up |
 | Board style | Default, Rocky, Woodland, Warehouse, Ruins, Graveyard or Crystal |
-| Width and height | 11 to 65 tiles. An even number is rounded up to the next odd one |
+| Width and height | 11 to 31 tiles. An even number is rounded up to the next odd one |
 
 If the leader leaves, the next player in line takes charge. Sometimes staff set a game up themselves, and then there are no settings to choose.
 
@@ -87,7 +87,7 @@ Battle Bombin' is just for fun: there are no prizes. Every game you play adds to
 | Disconnecting | −1 |
 | Winning the game | +2 |
 
-Your score never drops below 0. A game only counts if at least two different people are playing, so games between your own characters don't count.
+Your score never drops below 0. A game only counts when every player is a different person, so games that include your own alts don't count.
 
 To see the leaderboard, right-click the stone and choose **View events**, or type `[BombermanRankings`. Single-clicking the stone also shows this month's leader. The leaderboard has three tabs:
 
