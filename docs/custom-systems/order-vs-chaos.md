@@ -57,7 +57,7 @@ Outposts across Felucca can be captured by either faction, at any time. The clie
 
 ### How capturing works
 
-Stand on the outpost's capture ground. Only living, visible players count, so hiding on the ground does nothing.
+Stand on the outpost's capture ground. Only living, visible members of an Order or Chaos guild with a Discord-linked account count, and not while on probation after switching sides. Hiding on the ground does nothing.
 
 Taking an outpost from the enemy has three steps:
 
@@ -75,12 +75,14 @@ Taking an outpost from the enemy has three steps:
 
 #### Defending
 
-- While the owners hold the ground, or match the attackers one for one, the fortification slowly rebuilds. From empty, it takes about 10 minutes to fully rebuild
+- Whenever the attackers don't outnumber the owners on the capture ground, even when nobody is on it, the fortification slowly rebuilds. Any neutralize progress is undone first. From empty, it takes about 10 minutes to fully rebuild
 - **Every attacker you kill inside the outpost pushes the attack back.** Any progress toward neutralizing the outpost is lost, and 15% of the fortification comes back at once
-- **You can break an assault.** If the attackers lose 3 more fights than they win inside the outpost within 15 minutes, their assault is broken. The outpost goes back to full fortification and can't be attacked for 15 minutes, and its defenders are rewarded. Trading kills evenly won't break an assault; the attackers have to be clearly losing
-- The owning faction is warned in game when an assault starts, and again when the fortification falls to half and to a quarter
+- **You can break an assault.** Inside the outpost, every attacker who dies counts against the attackers and every defender who dies counts in their favor. Once the attackers have died 3 more times than the defenders over the last 15 minutes, their assault is broken. The outpost goes back to full fortification and can't be attacked for 15 minutes, and its defenders are rewarded. It's the running score that counts, not a streak: if the attackers are up 2 kills and then lose 3 in a row, they're only 1 behind and the assault goes on
+- **An assault stalls if nobody holds the ground.** If no attacker is on the capture ground for a minute, the assault ends and the owners are told it was repelled. This isn't a break: there's no lockout, so the attackers can come straight back. Any fortification they already knocked down only rebuilds slowly, and the death score from the last 15 minutes still counts
+- The owning faction is warned in game when an assault starts (at most once every 10 minutes), and again when the fortification falls to half and to a quarter
 - Assaults move at half speed while none of the owning faction is online
 - A freshly captured outpost can't be attacked for 30 minutes
+- The [War Call](#war-calls) outpost plays by its own rules while a call runs: it has no fortification, a capture locks it for only 30 seconds, and assaults can't be broken
 
 #### The war banner
 
@@ -100,10 +102,11 @@ If the enemy faction kills you inside an outpost, **you keep everything**. Nothi
 - You return **hidden**, at a random spot near one of the outpost's approaches, and the game prefers an approach with no enemies close by. Nobody can wait on the exact spot where you'll appear
 - **Defenders return close by** while **attackers**, and everyone fighting over a neutral outpost, return farther out and have a longer run back
 - The wait is 30 seconds. Die again within 15 minutes and it grows to 1 minute, then 2 minutes
+- At the [War Call](#war-calls) outpost while a call runs, the waits are 20, 40 and 60 seconds, and both sides return farther out
 - If a friend or a healer resurrects you before the wait ends, you get up right where you fell, with all your gear
 - For 2 minutes after you return, you can't recall or gate out of the outpost, or Rally
 
-This only applies when the enemy faction did most of the damage. If monsters, murderers, players outside the war or your own side kill you, or you die outside an outpost, it's a normal death and your corpse can be looted.
+This only applies when the enemy faction did at least half the damage. If monsters, murderers, players outside the war or your own side kill you, or you die outside an outpost, it's a normal death and your corpse can be looted.
 
 ### Outpost rewards
 
@@ -159,7 +162,7 @@ Faction cloaks and robes are blessed, and only members of their faction can wear
 
 The war is fought in monthly seasons.
 
-- Season score comes from outposts held (every minute counts, and a Shrine of War counts double), trophy points turned in, and [War Call](#war-calls) victories
+- Season score comes from outposts held (every minute counts, and a Shrine of War counts double), trophy points turned in, and [War Call](#war-calls) victories, including wins by forfeit
 - The winning faction earns +10% War Tokens for the whole next month, and its victory banner flies at its home
 - **Underdog bonus:** a faction more than 25% behind in score gets +15% War Tokens, and breaks enemy fortifications 25% faster, until it closes the gap
 - Weekly standings are posted every Monday
@@ -175,30 +178,48 @@ The war is fought in monthly seasons.
 
 ## War Calls
 
-Every so often the war picks a battlefield. A War Call names one outpost, and for 45 minutes it's the place to fight.
+Every so often the war picks a battlefield. A War Call names one outpost and turns it into a 25-minute race: each side fills a War Meter while it holds the outpost, and the meters can't finish until the last 5 minutes, so it's never decided halfway through.
 
-- **When:** a War Call can sound at any hour, once both factions have at least 2 active players online. There are at least 3 hours between War Calls, and no more than 3 in any 24 hours. You count as active when you're visible and have moved in the last 10 minutes or are standing in an outpost. Several characters on one account count once
+- **When:** a War Call can sound at any hour, once both factions have at least 2 active players online. There are at least 3 hours between War Calls, and no more than 3 in any 24 hours
+- **Who counts as active:** you count toward starting a War Call when you are:
+  - in an Order or Chaos guild, Discord-linked, and not on probation after switching sides
+  - visible and alive. A ghost waiting to return at an outpost still counts
+  - moving: you've moved in the last 10 minutes, or you're standing in any outpost
+
+  Several characters on one account count once, and an account with active characters on both sides counts for neither. Being active only decides whether a War Call starts. If your faction is active and ignores the call, the other side can win by forfeit (see below)
 - **Warning:** 10 minutes before it begins, both factions are told which outpost and where, and it's posted on Discord. Outposts held by the faction leading the season are picked more often, and the same outpost is never picked twice in a row
-- **The fight:** for 45 minutes the outpost changes hands fast. A capture or a broken assault locks it for only 5 minutes instead of the usual 30 or 15
-- **Winning:** the faction that holds the outpost for more of the 45 minutes wins **720 season score**, or 1,440 at a Shrine of War. Both sides have to show up: if nobody from the other faction takes part, the War Call scores nothing
-- **Taking part:** spend 3 minutes on the capture ground, or help kill an enemy inside the outpost
+- **The bell:** when the War Call begins, the outpost goes neutral, so owning it beforehand gives no head start
+- **Fast flips:** for the whole call the outpost has no fortification. Taking it from the enemy means neutralizing their banner (about 30 seconds alone) and then claiming it (about a minute alone), with the usual push from numbers. A capture locks it for only 30 seconds. Assaults can't be broken, and killing an attacker still wipes out their neutralize progress
+- **War Meters:** every second your faction owns the outpost and holds the capture ground, your meter fills. Holding means no enemies on the ground, or more of you than of them. Owning it with nobody on the ground, or being outnumbered, fills nothing. Meters fill at 5% a minute and stop at 90%, so nobody can win before the Final Push
+- **Breakthrough:** neutralizing the enemy's banner adds 10% to your meter, still under the 90% cap. Claiming the outpost from neutral earns nothing extra
+- **Final Push:** in the last 5 minutes, meters fill at 12% a minute with no cap, and the first faction to reach 100% wins on the spot. From 90%, that's under a minute of holding
+- **Overtime:** if time runs out while the side that's behind still owns the outpost or is taking it, the call goes on at the Final Push rate for up to 3 more minutes. It ends a few seconds after they stop
+- **Respawns:** deaths there wait 20, 40 and 60 seconds instead of 30, 60 and 120, and both sides return farther out
+- **Taking part:** you take part in a War Call by doing either of these:
+  - **Spend 3 minutes on the capture ground.** The time adds up, so it doesn't need to be in one go. Only time spent alive and visible counts, and only one character per account counts on the ground
+  - **Earn kill credit:** be one of the top three damage dealers on an enemy who dies inside the War Call outpost. Fighting outside the outpost doesn't count
 
-| War Call reward                         | War Tokens | Faction Points |
-| --------------------------------------- | ---------- | -------------- |
-| Winning side, when both sides took part | 30         | 5              |
-| Everyone else who took part             | 10         | 1              |
+  You don't need to be there when the War Call ends. Once you've taken part, you're paid at the end wherever you are, unless you've changed faction or are on probation by then
+- **Winning:** the faction with the higher meter at the end wins **720 season score**, or 1,440 at a Shrine of War. This only counts when both sides take part. A tie goes to whoever owns the outpost, or to nobody if it stands neutral
+- **Winning by forfeit:** if only one faction takes part, it wins **360 season score** (720 at a Shrine of War) as long as it owns the outpost when the War Call ends. If nobody takes part, or the side that came doesn't own the outpost at the end, the War Call scores nothing
+- **Afterward:** the winner takes the outpost. With no winner, whoever owns it keeps it, and a neutral outpost stays neutral. An owned outpost comes out fully fortified and can't be attacked for 30 minutes
+
+| War Call reward                                    | War Tokens | Faction Points |
+| -------------------------------------------------- | ---------- | -------------- |
+| Winning side, including a win by forfeit           | 30         | 5              |
+| Everyone else who took part                        | 10         | 1              |
 
 - Your daily War Token and Faction Point limits still apply
 - If you have characters on both sides in the same War Call, you earn nothing from it
-- Captures, kills and trophies inside the War Call outpost pay the same as anywhere else
-- The [War Map](#the-war-map) marks the War Call outpost with a gold star and shows each side's time held, and `[OvcPoints` shows it too. The New Dawn client outlines it in gold
+- Kills and trophies inside the War Call outpost pay the same as anywhere else. Captures and neutralizations there don't pay as outpost flips, because the War Call pays for the fight
+- The [War Map](#the-war-map) marks the War Call outpost with a gold star and shows the time left and both War Meters, and `[Ovc` shows them too. The New Dawn client outlines the outpost in gold and shows the countdown and both meters on screen while you're inside it
 
 ## The War Map
 
-Type `[OvcMap` or ask your Herald. It shows:
+Press War Map in `[Ovc` or ask your Herald. It shows:
 
 - every outpost on the map in its owner's color, with a warning mark on any under attack and a gold star on the [War Call](#war-calls) outpost
-- the War Call's time left and how long each side has held it
+- the War Call's time left and each side's War Meter
 - each outpost's type, status, fortification and location
 - the season score, days left, last season's victor and any underdog bonus
 - your rank, season stats and War Tokens earned today
@@ -234,10 +255,9 @@ See the [Achievements](achievements.md) page for the full list.
 
 ## Commands
 
-| Command      | Description                                                    |
-| ------------ | -------------------------------------------------------------- |
-| `[OvcPoints` | Shows your rank, Faction Points, today's earnings, season stats and any War Call |
-| `[OvcMap`    | Opens the war map                                              |
+| Command | Description |
+| ------- | ----------- |
+| `[Ovc`  | Opens your war status: rank, Faction Points, today's earnings, season and lifetime stats, the season score and bonuses, any War Call, and each side's top three this season. Its War Map button opens the [War Map](#the-war-map) |
 
 ## Related pages
 

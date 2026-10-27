@@ -52,7 +52,7 @@ After every duel, both sides are offered a **rematch** with the same rules. It s
 - You can't join a duel within two minutes of fighting another player
 - No pets or summons. Stable or release your followers first. Ethereal mounts are dismounted for you
 - You can't duel while you're in a Capture the Flag or Conquest match, or signed up for one
-- Two characters belonging to the same person can never be matched against each other
+- Two characters belonging to the same person can never be matched against each other, or put on the same team
 
 ## Rules in the pit
 
