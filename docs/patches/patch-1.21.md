@@ -36,19 +36,11 @@ See the [Gardening](../game-mechanics/gardening.md) page for the new gump and fu
 
 ## 🐝 Beekeeping
 
-Strong hives now need less care:
-
 - A strong colony (80,000 bees or more) catches parasites and disease half as often, so a full-strength hive needs tending about every 3 days instead of every day. If it loses bees, the protection is gone until the colony grows back
-- A producing hive with a mild case of parasites or disease isn't hurt until its next check, so tending in the morning one day and after dinner the next is fine. The mild case still stops it healing and costs that day's bonus honey and wax, so daily care pays the most
-- A hive's age now stops raising its chance of parasites and disease after 30 days, so Greater Strength potions and good water and flowers matter again for old hives
-- Beehives now only feed on full-grown flowers that are Healthy or Vibrant. A wilted or dying flower feeds no bees until it recovers
-
-Hives also keep a steady daily schedule:
-
-- Beehives now have their growth check exactly every 24 hours, at the same time each day
-- The beehive gump shows how long until the next check
-- The house garden schedule moves beehives too, so your hives and plants can all check at the same hour
-- Waking a hive from hibernation no longer restarts its timer
+- A producing hive with a mild case of parasites or disease isn't hurt until its next check, but it won't heal or make its bonus honey and wax until you treat it
+- A hive's age stops raising its chance of parasites and disease after 30 days, so Greater Strength and good water and flowers matter again for old hives
+- Hives only feed on full-grown flowers that are Healthy or Vibrant
+- Growth checks still come exactly every 24 hours, the gump shows how long until the next one, and the house garden schedule moves hives too. Waking a hive from hibernation no longer restarts its timer
 
 See the [Beekeeping](../custom-systems/beekeeping.md) page for full details.
 
