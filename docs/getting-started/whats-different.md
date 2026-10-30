@@ -34,6 +34,7 @@ New Dawn builds on the classic Ultima Online foundation while introducing meanin
 - Runebooks can be blessed using [Codex fragments](../custom-systems/codex-rifts.md#codex-fragments) and [Codex Bindings](../skills/crafting/alchemy.md#codex-binding).
 - To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 - Instead of Dex penalty when wearing armor, you instead lose stamina when taking melee damage, based on the armor you're wearing.
+- In player-vs-player fights, armor rating above 48 counts for half and armor can stop at most 75% of a hit, so heavy magic plate no longer turns weapon hits into 1s. See [Armor in PvP](../game-mechanics/items-and-equipment/armor.md#armor-in-pvp).
 - All monsters and animals have a chance to drop their own statue, and an even rarer chance for that statue to be bronze.
 
 ## Custom Systems
@@ -110,15 +111,17 @@ For more information visit the [Spirit Summoner](../custom-systems/spirit-summon
 
 500ms delay between shots when standing still.
 
-The new Snare ability lets you immobilize a target for 3 seconds, but it can still attack or cast spells.
+The Snare ability lets a hit pin your target in place for 3 seconds, though it can still attack or cast spells. Type **[snare** or double-click your bow to ready it.
 
 For more information visit the [Archery](../skills/combat/archery.md) page.
 
 ### Parrying
 
-The new Shield Bash ability lets you absorb Fire Breath damage when active.
+The Shield Bash ability lets you counter: parry a melee attack and you may slam your shield into the attacker, throwing off their next swing, breaking their spell and stopping them in their tracks.
 
-It can also be used in PvP, if active when you get hit by a melee attack, you will stun the opponent.
+Riposte rewards a parry with a harder hit back on the same attacker.
+
+With 50 or more Parrying and a shield equipped, you also take less damage from dragon fire breath.
 
 For more information visit the [Parrying](../skills/combat/parrying.md) page
 

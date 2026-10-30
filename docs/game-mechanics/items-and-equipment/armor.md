@@ -53,18 +53,18 @@ Looted Leather armor can't be repaired.
 
 |                                 Armor                                  | STR Req. |   Slot    | AR Area | AR Contr. | Item HP |
 |:----------------------------------------------------------------------:|:--------:|:---------:|:-------:|:---------:|:-------:|
-|   ![icon](../../assets/items/ringmail-gloves.png)<br>Ringmail Gloves   |    20    |   Hands   |   22    |    1.5    | 41 - 51 |
-|  ![icon](../../assets/items/ringmail-sleeves.png)<br>Ringmail Sleeves  |    20    |   Arms    |   22    |    3.3    | 41 - 51 |
-| ![icon](../../assets/items/ringmail-leggings.png)<br>Ringmail Leggings |    20    | Legs/Feet |   22    |    4.8    | 41 - 51 |
-|    ![icon](../../assets/items/ringmail-tunic.png)<br>Ringmail Tunic    |    20    |   Body    |   22    |    7.9    | 41 - 51 |
+|   ![icon](../../assets/items/ringmail-gloves.png)<br>Ringmail Gloves   |    20    |   Hands   |   20    |    1.4    | 41 - 51 |
+|  ![icon](../../assets/items/ringmail-sleeves.png)<br>Ringmail Sleeves  |    20    |   Arms    |   20    |    3.0    | 41 - 51 |
+| ![icon](../../assets/items/ringmail-leggings.png)<br>Ringmail Leggings |    20    | Legs/Feet |   20    |    4.4    | 41 - 51 |
+|    ![icon](../../assets/items/ringmail-tunic.png)<br>Ringmail Tunic    |    20    |   Body    |   20    |    7.2    | 41 - 51 |
 
 ## Chainmail
 
 |                                  Armor                                   | STR Req. |   Slot    | AR Area | AR Contr. | Item HP |
 |:------------------------------------------------------------------------:|:--------:|:---------:|:-------:|:---------:|:-------:|
-|     ![icon](../../assets/items/chainmail-coif.png)<br>Chainmail Coif     |    20    |   Head    |   28    |    3.8    | 36 - 44 |
-| ![icon](../../assets/items/chainmail-leggings.png)<br>Chainmail Leggings |    20    | Legs/Feet |   28    |    6.2    | 46 - 58 |
-|    ![icon](../../assets/items/chainmail-tunic.png)<br>Chainmail Tunic    |    20    |   Body    |   28    |   10.0    | 46 - 58 |
+|     ![icon](../../assets/items/chainmail-coif.png)<br>Chainmail Coif     |    20    |   Head    |   23    |    3.1    | 36 - 44 |
+| ![icon](../../assets/items/chainmail-leggings.png)<br>Chainmail Leggings |    20    | Legs/Feet |   23    |    5.1    | 46 - 58 |
+|    ![icon](../../assets/items/chainmail-tunic.png)<br>Chainmail Tunic    |    20    |   Body    |   23    |    8.2    | 46 - 58 |
 
 ## Bone
 
@@ -84,16 +84,23 @@ Looted Bone armor can't be repaired.
 |                                     Armor                                      | STR Req. |   Slot    | AR Area | AR Contr. |  Item HP  |
 |:------------------------------------------------------------------------------:|:--------:|:---------:|:-------:|:---------:|:---------:|
 |              ![icon](../../assets/items/bascinet.png)<br>Bascinet              |    10    |   Head    |   18    |    2.4    | 101 - 115 |
-|        ![icon](../../assets/items/platemail-gorget.png)<br>Plate Gorget        |    30    |   Neck    |   40    |    2.8    |  51 - 65  |
-|      ![icon](../../assets/items/platemail-gloves.png)<br>Platemail Gloves      |    30    |   Hands   |   40    |    2.8    |  51 - 65  |
+|        ![icon](../../assets/items/platemail-gorget.png)<br>Plate Gorget        |    30    |   Neck    |   30    |    2.1    |  51 - 65  |
+|      ![icon](../../assets/items/platemail-gloves.png)<br>Platemail Gloves      |    30    |   Hands   |   30    |    2.1    |  51 - 65  |
 |           ![icon](../../assets/items/close-helmet.png)<br>Close Helm           |    40    |   Head    |   30    |    4.1    |  46 - 58  |
 |                ![icon](../../assets/items/helmet.png)<br>Helmet                |    40    |   Head    |   30    |    4.1    |  46 - 58  |
 |            ![icon](../../assets/items/norse-helm.png)<br>Norse Helm            |    40    |   Head    |   30    |    4.1    |  46 - 58  |
 | ![icon](../../assets/items/platemail-tunic-female.png)<br>Plate Tunic (Female) |    45    | Arms/Body |   30    |    4.4    |  51 - 65  |
-|            ![icon](../../assets/items/plate-helm.png)<br>Plate Helm            |    40    |   Head    |   40    |    5.4    |  46 - 58  |
-|        ![icon](../../assets/items/platemail-arms.png)<br>Platemail Arms        |    40    |   Arms    |   40    |    5.9    |  51 - 65  |
-|        ![icon](../../assets/items/platemail-legs.png)<br>Platemail Legs        |    60    | Legs/Feet |   40    |    8.8    |  51 - 65  |
-|       ![icon](../../assets/items/platemail-tunic.png)<br>Platemail Tunic       |    60    |   Body    |   40    |   14.3    |  51 - 65  |
+|            ![icon](../../assets/items/plate-helm.png)<br>Plate Helm            |    40    |   Head    |   30    |    4.1    |  46 - 58  |
+|        ![icon](../../assets/items/platemail-arms.png)<br>Platemail Arms        |    40    |   Arms    |   30    |    4.4    |  51 - 65  |
+|        ![icon](../../assets/items/platemail-legs.png)<br>Platemail Legs        |    60    | Legs/Feet |   30    |    6.6    |  51 - 65  |
+|       ![icon](../../assets/items/platemail-tunic.png)<br>Platemail Tunic       |    60    |   Body    |   30    |   10.7    |  51 - 65  |
+
+## Armor in PvP
+
+When a player hits another player, two extra rules apply. Monsters, pets and summons hitting you, and you hitting them, use the armor ratings above as they are.
+
+- Armor rating above 48 on the piece that's hit counts for half. Every leather suit, including invulnerability leather (48), and plain or exceptional plate block exactly as listed. An invulnerability plate piece (65) blocks like a 56.
+- Your armor piece and shield together can stop at most 75% of a hit.
 
 ## Shields
 
@@ -103,63 +110,63 @@ For more information visit the [Parrying](../../skills/combat/parrying.md) page.
 
 === "Normal"
 
-    |                           Shield Type                           | STR Required | AR  |  Item HP  |
-    |:---------------------------------------------------------------:|:------------:|:---:|:---------:|
-    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |      15      |  7  |  41 - 51  |
-    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |      5       |  8  |  21 - 23  |
-    |     ![icon](../../assets/items/bronze-shield.png)<br>Bronze     |      20      | 10  |  26 - 30  |
-    |      ![icon](../../assets/items/metal-shield.png)<br>Metal      |      10      | 11  |  36 - 44  |
-    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 16  | 101 - 115 |
-    |     ![icon](../../assets/items/heater-shield.png)<br>Heater     |      30      | 23  |  31 - 37  |
-    |      ![icon](../../assets/items/order-shield.png)<br>Order      |      0       | 30  | 101 - 115 |
-    |      ![icon](../../assets/items/chaos-shield.png)<br>Chaos      |      0       | 32  | 101 - 115 |
+    |                           Shield Type                           | AR  |  Item HP  |
+    |:---------------------------------------------------------------:|:---:|:---------:|
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  8  |  40 - 50  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |  8  |  20 - 25  |
+    |     ![icon](../../assets/items/bronze-shield.png)<br>Bronze     |  10 |  25 - 30  |
+    |      ![icon](../../assets/items/metal-shield.png)<br>Metal      |  11 |  50 - 65  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |  16 |  45 - 60  |
+    |     ![icon](../../assets/items/heater-shield.png)<br>Heater     |  23 |  50 - 65  |
+    |      ![icon](../../assets/items/order-shield.png)<br>Order      |  30 | 100 - 125 |
+    |      ![icon](../../assets/items/chaos-shield.png)<br>Chaos      |  32 | 100 - 125 |
 
 === "GM Made"
 
-    |                           Shield Type                           | STR Required | AR  |  Item HP  |
-    |:---------------------------------------------------------------:|:------------:|:---:|:---------:|
-    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |      15      |  8  |  41 - 51  |
-    |     ![icon](../../assets/items/bronze-shield.png)<br>Bronze     |      20      | 12  |  26 - 30  |
-    |      ![icon](../../assets/items/metal-shield.png)<br>Metal      |      10      | 13  |  36 - 44  |
-    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 19  | 101 - 115 |
-    |     ![icon](../../assets/items/heater-shield.png)<br>Heater     |      30      | 27  |  31 - 37  |
+    |                           Shield Type                           | AR  |  Item HP  |
+    |:---------------------------------------------------------------:|:---:|:---------:|
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  16 |  48 - 60  |
+    |     ![icon](../../assets/items/bronze-shield.png)<br>Bronze     |  18 |  30 - 36  |
+    |      ![icon](../../assets/items/metal-shield.png)<br>Metal      |  19 |  60 - 78  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |  24 |  54 - 72  |
+    |     ![icon](../../assets/items/heater-shield.png)<br>Heater     |  31 |  60 - 78  |
 
 === "Defense"
 
-    |                           Shield Type                           | STR Required | AR  |  Item HP  |
-    |:---------------------------------------------------------------:|:------------:|:---:|:---------:|
-    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |      15      | 12  |  41 - 51  |
-    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |      5       | 13  |  21 - 23  |
-    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 21  | 101 - 115 |
+    |                           Shield Type                           | AR  |  Item HP  |
+    |:---------------------------------------------------------------:|:---:|:---------:|
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  23 |  40 - 50  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |  23 |  20 - 25  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |  31 |  45 - 60  |
 
 === "Guarding"
 
-    |                           Shield Type                           | STR Required | AR  |  Item HP  |
-    |:---------------------------------------------------------------:|:------------:|:---:|:---------:|
-    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |      15      | 17  |  41 - 51  |
-    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |      5       | 18  |  21 - 23  |
-    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 26  | 101 - 115 |
+    |                           Shield Type                           | AR  |  Item HP  |
+    |:---------------------------------------------------------------:|:---:|:---------:|
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  28 |  40 - 50  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |  28 |  20 - 25  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |  36 |  45 - 60  |
 
 === "Hardening"
 
-    |                           Shield Type                           | STR Required | AR  |  Item HP  |
-    |:---------------------------------------------------------------:|:------------:|:---:|:---------:|
-    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |      15      | 22  |  41 - 51  |
-    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |      5       | 23  |  21 - 23  |
-    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 31  | 101 - 115 |
+    |                           Shield Type                           | AR  |  Item HP  |
+    |:---------------------------------------------------------------:|:---:|:---------:|
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  33 |  40 - 50  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |  33 |  20 - 25  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |  41 |  45 - 60  |
 
 === "Fortification"
 
-    |                           Shield Type                           | STR Required | AR  |  Item HP  |
-    |:---------------------------------------------------------------:|:------------:|:---:|:---------:|
-    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |      15      | 27  |  41 - 51  |
-    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |      5       | 28  |  21 - 23  |
-    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 36  | 101 - 115 |
+    |                           Shield Type                           | AR  |  Item HP  |
+    |:---------------------------------------------------------------:|:---:|:---------:|
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  38 |  40 - 50  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |  38 |  20 - 25  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |  46 |  45 - 60  |
 
 === "Invulnerability"
 
-    |                           Shield Type                           | STR Required | AR  |  Item HP  |
-    |:---------------------------------------------------------------:|:------------:|:---:|:---------:|
-    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |      15      | 32  |  41 - 51  |
-    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |      5       | 33  |  21 - 23  |
-    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |      30      | 41  | 101 - 115 |
+    |                           Shield Type                           | AR  |  Item HP  |
+    |:---------------------------------------------------------------:|:---:|:---------:|
+    |    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |  43 |  40 - 50  |
+    |     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |  43 |  20 - 25  |
+    | ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |  51 |  45 - 60  |

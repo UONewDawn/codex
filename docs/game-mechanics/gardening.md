@@ -240,150 +240,106 @@ It can be refilled using a Water Trough or Water barrel.
 
 ## Plant gump
 
-![image](../assets/gumps/plant-bowl-gump.png)
+Double-click a plant to open its gump. Only one plant gump is open at a time, and the plant you opened shows **\* tending \*** above it, so you always know which plant you're looking at.
 
-??? note "Click to expand: Icon legend"
+<!-- TODO: new screenshot of the plant gump -->
 
-    === "Left side"
+The top of the gump shows:
 
-        - Top left corner: Growth stage
-        - Reproduction page button
-        - Insect infestation
-        - Fungus infection
-        - Poisoned
-        - Diseased
-        - Bottom left corner: Does nothing
+- The plant's name. A seed you haven't identified only shows its color until it is full grown
+- Its growth stage, from 1 to 9
+- Where it is: its X, Y location if it is on the ground, or which container it's in
+- **Last Growth**: how its last growth check went
+- **Next growth**: how long until it can grow again
 
-    === "Right side"
+The **Help** button explains the whole care routine.
 
-        - Top right corner: Growth status
-        - Water level
-        - Add Greater Poison potions
-        - Add Greater Cure potions
-        - Add Greater Heal potions
-        - Add Greater Strength potions
-        - Bottom right corner: Empty bowl
+### Growth
 
-## ![icon](../assets/gumps/plant-growth-stage.png) Growth
+A plant has a growth check every 24 hours, at the same time each day, and the gump shows how long until the next one. A plant in your backpack or bank box grows when you log in. A house owner can set a [garden schedule](housing.md#garden-schedule) so every plant and beehive in the house checks at the same hour. Each check moves it up one stage, from 1 to 9, so a plant takes about 8 days to grow from seed to stage 9. A plant in Fertile dirt sometimes grows two stages at once.
 
-A plant performs a growth check every 24 hours after you last tend it.
+At stage 7 the plant is full grown. It shows its real look and can give and take pollen.
 
-With each check, it advances through growth stages 1 to 9, shown by the icon in the top‑left corner.
+At stage 9 you can set the plant to decorative, or leave it to keep producing seeds and resources.
 
-On stage 7, the plant becomes visible and can both pollinate other plants and be pollinated.
+**Last Growth** can show:
 
-On stage 9, the plant can be removed and set to decorative, or it can be left in place to continue producing seeds and resources.
-
-### ![icon](../assets/gumps/plant-growth-status.png) Growth status
-
-The top right icon shows the plant's growth status.
-
-   - A red exclamation mark means the plant is in an invalid spot. The growth check will fail, and nothing will change, the plant won't improve or decline.
-   - A red dash means it didn't grow because it's unhealthy.
-   - A yellow dash means the growth check hasn't happened yet.
-   - A blue cross means the plant grew normally.
-   - A green cross means the plant grew two stages.
+- **Grew** or **Grew two stages**: the plant grew normally
+- **Too unhealthy to grow**: its health was below Healthy, so it didn't grow
+- **Can't grow here**: the plant isn't somewhere it can grow, so nothing changed. Plants grow only when locked down in a house, or in your backpack or bank box
+- **Waiting to grow**: it was checked before it was ready
+- **Not checked yet**: it hasn't had a growth check since it was planted
 
 ## Maintenance
 
-When a plant goes through a growth check, it may develop certain ailments. You need to remedy these before the next check so they don't end up harming the plant.
+A growing plant that will be hurt at its next growth has a dark swarm of flies over it. The flies leave once it has everything it needs.
 
-The icons on the left show what needs to be addressed before the next growth cycle.
+Each growth check can bring new ailments, and anything left untreated at the next check can hurt the plant. The plant gump lists everything in plain words and tells you what to pour.
 
-The icons on the right let you add water or potions to remedy the ailments.
+### Deep roots
 
-The bottom center displays the plant's Health, which has four stages: Vibrant, Healthy, Wilted, and Dying.
+Plants get tougher as they grow. From stage 7, mild problems (Dry or Soggy soil, or a mild ailment) don't hurt the plant. They only stop it recovering. Severe problems still hurt it. Full-grown plants also dry out and catch pests and fungus less often.
 
-If the Health drops to Wilted or Dying apply two ![](../assets/gumps/plant-heal-potion.png) Greater Heal potions.
+| Stage | Dries out and catches ailments | Mild problems | Tend about every |
+|:--|:--|:--|:--|
+| 1 to 6 | At the normal rate | Hurt the plant | Day |
+| 7 and 8 | Half as often | Stop it recovering | 2 days |
+| 9 | A third as often | Stop it recovering | 3 days |
 
-Applying ![](../assets/gumps/plant-strength-potion.png) Greater Strength potions can reduce how often a plant is affected by ailments.
+Over a full-grown plant, flies mean it will be hurt at its next growth, so tend it that day.
 
-### ![icon](../assets/gumps/plant-water.png) Watering
+### Health
 
-If the water icon has no symbol, the plant has the perfect amount of water.
+Health has four levels: **Vibrant**, **Healthy**, **Wilted** and **Dying**, shown with a health bar. A plant only grows while it is Healthy or Vibrant. A plant with nothing wrong recovers a little at each growth, and ![](../assets/gumps/plant-heal-potion.png) Greater Heal speeds that up.
 
-A yellow dash means you should water it once. A red dash means you should water it twice.
+### Water
 
-Be careful not to over-water, as it can harm the plant's health.
+The soil has five water levels: Bone dry, Dry, Just right, Soggy and Waterlogged. Keep it **Just right**. Young plants dry out at almost every growth; full-grown plants dry out more slowly. Both too little and too much water hurt the plant, and soggy soil always drains one level per growth.
 
-A yellow cross means the plant has been over-watered once and will need one growth cycle to recover. A red cross means it has been over-watered twice and will need two growth cycles to recover.
+The **Water** button pours from a filled water container in your pack. If you have none, it asks you to target one.
 
-### ![icon](../assets/gumps/plant-insect.png) Insect infestation
+### Ailments
 
-This can happen at random. If a yellow cross appears, apply one ![](../assets/gumps/plant-poison-potion.png) Greater Poison potion. If it's red, apply two.
+| Ailment | Cause | Treatment |
+|:--|:--|:--|
+| Pests | Random. More likely in wet soil, on flowering plants and on bright colors | ![](../assets/gumps/plant-poison-potion.png) Greater Poison (or Deadly) |
+| Fungus | Random. More likely in wet soil | ![](../assets/gumps/plant-cure-potion.png) Greater Cure |
+| Poison | Leftover Poison potions | ![](../assets/gumps/plant-heal-potion.png) Greater Heal |
+| Disease | Leftover Cure potions | ![](../assets/gumps/plant-heal-potion.png) Greater Heal |
 
-### ![icon](../assets/gumps/plant-fungus.png) Fungus infection
+A mild ailment needs one potion and a severe one needs two. Once you've poured enough, the gump shows it as **Treated**. Don't pour more Poison or Cure than the plant needs, because the leftovers poison it or make it sick.
 
-This can happen at random. If a yellow cross appears, apply one ![](../assets/gumps/plant-cure-potion.png) Greater Cure potion. If it's red, apply two.
+![](../assets/gumps/plant-strength-potion.png) Greater Strength makes pests and fungus less likely at the next growth. A plant within reach of an active beehive also gets fewer pests and less fungus.
 
-### ![icon](../assets/gumps/plant-poisoned.png) Poisoned
+### Potions
 
-This happens when too many poison potions have been applied. A yellow cross means you should apply one ![](../assets/gumps/plant-heal-potion.png) Greater Heal potion. If it's red, apply two.
+Each potion type holds 2 doses, and they are used up at the next growth. Pour buttons take potions or potion kegs from your pack.
 
-### ![icon](../assets/gumps/plant-diseased.png) Diseased
+### Emptying the bowl
 
-This happens when too many cure potions have been applied. A yellow cross means you should apply one ![](../assets/gumps/plant-heal-potion.png) Greater Heal potion. If it's red, apply two.
+Emptying the bowl always gives you back an empty plant bowl, and the dirt is thrown away. If the seed hasn't sprouted yet (stages 1 to 3) you also get the seed back. After that, the plant is lost.
 
-### ![icon](../assets/gumps/plant-bowl.png) Emptying the bowl
+## Seeds & Harvest
 
-If you empty the bowl while the plant is still in its first growth stage, you'll get the seed back but lose the fertile dirt.
+The **Seeds & Harvest** button opens the plant's reproduction gump.
 
-At any later stage, emptying the bowl will cause you to lose both the seed and the fertile dirt.
+<!-- TODO: new screenshot of the Seeds & Harvest gump -->
 
-## ![icon](../assets/gumps/plant-reproduction.png) Reproduction
+### Pollination
 
-![image](../assets/gumps/plant-reproduction-gump.png)
+The gump tells you whether the plant is flowering yet, ready to pollinate, or already pollinated. Once it is pollinated, it tells you what its seeds will grow into.
 
-### ![icon](../assets/gumps/reproduction-bowl.png) Bowl icon
+Click **Gather Pollen** on a full-grown, healthy plant, then target another full-grown plant to cross-pollinate it. Target the same plant to pollinate it with its own pollen. A plant that is still unpollinated when it first grows at stage 9 pollinates itself.
 
-This button brings you back to the plant gump.
+Mutated and peculiar plants can't be cross-pollinated.
 
-### ![icon](../assets/gumps/reproduction-decorative.png) Decorative
+### Harvest
 
-This icon appears only when the plant reaches stage 9 of growth.
+From stage 9, a plant makes one seed (if it is pollinated) and one resource at each growth, up to 8 of each. The gump shows how many are ready and how many are still to come. Click **Gather** to collect them.
 
-Clicking it will convert the plant into a decorative item. Once set to decorative, the plant will no longer produce seeds or resources, and it will no longer require maintenance. At that point, it functions purely as decoration.
+### Decorative
 
-### ![icon](../assets/gumps/reproduction-pollination-1.png) Pollination
-
-This icon displays the pollination state.
-
-   - A yellow dash means the plant isn't producing pollen yet.
-   - A red cross means the plant can't produce pollen at all and cannot be cross‑pollinated.
-   - A red exclamation mark means pollen is available.
-   - A green cross means the plant has already been pollinated.
-
-#### ![icon](../assets/gumps/reproduction-pollination-2.png) Cross pollination
-
-Click this icon to select another plant and perform cross‑pollination.
-
-### ![icon](../assets/gumps/reproduction-petals-1.png) Resources production
-
-This icon shows the state of Resources production.
-
-- A red cross means the plant produces no resources.
-- A plant can produce up to eight resources in total.
-- The number on the left shows how many resources are currently on the plant.
-- The number on the right shows the current maximum, when harvested both number will decrease.
-- When the right number reaches zero, the plant has produced all of its resources and won't generate any more.
-
-#### ![icon](../assets/gumps/reproduction-petals-2.png) Harvest resources
-
-Click this icon to harvester the resources.
-
-### ![icon](../assets/gumps/reproduction-seed-1.png) Seed production
-
-This icon shows the state of Seed production.
-
-- A red cross means the plant produces no seeds.
-- A plant can produce up to eight seeds in total.
-- The number on the left shows how many seeds are currently on the plant.
-- The number on the right shows the current maximum, when harvested both number will decrease.
-- When the right number reaches zero, the plant has produced all of its seeds and won't generate any more.
-
-#### ![icon](../assets/gumps/reproduction-seed-2.png) Harvest seeds
-
-Click this icon to harvester the seeds.
+At stage 9 you can **Set to Decorative**. The plant is pruned for display and never needs care again, but it stops making seeds and resources. This can't be undone.
 
 ## Cross pollination
 

@@ -26,6 +26,7 @@ The trap goes off when you open the chest after unlocking it, not while you pick
 
 ## Respawns
 
+- A chest nobody touches crumbles away after a while. Every attempt to pick its lock or disarm its trap restarts that clock, so a chest you're working on stays for at least 15 minutes after your last try
 - Once a chest is unlocked, by Lockpicking or magic, it breaks apart after **5 minutes** so a fresh chest can spawn in its place
 - Anything left inside spills onto the ground, where it decays like any other dropped item
 

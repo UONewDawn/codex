@@ -94,6 +94,7 @@ A loadout is a named set of items with a **maximum** amount for each. You can ha
 
 - Click **New Loadout**, name it (up to 50 characters), and set a Max for each item you want.
 - Click a loadout to **apply** it. The rack counts what you already carry in the top level of your backpack and your chosen bag, then **only tops you up** to the Max.
+- You can also apply a loadout without opening the rack: your loadouts are listed by name in the rack's context menu as, for example, **Loadout: PvP Mage**. Other players only see their own.
 - If the rack runs short on something, the rack gives you what it has and tells you what was missing (for example _"Mandrake Root (12 short)"_).
 - If you already carry everything on the list, the rack tells you so.
 - Loadouts can be edited or deleted from the Loadouts panel.

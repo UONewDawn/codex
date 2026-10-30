@@ -31,6 +31,17 @@ House owners can buy more storage from the house sign: open **Info** and choose 
 - Only the house owner can expand storage
 - Lockdown and secure increase deeds still work as before and don't raise the price
 
+## Garden schedule
+
+House owners can pick one hour of the day when every plant and beehive in the house has its daily growth check, so a single visit covers the whole garden however many days apart you planted. Open the house sign, go to **Options** and choose **Set the garden schedule**.
+
+- Times are Central time. The schedule page shows the current Central time
+- Every growing plant locked down in the house and every active beehive moves to the new hour. Each one moves by 12 hours or less, to whichever time of that hour is closest to when it was already due
+- Plants and hives added later, or moved in from somewhere else, join the schedule after their next growth check
+- Plants in your backpack or bank box aren't affected. They still grow when you log in
+- Only the house owner can set it, and it can be changed once every 7 days
+- The schedule stays with the house if it changes hands
+
 ## Commands
 
 * I wish to lock this down
