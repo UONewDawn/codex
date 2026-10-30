@@ -30,6 +30,8 @@ This table shows which dungeon drops each Dye Material.
 
 Click any hue ID to preview the color on the [Hues](../hues/index.md) page.
 
+Every dye material stacks, so you can split off part of a stack or drop one pile onto another to combine them.
+
 Dye material can also be found in dungeon treasure chests (level 2 and up) opened with Lockpicking. For more information visit the [Dungeon Treasure Chests](../game-mechanics/dungeon-treasure-chests.md#dungeon-dye-material) page.
 
 ## Tailor Dye Kit

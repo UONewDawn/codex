@@ -15,10 +15,10 @@ All you need to start is a beehive deed and an open area with plenty of flowers 
 - **Supplements:** Pollen Patties and sweetened water give the hive a small extra boost.
 - **Harvest:** Once Producing, collect honey (bottles) and beeswax with a hive tool.
 
-Hives perform a growth check once per day at world save. Watch the Last Tending indicator in the top-right of the control panel to see how the most recent check went.
+Hives perform a growth check every 24 hours, at the same time each day. The control panel shows how long until the next one. Watch the Last Tending indicator in the top-right of the control panel to see how the most recent check went.
 
 !!! tip
-    A single hive can support up to 100,000 bees. Healthy hives can live indefinitely, but older hives are more prone to disease.
+    A single hive can support up to 100,000 bees. Healthy hives can live indefinitely, but a hive grows more prone to parasites and disease over its first month. A strong colony fights them off twice as well.
 
 ## Getting started
 
@@ -112,7 +112,9 @@ Add **Refined Sugar** to a water barrel to sweeten it, which gives the bees a sl
 
 Flowers are used for food, building, and almost every hive function. An overabundance of flowers brings more parasites and insects with them.
 
-- Flowers must be in non-decorative mode
+- Flowers must be full grown (stage 7 or later), locked down and in non-decorative mode
+- Flowers must be Healthy or Vibrant. A wilted or dying flower feeds no bees until it recovers
+- A full-grown flower garden needs tending about every 3 days. See [Deep roots](../game-mechanics/gardening.md#deep-roots)
 - Flowers that are around beehives will see a slight boost in resistance to parasites and health
 - Certain flowers slightly increase the chances that the harvested honey will be of a rarer quality
 
@@ -151,6 +153,14 @@ Pour potions from your backpack into the hive using the Potion Treatments panel.
 
 Lesser and standard potions are too weak - only Greater (and Deadly Poison) varieties have any effect.
 
+### Parasites and disease
+
+A hive's chance of new parasites and disease rises with its age for the first 30 days, then stops rising. Greater Strength, and water and flowers that aren't overflowing, lower it.
+
+A producing hive can shrug off a **mild** case for one growth check. It isn't hurt, but it won't heal or make its Thriving bonus honey and wax until you treat it. A severe case, or any case in a hive that isn't producing yet, hurts it at the next check.
+
+A **strong colony**, with 80,000 bees or more (population 8), catches parasites and disease half as often. A full-strength hive needs tending about every 3 days, like a full-grown garden. If the colony loses bees and drops below 80,000, it loses this protection until it grows back. The Colony Health panel shows when a hive is strong.
+
 ## Pollen Patties
 
 A **Pollen Patty** is a supplement you can apply to a hive to slightly raise the chance of harvesting better quality honey. It works alongside the [flowers](#flowers) that already improve honey quality.
@@ -168,7 +178,7 @@ The Last Tending pill in the top-right of the control panel summarizes what happ
 - <span style="color: #f28b00;">**! Resources too low:**</span> Water or flowers were insufficient at the last check.
 - **– No change yet:** The hive hasn't had a growth check since being placed.
 
-Growth checks happen during the daily world save. If you make changes after the check, you'll see the results at the next save.
+Growth checks happen every 24 hours, at the same time each day. The control panel shows how long until the next one. Waking a hive from hibernation keeps its schedule, unless a check came due while it slept: then it gets a full day before its next check. A house owner can set a [garden schedule](../game-mechanics/housing.md#garden-schedule) so every beehive and plant in the house checks at the same hour.
 
 ## Honey
 

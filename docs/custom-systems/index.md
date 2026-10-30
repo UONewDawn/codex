@@ -178,6 +178,12 @@ Each player builds their own loadouts and restocks the whole set instantly with 
 
 For more information visit the [Storage Rack](storage-rack.md) page.
 
+## [Arcane Forge](arcane-forge.md)
+
+Melt the magic weapons and armor gathering dust in your house into arcane dust. A blacksmith turns it into slayer oil that makes any weapon a slayer for a dungeon run, so your real slayers can stay safe at home.
+
+For more information visit the [Arcane Forge](arcane-forge.md) page.
+
 ## [Arcane Lantern](arcane-lantern.md)
 
 A lockable house repository for wand charges. Deposit wands one at a time or a whole container at once, and redeem freshly charged wands later.

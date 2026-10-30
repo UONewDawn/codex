@@ -30,18 +30,25 @@ Weapons are considered being at full durability.
 
 ## Snare
 
-The new snare ability lets you immobilize a target for 3 seconds, but it can still attack or cast spells.
+While Snare is ready, an arrow or bolt that hits can pin your target in place. They can't walk, but they can still attack, cast spells, drink potions and bandage.
 
-- Requires at least 80 Archery and 80 Anatomy
-- Double-click your equipped bow to toggle snare
-- 25% chance to ensnare at 100 Archery and 100 Anatomy
-- Each attempt (failed or successful) uses 15 stamina when active
+It requires at least 80 Archery and 80 Anatomy.
 
-After a successful snare:
+Type **[snare** or double-click your equipped bow to ready it, and do the same again to lower it. A buff icon shows while it's ready. It stays ready after a snare, and taking your bow off lowers it.
 
-- The snared target cannot move (but can still attack and cast spells) for 3 seconds
-- The snared target will have any spell they were casting disrupted
-- The archer cannot snare another target for 20 seconds
+### When it goes off
+
+Each hit has a chance to snare equal to (Archery + Anatomy) / 4 percent: 40% at 80/80 and 50% at 100/100. A hit that doesn't snare costs nothing and neither of you gets a message.
+
+A snare costs 10 stamina, and only when it lands.
+
+### What it does
+
+- The target can't walk for 3 seconds (1.5 seconds for bosses)
+- Any spell the target was casting is broken
+- You can't snare again for 20 seconds. The buff icon counts this down
+
+Once a target has been pinned, by a snare or a shield bash, it can't be pinned again until 8 seconds after it's free. Hits on it during that time don't use up your snare.
 
 ## Training
 

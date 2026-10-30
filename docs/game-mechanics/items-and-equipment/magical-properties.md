@@ -8,13 +8,15 @@ description: "Magical armor and weapon properties on New Dawn: every enchantment
 
 ## Armor enchantments
 
-| Prefix         | Effect             |
-|----------------|--------------------|
-| Durable        | +5 to item Health  |
-| Substantial    | +10 to item Health |
-| Massive        | +15 to item Health |
-| Fortified      | +20 to item Health |
-| Indestructible | +25 to item Health |
+| Prefix         | Effect               |
+|----------------|----------------------|
+| Durable        | +20% item Health     |
+| Substantial    | +50% item Health     |
+| Massive        | +70% item Health     |
+| Fortified      | +100% item Health    |
+| Indestructible | +120% item Health    |
+
+Exceptional items get another +20%, added to the prefix's bonus.
 
 The first number on this table shows the actual Armor Rating of the area it protects. It will not match the in-game character status window, which only displays the total average.
 
@@ -22,11 +24,13 @@ The numbers after the AR area shows the contribution to the total AR average, as
 
 | Suffix          | AR of the area | Neck, Hands | Head, Arms, Legs/Feet | Body  |
 |-----------------|----------------|-------------|-----------------------|-------|
-| Defense         | +5             | +0.4        | +0.7                  | +2.2  |
-| Guarding        | +10            | +0.7        | +1.4                  | +4.4  |
-| Hardening       | +15            | +1.1        | +2.1                  | +6.6  |
-| Fortification   | +20            | +1.4        | +2.8                  | +8.8  |
-| Invulnerability | +25            | +1.8        | +3.5                  | +11.0 |
+| Defense         | +15            | +1.1        | +2.1                  | +6.6  |
+| Guarding        | +20            | +1.4        | +2.8                  | +8.8  |
+| Hardening       | +25            | +1.8        | +3.5                  | +11.0 |
+| Fortification   | +30            | +2.1        | +4.2                  | +13.2 |
+| Invulnerability | +35            | +2.5        | +4.9                  | +15.4 |
+
+In player-vs-player fights, armor rating above 48 on a piece counts for half. See [Armor in PvP](armor.md#armor-in-pvp).
 
 ## Weapon enchantments
 
@@ -39,11 +43,13 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
 | Eminently Accurate    | +15.0 to Tactics or +14.0 to Archery |
 | Exceedingly Accurate  | +20.0 to Tactics or +18.7 to Archery |
 | Supremely Accurate    | +25.0 to Tactics or +23.3 to Archery |
-| Durable               | +10 to item Health                   |
-| Substantial           | +20 to item Health                   |
-| Massive               | +30 to item Health                   |
-| Fortified             | +40 to item Health                   |
-| Indestructible        | +50 to item Health                   |
+| Durable               | +20% item Health                     |
+| Substantial           | +50% item Health                     |
+| Massive               | +70% item Health                     |
+| Fortified             | +100% item Health                    |
+| Indestructible        | +120% item Health                    |
+
+As with armor, exceptional weapons get another +20% item Health on top.
 
 | Suffix      | Effect    |
 |-------------|-----------|
