@@ -83,9 +83,11 @@ At GM, your summons will last 10 minutes.
 
 Once you use Spirit Speak and establish contact with the netherworld, its effect will last around 3 minutes.
 
-While under this effect, your 8th circle summoning spells will have an increased success rate.
+While under this effect, your 8th circle summoning spells (the four elementals and Daemon) will have an increased success rate.
 
 At GM Spirit Speak, you have an 80% success rate.
+
+You need at least 80.1 Magery for this bonus, the same Magery you need to cast 8th circle spells from a spellbook at all. Spirit Speak raises your odds; it does not replace Magery. Energy Vortex does not get the bonus.
 
 ### Increased healing
 
