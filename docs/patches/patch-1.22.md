@@ -8,6 +8,11 @@ description: "Patch notes for New Dawn server patch 1.22...."
 
 This patch...
 
+## ⚔️ Dueling
+
+- New **Custom** duels: when you post a duel on the board, pick Custom and choose your rules: InstaHit (swapping weapons doesn't reset your swing), no potions, no bandages and no poisoning. Mix any of them
+- The rules show on the challenge before anyone accepts and are announced at the start of every round. Custom duels count toward your record and achievements like casual duels but never touch your rating. See [Dueling](../custom-systems/dueling.md#custom-rules)
+
 ## 🛠️ Bug Fixes & Enhancements
 
 - The Auction House now asks before it spends your gold. Buyout, placing a bid and cancelling your own listing each open a confirmation showing the item and the exact amount, so a misclick or an extra zero no longer costs you
