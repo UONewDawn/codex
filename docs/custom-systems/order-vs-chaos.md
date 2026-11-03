@@ -1,5 +1,5 @@
 ---
-description: "Order vs. Chaos is New Dawn's open-world faction war. Fight for Felucca outposts, climb five ranks and earn War Tokens in monthly seasons."
+description: "Order vs. Chaos is New Dawn's open-world faction war. Fight for Felucca outposts, climb six ranks and earn War Tokens in monthly seasons."
 ---
 
 # Order vs. Chaos
@@ -16,7 +16,7 @@ Order vs. Chaos is the open-world war for Britannia. Fight for outposts across F
 ## Joining the war
 
 - Your faction is your guild's type. Join an Order or Chaos guild to take part.
-- Changing sides is watched. After you switch between Order and Chaos, you earn no rewards and don't count toward captures for 3 days.
+- Changing sides is watched. After you switch between Order and Chaos, you earn no rewards, don't count toward captures and can't buy from your faction store for 3 days.
 
 ## Trophies
 
@@ -159,7 +159,8 @@ Stand beside your Herald, open the [War Map](#the-war-map), and click Rally next
 | 2    | 100            | Sentinel of Order       | Marauder of Chaos     |
 | 3    | 400            | Warden of Order         | Ravager of Chaos      |
 | 4    | 1,200          | Justicar of Order       | Dread Knight of Chaos |
-| 5    | 3,000          | Lord Protector of Order | Dread Lord of Chaos   |
+| 5    | 2,500          | Marshal of Order        | Scourge of Chaos      |
+| 6    | 4,500          | Lord Protector of Order | Dread Lord of Chaos   |
 
 Each rank grants its title (set it with `[titles`), and you keep the titles even if you later leave your faction.
 
@@ -167,15 +168,18 @@ Each rank grants its title (set it with `[titles`), and you keep the titles even
 
 The Order's **Virtue Exchange** and Chaos's **Crimson Tally** sell for War Tokens. Each rank unlocks new wares:
 
-| Rank | Order                  | Chaos                  |
-| ---- | ---------------------- | ---------------------- |
-| 1    | Blood Red Mask Dye     | Blood Red Mask Dye     |
-| 2    | Silver Serpent Cloak   | Crimson Cloak of Chaos |
-| 3    | Silver Serpent Robe    | Crimson Robe of Chaos  |
-| 4    | Order War Horse        | Chaos War Horse        |
-| 5    | Lord Protector's Cloak | Dread Lord's Cloak     |
+| Rank | Order                                                | Chaos                                              |
+| ---- | ---------------------------------------------------- | -------------------------------------------------- |
+| 1    | Serpent Silver Mask Dye<br>Serpent Silver Close Helm | Chaos Crimson Mask Dye<br>Chaos Crimson Bone Helm  |
+| 2    | Silver Serpent Cloak                                 | Crimson Cloak of Chaos                             |
+| 3    | Silver Serpent Robe                                  | Crimson Robe of Chaos                              |
+| 4    | Order War Horse                                      | Chaos War Horse                                    |
+| 5    | Protector Gold Close Helm                            | Dread Ember Bone Helm                              |
+| 6    | Lord Protector's Cloak                               | Dread Lord's Cloak                                 |
 
-Faction cloaks and robes are blessed, and only members of their faction can wear them.
+- Faction helms, cloaks and robes are blessed, and only members of their faction can wear them. Leave your faction, or have your guild change type, and they go to your backpack (your bank if the pack is full).
+- The faction helms share one stat line: an armor rating of 48, the same as an invulnerability leather cap. Against players that's only a little behind an invulnerability plate helm, because [armor above 48 counts for half in PvP](../game-mechanics/items-and-equipment/armor.md#armor-in-pvp). They have no meditation or stamina penalty, never wear out, and can't be dyed. A helm worn by someone outside its faction gives no armor; single-click it to see *(dormant)*.
+- The war horses can only be ridden by rank 4 and higher members of their own faction.
 
 ## Seasons
 
@@ -283,7 +287,7 @@ Press War Map in `[Ovc` or ask your Herald. It shows:
 | Answer the Call         | Fight in War Calls                 | Called to Arms, Ever at the Front    |
 | Hold the Call           | Win War Calls with your faction    | Warcaller, Master of the Call        |
 | Blood on the Banner     | Kill enemies in a War Call outpost | Bloodied Banner, Scourge of the Call |
-| Faction Rank            | Reach ranks 2 through 5            | —                                    |
+| Faction Rank            | Reach ranks 2 through 6            | —                                    |
 | Spoils of War           | Earn War Tokens from the war       | War Profiteer                        |
 | Veteran of the Campaign | Take part in seasons               | Campaign Veteran, Old Guard          |
 | Victor of the Season    | Win seasons with your faction      | Victorious, Conqueror of Seasons     |
