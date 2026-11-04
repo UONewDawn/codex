@@ -124,7 +124,7 @@ If the enemy faction kills you inside an outpost, **you keep everything**. Nothi
 - If a friend or a healer resurrects you before the wait ends, you get up right where you fell, with all your gear
 - For 2 minutes after you return, you can't recall or gate out of the outpost, or Rally
 
-This only applies when the enemy faction did at least half the damage. If monsters, murderers, players outside the war or your own side kill you, or you die outside an outpost, it's a normal death and your corpse can be looted.
+This only applies when the enemy faction did at least half the damage. Damage from your own side, such as a friend's Earthquake, doesn't count against you. If monsters, murderers, players outside the war or your own side kill you, or you die outside an outpost, it's a normal death and your corpse can be looted.
 
 ### Outpost rewards
 
