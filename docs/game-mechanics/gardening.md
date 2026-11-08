@@ -254,6 +254,18 @@ The top of the gump shows:
 
 The **Help** button explains the whole care routine.
 
+### Compact view
+
+Click **Compact** in the top-right corner of the plant gump to switch to a smaller card. It leaves out the explanations but keeps everything you need for daily care:
+
+- The plant's name, stage, location, next growth and last growth
+- Health and water, with the **Water** button
+- The four ailments. One line under them lists what the plant needs before its next growth, such as "Needs: water, 1 Poison". It reads "Nothing needed" when the plant is fine
+- A **Pour** button for each potion, with how many doses are already in the plant
+- **Seeds**, **Help** and **Empty** buttons
+
+Click **Expand** to go back to the full gump. Your choice is saved, so every plant opens in the view you used last.
+
 ### Growth
 
 A plant has a growth check every 24 hours, at the same time each day, and the gump shows how long until the next one. A plant in your backpack or bank box grows when you log in. A house owner can set a [garden schedule](housing.md#garden-schedule) so every plant and beehive in the house checks at the same hour. Each check moves it up one stage, from 1 to 9, so a plant takes about 8 days to grow from seed to stage 9. A plant in Fertile dirt sometimes grows two stages at once.
