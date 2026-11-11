@@ -349,3 +349,7 @@ Consider cutting what you craft to recoup some of the materials.
 | 99.5 - 100  | Studded Gorget  |
 
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
+
+### Failed attempts
+
+If you fail, you keep half your cloth or leather (rounded down), the same amount you'd get back by cutting up the finished item. Bone splits: half the time it's ruined, otherwise you keep a third.

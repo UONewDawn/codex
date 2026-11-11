@@ -305,6 +305,10 @@ Consider Lumberjacking to fund the training.
 
 While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
+### Failed attempts
+
+If you fail, the wood splits: half the time it's ruined, otherwise you keep a third of it. Masonry granite works the same way. Each [stone block](#stone-blocks) has a 1 in 4 chance to crack, so you'll usually keep most of them.
+
 ## Related skills
 
 - [Lumberjacking](../resource-gathering/lumberjacking.md)

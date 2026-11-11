@@ -205,6 +205,10 @@ Consider Mining to fund the training.
 
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
+### Failed attempts
+
+If you fail, you keep half your ingots (rounded down), the same amount you'd get back by smelting the finished item. Boards are ruined half the time; otherwise you keep a third of them. Gems and other parts are used up.
+
 ## Related skills
 
 - [Lockpicking](../stealth-and-thievery/lockpicking.md)

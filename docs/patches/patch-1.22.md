@@ -31,6 +31,14 @@ This patch...
 - The Master Set is now the Base Set plus one example of every kind of variety. Your book shows how many kinds you've found
 - New achievements for mounting 10, 25, 50 and 75 issues, and 5, 10 and 25 varieties. See [Coin Collecting](../custom-systems/coin-collecting.md#achievements)
 
+## 🔨 Crafting
+
+- A failed craft no longer uses up every material
+- **Metal, cloth and leather:** you keep half (rounded down), the same amount you'd get back by smelting or cutting up the finished item
+- **Wood, granite, and bone:** half the time they're ruined. Otherwise you keep a third. Your crafting menu says which happened: "some of your materials are lost" or "your materials are ruined"
+- **Stone, sandstone and marble blocks:** each block has a 1 in 4 chance to crack on a failed masonry craft
+- Reagents, blank scrolls and maps, gems, sand, feathers, food and other consumables are still used up. Shafts, arrows and bolts still lose half, as before. See [Blacksmithy](../skills/crafting/blacksmithy.md#failed-attempts) and [Carpentry](../skills/crafting/carpentry.md#failed-attempts)
+
 ## ⚔️ Dueling
 
 - New **Custom** duels: when you post a duel on the board, pick Custom and choose your rules: InstaHit (swapping weapons doesn't reset your swing), no potions, no bandages and no poisoning (the Poisoning skill and poisoned weapons; the Poison and Poison Field spells still work). Mix any of them
