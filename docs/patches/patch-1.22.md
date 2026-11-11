@@ -24,6 +24,7 @@ This patch...
 - Beehives no longer overcount sweetened water. The gump could show more sweetened sources than water sources, and one sugared barrel gave the full +2 water bonus instead of +1
 - NPC vendors now take gold from your bank when you aren't carrying enough, whatever the price. It used to need a purchase of 2,000 gold or more
 - The Halloween lanterns are now blessed, including ones you already own: the jack-o-lantern and grinning jack-o-lantern from the Reaper's Hollow Market, and the Lantern of Souls and Spectral Lantern from the Phantom Fleet Exchange
+- Once you've chopped with an axe, single-clicking it shows its condition: new, slightly worn, fairly worn, greatly worn or nearly broken. It's the same scale instruments use. See [Lumberjacking](../skills/resource-gathering/lumberjacking.md#gathering)
 
 ## 🪙 Coin Collecting
 
