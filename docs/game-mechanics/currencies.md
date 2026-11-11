@@ -117,12 +117,12 @@ For more information visit the [Sea Encounters](../custom-systems/sea-encounters
 
 === "Decorations & Lights"
 
-    | Item             | Soul Coins |
-    | ---------------- | :--------: |
-    | Grim Warning     | 10         |
-    | Skulls on a Pike | 25         |
-    | Lantern of Souls | 10         |
-    | Spectral Lantern | 50         |
+    | Item                       | Soul Coins |
+    | -------------------------- | :--------: |
+    | Grim Warning               | 10         |
+    | Skulls on a Pike           | 25         |
+    | Lantern of Souls (blessed) | 10         |
+    | Spectral Lantern (blessed) | 50         |
 
 === "Ship's Colors"
 

@@ -70,6 +70,16 @@ Hand the named chart to Willebrord. If you're the first to chart that constellat
 
 If someone beat you to it, Willebrord will tell you the constellation has already been discovered.
 
+### The Constellation Ledger
+
+Double-click the ledger at Willebrord's camp to browse every named constellation.
+
+- **Tabs** show one night period at a time (5-8 PM, 9-11 PM, Midnight, 1-4 AM), or **Mine** for the constellations charted by any character on your account
+- **Search** finds constellations by name or by astronomer
+- Click a **column heading** to sort by it, and click it again to reverse the order. The ledger opens with the newest discoveries first
+- Your own constellations are shown in green
+- Click the **gem** beside a constellation to see it through the eyepiece, exactly as a telescope shows it at those coordinates. **Back** returns you to the same spot in the ledger
+
 ### Bloodrift Telescope
 
 A telescope in the Bloodrift color. It works the same as a regular telescope.

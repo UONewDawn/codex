@@ -220,7 +220,7 @@ You can buy a Plant bowl from Provisioner NPCs.
 
 1. Fill the bowl with 5 Fertile dirt.
 
-2. Soften the dirt, two uses from a Pitcher of Water is enough.
+2. Soften the dirt, two uses from a Pitcher of Water is enough. The dirt stays soft until you plant, so you can water a whole batch of bowls first.
 
 3. Plant the seed.
 

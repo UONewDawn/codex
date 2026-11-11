@@ -16,6 +16,19 @@ Houses will collapse after 30 days of being "unused" if the owner, co-owner or a
 
 You can buy the House Placement Tool and the Interior Decorator both for 10,000 gp from the architect vendor in Occlo.
 
+### Interior Decorator
+
+Keep the decorator in your backpack and double-click it while you stand in a house you own or co-own. A panel opens. Pick an action, then click the item you want to change. The cursor stays up so you can keep clicking, and the action you picked shows in green.
+
+- **Rotate Left / Right** turns furniture that has more than one facing, in either direction.
+- **Move North, East, South or West** slides an item one tile at a time. Each arrow points the way the item moves on your screen.
+- **Raise / Lower** moves an item up or down one step at a time, up to 15 steps above the floor.
+- **Lock Down**, **Release** and **Secure** work like the spoken house commands. Only the house owner can secure containers.
+- **Undo** puts the last item you moved back where it was before you started moving it.
+- **Bring to Me** moves the last item you moved to your feet, which is handy if you slide something out of reach. Stand on the floor of the house to use it, not on top of furniture.
+
+The decorator only works on items that are locked down or secured, weighing 100 stones or less. Older decorators turn into the new one the first time you double-click them in your backpack.
+
 ## Expanding storage
 
 House owners can buy more storage from the house sign: open **Info** and choose **Expand storage**.

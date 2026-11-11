@@ -178,7 +178,7 @@ The Order's **Virtue Exchange** and Chaos's **Crimson Tally** sell for War Token
 | 6    | Lord Protector's Cloak                               | Dread Lord's Cloak                                 |
 
 - Faction helms, cloaks and robes are blessed, and only members of their faction can wear them. Leave your faction, or have your guild change type, and they go to your backpack (your bank if the pack is full).
-- The faction helms share one stat line: an armor rating of 48, the same as an invulnerability leather cap. Against players that's only a little behind an invulnerability plate helm, because [armor above 48 counts for half in PvP](../game-mechanics/items-and-equipment/armor.md#armor-in-pvp). They have no meditation or stamina penalty, never wear out, and can't be dyed. A helm worn by someone outside its faction gives no armor; single-click it to see *(dormant)*.
+- The faction helms share one stat line, the same armor as an invulnerability plate helm: they add about **9 AR** to your status window, or 65 AR on the head itself (the status window shows each piece at its share of the body; a helm counts for 14%, see [Armor](../game-mechanics/items-and-equipment/armor.md)). Against players a hit to the head blocks like 56, the same as the plate helm, because [armor above 48 counts for half in PvP](../game-mechanics/items-and-equipment/armor.md#armor-in-pvp). They have no meditation or stamina penalty, never wear out, and can't be dyed. A helm worn by someone outside its faction gives no armor; single-click it to see *(dormant)*.
 - The war horses can only be ridden by rank 4 and higher members of their own faction.
 
 ## Seasons

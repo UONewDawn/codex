@@ -25,9 +25,11 @@ Collectors know that many issues also exist in rarer varieties: specimen strikes
 
 Single-click a piece to see its era and, if it has one, its variety.
 
+There are 13 kinds of variety. The book's footer counts how many kinds you've mounted, without naming the ones you haven't found.
+
 ## The Coin Collector's Book
 
-Bankers sell the Coin Collector's Book for **1,000 gold**.
+Bankers sell the Coin Collector's Book for **50,000 gold**.
 
 - Drop a piece onto the book while the book is in your backpack to mount it. Mounting is permanent, and the piece can't be taken back out
 - The book won't take a piece it already holds. A variety counts as a separate piece from the plain issue
@@ -36,6 +38,8 @@ Bankers sell the Coin Collector's Book for **1,000 gold**.
 
 !!! tip
     The book is your collection, not your character's. Trade it, display it or guard it: the collection travels with the book.
+
+    A duplicate can't be mounted, but it's exactly what another collector is missing. Trade your spares.
 
 ## The catalog
 
@@ -126,11 +130,18 @@ The catalog lists 86 issues across three volumes.
 | The Codex War       | Mount every issue of Volume II                  |                    |
 | The Rebuilding      | Mount every issue of Volume III                 |                    |
 | Numismatist         | Complete the Base Set: every issue in the catalog | Numismatist        |
-| Master Numismatist  | Complete the Master Set: every issue and every known variety | Master Numismatist |
+| Master Numismatist  | Complete the Master Set: the Base Set plus one example of every kind of variety | Master Numismatist |
+| A Modest Collection | Mount 10 issues                                 |                    |
+| A Growing Collection | Mount 25 issues                                |                    |
+| A Serious Collection | Mount 50 issues                                |                    |
+| A Fine Collection   | Mount 75 issues                                 |                    |
+| An Eye for Errors   | Mount 5 varieties                               |                    |
+| A Trained Eye       | Mount 10 varieties                              |                    |
+| A Connoisseur's Eye | Mount 25 varieties                              |                    |
 
 A variety also fills its issue's slot in the Base Set.
 
-Achievements go to the player who mounts the piece that completes a volume or set. Buying a finished book doesn't earn them.
+Achievements go to the player who mounts the piece that completes a volume, a set or a count. Buying a finished book doesn't earn them.
 
 ## Related pages
 
