@@ -1,10 +1,10 @@
 ---
-description: "The Storage Rack is a lockable house rack for reagents, potions, supplies and resources. Build loadouts and restock with one click."
+description: "The Storage Rack is a lockable house rack for reagents, potions, scrolls, supplies and resources. Build loadouts and restock with one click."
 ---
 
 # Storage Rack
 
-A Storage Rack is a lockable house item that holds a stock of common supplies such as reagents, potions, bandages, ammo, ingots, hides and boards. Instead of piling everything in chests, you drop your supplies onto the rack and it keeps a count of each one.
+A Storage Rack is a lockable house item that holds a stock of common supplies such as reagents, potions, spell scrolls, bandages, ammo, ingots, hides and boards. Instead of piling everything in chests, you drop your supplies onto the rack and it keeps a count of each one.
 
 Each player who uses a rack builds their own **loadouts**. A loadout is a named kit, such as "PvP Mage" or "Tamer Run", with the amount of each item you want to carry. One click refills you up to those amounts.
 
@@ -52,15 +52,19 @@ You must be within **2 tiles** of the rack to use it.
 
 ## What It Holds
 
-| Category | Items                                                                                                               |
-| -------- | ------------------------------------------------------------------------------------------------------------------- |
-| Reagents | Black Pearl, Blood Moss, Garlic, Ginseng, Mandrake Root, Nightshade, Spider's Silk, Sulphurous Ash                  |
-| Potions  | Greater Heal, Greater Cure, Total Refresh, Greater Explosion, Greater Strength, Greater Agility, Greater Nightsight |
-| Supplies | Bandage, Blank Scroll, Empty Bottle                                                                                 |
-| Ammo     | Arrow, Crossbow Bolt                                                                                                |
-| Ingots   | Iron, Dull Copper, Shadow Iron, Copper, Bronze, Gold, Agapite, Verite, Valorite                                     |
-| Hides    | Hides, Spined, Horned, Barbed                                                                                       |
-| Wood     | Board, Oak, Ash, Yew                                                                                                |
+| Category       | Items                                                                                                                                      |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Reagents       | Black Pearl, Blood Moss, Garlic, Ginseng, Mandrake Root, Nightshade, Spider's Silk, Sulphurous Ash                                         |
+| Potions        | Greater Heal, Greater Cure, Total Refresh, Greater Explosion, Greater Strength, Greater Agility, Greater Nightsight, Nightsight, Poison, Greater Poison, Deadly Poison |
+| Supplies       | Bandage, Blank Scroll, Empty Bottle, Lockpick, Kindling, Bag, Trapped Pouch                                                                |
+| Ammo           | Arrow, Crossbow Bolt, Feather, Arrow Shaft                                                                                                 |
+| Tailoring      | Cloth, Cotton, Flax, Yarn, Wool, Bone                                                                                                      |
+| Ingots         | Iron, Dull Copper, Shadow Iron, Copper, Bronze, Gold, Agapite, Verite, Valorite                                                            |
+| Hides          | Hides, Spined, Horned, Barbed                                                                                                              |
+| Leather        | Leather, Spined, Horned, Barbed                                                                                                            |
+| Wood           | Board, Oak, Ash, Yew                                                                                                                       |
+| Instruments    | Drums, Harp, Lap Harp, Lute, Tambourine, Tambourine (Tassel)                                                                               |
+| Scrolls        | Every Magery scroll, first to eighth circle, each circle under its own heading                                                             |
 
 A rack can hold up to **50,000 of each item**.
 
@@ -69,13 +73,28 @@ A rack can hold up to **50,000 of each item**.
 You can deposit in several ways:
 
 - **Drag and drop** a stack onto the rack.
-- **Drop a container** onto the rack. It takes everything it can use from the top level of that container and gives the container back to you with whatever was left.
+- **Drop a container** onto the rack. It takes everything it can use from the top level of that container and gives the container back to you with whatever was left. An **empty** bag or trapped pouch is stored itself instead.
 - Use **Deposit** in the gump or **Add to Storage Rack** in the context menu, then target:
   - **yourself** to sweep the top level of your backpack
   - **a container** within reach, such as a bag or a chest on the floor
   - **a single item**
 
 Sweeps only look at the **top level** of a container. Items inside bags within that container are left alone.
+
+### Bags and Trapped Pouches
+
+The rack stores plain, empty **Bags** and **Trapped Pouches** (pouches with Magic Trap cast on them). Trapped pouches come back out trapped, so **[Pouch** pops them as usual. A pouch that has already gone off is not a trapped pouch, and the rack turns it away.
+
+A sweep takes empty bags and trapped pouches too, but it never takes:
+
+- the bag you picked with **Set Bag**
+- a bag that has anything in it
+
+Dyed or renamed bags are refused like any other changed item.
+
+### Finding a Section
+
+The rack and the loadout editor both have jump buttons: **Stock** (reagents onward), **Crafting** (tailoring and resources), and **Circle 1** to **8** for the scrolls. The rack's are at the bottom, above the page arrows. The editor's are under the loadout name. The button for the page you're on is gold.
 
 !!! note "Plain stock only"
     The rack stores a count, not the actual items. Each withdrawal is a brand new item. For that reason, the rack refuses anything that would lose something when it comes back out.

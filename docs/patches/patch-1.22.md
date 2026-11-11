@@ -42,3 +42,11 @@ This patch...
 - New Rank 6. Rank 5 is now **Marshal of Order** / **Scourge of Chaos** at 2,500 Faction Points and unlocks the helm in Protector Gold or Dread Ember. **Lord Protector** / **Dread Lord** and the elite cloak move to Rank 6 at 4,500
 - The Order and Chaos War Horses can only be ridden by Rank 4 and higher members of their faction
 - The faction stores no longer sell to players on side-switch probation. See [Order vs. Chaos](../custom-systems/order-vs-chaos.md#faction-stores)
+
+## 🗄️ Storage Rack
+
+- Racks now hold **every Magery scroll**, first to eighth circle, plus **Poison Potions**, **Kindling**, **Wool**, **Bone**, empty **Bags** and **Trapped Pouches**
+- Trapped Pouches are pouches with Magic Trap on them. They come back out ready to use with **[Pouch**
+- Bags and trapped pouches have to be empty. Drop one on the rack to store it. Sweeping your backpack takes them too, but never takes the bag you set for withdrawals
+- New jump buttons go straight to a section: **Stock**, **Crafting**, or a scroll circle from **1** to **8**. They're at the bottom of the rack and at the top of the loadout editor
+- Item pictures are now centred in their rows, so tall ones like the harp no longer cover the names. See [Storage Rack](../custom-systems/storage-rack.md#what-it-holds)
