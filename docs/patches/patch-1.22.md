@@ -22,6 +22,7 @@ This patch...
 - The plant gump has a compact view. Click **Compact** in its top-right corner for a small card that still shows your plant's health, water and ailments, tells you in one line what it needs, and has every water, potion and harvest button. Click **Expand** to go back. Every plant opens the way you last left it. See [Gardening](../game-mechanics/gardening.md#compact-view)
 - A bowl of dirt no longer dries out before you plant a seed in it. Water a batch of bowls first and plant at your own pace. Soggy dirt still drains back to Just right
 - Beehives no longer overcount sweetened water. The hive gump could show more sweetened sources than water sources, and one sugared barrel gave the full +2 water bonus instead of +1
+- NPC vendors now take gold from your bank when you aren't carrying enough, whatever the price. It used to need a purchase of 2,000 gold or more
 - The Halloween lanterns are now blessed: the jack-o-lantern and grinning jack-o-lantern from the Reaper's Hollow Market, and the Lantern of Souls and Spectral Lantern from the Phantom Fleet Exchange. Ones you already own were blessed too
 
 ## 🪙 Coin Collecting
