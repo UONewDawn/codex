@@ -31,6 +31,7 @@ New Dawn builds on the classic Ultima Online foundation while introducing meanin
 - Recall charges inside a runebook don't require magery.
 - You can't recall in or out of dungeons, instead, there are exit gates spread around.
 - Spellbooks can only be crafted.
+- A failed craft doesn't use up all your materials. You keep half your metal, cloth and leather. Wood, granite and bone are ruined half the time, otherwise you keep a third. Stone blocks each have a 1 in 4 chance to crack. Reagents, gems and other consumables are still used up.
 - Runebooks can be blessed using [Codex fragments](../custom-systems/codex-rifts.md#codex-fragments) and [Codex Bindings](../skills/crafting/alchemy.md#codex-binding).
 - To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 - Instead of Dex penalty when wearing armor, you instead lose stamina when taking melee damage, based on the armor you're wearing.

@@ -186,6 +186,10 @@ Training Blacksmithy can be really expensive, consider Mining to fund the traini
 
 While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
+### Failed attempts
+
+If you fail, you keep half your ingots (rounded down), the same amount you'd get back by smelting the finished item.
+
 ## Related skills
 
 - [Mining](../resource-gathering/mining.md)

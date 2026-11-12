@@ -28,7 +28,9 @@ Slayers are magical bonuses on weapons and instruments that boost their power ag
 | **Super Slayer** | Hits _every_ creature in the entire group        | `Repond` - all humanoids  |
 | *Minor Slayer*   | Hits only a specific sub-family within the group | `Orc Slaying` - orcs only |
 
-A super slayer is always the stronger, broader option. Minor slayers cover a narrower roster.
+Super and minor slayers hit equally hard. A super slayer is the broader option: it covers the whole group, while a minor slayer covers a narrower roster.
+
+Smiths can also make temporary super slayer oils; see [Arcane Forge](../../custom-systems/arcane-forge.md#oil-or-a-real-slayer).
 
 ## Slayer Guide
 

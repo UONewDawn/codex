@@ -1,5 +1,5 @@
 ---
-description: "Parties on New Dawn: up to 40 members, invite permissions, shared fame and karma, corpse looting and party commands."
+description: "Parties on New Dawn: up to 40 members, invite permissions, passing the lead, merging parties, shared fame and karma, corpse looting and party commands."
 ---
 
 # Parties
@@ -11,6 +11,24 @@ Group up with friends to hunt, share fame and karma, and look after each other's
 - Parties can hold up to **40 members**
 - The leader can always invite. The leader can also give individual members permission to invite new players. Pending invites count toward the 40
 - The party window shows the names of members who are out of range
+
+## Passing the lead
+
+The leader can make anyone else the leader with the **Lead** button on that member's row in the party window. Everyone is told who leads now. The old leader keeps permission to invite.
+
+If the leader logs out, the party carries on. The lead goes to the longest-standing member the leader allowed to invite. If nobody can invite, it goes to the longest-standing member. A party of two still ends when either of you logs out.
+
+The leader's **Disband** button still breaks up the whole party.
+
+## Merging parties
+
+Two parties can join up without re-inviting everyone.
+
+1. The leader clicks **Merge** in the party window and targets anyone in the other party
+2. The other party's leader gets 30 seconds to accept
+3. Everyone in their party moves into yours at once. You stay the leader
+
+The merged party can't go over 40 members, counting your pending invites. Invites the other party had pending are cancelled. Members from the other party start without permission to invite, so give it back to anyone who should have it.
 
 ## Sharing fame and karma
 

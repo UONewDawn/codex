@@ -32,10 +32,11 @@ When you post a duel, you choose:
 
 | Option | Choices |
 |--------|---------|
-| Kind | **Casual** or **Ranked** |
-| Format | 1v1, 2v2 or 3v3 (casual only) |
-| Time limit | 5, 10 or 15 minutes (casual only) |
-| Rounds | Best of 1 or best of 3 (casual only) |
+| Kind | **Casual**, **Ranked** or **Custom** |
+| Format | 1v1, 2v2 or 3v3 (casual and custom) |
+| Time limit | 5, 10 or 15 minutes (casual and custom) |
+| Rounds | Best of 1 or best of 3 (casual and custom) |
+| Rules | Any mix of the custom rules below (custom only) |
 | Open to | Anyone, your guild, or one rival you pick |
 
 - For 2v2 and 3v3, **your party is your team** and must be exactly the right size. Whoever accepts brings their own party of the same size
@@ -44,6 +45,21 @@ When you post a duel, you choose:
 - When you post a challenge, players in Dawn and anyone who has dueled before get a message. Turn these alerts off with `[DuelAlerts`
 
 After every duel, both sides are offered a **rematch** with the same rules. It starts if everyone accepts within 30 seconds.
+
+### Custom rules
+
+A **Custom** duel is a casual duel with extra rules that you pick when you post it. Turn on as many as you like:
+
+| Rule | What it does |
+|------|--------------|
+| InstaHit | Equipping or unequipping a weapon doesn't reset your swing timer, so you can swap weapons and strike at once |
+| No potions | Nobody can drink or throw potions |
+| No bandages | Nobody can use bandages, on themselves or on a teammate |
+| No poisoning | The Poisoning skill is blocked, and poisoned weapons don't poison or use up charges. The Poison and Poison Field spells still work |
+
+- The rules show under the challenge on the board, so everyone knows them before accepting. They're repeated at the start of every round
+- The rules only apply to fighters still standing in that duel. They stop the moment you're knocked out or the duel ends
+- Custom duels count toward your record and duel achievements like casual duels. They never change your rating
 
 ## Who can duel
 

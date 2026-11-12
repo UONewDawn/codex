@@ -220,7 +220,7 @@ You can buy a Plant bowl from Provisioner NPCs.
 
 1. Fill the bowl with 5 Fertile dirt.
 
-2. Soften the dirt, two uses from a Pitcher of Water is enough.
+2. Soften the dirt, two uses from a Pitcher of Water is enough. The dirt stays soft until you plant, so you can water a whole batch of bowls first.
 
 3. Plant the seed.
 
@@ -253,6 +253,18 @@ The top of the gump shows:
 - **Next growth**: how long until it can grow again
 
 The **Help** button explains the whole care routine.
+
+### Compact view
+
+Click **Compact** in the top-right corner of the plant gump to switch to a smaller card. It leaves out the explanations but keeps everything you need for daily care:
+
+- The plant's name, stage, location, next growth and last growth
+- Health and water, with the **Water** button
+- The four ailments. One line under them lists what the plant needs before its next growth, such as "Needs: water, 1 Poison". It reads "Nothing needed" when the plant is fine
+- A **Pour** button for each potion, with how many doses are already in the plant
+- **Seeds**, **Help** and **Empty** buttons
+
+Click **Expand** to go back to the full gump. Your choice is saved, so every plant opens in the view you used last.
 
 ### Growth
 

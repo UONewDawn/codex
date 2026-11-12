@@ -95,3 +95,28 @@ A coating carries the same drawback as a real slayer. While you wield it, monste
 | Reptilian |            Arachnids             |
 
 Slayer oil only works on monsters. It has no effect on other players or on their pets and summons, in either direction: a coated weapon doesn't slay a tamer's dragon, and a summoned daemon doesn't hit you harder for the oil you carry.
+
+## Oil or a Real Slayer?
+
+A slayer oil and a real slayer weapon hit the same: double damage to every creature their slayer covers. What sets them apart is the weapon underneath and what each one costs you.
+
+| Your real slayer's damage | Hits next to an oiled vanquishing weapon |
+| :-----------------------: | :--------------------------------------: |
+|           Plain           |             about two thirds             |
+|           Ruin            |             about two thirds             |
+|           Might           |           about three quarters           |
+|           Force           |                about 85%                 |
+|           Power           |                about 90%                 |
+|        Vanquishing        |                 the same                 |
+
+The figures are for a katana. The lighter the weapon, the further a low-level slayer falls behind.
+
+**Reach for the oil** when you want a vanquishing weapon in your own skill to hit a whole slayer group, or when the slayer you need never dropped for you.
+
+**Keep your real slayer** because:
+
+- **It never runs out.** No charges, no gold per hit, no smith needed. A power or vanquishing slayer matches an oiled vanq for free.
+- **It works on pets and summons.** Oil ignores other players' creatures, but a real reptile slayer still hits a tamer's dragon for double, and an Exorcism or Elemental Ban blade does the same to summoned daemons and elementals.
+- **Its drawback works on them too.** Wield a real Arachnid Doom and a tamer's dragon hits you for double.
+
+Slayer instruments are not affected by oil at all.

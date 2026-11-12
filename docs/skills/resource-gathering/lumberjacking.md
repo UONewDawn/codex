@@ -31,6 +31,8 @@ You can purchase an axe from blacksmith or weaponsmith vendors.
 
 Double‑click the axe and then the tree until it's depleted.
 
+Every chop wears your axe down. An axe lasts 150 chops, or 300 if it's exceptional, and then it breaks. Once you've chopped with it, single-click the axe to see its condition: new, slightly worn, fairly worn, greatly worn or nearly broken.
+
 Specific trees will always yield the same type of wood.
 
 ## Axes damage bonus
