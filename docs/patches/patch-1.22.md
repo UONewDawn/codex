@@ -1,12 +1,12 @@
 ---
-description: "Patch notes for New Dawn server patch 1.22...."
+description: "Patch notes for New Dawn server patch 1.22. Highlights: faction helms and a new Rank 6 for Order vs. Chaos, Custom duels, failed crafts that no longer use up every material, passing the lead and merging parties, a bigger Storage Rack, rarer coins turning up more often, and a redesigned Interior Decorator and Constellation Ledger."
 ---
 
 # SERVER PATCH 1.22
 
-## November Xth, 2026
+## November 12th, 2026
 
-This patch...
+This patch adds faction helms and a new Rank 6 to Order vs. Chaos, brings Custom duels with rules you choose, and stops a failed craft from using up every material. Party leaders can pass the lead or merge two parties, the Storage Rack now holds every Magery scroll and more, and rarer coins turn up far more often. It also redesigns the Interior Decorator and the Constellation Ledger, adds a compact plant gump, and comes with a round of fixes and quality-of-life changes.
 
 ## 🛠️ Bug Fixes & Enhancements
 
