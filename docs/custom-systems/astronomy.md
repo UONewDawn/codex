@@ -78,6 +78,7 @@ Double-click the ledger at Willebrord's camp to browse every named constellation
 - **Search** finds constellations by name or by astronomer
 - Click a **column heading** to sort by it, and click it again to reverse the order. The ledger opens with the newest discoveries first
 - Your own constellations are shown in green
+- Charted dates are shown in US Central time
 - Click the **gem** beside a constellation to see it through the eyepiece, exactly as a telescope shows it at those coordinates. **Back** returns you to the same spot in the ledger
 
 ### Bloodrift Telescope
@@ -91,7 +92,7 @@ A telescope in the Bloodrift color. It works the same as a regular telescope.
 ## The rules of the sky
 
 - Each constellation can be claimed only once. Check the ledger before you chart!
-- Each account may claim **2 discoveries per week**. Each claim counts for 7 days, and Willebrord tells you how many days until you can claim again
+- Each account may claim **2 discoveries per week**. Each claim counts until midnight US Central time, 7 days after you hand it in, and Willebrord tells you how many days until you can claim again
 - The ledger shows how many of the 1000 constellations have been discovered so far
 
 Read *Looking to the Heavens: A Primer on Britannian Astronomy* at the camp to learn more. Clear skies, astronomers!
