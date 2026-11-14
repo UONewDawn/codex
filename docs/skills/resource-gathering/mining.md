@@ -303,7 +303,7 @@ When smelting anything above Copper, it's recommended to combine the ores into s
 
 ## Archaeology
 
-Mining is one of the skill required for Excavation in the Archaeology system, alongside with Item Identification.
+Mining is one of the skills used to excavate in the Archaeology system, alongside Item Identification. Breaking ground with the shovel needs Mining 70, and clearing rubble with the pick hammer needs Mining 80. Mining also raises your find chance by up to 30%.
 
 For more information visit the [Archaeology](../../custom-systems/archaeology.md) page.
 
