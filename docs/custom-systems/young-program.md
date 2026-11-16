@@ -14,6 +14,14 @@ Off the island you are an ordinary Felucca adventurer. Leaving doesn't end the p
 - **Extra accounts can opt in.** If you already have another account (accounts are matched by Discord), a new one starts as a normal account. You can join once, during its first **5 hours** of play, from the welcome screen or the `[young` menu.
 - **Transferred characters don't bring Young with them.**
 
+### Young belongs to your account
+
+Young is an account status, not a character one. Every character you make on a Young account is Young, and they share everything:
+
+- **One clock.** The 120 hours count your account's total play time, across all of its characters.
+- **One set of departures.** The three departures are shared. Two characters don't get three each.
+- **One ending.** When Young ends on any character, by PvP, a murder count, the fourth departure or renouncing, it ends on every character on the account. The same goes for any one character reaching 450 total skill.
+
 When you first log in, a welcome screen offers two paths:
 
 - **Young** gives you the protection and leaves you to it.
@@ -115,4 +123,4 @@ Finish all four to earn the title **Ocllo Graduate**.
 
 ## The Ocllo Sewer
 
-The sewer and the dungeon levels below it are open to everyone, and veterans may hunt there too. Protected Young players are still safe from them.
+The sewer and the dungeon levels below it are open to everyone, and veterans may hunt there too. Protected Young players are still safe from them. Like other dungeons it gives a skill gain bonus, and nobody, Young or not, can raise a skill above 80 inside it.
