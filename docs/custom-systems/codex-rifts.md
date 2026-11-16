@@ -44,6 +44,8 @@ You will find 8 Champion areas and one guarded zone with a bank, stable and some
 
 You have sixty minutes at your disposal, after which you will be teleported out to the Dawn Event Center.
 
+Recall, Mark and Gate Travel don't work inside the rift. Teleport does.
+
 The rift map gump shows the timer, and it also highlights active champs with a green dot.
 
 ## Rift Shards
