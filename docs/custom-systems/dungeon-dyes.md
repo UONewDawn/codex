@@ -41,7 +41,7 @@ The Tailor Dye Kit is used with Dungeon Dye Materials to craft dyes.
 
 To purchase one, you must first join the Tailor guild. You can join by using the command `[NPC name] join` and paying a fee of 5.000 gold to a Grandmaster Tailor NPC.
 
-Once you're a member, you can obtain the Tailor Dye Kit by giving 10.000 gold to a Grandmaster Tailor NPC.
+Once you're a member and have 100 Tailoring, you can obtain the Tailor Dye Kit by giving 10.000 gold to a Grandmaster Tailor NPC. Below 100 Tailoring the Grandmaster turns you away and keeps nothing.
 
 ## Craft a Dye Bottle
 
@@ -51,15 +51,17 @@ To add material, press **Pour in all material** to empty every dye material in y
 
 Crafting a bottle takes 100 of that dye's material and an empty bottle in your backpack. The bottle takes the dye's color, and single-clicking it shows the dye's name, who crafted it and the hue number.
 
-Double-click a dye bottle and target clothing, sandals, or a tribal, bear, deer, orcish kin, bone or orc mask in your backpack to dye it. Clothing a dye tub can't recolor, such as reward robes, shrouds and hoods, can't be dyed with a bottle either.
+Double-click a dye bottle and target clothing, sandals, or a tribal, savage, bear, deer, orcish kin, bone or orc mask in your backpack to dye it. Clothing a dye tub can't recolor, such as reward robes, shrouds and hoods, can't be dyed with a bottle either.
 
 ## Blends
 
 The **Blends** tab of the kit window lists 24 blends. Each one is made from two dungeon dyes: one gives the garment its dark body, the other the glint on its folds.
 
-To pour a blend, carry one bottle of each of its two dyes and press **Blend**. Both bottles are used up and you get one bottle of the blend. The window shows a robe and a mask in each blend's color, which of the two bottles you are carrying, and who poured it first on the shard.
+To pour a blend, carry one bottle of each of its two dyes and press **Blend**. The bottles can be anywhere in your backpack, including inside a pouch. Both bottles are used up and you get one bottle of the blend. The window shows a robe and a mask in each blend's color, which of the two bottles you are carrying, and who poured it first on the shard.
 
-After you pour a blend it needs 3 days to steep before you can pour another. That wait is shared by all of your characters. Crafting regular dungeon dyes is not limited.
+After you pour a blend it needs 3 days to steep before you can pour another. That wait is shared by every character on all of your accounts. Crafting regular dungeon dyes is not limited.
+
+The palette count in the kit window belongs to the character holding the kit. Each character keeps their own record of the blends they have poured, so pick one tailor to pour with if you are working towards all 24.
 
 | Blend | Body | Glint | Hue |
 |:-----:|:----:|:-----:|:---:|
@@ -92,7 +94,7 @@ Blends made with Judgment Blue are the rarest, because Ironweight Ore is the sca
 
 ## Achievements
 
-The **Crafting / Dungeon Dyes** achievement category tracks:
+Dye achievements are earned by each character separately. The **Crafting / Dungeon Dyes** achievement category tracks:
 
 - **Dyes of the Deep**: craft 1, 5, 10, 25 and 50 dungeon dye bottles. The last tier grants the title *Dungeon Dyer*
 - **Every Dungeon's Colour**: craft 3, 6 and all 10 different dungeon dyes. The last tier grants *Colourist of the Depths*
