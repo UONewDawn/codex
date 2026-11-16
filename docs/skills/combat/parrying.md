@@ -128,15 +128,16 @@ Each parry has a chance to bash equal to (Parrying + Anatomy) / 4 percent: 40% a
 
 ### What it does
 
-A shield bash throws off your attacker's next swing, breaks any spell they're casting, and stops them from walking or starting a new spell for a moment. They can still fight back, drink potions and bandage.
+A shield bash throws off your attacker's next swing, breaks any spell they're casting, and stops them from walking for a moment. A bashed monster or pet also can't start a new spell until it wears off, while a bashed player or boss can still cast. They can all still fight back, drink potions and bandage.
 
-It hits harder against monsters than against players:
+It hits harder against monsters than against players and bosses:
 
-|                                  | Monsters and pets |   Players   |
-| :------------------------------: | :---------------: | :---------: |
-|           Spell broken           |        Yes        |     Yes     |
-|   Can't walk or start a spell    |     3 seconds     | 1.5 seconds |
-| Can't be shield bashed again for |     8 seconds     | 12 seconds  |
+|                                  | Monsters and pets | Players and bosses |
+| :------------------------------: | :---------------: | :----------------: |
+|           Spell broken           |        Yes        |        Yes         |
+|            Can't walk            |     3 seconds     |    1.5 seconds     |
+|     Can't start a new spell      |     3 seconds     |   Can still cast   |
+| Can't be shield bashed again for |     8 seconds     |     8 seconds      |
 
 A player or boss who was just pinned, by a shield bash or an archer's snare, can't be pinned again until 8 seconds after they're free. A bash on them during that time still throws off their swing and breaks their spell.
 
@@ -144,14 +145,14 @@ A player or boss who was just pinned, by a shield bash or an archer's snare, can
 
 Heavier shields bash harder, but cost more stamina and take longer to recover.
 
-|                           Shield Type                           | Stamina | Recovery | Next swing delayed (monsters) | Next swing delayed (players) |
-| :-------------------------------------------------------------: | :-----: | :------: | :---------------------------: | :--------------------------: |
-|    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |   10    |    8s    |             1.25s             |            0.75s             |
-|     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |   10    |    8s    |             1.25s             |            0.75s             |
-| ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |   13    |   10s    |             1.7s              |             1.0s             |
-|     ![icon](../../assets/items/heater-shield.png)<br>Heater     |   16    |  11.75s  |             2.0s              |             1.2s             |
-|      ![icon](../../assets/items/order-shield.png)<br>Order      |   19    |  13.5s   |             2.4s              |             1.4s             |
-|      ![icon](../../assets/items/chaos-shield.png)<br>Chaos      |   20    |   14s    |             2.5s              |             1.5s             |
+|                           Shield Type                           | Stamina | Recovery | Next swing delayed (monsters) | Next swing delayed (players and bosses) |
+| :-------------------------------------------------------------: | :-----: | :------: | :---------------------------: | :-------------------------------------: |
+|    ![icon](../../assets/items/buckler-shield.png)<br>Buckler    |    5    |    8s    |             1.25s             |                  0.75s                  |
+|     ![icon](../../assets/items/wooden-shield.png)<br>Wooden     |    5    |    8s    |             1.25s             |                  0.75s                  |
+| ![icon](../../assets/items/metal-kite-shield.png)<br>Metal Kite |    7    |   10s    |             1.7s              |                  1.0s                   |
+|     ![icon](../../assets/items/heater-shield.png)<br>Heater     |    8    |  11.75s  |             2.0s              |                  1.2s                   |
+|      ![icon](../../assets/items/order-shield.png)<br>Order      |   10    |  13.5s   |             2.4s              |                  1.4s                   |
+|      ![icon](../../assets/items/chaos-shield.png)<br>Chaos      |   10    |   14s    |             2.5s              |                  1.5s                   |
 
 Bronze, Metal and Wooden Kite shields sit between the Buckler and the Metal Kite.
 
