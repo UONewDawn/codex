@@ -17,7 +17,7 @@ So, think of this guide as a handhold, not homework. Skim it, keep it open in a 
 
 ## Getting New Dawn installed
 
-If you need to install New Dawn, [jump over to the installation page](on-windows.md). There's a [Linux guide](on-linux.md) as well. Obviously if you've completed this step, you can skip it.
+If you need to install New Dawn, [jump over to the installation page](on-windows.md). The launcher works on Windows, Mac and Linux. Obviously if you've completed this step, you can skip it.
 
 ## A few basics before you dive in
 

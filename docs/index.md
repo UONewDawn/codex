@@ -27,7 +27,7 @@ We've found the sweet spot between tradition and evolution—more authentic than
 !!! tip "You don't need to read the whole Codex first"
     UO has never been a "read one page and you're ready" kind of game. Do these three things and you'll be playing within the hour, everything else can wait until you want it.
 
-1. **[Install the game](getting-started/on-windows.md)** — create an account, grab the launcher, and log in. There's a [Linux guide](getting-started/on-linux.md) too.
+1. **[Install the game](getting-started/on-windows.md)** — create an account, grab the launcher, and log in. It works on Windows, Mac and Linux.
 2. **[Read the New Player Guide](getting-started/new-player-guide.md)** — the basics, the Young Player Program, and a first character build that works.
 3. **[Say hello on Discord](https://discord.gg/AStx3wYAPj)** — no question is too small, and someone is almost always around to help.
 

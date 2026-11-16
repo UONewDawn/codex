@@ -105,8 +105,8 @@ nav:
     - Getting Started:
       - getting-started/index.md
       - Installation:
-          - On Windows: getting-started/on-windows.md
-          - On Linux: getting-started/on-linux.md
+          - Windows, Mac & Linux: getting-started/on-windows.md
+          - Razor on Mac & Linux: getting-started/on-linux.md
       - Client:
           - getting-started/client/index.md
           - Built-in Assistant: getting-started/built-in-assistant.md

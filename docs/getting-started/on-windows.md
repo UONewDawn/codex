@@ -1,10 +1,10 @@
 ---
-description: "Step-by-step guide to creating a New Dawn account, installing the launcher on Windows and logging in to the shard for the first time."
+description: "Step-by-step guide to creating a New Dawn account, installing the launcher on Windows, Mac or Linux and logging in to the shard for the first time."
 ---
 
 # Installation Guide
 
-Thanks for trying out New Dawn. Getting the game installed only takes a few minutes
+Thanks for trying out New Dawn. Getting the game installed only takes a few minutes. The launcher and the client both run on Windows, Mac and Linux, and the steps are the same on all three.
 
 ## How to Start Playing New Dawn
 
@@ -16,17 +16,11 @@ Thanks for trying out New Dawn. Getting the game installed only takes a few minu
 
 ### Step 2: Download The Launcher
 
-#### Windows
-
-1. Download & install the launcher from [https://portal.uonewdawn.com/getting-started](https://portal.uonewdawn.com/getting-started)
+1. Download & install the launcher for your system from [https://portal.uonewdawn.com/getting-started](https://portal.uonewdawn.com/getting-started)
 2. Let the launcher download game files (approximately 1.5GB)
 
 !!! info "Download Time"
     The initial download is about 1.5GB and may take some time depending on your connection speed.
-
-#### Linux
-
-If you're running Linux, head over to our [Linux installation guide](on-linux.md) to get going.
 
 ### Step 3: Authenticate Your Launcher
 
@@ -41,3 +35,10 @@ If you're running Linux, head over to our [Linux installation guide](on-linux.md
 3. Welcome to New Dawn!
 
 That's it. No separate client download to hunt for, no entering server names and ports, and no manual patching. If you hit a snag along the way, the [Discord](https://discord.gg/AStx3wYAPj) community is happy to help you get sorted.
+
+## Razor on Mac and Linux
+
+Razor is a Windows program. On Mac and Linux you have two choices:
+
+- **Use the [Built-in Assistant](built-in-assistant.md).** It's Razor rebuilt inside the client, with the same tabs, options and hotkeys. It's fully supported on Mac and Linux and needs no extra setup
+- **Run Razor itself.** This means running the game under Wine or in a Windows virtual machine. See [Razor on Mac & Linux](on-linux.md) for the old Wine steps
