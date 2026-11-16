@@ -40,32 +40,34 @@ Once inside, clear all the pirates, some may hide.
 
 When every pirate is defeated, the instance boss spawns.
 
-Defeating the boss awards Doubloons to all players who dealt damage. A reward chest also appears, and the player who activated the map receives its key.
+Defeating the boss awards Doubloons to every player still inside who dealt damage, including damage done by their pets and summons. A reward chest also appears, and the player who activated the map receives its key.
 
 You then have five minutes to loot before being teleported out.
 
 ### Difficulty
 
-The Multiplier boosts mob difficulty and improves the reward chest loot.
+The Multiplier boosts mob difficulty and improves the reward chest loot. Harder seas also pay a bigger boss purse. The map's difficulty window shows the purse before you open the gate.
 
-| Difficulty  | Multiplier |
-|-------------|------------|
-| Greenhorn   | 1.00x      |
-| Deckhand    | 1.04x      |
-| Swabbie     | 1.08x      |
-| Corsair     | 1.12x      |
-| Buccaneer   | 1.16x      |
-| Freebooter  | 1.20x      |
-| Privateer   | 1.24x      |
-| Marauder    | 1.28x      |
-| Dreadnought | 1.32x      |
-| Davy Jones  | 1.26x      |
+| Difficulty  | Multiplier | Boss purse |
+|-------------|------------|------------|
+| Greenhorn   | 1.00x      | 5          |
+| Deckhand    | 1.04x      | 5          |
+| Swabbie     | 1.08x      | 6          |
+| Corsair     | 1.12x      | 6          |
+| Buccaneer   | 1.16x      | 7          |
+| Freebooter  | 1.20x      | 7          |
+| Privateer   | 1.24x      | 8          |
+| Marauder    | 1.28x      | 8          |
+| Dreadnought | 1.32x      | 9          |
+| Davy Jones  | 1.36x      | 9          |
 
 ### Doubloons
 
-Each instance rewards 10 Doubloons and a player can earn a maximum of 5.
+When the boss falls, every player still inside who dealt damage gets the full boss purse from the table above, as long as the crew is 4 people or fewer. Bigger crews share 4 purses between them: a crew of 5 at Davy Jones gets 7 each, and a crew of 6 gets 6 each.
 
-There is also a chance of a bonus Doubloon being rewarded sometimes.
+The purse is paid once per person. If you bring several of your own characters, only the one that dealt the most damage is paid.
+
+Every pirate you defeat also has a small chance of giving a bonus Doubloon to each person who hurt it. Your pets' and summons' damage counts as yours, and you get one chance per pirate however many of your characters joined in.
 
 Doubloons can be exchanged for rewards, for more information visit the [Doubloons Store](../game-mechanics/currencies.md#doubloons-store) page.
 

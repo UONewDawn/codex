@@ -37,6 +37,17 @@ See [Dungeon Dyes](../custom-systems/dungeon-dyes.md#blends).
 
 See [Archaeology](../custom-systems/archaeology.md).
 
+## 🏴‍☠️ Pirate Adventures
+
+- The boss purse is now paid in full to every person in a crew of up to 4. It used to be 5 each for one or two players, then 10 split between everyone, so a crew of 3 got 3 each and a crew of 4 got 2 each
+- Harder seas now pay more: the purse goes from 5 Doubloons at Greenhorn to 9 at Davy Jones. Crews bigger than 4 share 4 purses, so 5 people at Davy Jones get 7 each
+- The map's difficulty window now shows the boss purse before you open the gate
+- The purse goes to players who dealt damage. It used to go to whoever got hit, so a player who never took a hit could leave with nothing
+- Your pets' and summons' damage now counts for you, both for the boss purse and for the bonus Doubloon chance on each pirate. Tamers used to miss out on those chances
+- Doubloons are paid once per person. If you bring several of your own characters, the one that dealt the most damage is paid
+
+See [Pirate Adventures](../custom-systems/pirate-adventures.md#doubloons).
+
 ## 🔭 Astronomy
 
 - Dates in the Constellation Ledger, the constellation view and on star charts are now shown in US Central time

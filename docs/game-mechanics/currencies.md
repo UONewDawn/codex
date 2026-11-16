@@ -157,7 +157,7 @@ Once a map is found, it must be cleaned with a Bottle of Vinegar by a Cartograph
 
 After the map is restored, double‑clicking it will open a gate that leads directly into the adventure instance. Inside, players have sixty minutes to clear the map and defeat its boss.
 
-Defeating the boss will award Doubloons.
+Defeating the boss pays each person in the crew a purse of 5 to 9 Doubloons, depending on the difficulty you pick, in full for crews of up to 4. Defeated pirates can also give a bonus Doubloon.
 
 For more information visit the [Pirate Adventures](../custom-systems/pirate-adventures.md) page.
 
