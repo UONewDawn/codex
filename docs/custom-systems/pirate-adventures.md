@@ -22,7 +22,7 @@ For more information visit the [Fishing](../skills/resource-gathering/fishing.md
 |:---------------------------------------------:|
 | ![icon](../assets/items/pirate-map-brown.png) |
 
-To restore a map, you need 90 Cartography and a Vinegar bottle, which drops from Brigands at Brigand Camps.
+To restore a map, you need 90 Cartography and a Vinegar bottle. Vinegar can turn up in the locked crate at a Brigand Camp, and Pirate Cooks and Pirate Bartenders inside the pirate instances usually carry one.
 
 Use the Vinegar bottle on the map, it will change color revealing which one of the four instances will be used.
 
@@ -32,7 +32,7 @@ Once restored, the map is ready to be activated and is consumed on use.
 
 Double‑click the restored map and choose the difficulty. A colored gate appears at your location, and you have one minute for you and your party to enter.
 
-You will have 60 or 90 minutes to complete the instance, depending on the type of instance.
+You will have 60 minutes to complete the instance.
 
 Throughout the map, you can find clocks matching the instance color, clicking them shows the remaining time and the number of pirates left.
 
