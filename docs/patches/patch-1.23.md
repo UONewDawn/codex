@@ -54,3 +54,14 @@ See [Pirate Adventures](../custom-systems/pirate-adventures.md#doubloons).
 - A used discovery claim now comes back at midnight US Central time, 7 days after you hand it in, instead of at the exact hour you handed it in
 
 See [Astronomy](../custom-systems/astronomy.md#the-rules-of-the-sky).
+
+## 🎯 Damage Numbers
+
+- A new **Damage** tab in Options, just under Combat/Spells. Pick the font of your damage numbers (Classic, Bold, Small, Outlined or Large outlined), how long they stay up (half a second to 4 seconds), and whether they fade out, scatter sideways or merge hits that land together into one number
+- Choose your own color for damage you take, damage your pets take, damage you deal and damage your pets deal. Everything starts out the way it always looked
+- New, off until you turn them on: heals show as **+12** over whoever was healed, misses show as **Miss**, a hit partly stopped by a shield shows as **12 blocked**, and spell, poison and bleed damage can each get their own color
+- Turn on the combat log to write each of your numbers to the journal's System tab, like "You hit a mongbat for 12."
+- Show DPS moved from Combat/Spells to the new Damage tab
+- You still only see numbers for your own fights and your pets'. Nobody sees anyone else's, party members included
+
+See [Damage Numbers](../getting-started/damage-numbers.md).
