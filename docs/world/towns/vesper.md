@@ -21,3 +21,7 @@ But life has returned to Vesper, after a fashion. A small fishing village now si
 Beneath the frozen surface, the old Vesper remains. Crumbling walls and broken bridges stand in the murky depths, silent monuments to everyone who couldn't escape. Explorers have braved those frigid waters over the years, swimming through flooded corridors in search of artifacts and forgotten knowledge. They report an eerie beauty in the ruins, treasure mixed with tragedy at every turn. But they also speak of something else, a presence in those lightless halls that makes even hardened divers uneasy.
 
 The sunken city's gates remain open to anyone bold enough to enter. What secrets old Vesper still guards, and what spirits might linger in its frozen depths, only the sea knows for certain.
+
+## Landfall
+
+Every Thanksgiving, the shore at Vesper is home to the Landfall camp, where pilgrims freed from the Lost Lands' prize ships are brought ashore. Many of their families came from Vesper before the war. See [Landfall](../../custom-systems/landfall.md).

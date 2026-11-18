@@ -55,6 +55,19 @@ See [Pirate Adventures](../custom-systems/pirate-adventures.md#doubloons).
 
 See [Astronomy](../custom-systems/astronomy.md#the-rules-of-the-sky).
 
+## 🦃 Thanksgiving: Landfall (November 20 – 30)
+
+- A century after the Lost Lands were sealed, pilgrim ships from Delucia and Papua have broken through the fog, and the Lost Lands' natives have taken them as prizes. Pick up a **Lookout's Horn** from Elder Mercy Thornbury at the new Landfall camp on the Vesper shore (X, Y), once a day, or fish one up in deep water, at most one a day. Blow it on any boat in deep water at least 150 tiles from the camp and a prize ship comes out of the fog
+- Three prize ships, each with its own crew and jailer: the **Ophidian** prize under Ssalith the Coil-Warden, the **Terathan** prize under Kruuth the Brood-Keeper, and the **Savage** prize under Chieftain Gorrum Redpaint. Every fight can be done solo, grows with each character aboard, and is for at most 3 characters
+- Kill the jailer, strike the pilgrims' shackles, and sail them home to the camp pier. Everyone who helped gets 4 maple tally sticks, once per person per landing, and your **first landing each day pays 10**. Prize ships never pin your boat
+- Each hold carries 4 to 6 pilgrims: families with their children, and people travelling alone. Everyone you bring home goes into the Elder's register with your name and the date. Open any entry to read the story of who they were in the Lost Lands and how they were taken
+- Every 50 souls landed across the shard adds a course to the camp's Thanksgiving table, and the camp and the pilgrims' story grow as families arrive. Spend 10 minutes at the table during the **Feast, November 26 to 29**, for a Landfall plate in pewter, silver or gold, depending on how full the shard laid the table
+- Spend maple tally sticks on pilgrim cloaks, hats and bonnets, dye tubs, runebook and dragon dyes, ship banners and ship stains, in four new Thanksgiving colors: sage harvest, cranberry glaze, roasted chestnut and autumn maple. The cloak is 110 tally sticks and a dye tub 120. See [Landfall](../custom-systems/landfall.md#maple-tally-sticks)
+- **Between ships, no boat needed:** the pilgrims' lost belongings turn up on kills and catches all over Felucca. Return them to Elder Thornbury to add a line to that family's story. She also has **camp work**: carry a family's letter to the kin they came to find, in the town their story names. Camp work pays 2 maple tally sticks a piece, for up to 3 pieces a day. See [Landfall](../custom-systems/landfall.md#between-ships-camp-work)
+- New **PvM / Landfall** achievements for each jailer, for pilgrims brought ashore, for camp work and for the Feast, with the titles Chainbreaker, Homebringer, Kinfinder and Feastgoer
+
+See [Landfall](../custom-systems/landfall.md).
+
 ## 🎯 Damage Numbers
 
 - A new **Damage** tab in Options, just under Combat/Spells. Pick the font of your damage numbers (Classic, Bold, Small, Outlined or Large outlined), how long they stay up (half a second to 4 seconds), and whether they fade out, scatter sideways or merge hits that land together into one number

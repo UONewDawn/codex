@@ -105,6 +105,14 @@ Halloween Candy is spent at the **Reaper's Hollow Market**.
 
 For more information visit the [Rift Seasons](../custom-systems/rift-seasons.md) page.
 
+## Maple Tally Sticks
+
+Tally sticks were how Britannia kept accounts before coin: a notch for every debt, split down the middle so each side kept half. A century behind the times, the Landfall pilgrims still use them. Each time you sail freed pilgrims home to the Landfall camp at Vesper, up to 3 people who helped and are still aboard get 4 in their backpack, once per person for each landing, and your first landing each day pays 6 more. Camp work, which means returning the pilgrims' lost belongings and carrying their letters to kin, pays 2 a piece for up to 3 pieces a day. They aren't blessed.
+
+Spend them with **Elder Mercy Thornbury** at the Landfall camp.
+
+For more information visit the [Landfall](../custom-systems/landfall.md#maple-tally-sticks) page.
+
 ## Soul Coins
 
 Soul Coins are dropped by the bosses of the Phantom Fleet, the haunted ships called up with Phantom Fleet charts during the Halloween Rift Season. Each boss drops 8 to 12.
