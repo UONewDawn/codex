@@ -8,6 +8,8 @@ description: "Patch notes for New Dawn server patch 1.23. Highlights: the Thanks
 
 This patch brings Landfall, a Thanksgiving sea event, and the Settler's Ledger for new players. It also adds dungeon dye blends, a rework of archaeology digs, damage numbers you can customize, and a few changes to CTF.
 
+❗**This patch comes with a required client update to 2.2. Older clients can no longer connect. Close the client, restart the launcher, and let it update.**❗
+
 ## 🛠️ Bug Fixes & Enhancements
 
 - Several New Dawn gumps now use an easier-to-read font instead of the wide, blocky one
@@ -41,7 +43,7 @@ See [Landfall](../custom-systems/landfall.md).
 - New players get a **Settler's Ledger**, one per person. Each visit at least 18 hours after your last stamp inks the next one, up to 14, and missing a day never costs you anything
 - On your first day, choose an order from the Ocllo quartermaster (Swordsman, Mage, Crafter or Ranger). It arrives at your bank with 2,000 gold and supplies
 - Gifts at stamps 2, 3, 5, 7, 10 and 14 include the titles **Settler** and **Homesteader**, a cloak, a globe, a lantern and gold. Type `[ledger` to see your stamps
-- Updated the new welcome screen shows to newcomers what the server has to offer
+- The welcome screen for newcomers has been updated to show what the server has to offer
 - Young characters now always start on Ocllo, whichever city you pick
 
 See [Young Player Program](../custom-systems/young-program.md#the-settlers-ledger).
@@ -63,7 +65,7 @@ See [Dungeon Dyes](../custom-systems/dungeon-dyes.md#blends).
 - Every finished dig turns something up: mostly war-layer spoil, about one in 5 a town's notable piece, one in 28 a rare, and one in 400 a legendary find the whole shard hears about
 - The five ruins are equally likely now, so Yew digs are no longer rare. Dig sites no longer fall inside walls, houses or water
 - Within 5 tiles of the site, your tool tells you which way to go. If your pack is full, the find goes to your bank
-- New skill needs: Mining 70 for the shovel, Mining 80 for the pick hammer and Item Identification 70 for the brush. Tools use a charge per stage instead of per swing, so a bag of tools lasts about 200 digs
+- Same skill needs: Mining 70 for the shovel, Mining 80 for the pick hammer and Item Identification 70 for the brush. Tools use a charge per stage instead of per swing, so a bag of tools lasts about 200 digs
 - New: the **Field Register**, 50,000 gp from Provisioners, to record one of every find, plus **Collections / Archaeology** achievements and titles
 
 See [Archaeology](../custom-systems/archaeology.md).
@@ -75,6 +77,22 @@ See [Archaeology](../custom-systems/archaeology.md).
 - Doubloons are paid once per person. If you bring several of your own characters, the one that did the most damage is paid
 
 See [Pirate Adventures](../custom-systems/pirate-adventures.md#doubloons).
+
+## 🖥️ New Dawn Client 2.2
+
+- Your target now gets a soft ring under its feet and a small arrow over its head, in its notoriety color, instead of the old bracket markers. The ring is also its health bar: green, then yellow, then red, and purple when poisoned. Turn it on or off with "Show target ring and arrow" in Options
+- The Assistant's Next, Previous, Closest, Random and Set Last Target mark the target with the ring too
+- A new **Clear Target Indicators** macro and Assistant hotkey hides the health bars the client keeps under your last targets. Double-clicking yourself no longer puts a bar under your own feet
+- Options > Video > Zoom smoothing now lets you pick xBR Sharp, xBR Smooth or Sharp bilinear. xBR Smooth has an edge softness slider and can also smooth at normal zoom
+- Walking on a moving boat is smooth instead of jerky
+- The seabed and anything swimming under translucent water show through it again
+- A ridden llama keeps its two-tone coat
+- New Assistant hotkeys: **Stop Current Macro** and **Pause/Resume Current Macro**. Pressing a stop hotkey while recording now records it, so playback stops there
+- The Assistant's buy agent always buys its whole list, since vendors take what you're short from your bank. The "Buy agents ignore player gold" option is gone
+- Target by Type on a creature no longer mixes it up with an item that has the same number. A llama used to show as "stone wall"
+- The Assistant window is fully solid at 100% opacity
+- Razor is updated to 1.10.2.0, which fixes a crash when reading some gumps
+- If you have graphics trouble on Windows, `force_driver` 3 or 4 in `settings.json` now forces Direct3D 11 or Direct3D 12
 
 ## 🎯 Damage Numbers
 
