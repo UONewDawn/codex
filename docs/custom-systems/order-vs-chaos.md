@@ -187,7 +187,7 @@ The war is fought in monthly seasons.
 
 - Season score comes from outposts held (every minute counts, and a Shrine of War counts double), trophy points turned in, and [War Call](#war-calls) victories, including wins by forfeit
 - The winning faction earns +10% War Tokens for the whole next month, and its victory banner flies at its home
-- **Underdog bonus:** a faction more than 25% behind in score gets +15% War Tokens, and breaks enemy fortifications 25% faster, until it closes the gap
+- **Underdog bonus:** a faction more than 25% behind in score gets +15% War Tokens, and breaks enemy fortifications 25% faster. Once it starts, it lasts until the gap closes to 20%. It does not last until the scores are even
 - Weekly standings are posted every Monday
 - The top three players on each side are named Champions of the Season
 

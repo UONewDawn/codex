@@ -1,10 +1,17 @@
 ---
-description: "How to install and play New Dawn on Linux with Wine, tested on Ubuntu and Debian, including the automated setup script."
+description: "Only needed to run Razor on Mac or Linux: the old Wine setup for New Dawn, tested on Ubuntu and Debian, including the automated setup script."
 ---
 
-# Linux Installation Guide
+# Razor on Mac & Linux
 
-These steps have been tested on Ubuntu and Debian.
+!!! tip "You probably don't need this page"
+    The launcher and the client now run natively on Windows, Mac and Linux. To play, just follow the [Installation Guide](on-windows.md) and install the launcher from [https://portal.uonewdawn.com/getting-started](https://portal.uonewdawn.com/getting-started).
+
+    If you want Razor's features, the [Built-in Assistant](built-in-assistant.md) has them. It's Razor rebuilt inside the client, and it's fully supported on Mac and Linux with no extra setup.
+
+    The steps below are only for players who want to run Razor itself on Mac or Linux. Razor is a Windows program, so it needs Wine or a Windows virtual machine. They're kept here for reference.
+
+These steps have been tested on Ubuntu and Debian. On a Mac, you'll need your own Wine setup or a Windows virtual machine; the commands below are for Ubuntu and Debian.
 
 !!! warning
     Many distros offer outdated versions of Wine that don't have the right tools for handling ClickOnce applications.

@@ -17,3 +17,7 @@ To this day, the unknown lingers over Delucia and Papua, cloaking their existenc
 Legends and speculations circulate, passed down through whispers and fragmented accounts. Some speak of these towns as ethereal sanctuaries, existing within a realm unseen, untouched by the mortal world. Others weave tales of their inhabitants being trapped within an uncharted dimension, forever separated from the realm of Britannia.
 
 Delucia and Papua now stand as ethereal vestiges, their streets and structures veiled in the mists of the unknown. Their fate serves as a stark reminder of the consequences that accompany the destruction of ancient wisdom and the disruption of sacred magic. As time flows onward, the destiny of those in Delucia and Papua remains a lingering question mark, waiting to be unraveled by the curious minds daring enough to venture into the realms of uncertainty and seek the truth that lies within.
+
+## Landfall
+
+A century after the Codex was destroyed, the fog wall on the Lost Lands' sea wore thin, and pilgrim ships from Delucia and Papua sailed out of it. Most were taken as prizes at the fog's edge by the Lost Lands' natives. Those freed by Britannian sailors have been brought ashore at the Landfall camp in Vesper. See [Landfall](../../custom-systems/landfall.md).

@@ -1,5 +1,5 @@
 ---
-description: "Start playing New Dawn: install the game on Windows or Linux, set up the client, join the Young Player Program and pick your first build."
+description: "Start playing New Dawn: install the game on Windows, Mac or Linux, set up the client, join the Young Player Program and pick your first build."
 hide:
   - toc
 ---
@@ -10,28 +10,28 @@ New to New Dawn, or coming back to UO after a long break? Start here. Install th
 
 !!! tip "The short version"
     1. Create an account on the [Game Portal](https://portal.uonewdawn.com/) and [install the game](on-windows.md).
-    2. Log in and type `[young` to join the [Young Player Program](../custom-systems/young-program.md). You'll be teleported to Ocllo.
+    2. Make your first character. Your first account is in the [Young Player Program](../custom-systems/young-program.md) automatically, and Young characters start on Ocllo. Open your Settler's Ledger and choose your order. It's waiting at the bank when you come back.
     3. Read the [New Player Guide](new-player-guide.md) and get your first character going.
 
 ## Installation
 
 <div class="grid cards" markdown>
 
--   :fontawesome-brands-windows:{ .lg .middle } __On Windows__
+-   :material-download:{ .lg .middle } __Windows, Mac & Linux__
 
     ---
 
-    Create your account, download the launcher, and log in. Takes a few minutes.
+    Create your account, download the launcher, and log in. Same steps on every platform, and it takes a few minutes.
 
-    [:octicons-arrow-right-24: Windows Installation](on-windows.md)
+    [:octicons-arrow-right-24: Installation Guide](on-windows.md)
 
--   :fontawesome-brands-linux:{ .lg .middle } __On Linux__
+-   :fontawesome-brands-linux:{ .lg .middle } __Razor on Mac & Linux__
 
     ---
 
-    Run the game under Wine. Tested on Ubuntu and Debian.
+    Only if you want Razor itself rather than the built-in assistant. Runs under Wine or a Windows VM.
 
-    [:octicons-arrow-right-24: Linux Installation](on-linux.md)
+    [:octicons-arrow-right-24: Razor on Mac & Linux](on-linux.md)
 
 </div>
 

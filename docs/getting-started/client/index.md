@@ -1,5 +1,5 @@
 ---
-description: "The New Dawn ClassicUO client: a built-in Razor assistant, custom item art and gump replacements, and downloadable custom packs."
+description: "The New Dawn ClassicUO client: a built-in Razor assistant, custom item art and gump replacements, downloadable custom packs, and damage number options."
 hide:
   - toc
 ---
@@ -33,5 +33,13 @@ The New Dawn client is ClassicUO, built for this shard. On top of the client you
     Don't want to make your own? Download ready-made packs of reagents, bags, spell icons and more.
 
     [:octicons-arrow-right-24: Custom Packs](../custom-packs.md)
+
+-   :material-sword-cross:{ .lg .middle } __Damage Numbers__
+
+    ---
+
+    Choose the font, colors and timing of your damage numbers, and turn on heals, misses, shield blocks and a combat log.
+
+    [:octicons-arrow-right-24: Damage Numbers](../damage-numbers.md)
 
 </div>

@@ -144,11 +144,17 @@ Fight 1v1, 2v2 or 3v3 in the pits of Dawn, with nothing lost and nobody killed. 
 
 For more information visit the [Dueling](dueling.md) page.
 
+## [Thanksgiving: Landfall](landfall.md)
+
+Pilgrim ships have broken out of the Lost Lands, and its natives have taken them as prizes. Every Thanksgiving, blow a Lookout's Horn in deep water, free the pilgrims chained below decks, and sail them home to the camp at Vesper to fill the Thanksgiving table.
+
+For more information visit the [Landfall](landfall.md) page.
+
 ## [Sea Encounters](sea-encounters.md)
 
 Fish long enough from your boat in Felucca's deep water and a ship will come out of the fog to meet you: pirate raiders, a fishing boat in distress, a derelict or a ghost ship. Board her, clear the deck, and claim what's in the hold.
 
-During the Halloween Rift Season, Phantom Fleet charts call up four haunted ships whose bosses drop Soul Coins.
+During the Halloween Rift Season, Phantom Fleet charts call up four haunted ships whose bosses drop Soul Coins. During Landfall, at Thanksgiving, Lookout's Horns call up Lost Lands prize ships with pilgrims chained in the hold.
 
 For more information visit the [Sea Encounters](sea-encounters.md) page.
 

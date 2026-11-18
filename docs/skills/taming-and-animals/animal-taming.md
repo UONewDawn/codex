@@ -109,6 +109,13 @@ The coordinates show only the general spawn areas, not exact locations.
 - Temple island, Coordinates 2493, 3590.
 - Hedge Maze, Coordinates 1146, 2215.
 
+## Pets in a fight
+
+- A pet set to follow (`all follow`) ignores attacks and keeps following you. It won't fight back, even when hit
+- A pet set to guard (`all guard`) attacks whatever attacks you or the pet. A pet that is stopped or staying still defends itself
+- After a kill ordered with `all kill`, a following pet goes back to following, and a guarding pet moves on to the next attacker
+- Pets never attack your [party](../../game-mechanics/parties.md) members or their pets by themselves. They only do it if you order `all kill` on that player
+
 ## Bonding
 
 All players start with one bond slot. Feed the pet you want to bond, after the message "You begin bonding with your pet." appears, stable the pet for 24 hours and then feed it again to bond it.

@@ -83,6 +83,14 @@ Creatures in the Halloween [rifts](rift-seasons.md) sometimes drop a **Phantom F
 
 Each Phantom Fleet boss drops 8 to 12 [Soul Coins](../game-mechanics/currencies.md#soul-coins). Spend them with Mortlake the wreck warden at the Phantom Fleet Exchange on lanterns, grim decorations, and ship flags and stains in each haunted ship's colors.
 
+## 🦃 Thanksgiving: Landfall
+
+From November 20 to 30, pilgrim ships out of the Lost Lands sail the deep water, taken as prizes by ophidians, terathans and savages. Call one with a **Lookout's Horn**, free the pilgrims chained in her hold, and sail them home to the Landfall camp at Vesper for **maple tally sticks**.
+
+- While Landfall runs, fishing deep water can also bring a prize ship, on top of the usual ships. The usual ships still come as often as before
+- Prize ships are a fight for 1 to 3 characters, and they never pin your boat
+- See [Landfall](landfall.md) for the ships, their jailers and the Thanksgiving Feast
+
 ## Related pages
 
 - [Fishing](../skills/resource-gathering/fishing.md)
@@ -90,3 +98,4 @@ Each Phantom Fleet boss drops 8 to 12 [Soul Coins](../game-mechanics/currencies.
 - [Soul Coins](../game-mechanics/currencies.md#soul-coins)
 - [Ship Holds](ship-holds.md)
 - [Pirate Adventures](pirate-adventures.md)
+- [Landfall](landfall.md)

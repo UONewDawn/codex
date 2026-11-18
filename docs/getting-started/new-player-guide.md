@@ -12,12 +12,12 @@ So, think of this guide as a handhold, not homework. Skim it, keep it open in a 
 
 !!! tip "The short version"
     1. [Install the game](on-windows.md), create your character, and log in.
-    2. Type `[young` to join the [Young Player Program](#the-young-player-program). You'll be teleported to Ocllo (if you didn't pick it as your starting town)
+    2. Make your first character. Your first account is in the [Young Player Program](#the-young-player-program) automatically, and Young characters start on Ocllo. Open your Settler's Ledger and choose your order. It's waiting at the bank when you come back.
     3. Stay in Ocllo, train in the [sewers](#the-ocllo-sewer), and build toward the [Provo Dexxer](#picking-your-first-build-the-provo-dexxer).
 
 ## Getting New Dawn installed
 
-If you need to install New Dawn, [jump over to the installation page](on-windows.md). There's a [Linux guide](on-linux.md) as well. Obviously if you've completed this step, you can skip it.
+If you need to install New Dawn, [jump over to the installation page](on-windows.md). The launcher works on Windows, Mac and Linux. Obviously if you've completed this step, you can skip it.
 
 ## A few basics before you dive in
 
@@ -36,7 +36,7 @@ Here are some quick things that'll help right away. You'll pick up plenty more a
 
 ### Skills and training
 
-- Dungeons have a 50% skill gain boost, except for crafting skills.
+- Dungeons have a 50% skill gain boost for combat, magic, bard, healing, taming and most thief skills. Crafting, gathering, snooping and stealing get no boost.
 - When you set a skill pointing down it will decrease at the same time as you gain on a skill pointing up. You don't have to wait until you're at your skill cap to lower a skill.
 - Most skills can be trained to around 50 at an NPC trainer. See the [Ocllo Skill Trainers](trainers.md) page for who to visit and where they stand.
 
@@ -57,24 +57,31 @@ For more information visit the [What's Different](whats-different.md) page.
 
 If you're newer to the server, this is the first thing worth knowing about. It's designed to give you breathing room while you learn the ropes.
 
-Type `[young` in game to join. Each account qualifies as long as it has under 120 hours of playtime.
+**Your first account is Young automatically** when you make its first character. Extra accounts (matched by Discord) start as normal accounts, but each can opt in once during its first 5 hours of play, from the welcome screen or the `[young` menu.
 
-Upon entering the program you will be teleported to Ocllo.
+Young belongs to the **account**, not the character. Every character you make on it is Young, the 120 hours count across all of them, and if Young ends on one character it ends on all of them.
 
-**Here's what you get as a Young player:**
+Your protection is active while you're on **Ocllo Island**, and Young characters start there. An extra account that opts in later isn't moved to Ocllo, so use Way Home from the `[young` menu.
+
+Your first account also gets a [Settler's Ledger](../custom-systems/young-program.md#the-settlers-ledger): come back at least 18 hours after your last visit to ink a stamp, with gifts at 2, 3, 5, 7, 10 and 14 stamps.
+
+**Here's what you get while you're protected on Ocllo:**
 
 - No item loss on death. All your gear stays in your backpack.
-- Auto-teleport to a safe healer when you die.
-- Monsters won't attack you unprovoked while you're in Ocllo.
+- Auto-teleport to the Ocllo healer when you die.
+- Monsters won't attack you unprovoked.
+- Other players can't harm you or steal from you.
 - Poison immunity and instant logout, no delay.
-- You can't be stolen from by other players.
-- Access to the Ocllo Sewer for some easy early training.
+
+Your skills can't rise past 80 while you're on Ocllo. Head out into the world to master them.
 
 !!! warning "How you lose Young status"
-    - Leaving Ocllo. You can rejoin the program a set number of times, so be careful.
+    - Your account reaches 120 hours of play.
+    - Any one character reaches 450 total skill.
+    - Any PvP, even fighting back, a duel or Capture the Flag.
     - Committing a murder.
-    - Reaching 450 total skill.
-    - Raising a craft skill past 80.
+    - Leaving Ocllo a fourth time. Each departure only pauses your protection, and you get three.
+    - Renouncing it.
 
 Full details live on the [Young Player Program](../custom-systems/young-program.md) page.
 
@@ -96,7 +103,7 @@ You should go here every chance you get to stock up on bandages.
 
 ### The Ocllo Sewer
 
-While you're Young, you'll get a 50% skill gain bonus inside [this dungeon](../world/dungeons/occlo-sewers.md), though you won't be able to raise any skill above 80 there.
+[This dungeon](../world/dungeons/occlo-sewers.md) has the usual dungeon skill gain bonus. Nobody can raise a skill above 80 inside it, Young or not.
 
 These are the entrances:
 

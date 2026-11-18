@@ -105,13 +105,14 @@ nav:
     - Getting Started:
       - getting-started/index.md
       - Installation:
-          - On Windows: getting-started/on-windows.md
-          - On Linux: getting-started/on-linux.md
+          - Windows, Mac & Linux: getting-started/on-windows.md
+          - Razor on Mac & Linux: getting-started/on-linux.md
       - Client:
           - getting-started/client/index.md
           - Built-in Assistant: getting-started/built-in-assistant.md
           - Custom Art, Gumps & Themes: getting-started/client-customizations.md
           - Custom Packs: getting-started/custom-packs.md
+          - Damage Numbers: getting-started/damage-numbers.md
       - New Player Guide: getting-started/new-player-guide.md
       - What's Different: getting-started/whats-different.md
       - Trainers: getting-started/trainers.md
@@ -248,6 +249,7 @@ nav:
     - Coin Collecting: custom-systems/coin-collecting.md
     - Dungeon Dyes: custom-systems/dungeon-dyes.md
     - Dungeon of the Week: custom-systems/dotw.md
+    - Landfall: custom-systems/landfall.md
     - Market Stalls: custom-systems/market-stalls.md
     - Moongate Runes: custom-systems/moongate-runes.md
     - Order vs. Chaos: custom-systems/order-vs-chaos.md

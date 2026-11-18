@@ -105,6 +105,14 @@ Halloween Candy is spent at the **Reaper's Hollow Market**.
 
 For more information visit the [Rift Seasons](../custom-systems/rift-seasons.md) page.
 
+## Maple Tally Sticks
+
+Tally sticks were how Britannia kept accounts before coin: a notch for every debt, split down the middle so each side kept half. A century behind the times, the Landfall pilgrims still use them. Each time you sail freed pilgrims home to the Landfall camp at Vesper, up to 3 people who helped and are still aboard get 4 in their backpack, once per person for each landing, and your first landing each day pays 6 more. Camp work, which means returning the pilgrims' lost belongings and carrying their letters to kin, pays 2 a piece for up to 3 pieces a day. They aren't blessed.
+
+Spend them with **Elder Mercy Thornbury** at the Landfall camp.
+
+For more information visit the [Landfall](../custom-systems/landfall.md#maple-tally-sticks) page.
+
 ## Soul Coins
 
 Soul Coins are dropped by the bosses of the Phantom Fleet, the haunted ships called up with Phantom Fleet charts during the Halloween Rift Season. Each boss drops 8 to 12.
@@ -157,7 +165,7 @@ Once a map is found, it must be cleaned with a Bottle of Vinegar by a Cartograph
 
 After the map is restored, double‑clicking it will open a gate that leads directly into the adventure instance. Inside, players have sixty minutes to clear the map and defeat its boss.
 
-Defeating the boss will award Doubloons.
+Defeating the boss pays each person in the crew a purse of 5 to 9 Doubloons, depending on the difficulty you pick, in full for crews of up to 4. Defeated pirates can also give a bonus Doubloon.
 
 For more information visit the [Pirate Adventures](../custom-systems/pirate-adventures.md) page.
 

@@ -123,4 +123,5 @@ There's no reason to create a brand new help guide. This assistant, as mentioned
 
 - [Custom Art, Gumps & Themes](client-customizations.md)
 - [Patch 1.18](../patches/patch-1.18.md)
-- Installation on [Windows](on-windows.md) or [Linux](on-linux.md)
+- [Installation Guide](on-windows.md)
+- [Razor on Mac & Linux](on-linux.md)
