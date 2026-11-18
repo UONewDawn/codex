@@ -24,6 +24,7 @@ New Dawn builds on the classic Ultima Online foundation while introducing meanin
 
 - Horses can be tamed regardless of skill.
 - All players start with one bond slot. It takes 24 hours to bond a pet. Bonded pets can recall with you. Tamers can acquire more slots with the [Animal Bonding Quest](../custom-systems/animal-bonding-quest.md).
+- Pets set to follow ignore attacks and keep following, and pets never attack your party members by themselves. See [Animal Taming](../skills/taming-and-animals/animal-taming.md#pets-in-a-fight).
 - You can resurrect your dead pet at any stable. Single‑click the Veterinarian NPC and select "Resurrect Pet."
 - There's no light filter, so the world looks (and feels) properly dark at night. Don't worry, you will get used to it in no time, you can buy Nightsight potions or use the Night Sight spell, they will last a long time.
 - Dungeons have a 50% skill boost gain, except for crafting skills.

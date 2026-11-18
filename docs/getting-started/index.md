@@ -10,7 +10,7 @@ New to New Dawn, or coming back to UO after a long break? Start here. Install th
 
 !!! tip "The short version"
     1. Create an account on the [Game Portal](https://portal.uonewdawn.com/) and [install the game](on-windows.md).
-    2. Make your first character in Ocllo. Your first account is in the [Young Player Program](../custom-systems/young-program.md) automatically. If you started somewhere else, use Way Home from the `[young` menu to get to Ocllo.
+    2. Make your first character. Your first account is in the [Young Player Program](../custom-systems/young-program.md) automatically, and Young characters start on Ocllo. Open your Settler's Ledger and choose your order. It's waiting at the bank when you come back.
     3. Read the [New Player Guide](new-player-guide.md) and get your first character going.
 
 ## Installation

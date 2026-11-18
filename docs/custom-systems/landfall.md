@@ -33,11 +33,11 @@ Fishers can also meet prize ships the ordinary way, by fishing deep water long e
 
 ## The prize ships
 
-| Ship | Deck crew | Jailer |
-|---|---|---|
-| **Ophidian prize** (Papuan pilgrims) | Ophidian Corsairs and a Tidecaller | **Ssalith the Coil-Warden** |
-| **Terathan prize** (Delucian pilgrims) | Terathan Grapplers and a Spitter | **Kruuth the Brood-Keeper** |
-| **Savage prize** (families from all over) | Savage Reavers and a Drummer | **Chieftain Gorrum Redpaint** |
+| Ship                                      | Deck crew                          | Jailer                        |
+| ----------------------------------------- | ---------------------------------- | ----------------------------- |
+| **Ophidian prize** (Papuan pilgrims)      | Ophidian Corsairs and a Tidecaller | **Ssalith the Coil-Warden**   |
+| **Terathan prize** (Delucian pilgrims)    | Terathan Grapplers and a Spitter   | **Kruuth the Brood-Keeper**   |
+| **Savage prize** (families from all over) | Savage Reavers and a Drummer       | **Chieftain Gorrum Redpaint** |
 
 ### Deck crew
 
@@ -82,7 +82,7 @@ Everyone who brought a family home and was still aboard at the pier is named in 
 
 ### The camp
 
-The camp grows as families land, and every 50 souls another course appears on the long table. Each landing, one of the settlers takes the name of someone you just brought ashore, so you can walk up from the pier and find them. The whole shard is told when the table reaches 6 courses and again when it's full. The story is told over the whole event: chapter 2 opens on November 22, chapter 3 on November 26 and the last, *The Last Ships*, when the Feast closes on November 30, the last day to bring ships home. If enough souls land across the shard, chapters 2 and 3 open a little sooner.
+The camp grows as families land, and every 50 souls another course appears on the long table. Each landing, one of the settlers takes the name of someone you just brought ashore, so you can walk up from the pier and find them. The whole shard is told when the table reaches 6 courses and again when it's full. The story is told over the whole event: chapter 2 opens on November 22, chapter 3 on November 26 and the last, _The Last Ships_, when the Feast closes on November 30, the last day to bring ships home. If enough souls land across the shard, chapters 2 and 3 open a little sooner.
 
 ## Between ships: camp work
 
@@ -90,25 +90,25 @@ You don't need a boat for these, and they fill the time between prize ships. Bot
 
 ### Lost belongings
 
-The captors stripped the pilgrims' bundles and threw what they didn't want overboard, and now it's turning up across Felucca. Any creature you kill, and any cast you fish, from a boat or the shore, can turn up something like *a sodden rag doll*. Single-click it to see the family name scratched into it.
+The captors stripped the pilgrims' bundles and threw what they didn't want overboard, and now it's turning up across Felucca. Any creature you kill, and any cast you fish, from a boat or the shore, can turn up something like _a sodden rag doll_. Single-click it to see the family name scratched into it.
 
-Drag it onto **Elder Thornbury**. She tells you whose it was and who brought them home, and the family's register entry gets a line: *Returned: a sodden rag doll, found by you.* Belongings only belong to families already landed this year, so none turn up until the first ships come home. Each family gets one thing back. A belonging falls apart a day after it's found, so don't sit on it, and any left over crumble when Landfall ends.
+Drag it onto **Elder Thornbury**. She tells you whose it was and who brought them home, and the family's register entry gets a line: _Returned: a sodden rag doll, found by you._ Belongings only belong to families already landed this year, so none turn up until the first ships come home. Each family gets one thing back. A belonging falls apart a day after it's found, so don't sit on it, and any left over crumble when Landfall ends.
 
 ### Letters to kin
 
 Every family's story says who they hope to find in Britannia: an inn near Trinsic, the healers of Moonglow, a cousin in the New Minoc mines. Open the ledger and choose **Camp work**, and the Elder gives you a letter from a family landed this year, from one you brought home if there is one. Single-click the letter to see where it goes.
 
-Double-click the letter and target any shopkeeper in that town. They read it and tell you what became of the kin, and the family's entry gets a closing line, for example: *Found the cousins who keep an inn at Trinsic. Letter carried by you.* You carry one letter at a time, and it lapses after two hours.
+Double-click the letter and target any shopkeeper in that town. They read it and tell you what became of the kin, and the family's entry gets a closing line, for example: _Found the cousins who keep an inn at Trinsic. Letter carried by you._ You carry one letter at a time, and it lapses after two hours.
 
 ## The Feast
 
 From **November 26 to 29**, the long table is set for the Feast. Stand or sit at the table and you're told when you start to count. Spend 10 minutes there and Elder Thornbury gives you a **Landfall plate**, one per person, placed in your bank box, and names you and the family you brought home to the whole table. The plate's metal depends on how full the table was when the Feast began, so everyone at the same Feast gets the same plate. Bring families home before the 26th:
 
-| Courses laid | Plate |
-|---|---|
+| Courses laid | Plate  |
+| ------------ | ------ |
 | Fewer than 6 | Pewter |
-| 6 to 11 | Silver |
-| All 12 | Gold |
+| 6 to 11      | Silver |
+| All 12       | Gold   |
 
 While people sit at the table, the pilgrims say grace now and then. They thank someone at the table by name for the family they brought home, if anyone there brought one home this year.
 
@@ -118,35 +118,32 @@ Spend your tally sticks with Elder Thornbury. Most rewards come in four Thanksgi
 
 A regular player who sails most nights earns enough over the season for one of the big rewards. Someone who sails for hours most days can take home two or three.
 
-| Reward | Tally sticks |
-|---|---|
-| Dye tub (3 uses, clothing only) | 120 |
-| Pilgrim cloak | 110 |
-| Ship stain | 70 |
-| Dragon dye | 70 |
-| Ship's banner | 45 |
-| Pilgrim's hat, pilgrim's bonnet | 25 each |
-| Autumn maple lantern | 25 |
-| Runebook dye | 15 |
-| Keepsakes: a Vesper toll ledger, a harvest basket, a Landfall pumpkin, a sheaf of Lost Lands wheat | 10 each |
+| Reward                                                                                             | Tally sticks |
+| -------------------------------------------------------------------------------------------------- | ------------ |
+| Dye tub (3 uses, clothing only)                                                                    | 120          |
+| Pilgrim cloak                                                                                      | 110          |
+| Ship stain                                                                                         | 70           |
+| Dragon dye                                                                                         | 70           |
+| Ship's banner                                                                                      | 45           |
+| Pilgrim's hat, pilgrim's bonnet                                                                    | 25 each      |
+| Autumn maple lantern                                                                               | 25           |
+| Runebook dye                                                                                       | 15           |
+| Keepsakes: a Vesper toll ledger, a harvest basket, a Landfall pumpkin, a sheaf of Lost Lands wheat | 10 each      |
 
 The cloak, hat and bonnet are blessed and can't be re-dyed.
-
-!!! note
-    You need the latest New Dawn client files to see the four Thanksgiving colors.
 
 ## Achievements
 
 Landfall has its own achievements under **PvM / Landfall**:
 
-| Achievement | How | Title |
-|---|---|---|
-| Ssalith Slayer, Kruuth Slayer, Gorrum Slayer I to III | Defeat that jailer in 1, 3 and 5 holds | |
-| Breaker of Chains | Defeat all three jailers | Chainbreaker |
-| Safe Harbor I to III | Bring 5, 30 and 100 pilgrims ashore | Homebringer (at III) |
-| Camp Hand I to III | Be thanked for 5, 12 and 24 pieces of camp work | Kinfinder (at III) |
-| A Seat at the Long Table | Sit at the long table during the Feast | Feastgoer |
-| Full Crew | Land a ship with three different people named in the register | |
+| Achievement                                           | How                                                           | Title                |
+| ----------------------------------------------------- | ------------------------------------------------------------- | -------------------- |
+| Ssalith Slayer, Kruuth Slayer, Gorrum Slayer I to III | Defeat that jailer in 1, 3 and 5 holds                        |                      |
+| Breaker of Chains                                     | Defeat all three jailers                                      | Chainbreaker         |
+| Safe Harbor I to III                                  | Bring 5, 30 and 100 pilgrims ashore                           | Homebringer (at III) |
+| Camp Hand I to III                                    | Be thanked for 5, 12 and 24 pieces of camp work               | Kinfinder (at III)   |
+| A Seat at the Long Table                              | Sit at the long table during the Feast                        | Feastgoer            |
+| Full Crew                                             | Land a ship with three different people named in the register |                      |
 
 There's also one hidden achievement. Only camp work that paid tally sticks counts toward Camp Hand.
 
@@ -157,7 +154,6 @@ There's also one hidden achievement. Only camp work that paid tally sticks count
 - The **Landfall stone** at the camp keeps a count of the souls brought ashore each year.
 - Pilgrims can't be hurt, and stand still on your deck until you reach the camp.
 - If your boat is dry-docked or sinks, or you don't reach the camp within an hour, the pilgrims row themselves ashore in a coracle. They still count for the camp, but nobody is paid.
-- Pilgrims don't survive a server restart. Any still on your deck row themselves ashore and count for the camp, but nobody is paid and their story is lost. Bring them home before the restart.
 
 ## Related pages
 

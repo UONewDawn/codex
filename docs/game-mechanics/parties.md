@@ -48,6 +48,7 @@ The Loot button always shows whether your party can actually loot your corpse.
 ## Fighting within a party
 
 - Attacking a party member or their pet doesn't flag you as a criminal
+- Pets and summons never attack a party member or their pets by themselves, even when a field or stray hit lands on them or on you. They only do it if you order `all kill` on that player
 - Party members still appear blue to each other, and you stay blue to everyone else
 - Killing a party member doesn't give a murder count
 

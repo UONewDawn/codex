@@ -1,5 +1,5 @@
 ---
-description: "New Dawn's Young Player Program: protection on Ocllo Island, three departures, a guided walk, Way Home, and the Ocllo Diary."
+description: "New Dawn's Young Player Program: protection on Ocllo Island, three departures, a guided walk, Way Home, the Ocllo Diary and the Settler's Ledger."
 ---
 
 # Young Player Program Guide
@@ -10,7 +10,7 @@ Off the island you are an ordinary Felucca adventurer. Leaving doesn't end the p
 
 ## Who Is Young
 
-- **Your first account is Young automatically.** It becomes Young when you make its first character, in whichever starting city you choose.
+- **Your first account is Young automatically.** It becomes Young when you make its first character. Young characters always start on Ocllo, whichever city you pick on the map.
 - **Extra accounts can opt in.** If you already have another account (accounts are matched by Discord), a new one starts as a normal account. You can join once, during its first **5 hours** of play, from the welcome screen or the `[young` menu.
 - **Transferred characters don't bring Young with them.**
 
@@ -22,12 +22,14 @@ Young is an account status, not a character one. Every character you make on a Y
 - **One set of departures.** The three departures are shared. Two characters don't get three each.
 - **One ending.** When Young ends on any character, by PvP, a murder count, the fourth departure or renouncing, it ends on every character on the account. The same goes for any one character reaching 450 total skill.
 
-When you first log in, a welcome screen offers two paths:
+When you first log in on your first account, a welcome screen shows what New Dawn adds to classic UO and opens your [Settler's Ledger](#the-settlers-ledger). From there you can choose your order, read the Young rules, start the [guided walk](#the-guided-walk) around Ocllo, or renounce Young if you'd rather go without it.
 
-- **Young** gives you the protection and leaves you to it.
-- **Young & Guided** adds a [guided walk](#the-guided-walk) around Ocllo.
+An extra account that can still opt in gets a different welcome, with two paths:
 
-You can start the walk later from `[young`, and reopen the welcome screen with `[YoungWelcome`. Veterans who want neither can renounce right there.
+- **Join Young** gives you the protection and leaves you to it.
+- **Join Young & Guided** adds the guided walk.
+
+You can start the walk later from `[young`, and reopen that screen with `[YoungWelcome`.
 
 ## When You Are Protected
 
@@ -93,6 +95,7 @@ Type `[young` at any time to see:
 - Guided walk controls: start, resume, stop, skip a stop
 - Way Home
 - Renounce, or Join if your extra account can still opt in
+- Your Settler's Ledger stamps, with a button to open the ledger. This stays even after Young ends
 
 ## Way Home
 
@@ -120,6 +123,31 @@ The diary tracks four first steps on Ocllo:
 4. Set foot in the sewer
 
 Finish all four to earn the title **Ocllo Graduate**.
+
+## The Settler's Ledger
+
+Your first account also opens a **Settler's Ledger**, a stamp card that rewards you for coming back. It's one ledger per person: your other accounts share it rather than getting their own.
+
+- **Stamps.** Your first login inks stamp 1. After that, each visit at least **18 hours** after your last stamp inks the next one, up to **14**. If you're still online when the 18 hours pass, the stamp comes while you play
+- **No streaks.** Missed days cost you nothing, and nothing expires. The next visit simply earns the next stamp
+- **Your order.** On your first day, open the ledger and choose a trade: **Swordsman**, **Mage**, **Crafter** or **Ranger**. The Ocllo quartermaster puts it together while you rest, and it arrives with stamp 2
+
+| Stamp | Gift |
+| --- | --- |
+| 2 | Your order (the kit for your trade), plus 2,000 gold, 100 bandages, reagents and food |
+| 3 | The title **Settler**, a blessed olive cloak and 1,500 gold |
+| 5 | A settler's globe engraved with your name and the month you settled |
+| 7 | A settler's lantern engraved the same way |
+| 10 | 1,500 gold |
+| 14 | The title **Homesteader** |
+
+Gifts go to your bank box, or your backpack if the bank is full. If both are full, the gift waits for your next visit. Titles are shared by all your characters: each one picks them up when it logs in.
+
+Double-click the ledger book, or type `[ledger`, to see your stamps, the time until the next one and the next gift. Single-clicking the book shows the same at a glance.
+
+If you haven't come back about a day after your first visit, the ledger may send you **one Discord message** to say your order is waiting, and one more later at most. You can turn these off in the ledger.
+
+Renouncing Young doesn't close your ledger. Only a newcomer's first account opens one, during its first day of play.
 
 ## The Ocllo Sewer
 

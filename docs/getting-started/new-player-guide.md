@@ -12,7 +12,7 @@ So, think of this guide as a handhold, not homework. Skim it, keep it open in a 
 
 !!! tip "The short version"
     1. [Install the game](on-windows.md), create your character, and log in.
-    2. Pick Ocllo as your starting town. Your first account is in the [Young Player Program](#the-young-player-program) automatically. If you started somewhere else, use Way Home from the `[young` menu to get to Ocllo.
+    2. Make your first character. Your first account is in the [Young Player Program](#the-young-player-program) automatically, and Young characters start on Ocllo. Open your Settler's Ledger and choose your order. It's waiting at the bank when you come back.
     3. Stay in Ocllo, train in the [sewers](#the-ocllo-sewer), and build toward the [Provo Dexxer](#picking-your-first-build-the-provo-dexxer).
 
 ## Getting New Dawn installed
@@ -61,7 +61,9 @@ If you're newer to the server, this is the first thing worth knowing about. It's
 
 Young belongs to the **account**, not the character. Every character you make on it is Young, the 120 hours count across all of them, and if Young ends on one character it ends on all of them.
 
-Your protection is active while you're on **Ocllo Island**. Joining doesn't move you there. If you started in another town, use Way Home from the `[young` menu.
+Your protection is active while you're on **Ocllo Island**, and Young characters start there. An extra account that opts in later isn't moved to Ocllo, so use Way Home from the `[young` menu.
+
+Your first account also gets a [Settler's Ledger](../custom-systems/young-program.md#the-settlers-ledger): come back at least 18 hours after your last visit to ink a stamp, with gifts at 2, 3, 5, 7, 10 and 14 stamps.
 
 **Here's what you get while you're protected on Ocllo:**
 
