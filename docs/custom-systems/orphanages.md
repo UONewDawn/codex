@@ -69,7 +69,7 @@ Each orphanage posts a supper menu every day: three dishes, sized to how many ch
 
 ## Finds
 
-Well-fed children have the energy to go poking around town, and now and then one of them turns up something for their favorite patron. While an orphanage is Content or better, your gifts have a small chance of a child running up to you with a find:
+Well-fed children have the energy to go poking around town, and now and then one of them turns up something for their favorite patron. While an orphanage is Content or better, every 100,000 gold you give has a small chance of a child running up to you with a find:
 
 - buttons, river stones, a robin's nest
 - toys, a bottle with a note inside
@@ -77,7 +77,7 @@ Well-fed children have the energy to go poking around town, and now and then one
 
 Each find is marked with the child who found it, their town and the date. There are a dozen kinds to collect.
 
-The children talk among themselves, so they'll try to bring you something you don't have yet. And a patron who keeps giving will never be forgotten for long.
+The children talk among themselves, so they'll try to bring you something you don't have yet. And a patron who keeps giving will never be forgotten for long: every gift counts, even to a hungry house, and once you've given an orphanage 1,500,000 gold without a find, your next gift there brings one for certain. You can get one find a day from each orphanage.
 
 ## Town standings
 
