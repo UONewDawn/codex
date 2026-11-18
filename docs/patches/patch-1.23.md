@@ -92,7 +92,6 @@ See [Pirate Adventures](../custom-systems/pirate-adventures.md#doubloons).
 - Target by Type on a creature no longer mixes it up with an item that has the same number. A llama used to show as "stone wall"
 - The Assistant window is fully solid at 100% opacity
 - Razor is updated to 1.10.2.0, which fixes a crash when reading some gumps
-- If you have graphics trouble on Windows, `force_driver` 3 or 4 in `settings.json` now forces Direct3D 11 or Direct3D 12
 
 ## 🎯 Damage Numbers
 
