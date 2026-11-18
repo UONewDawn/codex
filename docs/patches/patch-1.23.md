@@ -65,6 +65,7 @@ See [Astronomy](../custom-systems/astronomy.md#the-rules-of-the-sky).
 - Spend maple tally sticks on pilgrim cloaks, hats and bonnets, dye tubs, runebook and dragon dyes, ship banners and ship stains, in four new Thanksgiving colors: sage harvest, cranberry glaze, roasted chestnut and autumn maple. The cloak is 110 tally sticks and a dye tub 120. See [Landfall](../custom-systems/landfall.md#maple-tally-sticks)
 - **Between ships, no boat needed:** the pilgrims' lost belongings turn up on kills and catches all over Felucca. Return them to Elder Thornbury to add a line to that family's story. She also has **camp work**: carry a family's letter to the kin they came to find, in the town their story names. Camp work pays 2 maple tally sticks a piece, for up to 3 pieces a day. See [Landfall](../custom-systems/landfall.md#between-ships-camp-work)
 - New **PvM / Landfall** achievements for each jailer, for pilgrims brought ashore, for camp work and for the Feast, with the titles Chainbreaker, Homebringer, Kinfinder and Feastgoer
+- Every prize-ship crew member and jailer has its own **statuette** in the Thanksgiving colors, with a hidden collection achievement and title for each. Jailers drop theirs more often, and the statuette goes straight into the pack of someone who fought it
 
 See [Landfall](../custom-systems/landfall.md).
 
