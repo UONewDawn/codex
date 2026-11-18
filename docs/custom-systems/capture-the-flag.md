@@ -12,7 +12,17 @@ You can sign up in the Dawn Event Center, coordinates 5225, 387.
 
 The Dawn Event Center can be accessed by using any public moongate and selecting the upper right option.
 
-After both teams reach the arena minimum player requirement, the match will start after one minute.
+Capture the Flag is always open. Double-click either signup book to open the queue window. It shows the arena's state, both teams and how many more players each needs, the last match's result, your War Tokens earned today, and anything that would stop you entering.
+
+- Pick a team, or choose **Join either team** to go on the smaller side
+- A team can fill up to the arena minimum on its own, so friends can wait together. Past the minimum, a team can't get more than 1 player ahead of the other
+- When both teams are at the minimum and within 1 player of each other, the match launches after one minute. More players can still join during that minute. If someone leaves and the teams are no longer ready, it goes back to waiting
+- Then everyone queued gets a window asking to enter. Accept within one minute to be taken to the arena
+- Stay in the Dawn Event Center while you're queued and when you accept. Leaving it takes you out of the queue
+- You can only be queued for one battleground at a time, and only one of your accounts can be in CTF at once
+- Pets, a mount, or being dead stop you entering, so sort them out before the match starts
+- If players decline and the teams come out uneven, the most recent joiners are moved to the smaller team
+- If you disconnect during a match and come back before you're logged out, you rejoin your team
 
 ## Game rules
 
@@ -35,6 +45,7 @@ After both teams reach the arena minimum player requirement, the match will star
 - The game ends when one team has scored 3 captures, or after 20 minutes
 - After 20 minutes, the team with the most flag captures wins
 - If the teams have the same number of captures (tie) at the end of 20 minutes, the team with the most points will be declared the winner
+- If the teams also have the same number of points, the match is a draw and nobody wins
 
 ## Flag Mechanics
 
@@ -102,18 +113,30 @@ Both arenas are pirate-themed.
 
 Points are awarded to individual players throughout the match. Team victory is determined by captures, but individual points feed into War Token rewards and tiebreakers.
 
-| Action                                                                 | Points              |
-|------------------------------------------------------------------------|---------------------|
-| Capturing the enemy flag                                               | +5                  |
-| Returning your flag to base                                            | +4 _(60s cooldown)_ |
-| Killing the enemy flag carrier                                         | +4                  |
-| Base Raid - killing an enemy inside their own base                     | +3                  |
-| Defending - dying while actively fighting to protect your flag carrier | +2                  |
-| Defending (proximity) - dying near your flag carrier                   | +1                  |
-| Elimination - killing any enemy player                                 | +1                  |
+| Action                                                                                      | Points                |
+|---------------------------------------------------------------------------------------------|-----------------------|
+| Capturing the enemy flag                                                                    | +5                    |
+| Flag Relay - you carried the flag earlier and a teammate captured it                        | +2                    |
+| Escort - you were within 12 tiles of the teammate who captured                              | +2                    |
+| Team Capture - a teammate captured while you were elsewhere                                 | +1                    |
+| Stealing the enemy flag from their base                                                     | +2 _(60s cooldown)_   |
+| Returning your flag to base                                                                 | +4 _(60s cooldown)_   |
+| Elimination - killing an enemy player                                                       | +2                    |
+| Killing the enemy flag carrier                                                              | +4 more               |
+| Base Raid - killing an enemy inside their own base                                          | +2 more               |
+| Base Defense - the enemy died inside your base                                              | +2 more (+1 assisting) |
+| Carrier Escort - the enemy died near your team's flag carrier                               | +2 more (+1 assisting) |
+| Assist - you dealt 15+ damage to the enemy in the last 20 seconds                           | +1                    |
+| Flag Carrier Assist - the same, on the enemy flag carrier                                   | +3                    |
+| Heal Assist - you healed the killer or an assister in the last 20 seconds                   | +1                    |
+| Healing - a teammate under enemy fire                                                       | +1 per 40 HP restored |
+| Cure - a teammate under enemy fire                                                          | +1 _(20s cooldown)_   |
+| Guarding - every 15 seconds you stand near your own flag base while an enemy is there       | +1 _(up to 20)_       |
+
+The escort, team capture and guarding points only go to players who have fought, helped a teammate or scored in the last 90 seconds.
 
 !!! note
-    Flag steals are tracked as a stat but award no direct points on their own - the points come when you successfully capture.
+    Killing the same player again within 60 seconds gives no points, and neither does killing a disconnected player. Healing and cure points together are capped at 40 per match. Killing a teammate never gives points.
 
 ## War Tokens
 
@@ -121,9 +144,11 @@ War Tokens are the currency earned through CTF matches. They can be exchanged fo
 
 At the end of a game, tokens are awarded based on your individual points for that match:
 
-- Winners receive their total points plus a +5 win bonus
+- Winners who took part in the match receive their total points plus a +5 win bonus
 - Losers receive their total points only
-- There is a daily cap of 150 War Tokens per player - once hit, stats still record but no further tokens are awarded until the next day (Central Time)
+- A draw has no winner, so nobody gets the win bonus
+- A match cancelled before it begins pays nothing
+- There is a daily cap of 150 War Tokens from CTF per person, shared by all your accounts and characters - once hit, stats still record but no further tokens are awarded until the next day (Central Time)
 
 Check your balance at any time with the `[profile` command.
 

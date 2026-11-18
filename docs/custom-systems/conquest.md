@@ -111,7 +111,7 @@ At the end of a game, tokens are awarded based on your individual points for tha
 
 - Winners receive their total points plus a +5 win bonus
 - Losers receive their total points only
-- There is a daily cap of 150 War Tokens per player - once hit, stats still record but no further tokens are awarded until the next day (Central Time)
+- There is a daily cap of 150 War Tokens from Conquest per person, shared by all your accounts and characters and separate from the CTF cap - once hit, stats still record but no further tokens are awarded until the next day (Central Time)
 
 Check your balance at any time with the `[profile` command.
 

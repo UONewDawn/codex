@@ -79,3 +79,20 @@ See [Landfall](../custom-systems/landfall.md).
 - You still only see numbers for your own fights and your pets'. Nobody sees anyone else's, party members included
 
 See [Damage Numbers](../getting-started/damage-numbers.md).
+
+## 🏴‍☠️ Capture the Flag
+
+- Capture the Flag is now always open. Use either signup book in the Dawn Event Center at any time, no need to wait for staff to open it
+- A new queue window shows both teams, how many more players each one needs, the match in progress and the last result, your War Tokens earned today, and anything that would stop you entering when the match starts (pets, a mount, being dead)
+- Pick a team or choose "Join either team". A team can fill up to the arena minimum on its own, so friends can wait together. Past that, a team can't get more than 1 player ahead. A match starts once both teams are at the minimum and within 1 player of each other, and goes back to waiting if someone leaves during the last minute
+- Stay in the Dawn Event Center while you're queued and when you accept the match. You can no longer join or accept from somewhere else
+- You can only be queued for one battleground at a time
+- If you reconnect during a match you go back to your team instead of being sent out of the arena
+- The daily cap of 150 War Tokens from CTF, and the separate 150 from Conquest, is now per person, shared by all your accounts and characters
+- Killing the same player again within 60 seconds, or killing a disconnected player, gives no points. Healing and cure points are capped at 40 per match
+- Only players who took part in the match get the +5 win bonus and the win. A match tied on both captures and points is a draw with no winner
+- Flag Thief and Flag Defender progress now counts only when the steal or return gives points
+- A match that is cancelled before it begins (not enough players accepted) no longer counts as a win for anyone
+- Fewer Discord posts and chat reminders while you wait: a reminder every 2 minutes instead of every 10 seconds
+
+See [Capture the Flag](../custom-systems/capture-the-flag.md).
