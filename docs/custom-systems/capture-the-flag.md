@@ -44,7 +44,7 @@ Capture the Flag is always open. Double-click either signup book to open the que
 
 - The game ends when one team has scored 3 captures, or after 20 minutes
 - After 20 minutes, the team with the most flag captures wins
-- If the teams have the same number of captures (tie) at the end of 20 minutes, the team with the most points will be declared the winner
+- If the teams have the same number of captures (tie) at the end of 20 minutes, the team with the most points will be declared the winner. Captures and points from teammates who logged out still count
 - If the teams also have the same number of points, the match is a draw and nobody wins
 
 ## Flag Mechanics

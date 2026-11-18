@@ -110,5 +110,6 @@ See [Damage Numbers](../getting-started/damage-numbers.md).
 - The daily War Token caps (150 from CTF, 150 from Conquest) are now per person across all your accounts
 - Killing the same player again within 60 seconds, or a disconnected player, gives no points, and healing points are capped at 40 per match
 - Only players who took part get the win bonus. A match tied on captures and points is a draw
+- A teammate who logs out during a match no longer takes their captures or points away from your team. The tiebreaker used to count only the points of players still in the match
 
 See [Capture the Flag](../custom-systems/capture-the-flag.md).
