@@ -113,3 +113,10 @@ See [Damage Numbers](../getting-started/damage-numbers.md).
 - A teammate who logs out during a match no longer takes their captures or points away from your team. The tiebreaker used to count only the points of players still in the match
 
 See [Capture the Flag](../custom-systems/capture-the-flag.md).
+
+## 👶 Orphanages
+
+- Running an orphanage now costs 75,000 gold a day instead of 150,000, so every gift goes twice as far
+- Every gift now counts toward a sure find, even when the children are Struggling or Desperate. Give 1,500,000 gold to one orphanage without a find and your next gift there brings one. It used to take 3,000,000, and gifts to a hungry house didn't count
+
+See [Orphanages](../custom-systems/orphanages.md).
